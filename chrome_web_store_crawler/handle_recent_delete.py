@@ -111,7 +111,7 @@ def update_recent_file(recent_list):
     for i in old_file_list:
         if i not in recent_filename_list:
             # remove
-            os.remove(recent_file_path+'/'+i)
+            # os.remove(recent_file_path+'/'+i)
             print("remove",i)
 
 

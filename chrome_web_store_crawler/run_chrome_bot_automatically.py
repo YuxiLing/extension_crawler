@@ -245,7 +245,7 @@ while True:
 
     # find missed app
     print("Finding missed app....", file=open("log.txt", "a"))
-    handle_recent_delete.missed_potential_app(name_exported_file_after_running_bot,completed_count)
+    handle_recent_delete.missed_potential_app(name_exported_file_after_running_bot+'.json',completed_count)
     print("Updated missed.json and recent.json", file=open("log.txt", "a"))
     print("Updated /missed", file=open("log.txt", "a"))
 
