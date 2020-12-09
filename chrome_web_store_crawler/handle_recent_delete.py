@@ -12,6 +12,7 @@ import re
 import csv
 import os
 import shutil
+from urllib import request
 
 # find missed App 
 # exists in old_file, not in new_file
@@ -60,7 +61,11 @@ def handle_missed_file(missed_id):
     for item in missed_id:
         srcpath=recent_dir+'/'+item+'.crx'
         despath=missed_dir+'/'+item+'.crx'
-        shutil.move(srcpath,despath)
+        try:
+            shutil.move(srcpath,despath)
+        except Exception as e:
+            print("handle_missed_file: error occurs in moving files")
+            print(e)
 
 # get the dalta date list
 # input deltadays
@@ -90,13 +95,14 @@ def recent_release(new_file,delta):
 
 # update recent_release.json 
 def update_recent_list(recent_list):
-    list_path='chrome_web_store_crawler/chrome_web_store_crawler/chrome_data_analysis/tmpdata/recent_release1.json'
+    list_path='chrome_web_store_crawler/chrome_web_store_crawler/chrome_data_analysis/tmpdata/recent_release.json'
     with open(list_path,"w") as json_file:
         json.dump(recent_list,json_file)
 
 # download new file to the folder '/recent'
 def update_recent_file(recent_list):
-    recent_file_path='chrome_web_store_crawler/chrome_web_store_crawler/chrome_data_analysis/tmpdata/recent'
+    recent_file_path='chrome_web_store_crawler/chrome_web_store_crawler/chrome_data_analysis/tmpdata/recent/'
+    empty_file_path='chrome_web_store_crawler/chrome_web_store_crawler/chrome_data_analysis/tmpdata/empty_file.json'
     old_file_list=os.listdir(recent_file_path)
     recent_filename_list=[]
     for i in recent_list:
@@ -105,14 +111,35 @@ def update_recent_file(recent_list):
         recent_filename_list.append(filename)
         if filename not in old_file_list:
             # need to download by id
-            print("douwnload a new file")
+            dwl_url='https://clients2.google.com/service/update2/crx?response=redirect&prodversion=49.0&x=id=%s&installsource=ondemand&uc' % id
+            try:
+                req = request.Request(dwl_url)
+                res = request.urlopen(req)
+                get_file=res.read()
+                if len(get_file)==0:
+                    print('the file is empty')
+                    tmp_list=[]
+                    if 0!=os.path.getsize(empty_file_path):
+                        with open(empty_file_path,"r") as json_file:
+                            tmp_list=json.load(json_file)
+                    tmp_list.append(i)
+                    with open(empty_file_path,"w") as json_file:
+                        json.dump(tmp_list,json_file)
+                else:
+                    with open(recent_file_path+filename,'wb')as f:
+                        f.write(get_file)
+                        print('download success')
+            except Exception as e:
+                print("error occurs")
+                print(e)
     
     # remove useless file
-    for i in old_file_list:
-        if i not in recent_filename_list:
-            # remove
-            # os.remove(recent_file_path+'/'+i)
-            print("remove",i)
+    # not remove this time
+    # for i in old_file_list:
+    #     if i not in recent_filename_list:
+    #         # remove
+    #         # os.remove(recent_file_path+'/'+i)
+    #         print("remove",i)
 
 
 def missed_potential_app(new_file,count):
@@ -130,7 +157,10 @@ def missed_potential_app(new_file,count):
     update_recent_list(recent_list)
     update_recent_file(recent_list)
 
-# old_file='/chrome_web_store_crawler/chrome_web_store_crawler/chrome_data_analysis/tmpdata/chrome_ext_data-time_[0].json'
-# new_file='chrome_web_store_crawler/chrome_web_store_crawler/chrome_data_analysis/tmpdata/chrome_ext_data-time_[0]_new.json'
-# recent_file='chrome_web_store_crawler/chrome_web_store_crawler/chrome_data_analysis/tmpdata/recent_release.json'
-
+old_file='/chrome_web_store_crawler/chrome_web_store_crawler/chrome_data_analysis/tmpdata/chrome_ext_data-time_[0].json'
+new_file='chrome_web_store_crawler/chrome_web_store_crawler/chrome_data_analysis/tmpdata/chrome_ext_data-time_[0]_new.json'
+recent_file='chrome_web_store_crawler/chrome_web_store_crawler/chrome_data_analysis/tmpdata/recent_release.json'
+recent_list=recent_release(new_file,20)
+print(recent_list)
+update_recent_list(recent_list)
+update_recent_file(recent_list)
