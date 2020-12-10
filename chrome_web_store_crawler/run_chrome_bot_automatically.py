@@ -9,7 +9,7 @@ import sys
 import json
 # from datetime import datetime
 import dateutil.parser as dparser
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 import re
 import csv
 
@@ -212,7 +212,8 @@ while True:
     ######RUN-BOT
     # run scrapy through command line
     # print to std out the result for debugging comment this if you want.
-    result = subprocess.run(['scrapy', 'crawl', 'chrome_extensions', '-a','ExportFile='+name_exported_file ], stdout=subprocess.PIPE)
+    
+    #result = subprocess.run(['scrapy', 'crawl', 'chrome_extensions', '-a','ExportFile='+name_exported_file ], stdout=subprocess.PIPE)
     
     # os.system('scrapy crawl chrome_extensions \'%s\'' % name_exported_file)
     
@@ -245,7 +246,8 @@ while True:
 
     # find missed app
     print("Finding missed app....", file=open("log.txt", "a"))
-    handle_recent_delete.missed_potential_app(name_exported_file_after_running_bot+'.json',completed_count)
+    # handle_recent_delete.missed_potential_app(name_exported_file_after_running_bot+'.json',completed_count)
+    handle_recent_delete.missed_all_app(name_exported_file_after_running_bot_csv,completed_count)
     print("Updated missed.json and recent.json", file=open("log.txt", "a"))
     print("Updated /missed", file=open("log.txt", "a"))
 
@@ -255,6 +257,7 @@ while True:
     print("Finished the WHOLE process at", datetime.datetime.now(), file=open("log.txt", "a"))
     #print("Started to wait 8 hours at", datetime.datetime.now(), file=open("log.txt", "a"))
     time.sleep(28800) #sleep for 8 hour then repeat
+    
     # print a newline between each time after running bot.
     print("+++++++++++++++++++++++++++++++++++++++++++++++++\n", file=open("log.txt", "a"))
 

@@ -1,1 +1,1682 @@
-[]
+[
+    {
+        "platform": "chrome",
+        "id": "kbedblbpfmeicfpadihimgombbafaeeh",
+        "key": "keeper\u00ae-password-manager",
+        "name": "Keeper\u00ae Password Manager & Digital Vault",
+        "rating": 4.5,
+        "user_numbers": "30,000",
+        "creator": "Keeper Security",
+        "last_updated": "2020-12-04 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "nkbihfbeogaeaoehlefnkodbefgpgknn",
+        "key": "metamask",
+        "name": "MetaMask",
+        "rating": 3.8989955357142856,
+        "user_numbers": "1,000",
+        "creator": "metamask",
+        "last_updated": "2020-12-08 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "nngceckbapebfimnlniiiahkandclblb",
+        "key": "bitwarden-free-password-m",
+        "name": "Bitwarden - Free Password Manager",
+        "rating": 4.841,
+        "user_numbers": "700,000",
+        "creator": "Bitwarden Inc.",
+        "last_updated": "2020-12-02 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jbdaocneiiinmjbjlgalhcelgbejmnid",
+        "key": "nifty-wallet",
+        "name": "Nifty Wallet",
+        "rating": 4.7727272727272725,
+        "user_numbers": "3,000",
+        "creator": "POA Network",
+        "last_updated": "2020-12-04 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jbdaocneiiinmjbjlgalhcelgbejmnid",
+        "key": "nifty-wallet",
+        "name": "Nifty Wallet",
+        "rating": 4.7727272727272725,
+        "user_numbers": "3,000",
+        "creator": "POA Network",
+        "last_updated": "2020-12-04 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "aiifbnbfobpmeekipheeijimdpnlpgpp",
+        "key": "terra-station",
+        "name": "Terra Station",
+        "rating": 5.0,
+        "user_numbers": "1,000",
+        "creator": "Terra",
+        "last_updated": "2020-12-03 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "iopigoikekfcpcapjlkcdlokheickhpc",
+        "key": "aergo-connect",
+        "name": "Aergo Connect",
+        "rating": 5.0,
+        "user_numbers": "678",
+        "creator": "Aergo",
+        "last_updated": "2020-11-21 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "bgknjmoaadjalpimgfpnmpmhigijbpja",
+        "key": "1000-piece-puzzles-daily",
+        "name": "1000 piece puzzles, daily hyper casual game",
+        "rating": 0.0,
+        "user_numbers": "7,000",
+        "creator": "Best Extensions",
+        "last_updated": "2020-11-22 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "kgljamiagfgcjpbiaflbcpnofpdafidf",
+        "key": "1000-piece-jigsaw-puzzles",
+        "name": "1000 piece jigsaw puzzles, hyper casual game",
+        "rating": 0.0,
+        "user_numbers": "7,000",
+        "creator": "Best Extensions",
+        "last_updated": "2020-11-22 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "aejfaealdooggojhnfhinfpgdfniebal",
+        "key": "free-jigsaw-puzzles-daily",
+        "name": "free jigsaw puzzles, daily hyper casual game",
+        "rating": 0.0,
+        "user_numbers": "7,000",
+        "creator": "Best Extensions",
+        "last_updated": "2020-11-23 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "hndapaaekafamcpdnobfmanobakffhif",
+        "key": "free-online-jigsaw-puzzle",
+        "name": "free online jigsaw puzzles, hyper casual game",
+        "rating": 0.0,
+        "user_numbers": "4,000",
+        "creator": "Best Extensions",
+        "last_updated": "2020-11-29 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "odcmjhigdnmhgfnlicglokhdcciljgbb",
+        "key": "daily-jigsaw-puzzle-hyper",
+        "name": "daily jigsaw puzzle, hyper casual game",
+        "rating": 0.0,
+        "user_numbers": "4,000",
+        "creator": "Best Extensions",
+        "last_updated": "2020-11-29 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "odphdhgmjiegkdkkfgnhkeinmknnpaki",
+        "key": "bits-and-pieces-puzzles-d",
+        "name": "bits and pieces puzzles, daily casual game",
+        "rating": 0.0,
+        "user_numbers": "4,000",
+        "creator": "Best Extensions",
+        "last_updated": "2020-11-27 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "nkbihfbeogaeaoehlefnkodbefgpgknn",
+        "key": "metamask",
+        "name": "MetaMask",
+        "rating": 3.8989955357142856,
+        "user_numbers": "1,000",
+        "creator": "metamask",
+        "last_updated": "2020-12-08 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jbdaocneiiinmjbjlgalhcelgbejmnid",
+        "key": "nifty-wallet",
+        "name": "Nifty Wallet",
+        "rating": 4.7727272727272725,
+        "user_numbers": "3,000",
+        "creator": "POA Network",
+        "last_updated": "2020-12-04 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "afbcbjpbpfadlkmhmclhkeeodmamcflc",
+        "key": "math-wallet",
+        "name": "Math Wallet",
+        "rating": 4.5,
+        "user_numbers": "10,000",
+        "creator": "Math Global",
+        "last_updated": "2020-11-25 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "kpfopkelmapcoipemfendmdcghnegimn",
+        "key": "liquality-wallet",
+        "name": "Liquality Wallet",
+        "rating": 5.0,
+        "user_numbers": "852",
+        "creator": "Liquality",
+        "last_updated": "2020-12-07 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "omnkcjdohbnjfjmlaiboojplahajnenj",
+        "key": "wanmask",
+        "name": "WanMask",
+        "rating": 5.0,
+        "user_numbers": "870",
+        "creator": "wanmask",
+        "last_updated": "2020-11-30 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "oggbildghlaglfmmpekjgejajohilbmm",
+        "key": "huobi-eco-chain-wallet",
+        "name": "Huobi Eco Chain Wallet",
+        "rating": 5.0,
+        "user_numbers": "7",
+        "creator": "Huobi Blockchain",
+        "last_updated": "2020-12-02 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "fhbohimaelbohpjbbldcngcnapndodjp",
+        "key": "binance-chain-wallet",
+        "name": "Binance Chain Wallet",
+        "rating": 3.9047619047619047,
+        "user_numbers": "20,000",
+        "creator": "Binance Chain",
+        "last_updated": "2020-12-01 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "loaljdkanlgipgdlmgijfodcaggiikjo",
+        "key": "quick-ant",
+        "name": "Quick Ant",
+        "rating": 4.2682926829268295,
+        "user_numbers": "1,000",
+        "creator": "quickant00",
+        "last_updated": "2020-11-29 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "lekfgahkjfpgjmpbbppdllkamcjdjgfm",
+        "key": "quick-ant-ext",
+        "name": "Quick Ant Ext",
+        "rating": 3.5,
+        "user_numbers": "395",
+        "creator": "quickant00",
+        "last_updated": "2020-11-29 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "bpkamndinncffcjnhbafficofhclnnde",
+        "key": "tvextbot-for-\u6697\u53f7\u901a\u8ca8",
+        "name": "TVExtBot for \u6697\u53f7\u901a\u8ca8",
+        "rating": 0.0,
+        "user_numbers": "25",
+        "creator": "bk.son",
+        "last_updated": "2020-12-05 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jbdaocneiiinmjbjlgalhcelgbejmnid",
+        "key": "nifty-wallet",
+        "name": "Nifty Wallet",
+        "rating": 4.7727272727272725,
+        "user_numbers": "3,000",
+        "creator": "POA Network",
+        "last_updated": "2020-12-04 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "ojdajiedkmmmchkdpceanekpmdmnohhe",
+        "key": "\ub2e8\ud0c0\uc758-\uc2e0-for-\uc5c5\ube44\ud2b8-\ube57\uc378-\ubc14\uc774\ub0b8\uc2a4-\ube44\ud2b8\ub9e5",
+        "name": "\ub2e8\ud0c0\uc758 \uc2e0 for \uc5c5\ube44\ud2b8, \ube57\uc378, \ubc14\uc774\ub0b8\uc2a4, \ube44\ud2b8\ub9e5\uc2a4",
+        "rating": 4.923076923076923,
+        "user_numbers": "1,000",
+        "creator": "dscoin",
+        "last_updated": "2020-11-29 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jlbkpppjbkmkjjemjcofmccodofkknmc",
+        "key": "cryptocurrency-prices-cha",
+        "name": "Cryptocurrency Prices & Charts - BitDuck",
+        "rating": 5.0,
+        "user_numbers": "120",
+        "creator": "CrisValls",
+        "last_updated": "2020-12-04 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "mfiddnlhlmehcbpkhgljjchnjmlkanje",
+        "key": "bitcoin-price",
+        "name": "Bitcoin Price",
+        "rating": 5.0,
+        "user_numbers": "2",
+        "creator": "hubbion.com",
+        "last_updated": "2020-11-28 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "loaljdkanlgipgdlmgijfodcaggiikjo",
+        "key": "quick-ant",
+        "name": "Quick Ant",
+        "rating": 4.2682926829268295,
+        "user_numbers": "1,000",
+        "creator": "quickant00",
+        "last_updated": "2020-11-29 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "lekfgahkjfpgjmpbbppdllkamcjdjgfm",
+        "key": "quick-ant-ext",
+        "name": "Quick Ant Ext",
+        "rating": 3.5,
+        "user_numbers": "395",
+        "creator": "quickant00",
+        "last_updated": "2020-11-29 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "ojdajiedkmmmchkdpceanekpmdmnohhe",
+        "key": "\ub2e8\ud0c0\uc758-\uc2e0-for-\uc5c5\ube44\ud2b8-\ube57\uc378-\ubc14\uc774\ub0b8\uc2a4-\ube44\ud2b8\ub9e5",
+        "name": "\ub2e8\ud0c0\uc758 \uc2e0 for \uc5c5\ube44\ud2b8, \ube57\uc378, \ubc14\uc774\ub0b8\uc2a4, \ube44\ud2b8\ub9e5\uc2a4",
+        "rating": 4.923076923076923,
+        "user_numbers": "1,000",
+        "creator": "dscoin",
+        "last_updated": "2020-11-29 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "ljjeeiafelmogjhklanhkbkodcmgdchn",
+        "key": "bitcoin-samba-\u4fa1\u683c\u76e3\u8996\u30c4\u30fc\u30eb",
+        "name": "Bitcoin Samba \u4fa1\u683c\u76e3\u8996\u30c4\u30fc\u30eb",
+        "rating": 0.0,
+        "user_numbers": "0",
+        "creator": "Kanta Yamaoka",
+        "last_updated": "2020-11-29 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "loaljdkanlgipgdlmgijfodcaggiikjo",
+        "key": "quick-ant",
+        "name": "Quick Ant",
+        "rating": 4.2682926829268295,
+        "user_numbers": "1,000",
+        "creator": "quickant00",
+        "last_updated": "2020-11-29 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "lekfgahkjfpgjmpbbppdllkamcjdjgfm",
+        "key": "quick-ant-ext",
+        "name": "Quick Ant Ext",
+        "rating": 3.5,
+        "user_numbers": "395",
+        "creator": "quickant00",
+        "last_updated": "2020-11-29 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "lleoahfonbeenjhjlkpmilmeengknlnp",
+        "key": "jstbuy-hide-upbit-sell-bu",
+        "name": "JSTbuy - Hide upbit sell button",
+        "rating": 0.0,
+        "user_numbers": "0",
+        "creator": "limebear",
+        "last_updated": "2020-11-24 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "ojdajiedkmmmchkdpceanekpmdmnohhe",
+        "key": "\ub2e8\ud0c0\uc758-\uc2e0-for-\uc5c5\ube44\ud2b8-\ube57\uc378-\ubc14\uc774\ub0b8\uc2a4-\ube44\ud2b8\ub9e5",
+        "name": "\ub2e8\ud0c0\uc758 \uc2e0 for \uc5c5\ube44\ud2b8, \ube57\uc378, \ubc14\uc774\ub0b8\uc2a4, \ube44\ud2b8\ub9e5\uc2a4",
+        "rating": 4.923076923076923,
+        "user_numbers": "1,000",
+        "creator": "dscoin",
+        "last_updated": "2020-11-29 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "bpkamndinncffcjnhbafficofhclnnde",
+        "key": "tvextbot-for-\u6697\u53f7\u901a\u8ca8",
+        "name": "TVExtBot for \u6697\u53f7\u901a\u8ca8",
+        "rating": 0.0,
+        "user_numbers": "25",
+        "creator": "bk.son",
+        "last_updated": "2020-12-05 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "bpkamndinncffcjnhbafficofhclnnde",
+        "key": "tvextbot-for-\u6697\u53f7\u901a\u8ca8",
+        "name": "TVExtBot for \u6697\u53f7\u901a\u8ca8",
+        "rating": 0.0,
+        "user_numbers": "25",
+        "creator": "bk.son",
+        "last_updated": "2020-12-05 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jlbkpppjbkmkjjemjcofmccodofkknmc",
+        "key": "cryptocurrency-prices-cha",
+        "name": "Cryptocurrency Prices & Charts - BitDuck",
+        "rating": 5.0,
+        "user_numbers": "120",
+        "creator": "CrisValls",
+        "last_updated": "2020-12-04 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "bpkdafnlpplmkgimfmdgbdhfacinddcl",
+        "key": "pdanet+-apk-downloadlates",
+        "name": "PdaNet+ Apk Download[Latest Version v5.23]",
+        "rating": 0.0,
+        "user_numbers": "0",
+        "creator": "ankitsharma.amb",
+        "last_updated": "2020-12-08 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "fhhkkooikehnkaodebbfnkinedlllcfk",
+        "key": "blockchair",
+        "name": "Blockchair",
+        "rating": 5.0,
+        "user_numbers": "259",
+        "creator": "Blockchair",
+        "last_updated": "2020-11-24 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jlbkpppjbkmkjjemjcofmccodofkknmc",
+        "key": "cryptocurrency-prices-cha",
+        "name": "Cryptocurrency Prices & Charts - BitDuck",
+        "rating": 5.0,
+        "user_numbers": "120",
+        "creator": "CrisValls",
+        "last_updated": "2020-12-04 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jidcpnlofnkabamidadccjngakmpbdcc",
+        "key": "finder-for-tinder",
+        "name": "Finder for Tinder",
+        "rating": 0.0,
+        "user_numbers": "1",
+        "creator": "davidgaroro",
+        "last_updated": "2020-12-05 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jlbkpppjbkmkjjemjcofmccodofkknmc",
+        "key": "cryptocurrency-prices-cha",
+        "name": "Cryptocurrency Prices & Charts - BitDuck",
+        "rating": 5.0,
+        "user_numbers": "120",
+        "creator": "CrisValls",
+        "last_updated": "2020-12-04 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "gfchpofllbnjfhgmjbgmhljdpolcjing",
+        "key": "mraddon-blockchain-viewer",
+        "name": "MrAddon BlockChain Viewer for Chrome",
+        "rating": 0.0,
+        "user_numbers": "24",
+        "creator": "MrAddon \u00ae",
+        "last_updated": "2020-11-24 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "mhhgjpidhclpobhkdnlopdfhfamalnia",
+        "key": "stormx-shop-earn-crypto",
+        "name": "StormX: Shop & Earn Crypto",
+        "rating": 5.0,
+        "user_numbers": "3,000",
+        "creator": "StormX Singapore PTE. LTD.",
+        "last_updated": "2020-11-23 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "fhhkkooikehnkaodebbfnkinedlllcfk",
+        "key": "blockchair",
+        "name": "Blockchair",
+        "rating": 5.0,
+        "user_numbers": "259",
+        "creator": "Blockchair",
+        "last_updated": "2020-11-24 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "mfiddnlhlmehcbpkhgljjchnjmlkanje",
+        "key": "bitcoin-price",
+        "name": "Bitcoin Price",
+        "rating": 5.0,
+        "user_numbers": "2",
+        "creator": "hubbion.com",
+        "last_updated": "2020-11-28 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jidcpnlofnkabamidadccjngakmpbdcc",
+        "key": "finder-for-tinder",
+        "name": "Finder for Tinder",
+        "rating": 0.0,
+        "user_numbers": "1",
+        "creator": "davidgaroro",
+        "last_updated": "2020-12-05 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "nkbihfbeogaeaoehlefnkodbefgpgknn",
+        "key": "metamask",
+        "name": "MetaMask",
+        "rating": 3.8989955357142856,
+        "user_numbers": "1,000",
+        "creator": "metamask",
+        "last_updated": "2020-12-08 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jbdaocneiiinmjbjlgalhcelgbejmnid",
+        "key": "nifty-wallet",
+        "name": "Nifty Wallet",
+        "rating": 4.7727272727272725,
+        "user_numbers": "3,000",
+        "creator": "POA Network",
+        "last_updated": "2020-12-04 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "mhhgjpidhclpobhkdnlopdfhfamalnia",
+        "key": "stormx-shop-earn-crypto",
+        "name": "StormX: Shop & Earn Crypto",
+        "rating": 5.0,
+        "user_numbers": "3,000",
+        "creator": "StormX Singapore PTE. LTD.",
+        "last_updated": "2020-11-23 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "fhbohimaelbohpjbbldcngcnapndodjp",
+        "key": "binance-chain-wallet",
+        "name": "Binance Chain Wallet",
+        "rating": 3.9047619047619047,
+        "user_numbers": "20,000",
+        "creator": "Binance Chain",
+        "last_updated": "2020-12-01 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "afgfdkloegmghldbalmenklokhlifphe",
+        "key": "defi-saver-gas-prices-ext",
+        "name": "DeFi Saver Gas Prices Extension",
+        "rating": 5.0,
+        "user_numbers": "358",
+        "creator": "DeFi Saver",
+        "last_updated": "2020-12-05 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "fhhkkooikehnkaodebbfnkinedlllcfk",
+        "key": "blockchair",
+        "name": "Blockchair",
+        "rating": 5.0,
+        "user_numbers": "259",
+        "creator": "Blockchair",
+        "last_updated": "2020-11-24 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jlbkpppjbkmkjjemjcofmccodofkknmc",
+        "key": "cryptocurrency-prices-cha",
+        "name": "Cryptocurrency Prices & Charts - BitDuck",
+        "rating": 5.0,
+        "user_numbers": "120",
+        "creator": "CrisValls",
+        "last_updated": "2020-12-04 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "gfchpofllbnjfhgmjbgmhljdpolcjing",
+        "key": "mraddon-blockchain-viewer",
+        "name": "MrAddon BlockChain Viewer for Chrome",
+        "rating": 0.0,
+        "user_numbers": "24",
+        "creator": "MrAddon \u00ae",
+        "last_updated": "2020-11-24 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "llpbjcejemjfaicajiephoejjnogfbed",
+        "key": "bitcoin-tab",
+        "name": "Bitcoin Tab",
+        "rating": 0.0,
+        "user_numbers": "8",
+        "creator": "Bitcoin Tab",
+        "last_updated": "2020-11-29 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "ijpmihhlfkkfeimocndobeghgdggkail",
+        "key": "adsbitcoinio-get-bitcoins",
+        "name": "adsbitcoin.io - Get Bitcoins in a second.",
+        "rating": 3.8214285714285716,
+        "user_numbers": "10,000",
+        "creator": "adsbitcoin.io",
+        "last_updated": "2020-12-02 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "mhhgjpidhclpobhkdnlopdfhfamalnia",
+        "key": "stormx-shop-earn-crypto",
+        "name": "StormX: Shop & Earn Crypto",
+        "rating": 5.0,
+        "user_numbers": "3,000",
+        "creator": "StormX Singapore PTE. LTD.",
+        "last_updated": "2020-11-23 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jlbkpppjbkmkjjemjcofmccodofkknmc",
+        "key": "cryptocurrency-prices-cha",
+        "name": "Cryptocurrency Prices & Charts - BitDuck",
+        "rating": 5.0,
+        "user_numbers": "120",
+        "creator": "CrisValls",
+        "last_updated": "2020-12-04 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "mfiddnlhlmehcbpkhgljjchnjmlkanje",
+        "key": "bitcoin-price",
+        "name": "Bitcoin Price",
+        "rating": 5.0,
+        "user_numbers": "2",
+        "creator": "hubbion.com",
+        "last_updated": "2020-11-28 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "gpfndedineagiepkpinficbcbbgjoenn",
+        "key": "beacon-extension",
+        "name": "Beacon Extension",
+        "rating": 5.0,
+        "user_numbers": "268",
+        "creator": "Papers.ch Development",
+        "last_updated": "2020-12-01 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "ookjlbkiijinhpmnjffcofjonbfbgaoc",
+        "key": "thanos-wallet",
+        "name": "Thanos Wallet",
+        "rating": 5.0,
+        "user_numbers": "859",
+        "creator": "Madfish Solutions",
+        "last_updated": "2020-11-24 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jlbkpppjbkmkjjemjcofmccodofkknmc",
+        "key": "cryptocurrency-prices-cha",
+        "name": "Cryptocurrency Prices & Charts - BitDuck",
+        "rating": 5.0,
+        "user_numbers": "120",
+        "creator": "CrisValls",
+        "last_updated": "2020-12-04 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jbdaocneiiinmjbjlgalhcelgbejmnid",
+        "key": "nifty-wallet",
+        "name": "Nifty Wallet",
+        "rating": 4.7727272727272725,
+        "user_numbers": "3,000",
+        "creator": "POA Network",
+        "last_updated": "2020-12-04 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "dmkamcknogkgcdfhhbddcghachkejeap",
+        "key": "keplr",
+        "name": "Keplr",
+        "rating": 5.0,
+        "user_numbers": "3,000",
+        "creator": "keplr",
+        "last_updated": "2020-12-04 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jidcpnlofnkabamidadccjngakmpbdcc",
+        "key": "finder-for-tinder",
+        "name": "Finder for Tinder",
+        "rating": 0.0,
+        "user_numbers": "1",
+        "creator": "davidgaroro",
+        "last_updated": "2020-12-05 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "padjipbilemhhpppjmkabednoeiaaaac",
+        "key": "audio-capture",
+        "name": "Audio Capture",
+        "rating": 5.0,
+        "user_numbers": "100,000",
+        "creator": "Audio Capture",
+        "last_updated": "2020-11-21 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jcacnejopjdphbnjgfaaobbfafkihpep",
+        "key": "hive-keychain",
+        "name": "Hive Keychain",
+        "rating": 4.555555555555555,
+        "user_numbers": "8,000",
+        "creator": "Matt Rosen (@yabapmatt)",
+        "last_updated": "2020-11-29 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "pepgdkiflaefcmpogbpjpckbbddbjamc",
+        "key": "hivetips",
+        "name": "hivetips",
+        "rating": 5.0,
+        "user_numbers": "198",
+        "creator": "altyesdev",
+        "last_updated": "2020-11-27 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "ecblfcmjnbbgaojblcpmjoamegpbodhd",
+        "key": "sp-editor",
+        "name": "SP Editor",
+        "rating": 4.844444444444444,
+        "user_numbers": "10,000",
+        "creator": "Tomi Tavela",
+        "last_updated": "2020-12-02 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "bcapgnidkjmolmgddhckjbhkmneljeol",
+        "key": "monaco-editor",
+        "name": "Monaco Editor",
+        "rating": 0.0,
+        "user_numbers": "0",
+        "creator": "jorenm",
+        "last_updated": "2020-12-02 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "nljcdkjpjnhlilgepggmmagnmebhadnk",
+        "key": "website-seo-checker-free",
+        "name": "Website SEO Checker: Free Audit & Analysis",
+        "rating": 4.21875,
+        "user_numbers": "30,000",
+        "creator": "Boosta",
+        "last_updated": "2020-12-01 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "gfenldnjepdhoilkoiakmellcncecmpo",
+        "key": "sitespect-code-editor",
+        "name": "SiteSpect Code editor",
+        "rating": 0.0,
+        "user_numbers": "11",
+        "creator": "SiteSpect Europe",
+        "last_updated": "2020-12-01 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "mbblfalbndfkpfnlimjnaooandenimpj",
+        "key": "tipster",
+        "name": "Tipster",
+        "rating": 5.0,
+        "user_numbers": "48",
+        "creator": "Bram Borggreve (beeman)",
+        "last_updated": "2020-11-22 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "adfnjoodbdcoikkhallnfejjokefkkbd",
+        "key": "v-wallet-extension",
+        "name": "V Wallet Extension",
+        "rating": 5.0,
+        "user_numbers": "20",
+        "creator": "V Systems",
+        "last_updated": "2020-12-03 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "cecnfapbjmhpdclpafgkhloldnlempfp",
+        "key": "gorira-webpage-screenshot",
+        "name": "Gorira: Webpage Screenshot for Jira",
+        "rating": 0.0,
+        "user_numbers": "99",
+        "creator": "gregory.besson",
+        "last_updated": "2020-12-07 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "nkbihfbeogaeaoehlefnkodbefgpgknn",
+        "key": "metamask",
+        "name": "MetaMask",
+        "rating": 3.8989955357142856,
+        "user_numbers": "1,000",
+        "creator": "metamask",
+        "last_updated": "2020-12-08 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jbdaocneiiinmjbjlgalhcelgbejmnid",
+        "key": "nifty-wallet",
+        "name": "Nifty Wallet",
+        "rating": 4.7727272727272725,
+        "user_numbers": "3,000",
+        "creator": "POA Network",
+        "last_updated": "2020-12-04 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jidcpnlofnkabamidadccjngakmpbdcc",
+        "key": "finder-for-tinder",
+        "name": "Finder for Tinder",
+        "rating": 0.0,
+        "user_numbers": "1",
+        "creator": "davidgaroro",
+        "last_updated": "2020-12-05 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "ohianjicfacccnnokflclpcojfiecaib",
+        "key": "samourai-wallet",
+        "name": "Samourai Wallet",
+        "rating": 0.0,
+        "user_numbers": "1",
+        "creator": "Streetside Development",
+        "last_updated": "2020-11-21 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "blbeajekbphoogbcoomlkenjbklkoofc",
+        "key": "multifile-converter",
+        "name": "MultiFile Converter",
+        "rating": 5.0,
+        "user_numbers": "1,000",
+        "creator": "cws@blackrockinteractive.com",
+        "last_updated": "2020-12-03 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "nofklnljmpiglakhokoighdnhjkppblh",
+        "key": "library-genesis-updated-g",
+        "name": "Library Genesis Updated Guide",
+        "rating": 0.0,
+        "user_numbers": "0",
+        "creator": "harsh",
+        "last_updated": "2020-12-06 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jidcpnlofnkabamidadccjngakmpbdcc",
+        "key": "finder-for-tinder",
+        "name": "Finder for Tinder",
+        "rating": 0.0,
+        "user_numbers": "1",
+        "creator": "davidgaroro",
+        "last_updated": "2020-12-05 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "kbedblbpfmeicfpadihimgombbafaeeh",
+        "key": "keeper\u00ae-password-manager",
+        "name": "Keeper\u00ae Password Manager & Digital Vault",
+        "rating": 4.5,
+        "user_numbers": "30,000",
+        "creator": "Keeper Security",
+        "last_updated": "2020-12-04 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "nkbihfbeogaeaoehlefnkodbefgpgknn",
+        "key": "metamask",
+        "name": "MetaMask",
+        "rating": 3.8989955357142856,
+        "user_numbers": "1,000",
+        "creator": "metamask",
+        "last_updated": "2020-12-08 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "nngceckbapebfimnlniiiahkandclblb",
+        "key": "bitwarden-free-password-m",
+        "name": "Bitwarden - Free Password Manager",
+        "rating": 4.841,
+        "user_numbers": "700,000",
+        "creator": "Bitwarden Inc.",
+        "last_updated": "2020-12-02 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jbdaocneiiinmjbjlgalhcelgbejmnid",
+        "key": "nifty-wallet",
+        "name": "Nifty Wallet",
+        "rating": 4.7727272727272725,
+        "user_numbers": "3,000",
+        "creator": "POA Network",
+        "last_updated": "2020-12-04 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jbdaocneiiinmjbjlgalhcelgbejmnid",
+        "key": "nifty-wallet",
+        "name": "Nifty Wallet",
+        "rating": 4.7727272727272725,
+        "user_numbers": "3,000",
+        "creator": "POA Network",
+        "last_updated": "2020-12-04 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "aiifbnbfobpmeekipheeijimdpnlpgpp",
+        "key": "terra-station",
+        "name": "Terra Station",
+        "rating": 5.0,
+        "user_numbers": "1,000",
+        "creator": "Terra",
+        "last_updated": "2020-12-03 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "iopigoikekfcpcapjlkcdlokheickhpc",
+        "key": "aergo-connect",
+        "name": "Aergo Connect",
+        "rating": 5.0,
+        "user_numbers": "678",
+        "creator": "Aergo",
+        "last_updated": "2020-11-21 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "bgknjmoaadjalpimgfpnmpmhigijbpja",
+        "key": "1000-piece-puzzles-daily",
+        "name": "1000 piece puzzles, daily hyper casual game",
+        "rating": 0.0,
+        "user_numbers": "7,000",
+        "creator": "Best Extensions",
+        "last_updated": "2020-11-22 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "kgljamiagfgcjpbiaflbcpnofpdafidf",
+        "key": "1000-piece-jigsaw-puzzles",
+        "name": "1000 piece jigsaw puzzles, hyper casual game",
+        "rating": 0.0,
+        "user_numbers": "7,000",
+        "creator": "Best Extensions",
+        "last_updated": "2020-11-22 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "aejfaealdooggojhnfhinfpgdfniebal",
+        "key": "free-jigsaw-puzzles-daily",
+        "name": "free jigsaw puzzles, daily hyper casual game",
+        "rating": 0.0,
+        "user_numbers": "7,000",
+        "creator": "Best Extensions",
+        "last_updated": "2020-11-23 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "hndapaaekafamcpdnobfmanobakffhif",
+        "key": "free-online-jigsaw-puzzle",
+        "name": "free online jigsaw puzzles, hyper casual game",
+        "rating": 0.0,
+        "user_numbers": "4,000",
+        "creator": "Best Extensions",
+        "last_updated": "2020-11-29 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "odcmjhigdnmhgfnlicglokhdcciljgbb",
+        "key": "daily-jigsaw-puzzle-hyper",
+        "name": "daily jigsaw puzzle, hyper casual game",
+        "rating": 0.0,
+        "user_numbers": "4,000",
+        "creator": "Best Extensions",
+        "last_updated": "2020-11-29 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "odphdhgmjiegkdkkfgnhkeinmknnpaki",
+        "key": "bits-and-pieces-puzzles-d",
+        "name": "bits and pieces puzzles, daily casual game",
+        "rating": 0.0,
+        "user_numbers": "4,000",
+        "creator": "Best Extensions",
+        "last_updated": "2020-11-27 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "nkbihfbeogaeaoehlefnkodbefgpgknn",
+        "key": "metamask",
+        "name": "MetaMask",
+        "rating": 3.8989955357142856,
+        "user_numbers": "1,000",
+        "creator": "metamask",
+        "last_updated": "2020-12-08 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jbdaocneiiinmjbjlgalhcelgbejmnid",
+        "key": "nifty-wallet",
+        "name": "Nifty Wallet",
+        "rating": 4.7727272727272725,
+        "user_numbers": "3,000",
+        "creator": "POA Network",
+        "last_updated": "2020-12-04 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "afbcbjpbpfadlkmhmclhkeeodmamcflc",
+        "key": "math-wallet",
+        "name": "Math Wallet",
+        "rating": 4.5,
+        "user_numbers": "10,000",
+        "creator": "Math Global",
+        "last_updated": "2020-11-25 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "kpfopkelmapcoipemfendmdcghnegimn",
+        "key": "liquality-wallet",
+        "name": "Liquality Wallet",
+        "rating": 5.0,
+        "user_numbers": "852",
+        "creator": "Liquality",
+        "last_updated": "2020-12-07 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "omnkcjdohbnjfjmlaiboojplahajnenj",
+        "key": "wanmask",
+        "name": "WanMask",
+        "rating": 5.0,
+        "user_numbers": "870",
+        "creator": "wanmask",
+        "last_updated": "2020-11-30 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "oggbildghlaglfmmpekjgejajohilbmm",
+        "key": "huobi-eco-chain-wallet",
+        "name": "Huobi Eco Chain Wallet",
+        "rating": 5.0,
+        "user_numbers": "7",
+        "creator": "Huobi Blockchain",
+        "last_updated": "2020-12-02 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "fhbohimaelbohpjbbldcngcnapndodjp",
+        "key": "binance-chain-wallet",
+        "name": "Binance Chain Wallet",
+        "rating": 3.9047619047619047,
+        "user_numbers": "20,000",
+        "creator": "Binance Chain",
+        "last_updated": "2020-12-01 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "loaljdkanlgipgdlmgijfodcaggiikjo",
+        "key": "quick-ant",
+        "name": "Quick Ant",
+        "rating": 4.2682926829268295,
+        "user_numbers": "1,000",
+        "creator": "quickant00",
+        "last_updated": "2020-11-29 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "lekfgahkjfpgjmpbbppdllkamcjdjgfm",
+        "key": "quick-ant-ext",
+        "name": "Quick Ant Ext",
+        "rating": 3.5,
+        "user_numbers": "395",
+        "creator": "quickant00",
+        "last_updated": "2020-11-29 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "bpkamndinncffcjnhbafficofhclnnde",
+        "key": "tvextbot-for-\u6697\u53f7\u901a\u8ca8",
+        "name": "TVExtBot for \u6697\u53f7\u901a\u8ca8",
+        "rating": 0.0,
+        "user_numbers": "25",
+        "creator": "bk.son",
+        "last_updated": "2020-12-05 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jbdaocneiiinmjbjlgalhcelgbejmnid",
+        "key": "nifty-wallet",
+        "name": "Nifty Wallet",
+        "rating": 4.7727272727272725,
+        "user_numbers": "3,000",
+        "creator": "POA Network",
+        "last_updated": "2020-12-04 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "ojdajiedkmmmchkdpceanekpmdmnohhe",
+        "key": "\ub2e8\ud0c0\uc758-\uc2e0-for-\uc5c5\ube44\ud2b8-\ube57\uc378-\ubc14\uc774\ub0b8\uc2a4-\ube44\ud2b8\ub9e5",
+        "name": "\ub2e8\ud0c0\uc758 \uc2e0 for \uc5c5\ube44\ud2b8, \ube57\uc378, \ubc14\uc774\ub0b8\uc2a4, \ube44\ud2b8\ub9e5\uc2a4",
+        "rating": 4.923076923076923,
+        "user_numbers": "1,000",
+        "creator": "dscoin",
+        "last_updated": "2020-11-29 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jlbkpppjbkmkjjemjcofmccodofkknmc",
+        "key": "cryptocurrency-prices-cha",
+        "name": "Cryptocurrency Prices & Charts - BitDuck",
+        "rating": 5.0,
+        "user_numbers": "120",
+        "creator": "CrisValls",
+        "last_updated": "2020-12-04 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "mfiddnlhlmehcbpkhgljjchnjmlkanje",
+        "key": "bitcoin-price",
+        "name": "Bitcoin Price",
+        "rating": 5.0,
+        "user_numbers": "2",
+        "creator": "hubbion.com",
+        "last_updated": "2020-11-28 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "loaljdkanlgipgdlmgijfodcaggiikjo",
+        "key": "quick-ant",
+        "name": "Quick Ant",
+        "rating": 4.2682926829268295,
+        "user_numbers": "1,000",
+        "creator": "quickant00",
+        "last_updated": "2020-11-29 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "lekfgahkjfpgjmpbbppdllkamcjdjgfm",
+        "key": "quick-ant-ext",
+        "name": "Quick Ant Ext",
+        "rating": 3.5,
+        "user_numbers": "395",
+        "creator": "quickant00",
+        "last_updated": "2020-11-29 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "ojdajiedkmmmchkdpceanekpmdmnohhe",
+        "key": "\ub2e8\ud0c0\uc758-\uc2e0-for-\uc5c5\ube44\ud2b8-\ube57\uc378-\ubc14\uc774\ub0b8\uc2a4-\ube44\ud2b8\ub9e5",
+        "name": "\ub2e8\ud0c0\uc758 \uc2e0 for \uc5c5\ube44\ud2b8, \ube57\uc378, \ubc14\uc774\ub0b8\uc2a4, \ube44\ud2b8\ub9e5\uc2a4",
+        "rating": 4.923076923076923,
+        "user_numbers": "1,000",
+        "creator": "dscoin",
+        "last_updated": "2020-11-29 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "ljjeeiafelmogjhklanhkbkodcmgdchn",
+        "key": "bitcoin-samba-\u4fa1\u683c\u76e3\u8996\u30c4\u30fc\u30eb",
+        "name": "Bitcoin Samba \u4fa1\u683c\u76e3\u8996\u30c4\u30fc\u30eb",
+        "rating": 0.0,
+        "user_numbers": "0",
+        "creator": "Kanta Yamaoka",
+        "last_updated": "2020-11-29 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "loaljdkanlgipgdlmgijfodcaggiikjo",
+        "key": "quick-ant",
+        "name": "Quick Ant",
+        "rating": 4.2682926829268295,
+        "user_numbers": "1,000",
+        "creator": "quickant00",
+        "last_updated": "2020-11-29 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "lekfgahkjfpgjmpbbppdllkamcjdjgfm",
+        "key": "quick-ant-ext",
+        "name": "Quick Ant Ext",
+        "rating": 3.5,
+        "user_numbers": "395",
+        "creator": "quickant00",
+        "last_updated": "2020-11-29 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "lleoahfonbeenjhjlkpmilmeengknlnp",
+        "key": "jstbuy-hide-upbit-sell-bu",
+        "name": "JSTbuy - Hide upbit sell button",
+        "rating": 0.0,
+        "user_numbers": "0",
+        "creator": "limebear",
+        "last_updated": "2020-11-24 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "ojdajiedkmmmchkdpceanekpmdmnohhe",
+        "key": "\ub2e8\ud0c0\uc758-\uc2e0-for-\uc5c5\ube44\ud2b8-\ube57\uc378-\ubc14\uc774\ub0b8\uc2a4-\ube44\ud2b8\ub9e5",
+        "name": "\ub2e8\ud0c0\uc758 \uc2e0 for \uc5c5\ube44\ud2b8, \ube57\uc378, \ubc14\uc774\ub0b8\uc2a4, \ube44\ud2b8\ub9e5\uc2a4",
+        "rating": 4.923076923076923,
+        "user_numbers": "1,000",
+        "creator": "dscoin",
+        "last_updated": "2020-11-29 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "bpkamndinncffcjnhbafficofhclnnde",
+        "key": "tvextbot-for-\u6697\u53f7\u901a\u8ca8",
+        "name": "TVExtBot for \u6697\u53f7\u901a\u8ca8",
+        "rating": 0.0,
+        "user_numbers": "25",
+        "creator": "bk.son",
+        "last_updated": "2020-12-05 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "bpkamndinncffcjnhbafficofhclnnde",
+        "key": "tvextbot-for-\u6697\u53f7\u901a\u8ca8",
+        "name": "TVExtBot for \u6697\u53f7\u901a\u8ca8",
+        "rating": 0.0,
+        "user_numbers": "25",
+        "creator": "bk.son",
+        "last_updated": "2020-12-05 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jlbkpppjbkmkjjemjcofmccodofkknmc",
+        "key": "cryptocurrency-prices-cha",
+        "name": "Cryptocurrency Prices & Charts - BitDuck",
+        "rating": 5.0,
+        "user_numbers": "120",
+        "creator": "CrisValls",
+        "last_updated": "2020-12-04 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "bpkdafnlpplmkgimfmdgbdhfacinddcl",
+        "key": "pdanet+-apk-downloadlates",
+        "name": "PdaNet+ Apk Download[Latest Version v5.23]",
+        "rating": 0.0,
+        "user_numbers": "0",
+        "creator": "ankitsharma.amb",
+        "last_updated": "2020-12-08 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "fhhkkooikehnkaodebbfnkinedlllcfk",
+        "key": "blockchair",
+        "name": "Blockchair",
+        "rating": 5.0,
+        "user_numbers": "259",
+        "creator": "Blockchair",
+        "last_updated": "2020-11-24 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jlbkpppjbkmkjjemjcofmccodofkknmc",
+        "key": "cryptocurrency-prices-cha",
+        "name": "Cryptocurrency Prices & Charts - BitDuck",
+        "rating": 5.0,
+        "user_numbers": "120",
+        "creator": "CrisValls",
+        "last_updated": "2020-12-04 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jidcpnlofnkabamidadccjngakmpbdcc",
+        "key": "finder-for-tinder",
+        "name": "Finder for Tinder",
+        "rating": 0.0,
+        "user_numbers": "1",
+        "creator": "davidgaroro",
+        "last_updated": "2020-12-05 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jlbkpppjbkmkjjemjcofmccodofkknmc",
+        "key": "cryptocurrency-prices-cha",
+        "name": "Cryptocurrency Prices & Charts - BitDuck",
+        "rating": 5.0,
+        "user_numbers": "120",
+        "creator": "CrisValls",
+        "last_updated": "2020-12-04 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "gfchpofllbnjfhgmjbgmhljdpolcjing",
+        "key": "mraddon-blockchain-viewer",
+        "name": "MrAddon BlockChain Viewer for Chrome",
+        "rating": 0.0,
+        "user_numbers": "24",
+        "creator": "MrAddon \u00ae",
+        "last_updated": "2020-11-24 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "mhhgjpidhclpobhkdnlopdfhfamalnia",
+        "key": "stormx-shop-earn-crypto",
+        "name": "StormX: Shop & Earn Crypto",
+        "rating": 5.0,
+        "user_numbers": "3,000",
+        "creator": "StormX Singapore PTE. LTD.",
+        "last_updated": "2020-11-23 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "fhhkkooikehnkaodebbfnkinedlllcfk",
+        "key": "blockchair",
+        "name": "Blockchair",
+        "rating": 5.0,
+        "user_numbers": "259",
+        "creator": "Blockchair",
+        "last_updated": "2020-11-24 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "mfiddnlhlmehcbpkhgljjchnjmlkanje",
+        "key": "bitcoin-price",
+        "name": "Bitcoin Price",
+        "rating": 5.0,
+        "user_numbers": "2",
+        "creator": "hubbion.com",
+        "last_updated": "2020-11-28 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jidcpnlofnkabamidadccjngakmpbdcc",
+        "key": "finder-for-tinder",
+        "name": "Finder for Tinder",
+        "rating": 0.0,
+        "user_numbers": "1",
+        "creator": "davidgaroro",
+        "last_updated": "2020-12-05 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "nkbihfbeogaeaoehlefnkodbefgpgknn",
+        "key": "metamask",
+        "name": "MetaMask",
+        "rating": 3.8989955357142856,
+        "user_numbers": "1,000",
+        "creator": "metamask",
+        "last_updated": "2020-12-08 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jbdaocneiiinmjbjlgalhcelgbejmnid",
+        "key": "nifty-wallet",
+        "name": "Nifty Wallet",
+        "rating": 4.7727272727272725,
+        "user_numbers": "3,000",
+        "creator": "POA Network",
+        "last_updated": "2020-12-04 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "mhhgjpidhclpobhkdnlopdfhfamalnia",
+        "key": "stormx-shop-earn-crypto",
+        "name": "StormX: Shop & Earn Crypto",
+        "rating": 5.0,
+        "user_numbers": "3,000",
+        "creator": "StormX Singapore PTE. LTD.",
+        "last_updated": "2020-11-23 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "fhbohimaelbohpjbbldcngcnapndodjp",
+        "key": "binance-chain-wallet",
+        "name": "Binance Chain Wallet",
+        "rating": 3.9047619047619047,
+        "user_numbers": "20,000",
+        "creator": "Binance Chain",
+        "last_updated": "2020-12-01 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "afgfdkloegmghldbalmenklokhlifphe",
+        "key": "defi-saver-gas-prices-ext",
+        "name": "DeFi Saver Gas Prices Extension",
+        "rating": 5.0,
+        "user_numbers": "358",
+        "creator": "DeFi Saver",
+        "last_updated": "2020-12-05 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "fhhkkooikehnkaodebbfnkinedlllcfk",
+        "key": "blockchair",
+        "name": "Blockchair",
+        "rating": 5.0,
+        "user_numbers": "259",
+        "creator": "Blockchair",
+        "last_updated": "2020-11-24 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jlbkpppjbkmkjjemjcofmccodofkknmc",
+        "key": "cryptocurrency-prices-cha",
+        "name": "Cryptocurrency Prices & Charts - BitDuck",
+        "rating": 5.0,
+        "user_numbers": "120",
+        "creator": "CrisValls",
+        "last_updated": "2020-12-04 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "gfchpofllbnjfhgmjbgmhljdpolcjing",
+        "key": "mraddon-blockchain-viewer",
+        "name": "MrAddon BlockChain Viewer for Chrome",
+        "rating": 0.0,
+        "user_numbers": "24",
+        "creator": "MrAddon \u00ae",
+        "last_updated": "2020-11-24 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "llpbjcejemjfaicajiephoejjnogfbed",
+        "key": "bitcoin-tab",
+        "name": "Bitcoin Tab",
+        "rating": 0.0,
+        "user_numbers": "8",
+        "creator": "Bitcoin Tab",
+        "last_updated": "2020-11-29 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "ijpmihhlfkkfeimocndobeghgdggkail",
+        "key": "adsbitcoinio-get-bitcoins",
+        "name": "adsbitcoin.io - Get Bitcoins in a second.",
+        "rating": 3.8214285714285716,
+        "user_numbers": "10,000",
+        "creator": "adsbitcoin.io",
+        "last_updated": "2020-12-02 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "mhhgjpidhclpobhkdnlopdfhfamalnia",
+        "key": "stormx-shop-earn-crypto",
+        "name": "StormX: Shop & Earn Crypto",
+        "rating": 5.0,
+        "user_numbers": "3,000",
+        "creator": "StormX Singapore PTE. LTD.",
+        "last_updated": "2020-11-23 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jlbkpppjbkmkjjemjcofmccodofkknmc",
+        "key": "cryptocurrency-prices-cha",
+        "name": "Cryptocurrency Prices & Charts - BitDuck",
+        "rating": 5.0,
+        "user_numbers": "120",
+        "creator": "CrisValls",
+        "last_updated": "2020-12-04 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "mfiddnlhlmehcbpkhgljjchnjmlkanje",
+        "key": "bitcoin-price",
+        "name": "Bitcoin Price",
+        "rating": 5.0,
+        "user_numbers": "2",
+        "creator": "hubbion.com",
+        "last_updated": "2020-11-28 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "gpfndedineagiepkpinficbcbbgjoenn",
+        "key": "beacon-extension",
+        "name": "Beacon Extension",
+        "rating": 5.0,
+        "user_numbers": "268",
+        "creator": "Papers.ch Development",
+        "last_updated": "2020-12-01 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "ookjlbkiijinhpmnjffcofjonbfbgaoc",
+        "key": "thanos-wallet",
+        "name": "Thanos Wallet",
+        "rating": 5.0,
+        "user_numbers": "859",
+        "creator": "Madfish Solutions",
+        "last_updated": "2020-11-24 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jlbkpppjbkmkjjemjcofmccodofkknmc",
+        "key": "cryptocurrency-prices-cha",
+        "name": "Cryptocurrency Prices & Charts - BitDuck",
+        "rating": 5.0,
+        "user_numbers": "120",
+        "creator": "CrisValls",
+        "last_updated": "2020-12-04 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jbdaocneiiinmjbjlgalhcelgbejmnid",
+        "key": "nifty-wallet",
+        "name": "Nifty Wallet",
+        "rating": 4.7727272727272725,
+        "user_numbers": "3,000",
+        "creator": "POA Network",
+        "last_updated": "2020-12-04 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "dmkamcknogkgcdfhhbddcghachkejeap",
+        "key": "keplr",
+        "name": "Keplr",
+        "rating": 5.0,
+        "user_numbers": "3,000",
+        "creator": "keplr",
+        "last_updated": "2020-12-04 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jidcpnlofnkabamidadccjngakmpbdcc",
+        "key": "finder-for-tinder",
+        "name": "Finder for Tinder",
+        "rating": 0.0,
+        "user_numbers": "1",
+        "creator": "davidgaroro",
+        "last_updated": "2020-12-05 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "padjipbilemhhpppjmkabednoeiaaaac",
+        "key": "audio-capture",
+        "name": "Audio Capture",
+        "rating": 5.0,
+        "user_numbers": "100,000",
+        "creator": "Audio Capture",
+        "last_updated": "2020-11-21 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jcacnejopjdphbnjgfaaobbfafkihpep",
+        "key": "hive-keychain",
+        "name": "Hive Keychain",
+        "rating": 4.555555555555555,
+        "user_numbers": "8,000",
+        "creator": "Matt Rosen (@yabapmatt)",
+        "last_updated": "2020-11-29 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "pepgdkiflaefcmpogbpjpckbbddbjamc",
+        "key": "hivetips",
+        "name": "hivetips",
+        "rating": 5.0,
+        "user_numbers": "198",
+        "creator": "altyesdev",
+        "last_updated": "2020-11-27 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "ecblfcmjnbbgaojblcpmjoamegpbodhd",
+        "key": "sp-editor",
+        "name": "SP Editor",
+        "rating": 4.844444444444444,
+        "user_numbers": "10,000",
+        "creator": "Tomi Tavela",
+        "last_updated": "2020-12-02 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "bcapgnidkjmolmgddhckjbhkmneljeol",
+        "key": "monaco-editor",
+        "name": "Monaco Editor",
+        "rating": 0.0,
+        "user_numbers": "0",
+        "creator": "jorenm",
+        "last_updated": "2020-12-02 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "nljcdkjpjnhlilgepggmmagnmebhadnk",
+        "key": "website-seo-checker-free",
+        "name": "Website SEO Checker: Free Audit & Analysis",
+        "rating": 4.21875,
+        "user_numbers": "30,000",
+        "creator": "Boosta",
+        "last_updated": "2020-12-01 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "gfenldnjepdhoilkoiakmellcncecmpo",
+        "key": "sitespect-code-editor",
+        "name": "SiteSpect Code editor",
+        "rating": 0.0,
+        "user_numbers": "11",
+        "creator": "SiteSpect Europe",
+        "last_updated": "2020-12-01 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "mbblfalbndfkpfnlimjnaooandenimpj",
+        "key": "tipster",
+        "name": "Tipster",
+        "rating": 5.0,
+        "user_numbers": "48",
+        "creator": "Bram Borggreve (beeman)",
+        "last_updated": "2020-11-22 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "adfnjoodbdcoikkhallnfejjokefkkbd",
+        "key": "v-wallet-extension",
+        "name": "V Wallet Extension",
+        "rating": 5.0,
+        "user_numbers": "20",
+        "creator": "V Systems",
+        "last_updated": "2020-12-03 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "cecnfapbjmhpdclpafgkhloldnlempfp",
+        "key": "gorira-webpage-screenshot",
+        "name": "Gorira: Webpage Screenshot for Jira",
+        "rating": 0.0,
+        "user_numbers": "99",
+        "creator": "gregory.besson",
+        "last_updated": "2020-12-07 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "nkbihfbeogaeaoehlefnkodbefgpgknn",
+        "key": "metamask",
+        "name": "MetaMask",
+        "rating": 3.8989955357142856,
+        "user_numbers": "1,000",
+        "creator": "metamask",
+        "last_updated": "2020-12-08 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jbdaocneiiinmjbjlgalhcelgbejmnid",
+        "key": "nifty-wallet",
+        "name": "Nifty Wallet",
+        "rating": 4.7727272727272725,
+        "user_numbers": "3,000",
+        "creator": "POA Network",
+        "last_updated": "2020-12-04 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jidcpnlofnkabamidadccjngakmpbdcc",
+        "key": "finder-for-tinder",
+        "name": "Finder for Tinder",
+        "rating": 0.0,
+        "user_numbers": "1",
+        "creator": "davidgaroro",
+        "last_updated": "2020-12-05 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "ohianjicfacccnnokflclpcojfiecaib",
+        "key": "samourai-wallet",
+        "name": "Samourai Wallet",
+        "rating": 0.0,
+        "user_numbers": "1",
+        "creator": "Streetside Development",
+        "last_updated": "2020-11-21 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "blbeajekbphoogbcoomlkenjbklkoofc",
+        "key": "multifile-converter",
+        "name": "MultiFile Converter",
+        "rating": 5.0,
+        "user_numbers": "1,000",
+        "creator": "cws@blackrockinteractive.com",
+        "last_updated": "2020-12-03 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "nofklnljmpiglakhokoighdnhjkppblh",
+        "key": "library-genesis-updated-g",
+        "name": "Library Genesis Updated Guide",
+        "rating": 0.0,
+        "user_numbers": "0",
+        "creator": "harsh",
+        "last_updated": "2020-12-06 00:00:00"
+    },
+    {
+        "platform": "chrome",
+        "id": "jidcpnlofnkabamidadccjngakmpbdcc",
+        "key": "finder-for-tinder",
+        "name": "Finder for Tinder",
+        "rating": 0.0,
+        "user_numbers": "1",
+        "creator": "davidgaroro",
+        "last_updated": "2020-12-05 00:00:00"
+    }
+]

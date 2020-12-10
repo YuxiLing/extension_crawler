@@ -1,540 +1,601 @@
 platform,id,key,name,rating,user_numbers,creator,last_updated
-chrome,mlliaggckjdoolejehkgkkcmfjlhmfak,ethereum-avatar,Ethereum Avatar,0.0,13,360disrupt,2018-02-13 00:00:00
-chrome,njiogihgdaoaapjabcdekoohcnjladni,cryptocurrency-instant-ex,Cryptocurrency instant exchange swap,5.0,"30,000",Extpose,2019-10-10 00:00:00
-chrome,aehoaajegaoakamklmcbgefibhnilbip,veswallet-ethereum-wallet,VESwallet: Ethereum Wallet with VES Backup,0.0,7,VESvault,2018-03-11 00:00:00
+chrome,hfdeddmpdncodjalbadbanlcombfeoll,electrum-bitcoin-wallet,Electrum Bitcoin Wallet,4.6,286,Andrey Fedorov,2013-01-11 00:00:00
 chrome,imloifkgjagghnncjkhggdhalmcnfklk,trezor-password-manager,Trezor Password Manager,3.8815789473684212,"10,000",SatoshiLabs,2020-04-16 00:00:00
 chrome,epfkdlghgcjdonodehdakmmidlklindn,crypto-launcher,Crypto Launcher,0.0,68,bitcoinfomo,2018-01-31 00:00:00
-chrome,nngceckbapebfimnlniiiahkandclblb,bitwarden-free-password-m,Bitwarden - Free Password Manager,4.840361445783133,"700,000",Bitwarden Inc.,2020-12-02 00:00:00
-chrome,njiogihgdaoaapjabcdekoohcnjladni,cryptocurrency-instant-ex,Cryptocurrency instant exchange swap,5.0,"30,000",Extpose,2019-10-10 00:00:00
-chrome,jbdaocneiiinmjbjlgalhcelgbejmnid,nifty-wallet,Nifty Wallet,4.7727272727272725,"3,000",POA Network,2020-11-13 00:00:00
+chrome,nngceckbapebfimnlniiiahkandclblb,bitwarden-free-password-m,Bitwarden - Free Password Manager,4.841,"700,000",Bitwarden Inc.,2020-12-02 00:00:00
+chrome,jbdaocneiiinmjbjlgalhcelgbejmnid,nifty-wallet,Nifty Wallet,4.7727272727272725,"3,000",POA Network,2020-12-04 00:00:00
 chrome,dkdedlpgdmmkkfjabffeganieamfklkm,cyano-wallet,Cyano Wallet,3.375,"5,000",cyano-publishing,2020-10-22 00:00:00
-chrome,ifandnfeadkfgcnefgpobhmpapnfjlee,who-accepts-bitcoin,Who Accepts bitcoin,5.0,235,erikbrodch,2018-02-19 00:00:00
-chrome,cmbagcoinhmacpcgmbiniijboejgiahi,justliquidity-wallet,JustLiquidity Wallet,5.0,85,JustLiquidity,2020-10-13 00:00:00
-chrome,ibobolecjikcjgllkgfjmhilmhkidblp,bdtex-wallet,BDTEx Wallet,5.0,42,JustLiquidity,2019-11-03 00:00:00
-chrome,icmkfkmjoklfhlfdkkkgpnpldkgdmhoe,cyano-wallet-pro,Cyano Wallet Pro,0.0,22,cyanowallet,2020-11-09 00:00:00
-chrome,jbdaocneiiinmjbjlgalhcelgbejmnid,nifty-wallet,Nifty Wallet,4.7727272727272725,"3,000",POA Network,2020-11-13 00:00:00
-chrome,dacfkmlnegfmibbeabdomhahgjoipoln,xion-wallet,XION Wallet,4.428571428571429,222,Xion Global,2020-09-24 00:00:00
-chrome,ipkcagngbjpjlmajjcklpknniojdhppe,pumapay,PumaPay,5.0,228,Decentralized Vision,2019-07-17 00:00:00
-chrome,kkilomkmpmkbdnfelcpgckmpcaemjcdh,celo-desktop-wallet,Celo-desktop-wallet,0.0,44,jiyun.kim,2020-09-17 00:00:00
-chrome,jogplkjolbbfndkbbedhchfgdbiocgig,frost-paypal-for-the-bloc,FROST - Paypal for the Blockchain,4.689655172413793,756,Frost Wallet,2019-07-03 00:00:00
-chrome,afbcbjpbpfadlkmhmclhkeeodmamcflc,math-wallet,Math Wallet,4.5,"10,000",Math Global,2020-11-25 00:00:00
-chrome,nanjmdknhkinifnkgdcggcfnhdaammmj,guildwallet,GuildWallet,4.3076923076923075,"1,000",BitGuild,2020-04-22 00:00:00
-chrome,hfdeddmpdncodjalbadbanlcombfeoll,electrum-bitcoin-wallet,Electrum Bitcoin Wallet,4.6,308,Andrey Fedorov,2013-01-11 00:00:00
+chrome,ifandnfeadkfgcnefgpobhmpapnfjlee,who-accepts-bitcoin,Who Accepts bitcoin,5.0,242,erikbrodch,2018-02-19 00:00:00
+chrome,cmbagcoinhmacpcgmbiniijboejgiahi,justliquidity-wallet,JustLiquidity Wallet,5.0,81,JustLiquidity,2020-10-13 00:00:00
+chrome,ibobolecjikcjgllkgfjmhilmhkidblp,bdtex-wallet,BDTEx Wallet,5.0,41,JustLiquidity,2019-11-03 00:00:00
+chrome,icmkfkmjoklfhlfdkkkgpnpldkgdmhoe,cyano-wallet-pro,Cyano Wallet Pro,0.0,21,cyanowallet,2020-11-09 00:00:00
 chrome,njiogihgdaoaapjabcdekoohcnjladni,cryptocurrency-instant-ex,Cryptocurrency instant exchange swap,5.0,"30,000",Extpose,2019-10-10 00:00:00
-chrome,odphdhgmjiegkdkkfgnhkeinmknnpaki,bits-and-pieces-puzzles-d,"bits and pieces puzzles, daily casual game",0.0,0,Best Extensions,2020-11-27 00:00:00
-chrome,ondajjlhahcmbfdmkpcmdmbbjkdimlob,poker-now-ledger,Poker Now Ledger,5.0,285,adhyyan1252,2020-08-26 00:00:00
-chrome,nfgkjnippgahnedamcjhoankdmfegbhc,heath-ledger-wallpaper-hd,Heath Ledger Wallpaper HD,0.0,15,https://lovelytab.com/,2020-07-20 00:00:00
-chrome,ihdpbfcenmkccpeiimogoaikgloijibk,smart-ledger,Smart Ledger,0.0,24,Vere Perrot,2015-12-13 00:00:00
+chrome,ondajjlhahcmbfdmkpcmdmbbjkdimlob,poker-now-ledger,Poker Now Ledger,5.0,286,adhyyan1252,2020-08-26 00:00:00
+chrome,nfgkjnippgahnedamcjhoankdmfegbhc,heath-ledger-wallpaper-hd,Heath Ledger Wallpaper HD,0.0,14,https://lovelytab.com/,2020-07-20 00:00:00
+chrome,ihdpbfcenmkccpeiimogoaikgloijibk,smart-ledger,Smart Ledger,0.0,21,Vere Perrot,2015-12-13 00:00:00
 chrome,blfflmkbeljljoimbldmnapebglinleb,heath-ledger-new-tab-wall,"Heath Ledger New Tab, Wallpapers HD",0.0,5,worthinglcyqus,2019-12-20 00:00:00
 chrome,dkdedlpgdmmkkfjabffeganieamfklkm,cyano-wallet,Cyano Wallet,3.375,"5,000",cyano-publishing,2020-10-22 00:00:00
-chrome,mebalpjlaipopoeiekhmfkmoifpkfaki,fetchai-web-wallet,Fetch.ai Web Wallet,0.0,38,Fetch.AI,2020-04-24 00:00:00
-chrome,icmkfkmjoklfhlfdkkkgpnpldkgdmhoe,cyano-wallet-pro,Cyano Wallet Pro,0.0,22,cyanowallet,2020-11-09 00:00:00
-chrome,njiogihgdaoaapjabcdekoohcnjladni,cryptocurrency-instant-ex,Cryptocurrency instant exchange swap,5.0,"30,000",Extpose,2019-10-10 00:00:00
-chrome,klnaejjgbibmhlephnhpmaofohgkpgkd,zilpay,ZilPay,4.714285714285714,"9,000",lich666black,2020-11-06 00:00:00
-chrome,jbdaocneiiinmjbjlgalhcelgbejmnid,nifty-wallet,Nifty Wallet,4.7727272727272725,"3,000",POA Network,2020-11-13 00:00:00
+chrome,mebalpjlaipopoeiekhmfkmoifpkfaki,fetchai-web-wallet,Fetch.ai Web Wallet,0.0,42,Fetch.AI,2020-04-24 00:00:00
+chrome,icmkfkmjoklfhlfdkkkgpnpldkgdmhoe,cyano-wallet-pro,Cyano Wallet Pro,0.0,21,cyanowallet,2020-11-09 00:00:00
+chrome,klnaejjgbibmhlephnhpmaofohgkpgkd,zilpay,ZilPay,4.466666666666667,"9,000",lich666black,2020-11-06 00:00:00
+chrome,jbdaocneiiinmjbjlgalhcelgbejmnid,nifty-wallet,Nifty Wallet,4.7727272727272725,"3,000",POA Network,2020-12-04 00:00:00
 chrome,fbbckponafgkennhnmgfoikfmbkiplgp,coinstats-crypto-portfoli,CoinStats - Crypto Portfolio Tracker,4.733333333333333,"3,000",Coin Stats Inc,2020-10-09 00:00:00
 chrome,ofcifgpkhdehcpkbnicmjnceebpcilno,coinmark-cryptocurrency-m,Coinmark - Cryptocurrency Market Prices,4.25,"1,000",Coinmark,2019-08-29 00:00:00
 chrome,imijjbmbnebfnbmonjeileijahaipglj,moonlet-wallet,Moonlet Wallet,2.1,"1,000",Moonlet,2020-11-04 00:00:00
 chrome,gkhhaokpfelnkknjbpampjiboffiogji,currency-converter,Currency Converter,2.5,402,faddevataissia,2020-07-03 00:00:00
-chrome,ifandnfeadkfgcnefgpobhmpapnfjlee,who-accepts-bitcoin,Who Accepts bitcoin,5.0,235,erikbrodch,2018-02-19 00:00:00
-chrome,cmbagcoinhmacpcgmbiniijboejgiahi,justliquidity-wallet,JustLiquidity Wallet,5.0,85,JustLiquidity,2020-10-13 00:00:00
-chrome,mkhdgadimehhojbgpphhkodolihgmmfe,coinmarketcap,Coinmarketcap,5.0,69,conan,2020-05-19 00:00:00
-chrome,ibobolecjikcjgllkgfjmhilmhkidblp,bdtex-wallet,BDTEx Wallet,5.0,42,JustLiquidity,2019-11-03 00:00:00
-chrome,kannkflplphkpabjoibccfgjkdhhcbmg,arbitraj-crypto-price-com,Arbitraj: Crypto Price Comparison,5.0,238,arbitraj.io,2018-10-06 00:00:00
-chrome,mengdaiflgahpehifoiopgcdbjapabpn,bitcoin-price-converter,Bitcoin price converter,4.5,12,coen.baars,2020-02-22 00:00:00
-chrome,pbgabfgeglpicagiimcbeimebebodlaf,coin-plow,Coin Plow,0.0,2,Coin Plow,2018-07-26 00:00:00
-chrome,eohjjifkbgfaolkejekjjgbchhdnflij,etherdelta-gdax-like-them,EtherDelta GDAX-like Theme,5.0,38,Miguel Mota,2018-02-22 00:00:00
-chrome,fidmapppafelhanbficlpelfebcdanfh,cryptowire,CryptoWire,3.5,70,sachingoel,2018-04-04 00:00:00
-chrome,aojiilcenododccfjkelhhddnomhlbmn,cryptocurrencies-gdax-pro,Cryptocurrencies GDAX product price,5.0,4,github.gkarthiks,2017-12-23 00:00:00
-chrome,gkpgfnkkpnffhdidnjnainjfbfhoipbb,the-crypto-lab,The Crypto Lab,0.0,10,Louis Mzk,2020-03-20 00:00:00
-chrome,fajaooioehjjecmdidpcndikiklclogp,easy-etherdelta,Easy EtherDelta,5.0,7,etherdelta.com,2018-02-14 00:00:00
-chrome,gedelnhojcejnmegdejjcgacfclkdnjg,cryptocurrency-exchange-t,CryptoCurrency Exchange Tracker,0.0,3,Li Jin,2018-04-22 00:00:00
-chrome,ieafcflodgfbcjeggikhlnckkfkhbmln,make-crypto-easier,Make Crypto Easier,0.0,0,Louis Mzk,2020-03-25 00:00:00
-chrome,bcplcldimgcjgjjcghmilomdkbmoogai,usdt-tether-alert,USDT Tether Alert,5.0,22,happy elephant web development,2019-11-10 00:00:00
+chrome,ifandnfeadkfgcnefgpobhmpapnfjlee,who-accepts-bitcoin,Who Accepts bitcoin,5.0,242,erikbrodch,2018-02-19 00:00:00
+chrome,cmbagcoinhmacpcgmbiniijboejgiahi,justliquidity-wallet,JustLiquidity Wallet,5.0,81,JustLiquidity,2020-10-13 00:00:00
+chrome,mkhdgadimehhojbgpphhkodolihgmmfe,coinmarketcap,Coinmarketcap,5.0,74,conan,2020-05-19 00:00:00
+chrome,ibobolecjikcjgllkgfjmhilmhkidblp,bdtex-wallet,BDTEx Wallet,5.0,41,JustLiquidity,2019-11-03 00:00:00
+chrome,njiogihgdaoaapjabcdekoohcnjladni,cryptocurrency-instant-ex,Cryptocurrency instant exchange swap,5.0,"30,000",Extpose,2019-10-10 00:00:00
+chrome,odphdhgmjiegkdkkfgnhkeinmknnpaki,bits-and-pieces-puzzles-d,"bits and pieces puzzles, daily casual game",0.0,"4,000",Best Extensions,2020-11-27 00:00:00
+chrome,njiogihgdaoaapjabcdekoohcnjladni,cryptocurrency-instant-ex,Cryptocurrency instant exchange swap,5.0,"30,000",Extpose,2019-10-10 00:00:00
+chrome,jbdaocneiiinmjbjlgalhcelgbejmnid,nifty-wallet,Nifty Wallet,4.7727272727272725,"3,000",POA Network,2020-12-04 00:00:00
+chrome,dacfkmlnegfmibbeabdomhahgjoipoln,xion-wallet,XION Wallet,4.428571428571429,219,Xion Global,2020-09-24 00:00:00
+chrome,ipkcagngbjpjlmajjcklpknniojdhppe,pumapay,PumaPay,5.0,224,Decentralized Vision,2019-07-17 00:00:00
+chrome,kkilomkmpmkbdnfelcpgckmpcaemjcdh,celo-desktop-wallet,Celo-desktop-wallet,0.0,41,jiyun.kim,2020-09-17 00:00:00
+chrome,jogplkjolbbfndkbbedhchfgdbiocgig,frost-paypal-for-the-bloc,FROST - Paypal for the Blockchain,4.689655172413793,743,Frost Wallet,2019-07-03 00:00:00
+chrome,afbcbjpbpfadlkmhmclhkeeodmamcflc,math-wallet,Math Wallet,4.5,"10,000",Math Global,2020-11-25 00:00:00
+chrome,nanjmdknhkinifnkgdcggcfnhdaammmj,guildwallet,GuildWallet,4.3076923076923075,"1,000",BitGuild,2020-04-22 00:00:00
+chrome,laphpbhjhhgigmjoflgcchgodbbclahk,blue-worlds-safest-simple,BLUE - World's Safest & Simplest Wallet,5.0,"1,000",etherbluewallet,2019-09-17 00:00:00
+chrome,kpfopkelmapcoipemfendmdcghnegimn,liquality-wallet,Liquality Wallet,5.0,852,Liquality,2020-12-07 00:00:00
+chrome,injlalemmnakihphncnhbdckncjbcaac,waifuchain,WaifuChain,0.0,77,corollari,2019-03-23 00:00:00
+chrome,ibobolecjikcjgllkgfjmhilmhkidblp,bdtex-wallet,BDTEx Wallet,5.0,41,JustLiquidity,2019-11-03 00:00:00
+chrome,bcplcldimgcjgjjcghmilomdkbmoogai,usdt-tether-alert,USDT Tether Alert,5.0,23,happy elephant web development,2019-11-10 00:00:00
 chrome,fbbckponafgkennhnmgfoikfmbkiplgp,coinstats-crypto-portfoli,CoinStats - Crypto Portfolio Tracker,4.733333333333333,"3,000",Coin Stats Inc,2020-10-09 00:00:00
 chrome,ahboebefkdoiomfpehlgjehokjjlndmj,eth-ticker-ethereum-ticke,ETH Ticker | Ethereum Ticker | Token Ticker,4.25,"2,000",Betonimig,2019-01-14 00:00:00
-chrome,gidpkdpdnngpfohekcfkfjbkieeihekj,btc-ticker-bitcoin-ticker,BTC Ticker | Bitcoin Ticker,4.846153846153846,"2,000",Betonimig,2020-11-06 00:00:00
-chrome,kannkflplphkpabjoibccfgjkdhhcbmg,arbitraj-crypto-price-com,Arbitraj: Crypto Price Comparison,5.0,238,arbitraj.io,2018-10-06 00:00:00
-chrome,ddmojnnanggcjkfpjlaeabeeadejcmde,ltc-ticker-litecoin-ticke,LTC Ticker | Litecoin Ticker,5.0,122,Betonimig,2019-03-10 00:00:00
+chrome,gidpkdpdnngpfohekcfkfjbkieeihekj,btc-ticker-bitcoin-ticker,BTC Ticker | Bitcoin Ticker,4.857142857142857,"2,000",Betonimig,2020-11-06 00:00:00
+chrome,kannkflplphkpabjoibccfgjkdhhcbmg,arbitraj-crypto-price-com,Arbitraj: Crypto Price Comparison,5.0,228,arbitraj.io,2018-10-06 00:00:00
+chrome,ddmojnnanggcjkfpjlaeabeeadejcmde,ltc-ticker-litecoin-ticke,LTC Ticker | Litecoin Ticker,5.0,119,Betonimig,2019-03-10 00:00:00
 chrome,oiflppoidedbicdboldgadjhffejbiok,eth-ticker-ethereum-ticke,ETH ticker | Ethereum ticker,5.0,21,peter.aupry,2018-04-01 00:00:00
-chrome,ljplephkcffoeflfflmdifkmmfkjplnf,btc-exchange-monitor,BTC exchange monitor,3.6666666666666665,13,Kein,2017-12-08 00:00:00
-chrome,mengdaiflgahpehifoiopgcdbjapabpn,bitcoin-price-converter,Bitcoin price converter,4.5,12,coen.baars,2020-02-22 00:00:00
-chrome,gkpgfnkkpnffhdidnjnainjfbfhoipbb,the-crypto-lab,The Crypto Lab,0.0,10,Louis Mzk,2020-03-20 00:00:00
+chrome,mengdaiflgahpehifoiopgcdbjapabpn,bitcoin-price-converter,Bitcoin price converter,4.5,13,coen.baars,2020-02-22 00:00:00
+chrome,ljplephkcffoeflfflmdifkmmfkjplnf,btc-exchange-monitor,BTC exchange monitor,3.6666666666666665,10,Kein,2017-12-08 00:00:00
+chrome,gkpgfnkkpnffhdidnjnainjfbfhoipbb,the-crypto-lab,The Crypto Lab,0.0,8,Louis Mzk,2020-03-20 00:00:00
 chrome,pjnkofkkpkdfaodaifjnipgelgeojimo,bitcoin-price-checker,Bitcoin Price Checker,0.0,2,Peter Pasmik,2017-02-08 00:00:00
 chrome,ieafcflodgfbcjeggikhlnckkfkhbmln,make-crypto-easier,Make Crypto Easier,0.0,0,Louis Mzk,2020-03-25 00:00:00
+chrome,chohglfmmlfhnkloampcdmnnhnhegbfg,bitbns-extension,Bitbns Extension,4.230769230769231,"1,000",Bitbns,2020-10-28 00:00:00
+chrome,dloinlbpnlkcldoghjohgcgcffpjcdgd,bitcoinlitecoin-ticker-al,Bitcoin/Litecoin Ticker Alarm,4.0,97,shaohua,2015-07-10 00:00:00
+chrome,ojopeinoooepnfnmifmmjebccpnjamea,vechain-price-checker,VeChain Price Checker,4.6,98,A Byte Ahead,2020-10-14 00:00:00
+chrome,oggbildghlaglfmmpekjgejajohilbmm,huobi-eco-chain-wallet,Huobi Eco Chain Wallet,5.0,7,Huobi Blockchain,2020-12-02 00:00:00
+chrome,fbbckponafgkennhnmgfoikfmbkiplgp,coinstats-crypto-portfoli,CoinStats - Crypto Portfolio Tracker,4.733333333333333,"3,000",Coin Stats Inc,2020-10-09 00:00:00
+chrome,jhbgelfndhaccioppbfadmjabloddnkg,simple-bitcoin-ticker,Simple Bitcoin Ticker,3.8,78,ryaneof,2015-10-01 00:00:00
+chrome,gohgaliidhnkpanhibpmneeiijmndbba,necoyoad-crypto-trader-as,Necoyoad Crypto Trader Assistant,0.0,4,Necoyoad,2019-09-20 00:00:00
+chrome,njiogihgdaoaapjabcdekoohcnjladni,cryptocurrency-instant-ex,Cryptocurrency instant exchange swap,5.0,"30,000",Extpose,2019-10-10 00:00:00
+chrome,pbgabfgeglpicagiimcbeimebebodlaf,coin-plow,Coin Plow,0.0,1,Coin Plow,2018-07-26 00:00:00
+chrome,mlliaggckjdoolejehkgkkcmfjlhmfak,ethereum-avatar,Ethereum Avatar,0.0,14,360disrupt,2018-02-13 00:00:00
+chrome,aehoaajegaoakamklmcbgefibhnilbip,veswallet-ethereum-wallet,VESwallet: Ethereum Wallet with VES Backup,0.0,6,VESvault,2018-03-11 00:00:00
+chrome,njiogihgdaoaapjabcdekoohcnjladni,cryptocurrency-instant-ex,Cryptocurrency instant exchange swap,5.0,"30,000",Extpose,2019-10-10 00:00:00
 chrome,fhbohimaelbohpjbbldcngcnapndodjp,binance-chain-wallet,Binance Chain Wallet,3.9047619047619047,"20,000",Binance Chain,2020-12-01 00:00:00
 chrome,kpbmhgflpjogdpbhhfdhoccocaccoemp,binance-alerts,Binance Alerts,4.235294117647059,"1,000",Ganesh Kamath,2018-02-12 00:00:00
-chrome,mndpihncabcpnajehgcdigandenhbfgk,binance-ninja,Binance™ Ninja,1.0,234,codesonzh,2019-02-09 00:00:00
+chrome,mndpihncabcpnajehgcdigandenhbfgk,binance-ninja,Binance™ Ninja,1.0,233,codesonzh,2019-02-09 00:00:00
 chrome,ehmhocjlcagmfeokjhmgmednhbdhpgep,binance-cryptocurrency-pr,Binance cryptocurrency price alerts,4.8,"1,000",arslan ali hunzai,2020-09-06 00:00:00
-chrome,iehigmcdcapkmkiebachhogbhpandcao,tradingview-on-binance,TradingView on Binance,4.0,531,amatiash,2019-01-10 00:00:00
-chrome,afommmnmohdebmgabmbglefkbholcobb,traderboxio-binance-exten,Traderbox.io Binance Extension,4.8,52,Traderbox.io,2020-08-29 00:00:00
-chrome,gigeklhepgkfmglclnonjblcchoalpda,binance-valuations,Binance Valuations,3.0,123,Cody Neiman,2018-04-13 00:00:00
-chrome,pnmjhiopgdfcldmiggaldinjoehngofh,binance-show-usd,Binance show USD,3.5,101,manpreet,2018-01-04 00:00:00
-chrome,loiiofbilnpeompggpmgdlidjnencodc,binance-enhancement-suite,Binance Enhancement Suite,5.0,127,where_are_the_faces,2018-02-09 00:00:00
-chrome,moglheclbicdpljplklejpldcbiogdon,binance-investment,Binance Investment,4.5,65,Binance Investment,2018-07-07 00:00:00
-chrome,mdpkjhbjmiejbohenjbdgeagimndggea,trade-helper-for-binance,Trade Helper for Binance,2.3333333333333335,37,Vadim Semenko,2018-04-20 00:00:00
-chrome,imbllmhaembenfnclmpkclabdalghong,binance-balances-in-fiat,Binance balances in Fiat Currency,0.0,54,waqs,2018-05-09 00:00:00
-chrome,hjldnpiclhlaomebmfifoffocgabipje,crypto-prices-binance,Crypto Prices (Binance),5.0,84,passbbi,2018-01-03 00:00:00
-chrome,hehgjfflnnegoonpmohkklklgfpgdcmg,binance-portfolio-distrib,Binance portfolio distribution and price,0.0,53,nim.izadi,2018-01-23 00:00:00
-chrome,jnohlfddgmlbneghbhdcfkciajihfbik,add-usd-to-binance,Add USD to Binance,5.0,74,capitalconverter,2018-01-02 00:00:00
+chrome,iehigmcdcapkmkiebachhogbhpandcao,tradingview-on-binance,TradingView on Binance,4.0,532,amatiash,2019-01-10 00:00:00
+chrome,afommmnmohdebmgabmbglefkbholcobb,traderboxio-binance-exten,Traderbox.io Binance Extension,4.8,51,Traderbox.io,2020-08-29 00:00:00
+chrome,gigeklhepgkfmglclnonjblcchoalpda,binance-valuations,Binance Valuations,3.0,118,Cody Neiman,2018-04-13 00:00:00
+chrome,pnmjhiopgdfcldmiggaldinjoehngofh,binance-show-usd,Binance show USD,3.5,106,manpreet,2018-01-04 00:00:00
+chrome,loiiofbilnpeompggpmgdlidjnencodc,binance-enhancement-suite,Binance Enhancement Suite,5.0,133,where_are_the_faces,2018-02-09 00:00:00
+chrome,moglheclbicdpljplklejpldcbiogdon,binance-investment,Binance Investment,4.5,67,Binance Investment,2018-07-07 00:00:00
+chrome,mdpkjhbjmiejbohenjbdgeagimndggea,trade-helper-for-binance,Trade Helper for Binance,2.3333333333333335,35,Vadim Semenko,2018-04-20 00:00:00
+chrome,imbllmhaembenfnclmpkclabdalghong,binance-balances-in-fiat,Binance balances in Fiat Currency,0.0,59,waqs,2018-05-09 00:00:00
+chrome,hjldnpiclhlaomebmfifoffocgabipje,crypto-prices-binance,Crypto Prices (Binance),5.0,78,passbbi,2018-01-03 00:00:00
+chrome,hehgjfflnnegoonpmohkklklgfpgdcmg,binance-portfolio-distrib,Binance portfolio distribution and price,0.0,60,nim.izadi,2018-01-23 00:00:00
+chrome,jnohlfddgmlbneghbhdcfkciajihfbik,add-usd-to-binance,Add USD to Binance,5.0,69,capitalconverter,2018-01-02 00:00:00
 chrome,jdbkfmneiiiihofbccenainnlipalonj,binance-news-notification,Binance News Notification,0.0,4,chiahoahong,2020-06-09 00:00:00
+chrome,edkaalggckkdnfcnkcjggcboijagpfjk,binance-tab-streaming-pri,Binance Tab - Streaming price & market info.,0.0,11,Blockmodo,2019-03-08 00:00:00
 chrome,aedifhcdabhdfdmochlikgllmnoefcna,binance-profit-calc,Binance Profit Calc,1.0,23,konrad.nedza,2019-03-29 00:00:00
 chrome,blnieiiffboillknjnepogjhkgnoapac,equal-wallet,EQUAL Wallet,4.754098360655738,"1,000",equalnetwork,2020-08-21 00:00:00
-chrome,edkaalggckkdnfcnkcjggcboijagpfjk,binance-tab-streaming-pri,Binance Tab - Streaming price & market info.,0.0,11,Blockmodo,2019-03-08 00:00:00
 chrome,chohglfmmlfhnkloampcdmnnhnhegbfg,bitbns-extension,Bitbns Extension,4.230769230769231,"1,000",Bitbns,2020-10-28 00:00:00
-chrome,njiogihgdaoaapjabcdekoohcnjladni,cryptocurrency-instant-ex,Cryptocurrency instant exchange swap,5.0,"30,000",Extpose,2019-10-10 00:00:00
 chrome,kdfgggajieaakialfjcogkplnmbckjni,lubna-for-binance,Lubna for Binance,5.0,7,chris,2019-09-12 00:00:00
-chrome,nbojhgkmkpakgfljijgnfofliafnbbfk,cryptocurrency-volume-mom,Cryptocurrency volume momentum indicator,5.0,155,arslan ali hunzai,2020-06-01 00:00:00
+chrome,nbojhgkmkpakgfljijgnfofliafnbbfk,cryptocurrency-volume-mom,Cryptocurrency volume momentum indicator,5.0,160,arslan ali hunzai,2020-06-01 00:00:00
 chrome,fbbckponafgkennhnmgfoikfmbkiplgp,coinstats-crypto-portfoli,CoinStats - Crypto Portfolio Tracker,4.733333333333333,"3,000",Coin Stats Inc,2020-10-09 00:00:00
-chrome,cmbagcoinhmacpcgmbiniijboejgiahi,justliquidity-wallet,JustLiquidity Wallet,5.0,85,JustLiquidity,2020-10-13 00:00:00
-chrome,gnljjenfhpahfjofemhpjmfdhdjjhedb,alerts-for-binance,Alerts for Binance,0.0,10,tberghuis,2019-03-08 00:00:00
+chrome,cmbagcoinhmacpcgmbiniijboejgiahi,justliquidity-wallet,JustLiquidity Wallet,5.0,81,JustLiquidity,2020-10-13 00:00:00
+chrome,gnljjenfhpahfjofemhpjmfdhdjjhedb,alerts-for-binance,Alerts for Binance,0.0,9,tberghuis,2019-03-08 00:00:00
 chrome,giigiakobnabpjepaocchngobehpbbgb,ada-ticker-cardano-ticker,ADA ticker | Cardano ticker,4.25,"1,000",peter.aupry,2018-03-21 00:00:00
 chrome,lohacioofbjcdgkmfkflcdmehilnmpke,sort-btc-value-binance,Sort BTC Value - Binance,5.0,3,pouria,2018-04-10 00:00:00
-chrome,fbeffmpldlfdkoelecijhdckcngggnnf,coinmarketcap-filter-coin,CoinMarketCap - Filter coins by exchange,3.5,121,kalkulus,2018-01-21 00:00:00
-chrome,jbdaocneiiinmjbjlgalhcelgbejmnid,nifty-wallet,Nifty Wallet,4.7727272727272725,"3,000",POA Network,2020-11-13 00:00:00
+chrome,fbeffmpldlfdkoelecijhdckcngggnnf,coinmarketcap-filter-coin,CoinMarketCap - Filter coins by exchange,3.5,115,kalkulus,2018-01-21 00:00:00
+chrome,jbdaocneiiinmjbjlgalhcelgbejmnid,nifty-wallet,Nifty Wallet,4.7727272727272725,"3,000",POA Network,2020-12-04 00:00:00
 chrome,bgddejjmhilkdllbakkgddjodommlimc,bitcoin-price-ticker,Bitcoin price ticker,4.2,"4,000",Extpose,2020-10-13 00:00:00
 chrome,ahboebefkdoiomfpehlgjehokjjlndmj,eth-ticker-ethereum-ticke,ETH Ticker | Ethereum Ticker | Token Ticker,4.25,"2,000",Betonimig,2019-01-14 00:00:00
-chrome,gidpkdpdnngpfohekcfkfjbkieeihekj,btc-ticker-bitcoin-ticker,BTC Ticker | Bitcoin Ticker,4.846153846153846,"2,000",Betonimig,2020-11-06 00:00:00
+chrome,gidpkdpdnngpfohekcfkfjbkieeihekj,btc-ticker-bitcoin-ticker,BTC Ticker | Bitcoin Ticker,4.857142857142857,"2,000",Betonimig,2020-11-06 00:00:00
 chrome,ofcifgpkhdehcpkbnicmjnceebpcilno,coinmark-cryptocurrency-m,Coinmark - Cryptocurrency Market Prices,4.25,"1,000",Coinmark,2019-08-29 00:00:00
-chrome,kannkflplphkpabjoibccfgjkdhhcbmg,arbitraj-crypto-price-com,Arbitraj: Crypto Price Comparison,5.0,238,arbitraj.io,2018-10-06 00:00:00
-chrome,bklbfdfcmohmmljcjhdofdphpdembfbm,divitopia-bitcoin-convert,Divitopia Bitcoin Convertor,5.0,148,Divi Project,2019-06-26 00:00:00
-chrome,hmhbgblocpdabalkmibmjkhjdocppdam,vet-ticker-vechain-thor-t,VET Ticker | VeChain Thor Ticker,5.0,179,Kenneth,2018-08-13 00:00:00
-chrome,ddmojnnanggcjkfpjlaeabeeadejcmde,ltc-ticker-litecoin-ticke,LTC Ticker | Litecoin Ticker,5.0,122,Betonimig,2019-03-10 00:00:00
-chrome,ojopeinoooepnfnmifmmjebccpnjamea,vechain-price-checker,VeChain Price Checker,4.6,96,A Byte Ahead,2020-10-14 00:00:00
-chrome,jlbkpppjbkmkjjemjcofmccodofkknmc,cryptocurrency-prices-cha,Cryptocurrency Prices & Charts - BitDuck,5.0,107,CrisValls,2020-11-16 00:00:00
-chrome,mkhdgadimehhojbgpphhkodolihgmmfe,coinmarketcap,Coinmarketcap,5.0,69,conan,2020-05-19 00:00:00
-chrome,emnbgnmkmndoebdjfmammpamenknhfmj,cardano-price-ticker-aler,Cardano Price Ticker & Alert,5.0,47,happy elephant web development,2019-11-10 00:00:00
-chrome,gemckbcnhjhpkieinkcpdeemgjidlmfn,cryptocurrency-website-an,Cryptocurrency website anti phishing,5.0,21,Arman Feyzi,2019-04-28 00:00:00
+chrome,kannkflplphkpabjoibccfgjkdhhcbmg,arbitraj-crypto-price-com,Arbitraj: Crypto Price Comparison,5.0,228,arbitraj.io,2018-10-06 00:00:00
+chrome,bklbfdfcmohmmljcjhdofdphpdembfbm,divitopia-bitcoin-convert,Divitopia Bitcoin Convertor,5.0,152,Divi Project,2019-06-26 00:00:00
+chrome,hmhbgblocpdabalkmibmjkhjdocppdam,vet-ticker-vechain-thor-t,VET Ticker | VeChain Thor Ticker,5.0,178,Kenneth,2018-08-13 00:00:00
+chrome,ojopeinoooepnfnmifmmjebccpnjamea,vechain-price-checker,VeChain Price Checker,4.6,98,A Byte Ahead,2020-10-14 00:00:00
+chrome,ddmojnnanggcjkfpjlaeabeeadejcmde,ltc-ticker-litecoin-ticke,LTC Ticker | Litecoin Ticker,5.0,119,Betonimig,2019-03-10 00:00:00
+chrome,jlbkpppjbkmkjjemjcofmccodofkknmc,cryptocurrency-prices-cha,Cryptocurrency Prices & Charts - BitDuck,5.0,120,CrisValls,2020-12-04 00:00:00
+chrome,mkhdgadimehhojbgpphhkodolihgmmfe,coinmarketcap,Coinmarketcap,5.0,74,conan,2020-05-19 00:00:00
+chrome,emnbgnmkmndoebdjfmammpamenknhfmj,cardano-price-ticker-aler,Cardano Price Ticker & Alert,5.0,50,happy elephant web development,2019-11-10 00:00:00
+chrome,gemckbcnhjhpkieinkcpdeemgjidlmfn,cryptocurrency-website-an,Cryptocurrency website anti phishing,5.0,20,Arman Feyzi,2019-04-28 00:00:00
 chrome,oiflppoidedbicdboldgadjhffejbiok,eth-ticker-ethereum-ticke,ETH ticker | Ethereum ticker,5.0,21,peter.aupry,2018-04-01 00:00:00
-chrome,bcplcldimgcjgjjcghmilomdkbmoogai,usdt-tether-alert,USDT Tether Alert,5.0,22,happy elephant web development,2019-11-10 00:00:00
-chrome,mengdaiflgahpehifoiopgcdbjapabpn,bitcoin-price-converter,Bitcoin price converter,4.5,12,coen.baars,2020-02-22 00:00:00
-chrome,gkpgfnkkpnffhdidnjnainjfbfhoipbb,the-crypto-lab,The Crypto Lab,0.0,10,Louis Mzk,2020-03-20 00:00:00
-chrome,gohgaliidhnkpanhibpmneeiijmndbba,necoyoad-crypto-trader-as,Necoyoad Crypto Trader Assistant,0.0,7,Necoyoad,2019-09-20 00:00:00
+chrome,bcplcldimgcjgjjcghmilomdkbmoogai,usdt-tether-alert,USDT Tether Alert,5.0,23,happy elephant web development,2019-11-10 00:00:00
+chrome,mengdaiflgahpehifoiopgcdbjapabpn,bitcoin-price-converter,Bitcoin price converter,4.5,13,coen.baars,2020-02-22 00:00:00
+chrome,gkpgfnkkpnffhdidnjnainjfbfhoipbb,the-crypto-lab,The Crypto Lab,0.0,8,Louis Mzk,2020-03-20 00:00:00
+chrome,gohgaliidhnkpanhibpmneeiijmndbba,necoyoad-crypto-trader-as,Necoyoad Crypto Trader Assistant,0.0,4,Necoyoad,2019-09-20 00:00:00
+chrome,njiogihgdaoaapjabcdekoohcnjladni,cryptocurrency-instant-ex,Cryptocurrency instant exchange swap,5.0,"30,000",Extpose,2019-10-10 00:00:00
 chrome,gedelnhojcejnmegdejjcgacfclkdnjg,cryptocurrency-exchange-t,CryptoCurrency Exchange Tracker,0.0,3,Li Jin,2018-04-22 00:00:00
 chrome,mfiddnlhlmehcbpkhgljjchnjmlkanje,bitcoin-price,Bitcoin Price,5.0,2,hubbion.com,2020-11-28 00:00:00
-chrome,pbgabfgeglpicagiimcbeimebebodlaf,coin-plow,Coin Plow,0.0,2,Coin Plow,2018-07-26 00:00:00
 chrome,lpnaceaaomiabfjolekalhncnfckelcb,cryptocurrency-tracker,Cryptocurrency Tracker,1.0,2,sarathisahoo,2018-01-27 00:00:00
 chrome,flccecojpojecnaofnflehmamhjmapha,bithex,bitHEX,5.0,2,asherperuscini,2017-11-27 00:00:00
 chrome,ieafcflodgfbcjeggikhlnckkfkhbmln,make-crypto-easier,Make Crypto Easier,0.0,0,Louis Mzk,2020-03-25 00:00:00
-chrome,kannkflplphkpabjoibccfgjkdhhcbmg,arbitraj-crypto-price-com,Arbitraj: Crypto Price Comparison,5.0,238,arbitraj.io,2018-10-06 00:00:00
-chrome,ffcnbjnhjklahglkjffggfobjnnkkjio,bitfinex-chart-viewer,Bitfinex Chart Viewer,0.0,103,NightWolf,2017-11-05 00:00:00
-chrome,ofejfmafglgnhmnokcnnmfhcbkkioiip,bitfinex-ticker,Bitfinex Ticker,3.75,148,Piotrek,2018-06-08 00:00:00
-chrome,killapbnabbnkmpjpdcpngfphjkbldln,bitfinex-ticker,Bitfinex Ticker,0.0,18,daniaoren,2017-11-02 00:00:00
+chrome,pbgabfgeglpicagiimcbeimebebodlaf,coin-plow,Coin Plow,0.0,1,Coin Plow,2018-07-26 00:00:00
+chrome,kannkflplphkpabjoibccfgjkdhhcbmg,arbitraj-crypto-price-com,Arbitraj: Crypto Price Comparison,5.0,228,arbitraj.io,2018-10-06 00:00:00
+chrome,mengdaiflgahpehifoiopgcdbjapabpn,bitcoin-price-converter,Bitcoin price converter,4.5,13,coen.baars,2020-02-22 00:00:00
+chrome,pbgabfgeglpicagiimcbeimebebodlaf,coin-plow,Coin Plow,0.0,1,Coin Plow,2018-07-26 00:00:00
+chrome,eohjjifkbgfaolkejekjjgbchhdnflij,etherdelta-gdax-like-them,EtherDelta GDAX-like Theme,5.0,42,Miguel Mota,2018-02-22 00:00:00
+chrome,fidmapppafelhanbficlpelfebcdanfh,cryptowire,CryptoWire,3.5,66,sachingoel,2018-04-04 00:00:00
+chrome,aojiilcenododccfjkelhhddnomhlbmn,cryptocurrencies-gdax-pro,Cryptocurrencies GDAX product price,5.0,5,github.gkarthiks,2017-12-23 00:00:00
+chrome,gkpgfnkkpnffhdidnjnainjfbfhoipbb,the-crypto-lab,The Crypto Lab,0.0,8,Louis Mzk,2020-03-20 00:00:00
+chrome,fajaooioehjjecmdidpcndikiklclogp,easy-etherdelta,Easy EtherDelta,5.0,8,etherdelta.com,2018-02-14 00:00:00
+chrome,gedelnhojcejnmegdejjcgacfclkdnjg,cryptocurrency-exchange-t,CryptoCurrency Exchange Tracker,0.0,3,Li Jin,2018-04-22 00:00:00
+chrome,ieafcflodgfbcjeggikhlnckkfkhbmln,make-crypto-easier,Make Crypto Easier,0.0,0,Louis Mzk,2020-03-25 00:00:00
+chrome,kannkflplphkpabjoibccfgjkdhhcbmg,arbitraj-crypto-price-com,Arbitraj: Crypto Price Comparison,5.0,228,arbitraj.io,2018-10-06 00:00:00
+chrome,ffcnbjnhjklahglkjffggfobjnnkkjio,bitfinex-chart-viewer,Bitfinex Chart Viewer,0.0,98,NightWolf,2017-11-05 00:00:00
+chrome,ofejfmafglgnhmnokcnnmfhcbkkioiip,bitfinex-ticker,Bitfinex Ticker,3.75,146,Piotrek,2018-06-08 00:00:00
+chrome,killapbnabbnkmpjpdcpngfphjkbldln,bitfinex-ticker,Bitfinex Ticker,0.0,22,daniaoren,2017-11-02 00:00:00
 chrome,fbbckponafgkennhnmgfoikfmbkiplgp,coinstats-crypto-portfoli,CoinStats - Crypto Portfolio Tracker,4.733333333333333,"3,000",Coin Stats Inc,2020-10-09 00:00:00
-chrome,dhgedagabpahigmghcghlhklpkhnmmjn,trading-bot-goodwinbit,Trading Bot GoodwinBit,0.0,178,dr.Goodwin,2020-08-03 00:00:00
-chrome,fbeffmpldlfdkoelecijhdckcngggnnf,coinmarketcap-filter-coin,CoinMarketCap - Filter coins by exchange,3.5,121,kalkulus,2018-01-21 00:00:00
-chrome,dloinlbpnlkcldoghjohgcgcffpjcdgd,bitcoinlitecoin-ticker-al,Bitcoin/Litecoin Ticker Alarm,4.0,104,shaohua,2015-07-10 00:00:00
+chrome,dhgedagabpahigmghcghlhklpkhnmmjn,trading-bot-goodwinbit,Trading Bot GoodwinBit,0.0,176,dr.Goodwin,2020-08-03 00:00:00
+chrome,fbeffmpldlfdkoelecijhdckcngggnnf,coinmarketcap-filter-coin,CoinMarketCap - Filter coins by exchange,3.5,115,kalkulus,2018-01-21 00:00:00
+chrome,dloinlbpnlkcldoghjohgcgcffpjcdgd,bitcoinlitecoin-ticker-al,Bitcoin/Litecoin Ticker Alarm,4.0,97,shaohua,2015-07-10 00:00:00
 chrome,bgddejjmhilkdllbakkgddjodommlimc,bitcoin-price-ticker,Bitcoin price ticker,4.2,"4,000",Extpose,2020-10-13 00:00:00
 chrome,jnkkdhkkpaoollkkmbbjjikcebaobdpk,show-current-bitfinex-bit,Show Current Bitfinex Bitcoin Price,0.0,0,linlin,2017-10-30 00:00:00
 chrome,ahboebefkdoiomfpehlgjehokjjlndmj,eth-ticker-ethereum-ticke,ETH Ticker | Ethereum Ticker | Token Ticker,4.25,"2,000",Betonimig,2019-01-14 00:00:00
-chrome,gidpkdpdnngpfohekcfkfjbkieeihekj,btc-ticker-bitcoin-ticker,BTC Ticker | Bitcoin Ticker,4.846153846153846,"2,000",Betonimig,2020-11-06 00:00:00
-chrome,fpkhlnacfhciopipcjpcjmkpldbogaeo,crypto-price-tracker,Crypto Price Tracker,4.068965517241379,680,apostopher,2020-09-01 00:00:00
-chrome,kannkflplphkpabjoibccfgjkdhhcbmg,arbitraj-crypto-price-com,Arbitraj: Crypto Price Comparison,5.0,238,arbitraj.io,2018-10-06 00:00:00
-chrome,ddmojnnanggcjkfpjlaeabeeadejcmde,ltc-ticker-litecoin-ticke,LTC Ticker | Litecoin Ticker,5.0,122,Betonimig,2019-03-10 00:00:00
-chrome,jhbgelfndhaccioppbfadmjabloddnkg,simple-bitcoin-ticker,Simple Bitcoin Ticker,3.8,79,ryaneof,2015-10-01 00:00:00
-chrome,bcplcldimgcjgjjcghmilomdkbmoogai,usdt-tether-alert,USDT Tether Alert,5.0,22,happy elephant web development,2019-11-10 00:00:00
-chrome,mengdaiflgahpehifoiopgcdbjapabpn,bitcoin-price-converter,Bitcoin price converter,4.5,12,coen.baars,2020-02-22 00:00:00
-chrome,gkpgfnkkpnffhdidnjnainjfbfhoipbb,the-crypto-lab,The Crypto Lab,0.0,10,Louis Mzk,2020-03-20 00:00:00
+chrome,gidpkdpdnngpfohekcfkfjbkieeihekj,btc-ticker-bitcoin-ticker,BTC Ticker | Bitcoin Ticker,4.857142857142857,"2,000",Betonimig,2020-11-06 00:00:00
+chrome,fpkhlnacfhciopipcjpcjmkpldbogaeo,crypto-price-tracker,Crypto Price Tracker,4.068965517241379,684,apostopher,2020-09-01 00:00:00
+chrome,kannkflplphkpabjoibccfgjkdhhcbmg,arbitraj-crypto-price-com,Arbitraj: Crypto Price Comparison,5.0,228,arbitraj.io,2018-10-06 00:00:00
+chrome,ddmojnnanggcjkfpjlaeabeeadejcmde,ltc-ticker-litecoin-ticke,LTC Ticker | Litecoin Ticker,5.0,119,Betonimig,2019-03-10 00:00:00
+chrome,jhbgelfndhaccioppbfadmjabloddnkg,simple-bitcoin-ticker,Simple Bitcoin Ticker,3.8,78,ryaneof,2015-10-01 00:00:00
+chrome,bcplcldimgcjgjjcghmilomdkbmoogai,usdt-tether-alert,USDT Tether Alert,5.0,23,happy elephant web development,2019-11-10 00:00:00
+chrome,mengdaiflgahpehifoiopgcdbjapabpn,bitcoin-price-converter,Bitcoin price converter,4.5,13,coen.baars,2020-02-22 00:00:00
+chrome,gkpgfnkkpnffhdidnjnainjfbfhoipbb,the-crypto-lab,The Crypto Lab,0.0,8,Louis Mzk,2020-03-20 00:00:00
 chrome,pjnkofkkpkdfaodaifjnipgelgeojimo,bitcoin-price-checker,Bitcoin Price Checker,0.0,2,Peter Pasmik,2017-02-08 00:00:00
 chrome,ieafcflodgfbcjeggikhlnckkfkhbmln,make-crypto-easier,Make Crypto Easier,0.0,0,Louis Mzk,2020-03-25 00:00:00
-chrome,dobommehlbkjcjnbmhnnbcphncncjpid,bitstamp-btc-price,Bitstamp BTC price,4.636363636363637,524,tanel,2014-11-13 00:00:00
-chrome,inpkhjhgpbkjdaomkiacfamklnocegdj,bitcoin-price-at-bitstamp,Bitcoin price at Bitstamp,4.0,537,Bernardo Boncompagni,2019-06-03 00:00:00
-chrome,nigofnodkhdddononlbhlmdpnelliolh,bitstamp-xrp-price,Bitstamp XRP price,5.0,26,tanel,2018-04-18 00:00:00
-chrome,iloecoadcnbkhepoaacjnegdmhapiiek,bitstamp-ticker,Bitstamp Ticker,4.5,105,Piotrek,2020-07-30 00:00:00
-chrome,hjacdkfgnmaigbmeejkjacecoibojgdn,bitcoin-go,Bitcoin GO,5.0,56,colkito,2014-01-29 00:00:00
-chrome,ldcajifcaeieoojchklbbfminmlkkmdc,xrp-bitstamp-price,XRP Bitstamp Price,5.0,10,adrien.baux,2017-12-14 00:00:00
-chrome,jkekogmpjjmhajnmocggebnklcpdkmjn,bitstamp-price-ticker,Bitstamp Price Ticker,5.0,13,blocktistic.com,2018-10-02 00:00:00
+chrome,dobommehlbkjcjnbmhnnbcphncncjpid,bitstamp-btc-price,Bitstamp BTC price,4.636363636363637,539,tanel,2014-11-13 00:00:00
+chrome,inpkhjhgpbkjdaomkiacfamklnocegdj,bitcoin-price-at-bitstamp,Bitcoin price at Bitstamp,4.0,542,Bernardo Boncompagni,2019-06-03 00:00:00
+chrome,nigofnodkhdddononlbhlmdpnelliolh,bitstamp-xrp-price,Bitstamp XRP price,5.0,29,tanel,2018-04-18 00:00:00
+chrome,iloecoadcnbkhepoaacjnegdmhapiiek,bitstamp-ticker,Bitstamp Ticker,4.5,102,Piotrek,2020-07-30 00:00:00
+chrome,hjacdkfgnmaigbmeejkjacecoibojgdn,bitcoin-go,Bitcoin GO,5.0,54,colkito,2014-01-29 00:00:00
+chrome,jkekogmpjjmhajnmocggebnklcpdkmjn,bitstamp-price-ticker,Bitstamp Price Ticker,5.0,12,blocktistic.com,2018-10-02 00:00:00
+chrome,ldcajifcaeieoojchklbbfminmlkkmdc,xrp-bitstamp-price,XRP Bitstamp Price,5.0,9,adrien.baux,2017-12-14 00:00:00
 chrome,fbbckponafgkennhnmgfoikfmbkiplgp,coinstats-crypto-portfoli,CoinStats - Crypto Portfolio Tracker,4.733333333333333,"3,000",Coin Stats Inc,2020-10-09 00:00:00
-chrome,dhgedagabpahigmghcghlhklpkhnmmjn,trading-bot-goodwinbit,Trading Bot GoodwinBit,0.0,178,dr.Goodwin,2020-08-03 00:00:00
-chrome,dloinlbpnlkcldoghjohgcgcffpjcdgd,bitcoinlitecoin-ticker-al,Bitcoin/Litecoin Ticker Alarm,4.0,104,shaohua,2015-07-10 00:00:00
-chrome,pdijpndilfpgemgnkjjhkgjckibjffbo,litecoin-ticker,Litecoin Ticker,5.0,59,bukowski12,2019-05-31 00:00:00
-chrome,hbojnodgdgldmojbedldhdchcjhheeka,bitcoin-price-ticker,Bitcoin Price Ticker,5.0,33,Nick Zelei,2016-03-13 00:00:00
+chrome,dhgedagabpahigmghcghlhklpkhnmmjn,trading-bot-goodwinbit,Trading Bot GoodwinBit,0.0,176,dr.Goodwin,2020-08-03 00:00:00
+chrome,dloinlbpnlkcldoghjohgcgcffpjcdgd,bitcoinlitecoin-ticker-al,Bitcoin/Litecoin Ticker Alarm,4.0,97,shaohua,2015-07-10 00:00:00
+chrome,pdijpndilfpgemgnkjjhkgjckibjffbo,litecoin-ticker,Litecoin Ticker,5.0,60,bukowski12,2019-05-31 00:00:00
+chrome,hbojnodgdgldmojbedldhdchcjhheeka,bitcoin-price-ticker,Bitcoin Price Ticker,5.0,37,Nick Zelei,2016-03-13 00:00:00
 chrome,bgddejjmhilkdllbakkgddjodommlimc,bitcoin-price-ticker,Bitcoin price ticker,4.2,"4,000",Extpose,2020-10-13 00:00:00
 chrome,hjpngjngpaepmgjgpcbihnajcjgkjepo,bitstamp-eur,BitStamp EUR,5.0,1,polamat91,2017-01-13 00:00:00
-chrome,kannkflplphkpabjoibccfgjkdhhcbmg,arbitraj-crypto-price-com,Arbitraj: Crypto Price Comparison,5.0,238,arbitraj.io,2018-10-06 00:00:00
-chrome,akngodfjackkjikgbaebbleigmafgbgm,popcoin,popCoin,5.0,100,Lee,2014-03-28 00:00:00
-chrome,jhbgelfndhaccioppbfadmjabloddnkg,simple-bitcoin-ticker,Simple Bitcoin Ticker,3.8,79,ryaneof,2015-10-01 00:00:00
-chrome,bdpjenagekcngpnbmgikbmfhaedkacln,biticker,Biticker,5.0,27,ronency,2018-02-19 00:00:00
-chrome,mengdaiflgahpehifoiopgcdbjapabpn,bitcoin-price-converter,Bitcoin price converter,4.5,12,coen.baars,2020-02-22 00:00:00
-chrome,gkpgfnkkpnffhdidnjnainjfbfhoipbb,the-crypto-lab,The Crypto Lab,0.0,10,Louis Mzk,2020-03-20 00:00:00
+chrome,kannkflplphkpabjoibccfgjkdhhcbmg,arbitraj-crypto-price-com,Arbitraj: Crypto Price Comparison,5.0,228,arbitraj.io,2018-10-06 00:00:00
+chrome,akngodfjackkjikgbaebbleigmafgbgm,popcoin,popCoin,5.0,102,Lee,2014-03-28 00:00:00
+chrome,jhbgelfndhaccioppbfadmjabloddnkg,simple-bitcoin-ticker,Simple Bitcoin Ticker,3.8,78,ryaneof,2015-10-01 00:00:00
+chrome,bdpjenagekcngpnbmgikbmfhaedkacln,biticker,Biticker,5.0,28,ronency,2018-02-19 00:00:00
+chrome,mengdaiflgahpehifoiopgcdbjapabpn,bitcoin-price-converter,Bitcoin price converter,4.5,13,coen.baars,2020-02-22 00:00:00
+chrome,gkpgfnkkpnffhdidnjnainjfbfhoipbb,the-crypto-lab,The Crypto Lab,0.0,8,Louis Mzk,2020-03-20 00:00:00
 chrome,bamdffmbacimgjpmgciacicjihmojehe,bitx-ticker,BitX Ticker,4.0,6,ZDev,2013-12-01 00:00:00
 chrome,pjnkofkkpkdfaodaifjnipgelgeojimo,bitcoin-price-checker,Bitcoin Price Checker,0.0,2,Peter Pasmik,2017-02-08 00:00:00
 chrome,niojdmjkbkmcnglfoalpangjmflcohap,okcash-price-ticker,Okcash Price Ticker,5.0,1,Demartini,2016-11-10 00:00:00
 chrome,ieafcflodgfbcjeggikhlnckkfkhbmln,make-crypto-easier,Make Crypto Easier,0.0,0,Louis Mzk,2020-03-25 00:00:00
 chrome,dbedkflggnhnaioijclkefdpkbmhfcof,bitcoin-ticker-light,Bitcoin Ticker Light,0.0,1,hodlercoasterguy,2017-10-18 00:00:00
-chrome,mmaebdpdmccndjceenijboocobhelkbh,hitbtc-bitcoin-exchange,HitBTC Bitcoin Exchange,4.555555555555555,51,hitbtc official,2018-04-22 00:00:00
+chrome,mmaebdpdmccndjceenijboocobhelkbh,hitbtc-bitcoin-exchange,HitBTC Bitcoin Exchange,4.555555555555555,53,hitbtc official,2018-04-22 00:00:00
 chrome,pcagabehepcflhhhbcbckbcjhdcpfika,hitbtc-balances-in-fiat-c,HitBTC balances in Fiat Currency,0.0,7,waqs,2018-06-11 00:00:00
 chrome,bgddejjmhilkdllbakkgddjodommlimc,bitcoin-price-ticker,Bitcoin price ticker,4.2,"4,000",Extpose,2020-10-13 00:00:00
-chrome,chohglfmmlfhnkloampcdmnnhnhegbfg,bitbns-extension,Bitbns Extension,4.230769230769231,"1,000",Bitbns,2020-10-28 00:00:00
-chrome,fbbckponafgkennhnmgfoikfmbkiplgp,coinstats-crypto-portfoli,CoinStats - Crypto Portfolio Tracker,4.733333333333333,"3,000",Coin Stats Inc,2020-10-09 00:00:00
-chrome,kannkflplphkpabjoibccfgjkdhhcbmg,arbitraj-crypto-price-com,Arbitraj: Crypto Price Comparison,5.0,238,arbitraj.io,2018-10-06 00:00:00
-chrome,pbgabfgeglpicagiimcbeimebebodlaf,coin-plow,Coin Plow,0.0,2,Coin Plow,2018-07-26 00:00:00
-chrome,iolnibnkdbeefplolabjjgbhihonmeic,zec-zcash-ticker-for-polo,ZEC / ZCASH Ticker for Poloniex,5.0,155,Kaakati,2017-03-21 00:00:00
-chrome,eogchmcoaekeffdonnikgkflbpaambip,eth-ethereum-ticker-for-p,ETH / Ethereum Ticker for Poloniex,5.0,65,Kaakati,2017-03-21 00:00:00
-chrome,ojjflicjfoiaeilelbmkbgijmapkdakk,btc-bitcoin-ticker-for-po,BTC / Bitcoin Ticker for Poloniex,4.666666666666667,53,Kaakati,2017-03-21 00:00:00
-chrome,leamhoehiacfjlelbljoeefheknfnhba,poloniex-bittradingtool,Poloniex BittradingTool,5.0,34,bitcointradingtool,2017-10-02 00:00:00
-chrome,njiogihgdaoaapjabcdekoohcnjladni,cryptocurrency-instant-ex,Cryptocurrency instant exchange swap,5.0,"30,000",Extpose,2019-10-10 00:00:00
+chrome,giigiakobnabpjepaocchngobehpbbgb,ada-ticker-cardano-ticker,ADA ticker | Cardano ticker,4.25,"1,000",peter.aupry,2018-03-21 00:00:00
 chrome,fbbckponafgkennhnmgfoikfmbkiplgp,coinstats-crypto-portfoli,CoinStats - Crypto Portfolio Tracker,4.733333333333333,"3,000",Coin Stats Inc,2020-10-09 00:00:00
 chrome,ahboebefkdoiomfpehlgjehokjjlndmj,eth-ticker-ethereum-ticke,ETH Ticker | Ethereum Ticker | Token Ticker,4.25,"2,000",Betonimig,2019-01-14 00:00:00
-chrome,gidpkdpdnngpfohekcfkfjbkieeihekj,btc-ticker-bitcoin-ticker,BTC Ticker | Bitcoin Ticker,4.846153846153846,"2,000",Betonimig,2020-11-06 00:00:00
-chrome,mbfcnfgpimdeehokhmhdhmpmkphdeamd,ethereum-price-ticker-eth,Ethereum Price Ticker | ETH Price Ticker,5.0,326,"Root Consulting, Inc",2020-08-08 00:00:00
-chrome,kannkflplphkpabjoibccfgjkdhhcbmg,arbitraj-crypto-price-com,Arbitraj: Crypto Price Comparison,5.0,238,arbitraj.io,2018-10-06 00:00:00
-chrome,ignpmignipmepahdookedpilckoeclob,cryptocurrency-price-tick,Cryptocurrency Price Ticker,3.8,251,mm21,2017-06-19 00:00:00
-chrome,bklbfdfcmohmmljcjhdofdphpdembfbm,divitopia-bitcoin-convert,Divitopia Bitcoin Convertor,5.0,148,Divi Project,2019-06-26 00:00:00
+chrome,gidpkdpdnngpfohekcfkfjbkieeihekj,btc-ticker-bitcoin-ticker,BTC Ticker | Bitcoin Ticker,4.857142857142857,"2,000",Betonimig,2020-11-06 00:00:00
+chrome,kannkflplphkpabjoibccfgjkdhhcbmg,arbitraj-crypto-price-com,Arbitraj: Crypto Price Comparison,5.0,228,arbitraj.io,2018-10-06 00:00:00
+chrome,ddmojnnanggcjkfpjlaeabeeadejcmde,ltc-ticker-litecoin-ticke,LTC Ticker | Litecoin Ticker,5.0,119,Betonimig,2019-03-10 00:00:00
+chrome,oiflppoidedbicdboldgadjhffejbiok,eth-ticker-ethereum-ticke,ETH ticker | Ethereum ticker,5.0,21,peter.aupry,2018-04-01 00:00:00
+chrome,chohglfmmlfhnkloampcdmnnhnhegbfg,bitbns-extension,Bitbns Extension,4.230769230769231,"1,000",Bitbns,2020-10-28 00:00:00
+chrome,fbbckponafgkennhnmgfoikfmbkiplgp,coinstats-crypto-portfoli,CoinStats - Crypto Portfolio Tracker,4.733333333333333,"3,000",Coin Stats Inc,2020-10-09 00:00:00
+chrome,kannkflplphkpabjoibccfgjkdhhcbmg,arbitraj-crypto-price-com,Arbitraj: Crypto Price Comparison,5.0,228,arbitraj.io,2018-10-06 00:00:00
+chrome,pbgabfgeglpicagiimcbeimebebodlaf,coin-plow,Coin Plow,0.0,1,Coin Plow,2018-07-26 00:00:00
+chrome,kannkflplphkpabjoibccfgjkdhhcbmg,arbitraj-crypto-price-com,Arbitraj: Crypto Price Comparison,5.0,228,arbitraj.io,2018-10-06 00:00:00
+chrome,ljjeeiafelmogjhklanhkbkodcmgdchn,bitcoin-samba-価格監視ツール,Bitcoin Samba 価格監視ツール,0.0,0,Kanta Yamaoka,2020-11-29 00:00:00
+chrome,mengdaiflgahpehifoiopgcdbjapabpn,bitcoin-price-converter,Bitcoin price converter,4.5,13,coen.baars,2020-02-22 00:00:00
+chrome,iolnibnkdbeefplolabjjgbhihonmeic,zec-zcash-ticker-for-polo,ZEC / ZCASH Ticker for Poloniex,5.0,168,Kaakati,2017-03-21 00:00:00
+chrome,eogchmcoaekeffdonnikgkflbpaambip,eth-ethereum-ticker-for-p,ETH / Ethereum Ticker for Poloniex,5.0,67,Kaakati,2017-03-21 00:00:00
+chrome,ojjflicjfoiaeilelbmkbgijmapkdakk,btc-bitcoin-ticker-for-po,BTC / Bitcoin Ticker for Poloniex,4.666666666666667,60,Kaakati,2017-03-21 00:00:00
+chrome,leamhoehiacfjlelbljoeefheknfnhba,poloniex-bittradingtool,Poloniex BittradingTool,5.0,36,bitcointradingtool,2017-10-02 00:00:00
+chrome,fbbckponafgkennhnmgfoikfmbkiplgp,coinstats-crypto-portfoli,CoinStats - Crypto Portfolio Tracker,4.733333333333333,"3,000",Coin Stats Inc,2020-10-09 00:00:00
+chrome,ahboebefkdoiomfpehlgjehokjjlndmj,eth-ticker-ethereum-ticke,ETH Ticker | Ethereum Ticker | Token Ticker,4.25,"2,000",Betonimig,2019-01-14 00:00:00
+chrome,gidpkdpdnngpfohekcfkfjbkieeihekj,btc-ticker-bitcoin-ticker,BTC Ticker | Bitcoin Ticker,4.857142857142857,"2,000",Betonimig,2020-11-06 00:00:00
+chrome,mbfcnfgpimdeehokhmhdhmpmkphdeamd,ethereum-price-ticker-eth,Ethereum Price Ticker | ETH Price Ticker,5.0,321,"Root Consulting, Inc",2020-08-08 00:00:00
+chrome,ignpmignipmepahdookedpilckoeclob,cryptocurrency-price-tick,Cryptocurrency Price Ticker,3.8,250,mm21,2017-06-19 00:00:00
+chrome,kannkflplphkpabjoibccfgjkdhhcbmg,arbitraj-crypto-price-com,Arbitraj: Crypto Price Comparison,5.0,228,arbitraj.io,2018-10-06 00:00:00
+chrome,bklbfdfcmohmmljcjhdofdphpdembfbm,divitopia-bitcoin-convert,Divitopia Bitcoin Convertor,5.0,152,Divi Project,2019-06-26 00:00:00
 chrome,miljiclkoheejfjlmablcdjmoplmbbco,vertcoin-price-ticker-for,Vertcoin Price Ticker for Poloniex,0.0,1,Kaakati,2017-12-27 00:00:00
-chrome,ddmojnnanggcjkfpjlaeabeeadejcmde,ltc-ticker-litecoin-ticke,LTC Ticker | Litecoin Ticker,5.0,122,Betonimig,2019-03-10 00:00:00
-chrome,ljplephkcffoeflfflmdifkmmfkjplnf,btc-exchange-monitor,BTC exchange monitor,3.6666666666666665,13,Kein,2017-12-08 00:00:00
-chrome,mfeppkcihannckidjbdcfnggfgmljkpf,vertcoin-price-ticker,Vertcoin Price Ticker,5.0,9,overthink.it,2016-02-02 00:00:00
+chrome,ddmojnnanggcjkfpjlaeabeeadejcmde,ltc-ticker-litecoin-ticke,LTC Ticker | Litecoin Ticker,5.0,119,Betonimig,2019-03-10 00:00:00
+chrome,ljplephkcffoeflfflmdifkmmfkjplnf,btc-exchange-monitor,BTC exchange monitor,3.6666666666666665,10,Kein,2017-12-08 00:00:00
+chrome,mfeppkcihannckidjbdcfnggfgmljkpf,vertcoin-price-ticker,Vertcoin Price Ticker,5.0,10,overthink.it,2016-02-02 00:00:00
 chrome,coddelabcejpjgliangijfkcfeggnbjl,bitcoinplus-ticker,BitcoinPlus Ticker,0.0,2,m4q4,2014-05-06 00:00:00
+chrome,njiogihgdaoaapjabcdekoohcnjladni,cryptocurrency-instant-ex,Cryptocurrency instant exchange swap,5.0,"30,000",Extpose,2019-10-10 00:00:00
 chrome,opefelljddckamffnphohkknfgbdnham,bittrex-enhanced,Bittrex Enhanced,4.0212765957446805,"7,000",CryptoNirvana,2017-12-24 00:00:00
 chrome,hdchkkimlockolfnpkanppdldbmefkdn,better-bittrex,Better Bittrex,4.304347826086956,"1,000",stuckpigg,2018-04-17 00:00:00
-chrome,omgobhmnijhlbdflmamdokpfcaifaiic,bittrex-balances-in-legal,Bittrex balances in legal currency,4.5,334,waqs,2018-08-14 00:00:00
-chrome,gaagaiacppejplcoonchkpgegopmplgl,b网助手-bittrexcom翻译助手,B网助手 bittrex.com翻译助手,5.0,842,漫游科技,2017-10-19 00:00:00
-chrome,objgonilomonlmlfhgdaedghadgndkpm,improved-bittrex,Improved Bittrex,4.75,117,Marvin,2017-10-25 00:00:00
+chrome,omgobhmnijhlbdflmamdokpfcaifaiic,bittrex-balances-in-legal,Bittrex balances in legal currency,4.5,345,waqs,2018-08-14 00:00:00
+chrome,gaagaiacppejplcoonchkpgegopmplgl,b网助手-bittrexcom翻译助手,B网助手 bittrex.com翻译助手,5.0,835,漫游科技,2017-10-19 00:00:00
+chrome,objgonilomonlmlfhgdaedghadgndkpm,improved-bittrex,Improved Bittrex,4.75,118,Marvin,2017-10-25 00:00:00
 chrome,enampmoogmjoofjmpobfdmgflljfacnl,crypto-correct,Crypto Correct,4.35,"1,000",Uzair Farooq,2017-11-25 00:00:00
-chrome,hllgbphaemadbdkhieboiodapooclfan,ethmarkets-for-bittrex,EthMarkets For Bittrex,0.0,9,ethmarketextension,2017-08-19 00:00:00
+chrome,hllgbphaemadbdkhieboiodapooclfan,ethmarkets-for-bittrex,EthMarkets For Bittrex,0.0,10,ethmarketextension,2017-08-19 00:00:00
 chrome,fbbckponafgkennhnmgfoikfmbkiplgp,coinstats-crypto-portfoli,CoinStats - Crypto Portfolio Tracker,4.733333333333333,"3,000",Coin Stats Inc,2020-10-09 00:00:00
 chrome,epfkdlghgcjdonodehdakmmidlklindn,crypto-launcher,Crypto Launcher,0.0,68,bitcoinfomo,2018-01-31 00:00:00
 chrome,giigiakobnabpjepaocchngobehpbbgb,ada-ticker-cardano-ticker,ADA ticker | Cardano ticker,4.25,"1,000",peter.aupry,2018-03-21 00:00:00
 chrome,cghcagmfbaehgiilpakoioohhnnlbbia,bittrex-btc-to-usd,Bittrex BTC to USD,0.0,4,fahad.jameel02,2018-01-05 00:00:00
 chrome,cnogbbmciffpibmkphohpebghmomaemi,bittube-airtime-donations,"BitTube AirTime, Donations, Adblocker, Wallet",4.43448275862069,"10,000",BitTubeINT OÜ,2020-08-21 00:00:00
-chrome,njiogihgdaoaapjabcdekoohcnjladni,cryptocurrency-instant-ex,Cryptocurrency instant exchange swap,5.0,"30,000",Extpose,2019-10-10 00:00:00
 chrome,gcjmapcnniikogigfhdmemplhbjpgopd,bittrex-night,Bittrex night,5.0,1,peter.aupry,2018-03-14 00:00:00
 chrome,ahboebefkdoiomfpehlgjehokjjlndmj,eth-ticker-ethereum-ticke,ETH Ticker | Ethereum Ticker | Token Ticker,4.25,"2,000",Betonimig,2019-01-14 00:00:00
-chrome,gidpkdpdnngpfohekcfkfjbkieeihekj,btc-ticker-bitcoin-ticker,BTC Ticker | Bitcoin Ticker,4.846153846153846,"2,000",Betonimig,2020-11-06 00:00:00
-chrome,kannkflplphkpabjoibccfgjkdhhcbmg,arbitraj-crypto-price-com,Arbitraj: Crypto Price Comparison,5.0,238,arbitraj.io,2018-10-06 00:00:00
-chrome,ddmojnnanggcjkfpjlaeabeeadejcmde,ltc-ticker-litecoin-ticke,LTC Ticker | Litecoin Ticker,5.0,122,Betonimig,2019-03-10 00:00:00
-chrome,gemckbcnhjhpkieinkcpdeemgjidlmfn,cryptocurrency-website-an,Cryptocurrency website anti phishing,5.0,21,Arman Feyzi,2019-04-28 00:00:00
+chrome,gidpkdpdnngpfohekcfkfjbkieeihekj,btc-ticker-bitcoin-ticker,BTC Ticker | Bitcoin Ticker,4.857142857142857,"2,000",Betonimig,2020-11-06 00:00:00
+chrome,kannkflplphkpabjoibccfgjkdhhcbmg,arbitraj-crypto-price-com,Arbitraj: Crypto Price Comparison,5.0,228,arbitraj.io,2018-10-06 00:00:00
+chrome,ddmojnnanggcjkfpjlaeabeeadejcmde,ltc-ticker-litecoin-ticke,LTC Ticker | Litecoin Ticker,5.0,119,Betonimig,2019-03-10 00:00:00
+chrome,gemckbcnhjhpkieinkcpdeemgjidlmfn,cryptocurrency-website-an,Cryptocurrency website anti phishing,5.0,20,Arman Feyzi,2019-04-28 00:00:00
 chrome,oiflppoidedbicdboldgadjhffejbiok,eth-ticker-ethereum-ticke,ETH ticker | Ethereum ticker,5.0,21,peter.aupry,2018-04-01 00:00:00
-chrome,ljplephkcffoeflfflmdifkmmfkjplnf,btc-exchange-monitor,BTC exchange monitor,3.6666666666666665,13,Kein,2017-12-08 00:00:00
-chrome,mengdaiflgahpehifoiopgcdbjapabpn,bitcoin-price-converter,Bitcoin price converter,4.5,12,coen.baars,2020-02-22 00:00:00
-chrome,mfeppkcihannckidjbdcfnggfgmljkpf,vertcoin-price-ticker,Vertcoin Price Ticker,5.0,9,overthink.it,2016-02-02 00:00:00
+chrome,mengdaiflgahpehifoiopgcdbjapabpn,bitcoin-price-converter,Bitcoin price converter,4.5,13,coen.baars,2020-02-22 00:00:00
+chrome,ljplephkcffoeflfflmdifkmmfkjplnf,btc-exchange-monitor,BTC exchange monitor,3.6666666666666665,10,Kein,2017-12-08 00:00:00
+chrome,mfeppkcihannckidjbdcfnggfgmljkpf,vertcoin-price-ticker,Vertcoin Price Ticker,5.0,10,overthink.it,2016-02-02 00:00:00
 chrome,anipojaclholehpaioakjgkhbdmljmok,okcash-price-ticker,OKCash Price Ticker,0.0,1,greenbigfrog,2017-08-30 00:00:00
-chrome,mldmimcggjcjklchonpiocpicijmmpph,bittrexuatu,Bittrex_uatu,0.0,1,danielostapenko,2017-11-05 00:00:00
-chrome,pbgabfgeglpicagiimcbeimebebodlaf,coin-plow,Coin Plow,0.0,2,Coin Plow,2018-07-26 00:00:00
+chrome,mldmimcggjcjklchonpiocpicijmmpph,bittrexuatu,Bittrex_uatu,0.0,2,danielostapenko,2017-11-05 00:00:00
 chrome,niojdmjkbkmcnglfoalpangjmflcohap,okcash-price-ticker,Okcash Price Ticker,5.0,1,Demartini,2016-11-10 00:00:00
-chrome,nakabcjnpaehamceglacpogdnohodafh,bitcointry,BitcoinTRY,4.777777777777778,76,apoletstudios,2017-11-01 00:00:00
-chrome,chohglfmmlfhnkloampcdmnnhnhegbfg,bitbns-extension,Bitbns Extension,4.230769230769231,"1,000",Bitbns,2020-10-28 00:00:00
-chrome,dloinlbpnlkcldoghjohgcgcffpjcdgd,bitcoinlitecoin-ticker-al,Bitcoin/Litecoin Ticker Alarm,4.0,104,shaohua,2015-07-10 00:00:00
-chrome,ojopeinoooepnfnmifmmjebccpnjamea,vechain-price-checker,VeChain Price Checker,4.6,96,A Byte Ahead,2020-10-14 00:00:00
-chrome,oggbildghlaglfmmpekjgejajohilbmm,huobi-eco-chain-wallet,Huobi Eco Chain Wallet,5.0,4,Huobi Blockchain,2020-12-02 00:00:00
 chrome,njiogihgdaoaapjabcdekoohcnjladni,cryptocurrency-instant-ex,Cryptocurrency instant exchange swap,5.0,"30,000",Extpose,2019-10-10 00:00:00
-chrome,fbbckponafgkennhnmgfoikfmbkiplgp,coinstats-crypto-portfoli,CoinStats - Crypto Portfolio Tracker,4.733333333333333,"3,000",Coin Stats Inc,2020-10-09 00:00:00
-chrome,jhbgelfndhaccioppbfadmjabloddnkg,simple-bitcoin-ticker,Simple Bitcoin Ticker,3.8,79,ryaneof,2015-10-01 00:00:00
-chrome,gohgaliidhnkpanhibpmneeiijmndbba,necoyoad-crypto-trader-as,Necoyoad Crypto Trader Assistant,0.0,7,Necoyoad,2019-09-20 00:00:00
-chrome,pbgabfgeglpicagiimcbeimebebodlaf,coin-plow,Coin Plow,0.0,2,Coin Plow,2018-07-26 00:00:00
-chrome,kannkflplphkpabjoibccfgjkdhhcbmg,arbitraj-crypto-price-com,Arbitraj: Crypto Price Comparison,5.0,238,arbitraj.io,2018-10-06 00:00:00
-chrome,ljjeeiafelmogjhklanhkbkodcmgdchn,bitcoin-samba-価格監視ツール,Bitcoin Samba 価格監視ツール,0.0,0,Kanta Yamaoka,2020-11-29 00:00:00
-chrome,mengdaiflgahpehifoiopgcdbjapabpn,bitcoin-price-converter,Bitcoin price converter,4.5,12,coen.baars,2020-02-22 00:00:00
-chrome,mpgialbmpebikleajmfchkgjgjplnfjj,bitcoin-price-tracker,Bitcoin Price Tracker,5.0,32,tohuem,2017-08-28 00:00:00
-chrome,kannkflplphkpabjoibccfgjkdhhcbmg,arbitraj-crypto-price-com,Arbitraj: Crypto Price Comparison,5.0,238,arbitraj.io,2018-10-06 00:00:00
-chrome,bcplcldimgcjgjjcghmilomdkbmoogai,usdt-tether-alert,USDT Tether Alert,5.0,22,happy elephant web development,2019-11-10 00:00:00
-chrome,mengdaiflgahpehifoiopgcdbjapabpn,bitcoin-price-converter,Bitcoin price converter,4.5,12,coen.baars,2020-02-22 00:00:00
+chrome,pbgabfgeglpicagiimcbeimebebodlaf,coin-plow,Coin Plow,0.0,1,Coin Plow,2018-07-26 00:00:00
+chrome,nakabcjnpaehamceglacpogdnohodafh,bitcointry,BitcoinTRY,4.777777777777778,74,apoletstudios,2017-11-01 00:00:00
+chrome,mpgialbmpebikleajmfchkgjgjplnfjj,bitcoin-price-tracker,Bitcoin Price Tracker,5.0,35,tohuem,2017-08-28 00:00:00
+chrome,kannkflplphkpabjoibccfgjkdhhcbmg,arbitraj-crypto-price-com,Arbitraj: Crypto Price Comparison,5.0,228,arbitraj.io,2018-10-06 00:00:00
+chrome,bcplcldimgcjgjjcghmilomdkbmoogai,usdt-tether-alert,USDT Tether Alert,5.0,23,happy elephant web development,2019-11-10 00:00:00
+chrome,mengdaiflgahpehifoiopgcdbjapabpn,bitcoin-price-converter,Bitcoin price converter,4.5,13,coen.baars,2020-02-22 00:00:00
 chrome,giigiakobnabpjepaocchngobehpbbgb,ada-ticker-cardano-ticker,ADA ticker | Cardano ticker,4.25,"1,000",peter.aupry,2018-03-21 00:00:00
-chrome,pgiolmcnaolnlfkaoomonijbanbohbci,upbitpremiumbittrex,UpbitPremiumBittrex,4.0,49,twlovesh89,2018-03-04 00:00:00
+chrome,pgiolmcnaolnlfkaoomonijbanbohbci,upbitpremiumbittrex,UpbitPremiumBittrex,4.0,48,twlovesh89,2018-03-04 00:00:00
 chrome,lleoahfonbeenjhjlkpmilmeengknlnp,jstbuy-hide-upbit-sell-bu,JSTbuy - Hide upbit sell button,0.0,0,limebear,2020-11-24 00:00:00
 chrome,jlnmjekmbboahjghfaoliefacdpdcegp,upbitmacro,Upbit_Macro,0.0,39,petabyte,2020-03-02 00:00:00
 chrome,oiflppoidedbicdboldgadjhffejbiok,eth-ticker-ethereum-ticke,ETH ticker | Ethereum ticker,5.0,21,peter.aupry,2018-04-01 00:00:00
 chrome,fbbckponafgkennhnmgfoikfmbkiplgp,coinstats-crypto-portfoli,CoinStats - Crypto Portfolio Tracker,4.733333333333333,"3,000",Coin Stats Inc,2020-10-09 00:00:00
-chrome,nakabcjnpaehamceglacpogdnohodafh,bitcointry,BitcoinTRY,4.777777777777778,76,apoletstudios,2017-11-01 00:00:00
 chrome,ghmapnpgeeilnbgokdahdoacjjjenfml,coinone-addons,Coinone Addons,4.2,108,ggubara,2017-06-15 00:00:00
-chrome,jbcnhpmpjnokefglfmcaackpjkpidgfb,coinone-help,Coinone Help,0.0,9,Abusado DNS,2018-10-02 00:00:00
-chrome,kannkflplphkpabjoibccfgjkdhhcbmg,arbitraj-crypto-price-com,Arbitraj: Crypto Price Comparison,5.0,238,arbitraj.io,2018-10-06 00:00:00
+chrome,jbcnhpmpjnokefglfmcaackpjkpidgfb,coinone-help,Coinone Help,0.0,10,Abusado DNS,2018-10-02 00:00:00
+chrome,kannkflplphkpabjoibccfgjkdhhcbmg,arbitraj-crypto-price-com,Arbitraj: Crypto Price Comparison,5.0,228,arbitraj.io,2018-10-06 00:00:00
 chrome,polaknpadchlpdnadpddddgeoacjmlid,how-much-i-bought-at-coin,How much I bought at Coincheck,0.0,1,hiro,2018-01-22 00:00:00
-chrome,aicnoeecmjdphleddljcegeojbabfhnk,coinview-of-bitcoin-altco,CoinView of Bitcoin Altcoin & cryptocurrency,5.0,873,COINJINJA K.K.,2018-05-25 00:00:00
-chrome,ojopeinoooepnfnmifmmjebccpnjamea,vechain-price-checker,VeChain Price Checker,4.6,96,A Byte Ahead,2020-10-14 00:00:00
-chrome,dloinlbpnlkcldoghjohgcgcffpjcdgd,bitcoinlitecoin-ticker-al,Bitcoin/Litecoin Ticker Alarm,4.0,104,shaohua,2015-07-10 00:00:00
+chrome,aicnoeecmjdphleddljcegeojbabfhnk,coinview-of-bitcoin-altco,CoinView of Bitcoin Altcoin & cryptocurrency,5.0,876,COINJINJA K.K.,2018-05-25 00:00:00
+chrome,nakabcjnpaehamceglacpogdnohodafh,bitcointry,BitcoinTRY,4.777777777777778,74,apoletstudios,2017-11-01 00:00:00
+chrome,ojopeinoooepnfnmifmmjebccpnjamea,vechain-price-checker,VeChain Price Checker,4.6,98,A Byte Ahead,2020-10-14 00:00:00
+chrome,dloinlbpnlkcldoghjohgcgcffpjcdgd,bitcoinlitecoin-ticker-al,Bitcoin/Litecoin Ticker Alarm,4.0,97,shaohua,2015-07-10 00:00:00
 chrome,bgddejjmhilkdllbakkgddjodommlimc,bitcoin-price-ticker,Bitcoin price ticker,4.2,"4,000",Extpose,2020-10-13 00:00:00
-chrome,kannkflplphkpabjoibccfgjkdhhcbmg,arbitraj-crypto-price-com,Arbitraj: Crypto Price Comparison,5.0,238,arbitraj.io,2018-10-06 00:00:00
-chrome,jhbgelfndhaccioppbfadmjabloddnkg,simple-bitcoin-ticker,Simple Bitcoin Ticker,3.8,79,ryaneof,2015-10-01 00:00:00
+chrome,kannkflplphkpabjoibccfgjkdhhcbmg,arbitraj-crypto-price-com,Arbitraj: Crypto Price Comparison,5.0,228,arbitraj.io,2018-10-06 00:00:00
+chrome,jhbgelfndhaccioppbfadmjabloddnkg,simple-bitcoin-ticker,Simple Bitcoin Ticker,3.8,78,ryaneof,2015-10-01 00:00:00
 chrome,bamdffmbacimgjpmgciacicjihmojehe,bitx-ticker,BitX Ticker,4.0,6,ZDev,2013-12-01 00:00:00
 chrome,pjnkofkkpkdfaodaifjnipgelgeojimo,bitcoin-price-checker,Bitcoin Price Checker,0.0,2,Peter Pasmik,2017-02-08 00:00:00
 chrome,opefelljddckamffnphohkknfgbdnham,bittrex-enhanced,Bittrex Enhanced,4.0212765957446805,"7,000",CryptoNirvana,2017-12-24 00:00:00
-chrome,mengdaiflgahpehifoiopgcdbjapabpn,bitcoin-price-converter,Bitcoin price converter,4.5,12,coen.baars,2020-02-22 00:00:00
-chrome,bklbfdfcmohmmljcjhdofdphpdembfbm,divitopia-bitcoin-convert,Divitopia Bitcoin Convertor,5.0,148,Divi Project,2019-06-26 00:00:00
-chrome,kannkflplphkpabjoibccfgjkdhhcbmg,arbitraj-crypto-price-com,Arbitraj: Crypto Price Comparison,5.0,238,arbitraj.io,2018-10-06 00:00:00
-chrome,efaeldhkpmfpkjhlcffaaikfiiidgpip,mercado-bit-coin-unoffici,Mercado bit coin unofficial,5.0,8,mhassegawa,2017-12-20 00:00:00
-chrome,pkjoeljgmgkmelkaiodnmplblajeciic,mercado-bitcoin-ticker,Mercado Bitcoin Ticker,4.833333333333333,354,Uilian Souza,2017-12-12 00:00:00
-chrome,kannkflplphkpabjoibccfgjkdhhcbmg,arbitraj-crypto-price-com,Arbitraj: Crypto Price Comparison,5.0,238,arbitraj.io,2018-10-06 00:00:00
+chrome,mengdaiflgahpehifoiopgcdbjapabpn,bitcoin-price-converter,Bitcoin price converter,4.5,13,coen.baars,2020-02-22 00:00:00
+chrome,bklbfdfcmohmmljcjhdofdphpdembfbm,divitopia-bitcoin-convert,Divitopia Bitcoin Convertor,5.0,152,Divi Project,2019-06-26 00:00:00
+chrome,efaeldhkpmfpkjhlcffaaikfiiidgpip,mercado-bit-coin-unoffici,Mercado bit coin unofficial,5.0,10,mhassegawa,2017-12-20 00:00:00
+chrome,pkjoeljgmgkmelkaiodnmplblajeciic,mercado-bitcoin-ticker,Mercado Bitcoin Ticker,4.833333333333333,358,Uilian Souza,2017-12-12 00:00:00
+chrome,kannkflplphkpabjoibccfgjkdhhcbmg,arbitraj-crypto-price-com,Arbitraj: Crypto Price Comparison,5.0,228,arbitraj.io,2018-10-06 00:00:00
+chrome,kannkflplphkpabjoibccfgjkdhhcbmg,arbitraj-crypto-price-com,Arbitraj: Crypto Price Comparison,5.0,228,arbitraj.io,2018-10-06 00:00:00
 chrome,bgddejjmhilkdllbakkgddjodommlimc,bitcoin-price-ticker,Bitcoin price ticker,4.2,"4,000",Extpose,2020-10-13 00:00:00
-chrome,kannkflplphkpabjoibccfgjkdhhcbmg,arbitraj-crypto-price-com,Arbitraj: Crypto Price Comparison,5.0,238,arbitraj.io,2018-10-06 00:00:00
-chrome,bcplcldimgcjgjjcghmilomdkbmoogai,usdt-tether-alert,USDT Tether Alert,5.0,22,happy elephant web development,2019-11-10 00:00:00
+chrome,kannkflplphkpabjoibccfgjkdhhcbmg,arbitraj-crypto-price-com,Arbitraj: Crypto Price Comparison,5.0,228,arbitraj.io,2018-10-06 00:00:00
+chrome,bcplcldimgcjgjjcghmilomdkbmoogai,usdt-tether-alert,USDT Tether Alert,5.0,23,happy elephant web development,2019-11-10 00:00:00
 chrome,ofcifgpkhdehcpkbnicmjnceebpcilno,coinmark-cryptocurrency-m,Coinmark - Cryptocurrency Market Prices,4.25,"1,000",Coinmark,2019-08-29 00:00:00
-chrome,jlbkpppjbkmkjjemjcofmccodofkknmc,cryptocurrency-prices-cha,Cryptocurrency Prices & Charts - BitDuck,5.0,107,CrisValls,2020-11-16 00:00:00
+chrome,jlbkpppjbkmkjjemjcofmccodofkknmc,cryptocurrency-prices-cha,Cryptocurrency Prices & Charts - BitDuck,5.0,120,CrisValls,2020-12-04 00:00:00
 chrome,onpcphabebepnplpbjneehnbdghcpabd,criptocurrency-checker,Criptocurrency Checker,5.0,1,dev-ssx,2018-08-17 00:00:00
-chrome,kfkmakbpfgmgeiajohdbdddbeikdkhkm,ethereum-hoje,Ethereum Hoje,4.75,"1,000",Pedro Menezes,2018-05-21 00:00:00
-chrome,ldbikceofpgkjbmoijglmnaphdcfmklp,ethereum-gethdesk,Ethereum GethDesk,4.333333333333333,673,Eduard Karpa,2019-01-05 00:00:00
-chrome,ahboebefkdoiomfpehlgjehokjjlndmj,eth-ticker-ethereum-ticke,ETH Ticker | Ethereum Ticker | Token Ticker,4.25,"2,000",Betonimig,2019-01-14 00:00:00
-chrome,jbdaocneiiinmjbjlgalhcelgbejmnid,nifty-wallet,Nifty Wallet,4.7727272727272725,"3,000",POA Network,2020-11-13 00:00:00
-chrome,njbclohenpagagafbmdipcdoogfpnfhp,ethereum-gas-prices,Ethereum Gas Prices,5.0,189,Philippe Masset,2020-09-18 00:00:00
-chrome,pjpaehngacdnemhiokleffbaohinhioi,altcoin-fantasy-crypto-fa,Altcoin Fantasy - Crypto Fantasy Trading Game,5.0,371,ACF,2018-03-04 00:00:00
-chrome,mbfcnfgpimdeehokhmhdhmpmkphdeamd,ethereum-price-ticker-eth,Ethereum Price Ticker | ETH Price Ticker,5.0,326,"Root Consulting, Inc",2020-08-08 00:00:00
-chrome,pdknmigbbbhmllnmgdfalmedcmcefdfn,etheraddresslookup,EtherAddressLookup,4.555555555555555,"60,000",Harry,2020-09-04 00:00:00
-chrome,jkaiofboahfpipgijdgdmbdldlgcipgo,ens-gateway-eth-domain-br,ENS Gateway: .Eth Domain Browser for Ethereum,4.857142857142857,274,Soule Labs,2017-12-03 00:00:00
-chrome,innfmlnnhfcebjcnfopadflecemoddnp,ethereum-gas-price-extens,Ethereum Gas Price Extension,4.9,"3,000",nieldlr,2020-11-04 00:00:00
-chrome,llcijkdpphgkpofnfkhkdidoblbiibpk,ethereum-tab-streaming-pr,Ethereum Tab - Streaming price & market info.,0.0,35,Blockmodo,2019-01-07 00:00:00
-chrome,emkijikhgigaoocojcfkcgkldfhokemo,ethereum-classic-hoje,Ethereum Classic Hoje,0.0,68,Pedro Menezes,2018-05-21 00:00:00
-chrome,hhbaknedgnnamobhnfdomcmdabhhbkbk,ethereum-and-etherum-clas,Ethereum and Etherum Classic price ticker,3.75,70,johnerfx,2017-03-17 00:00:00
-chrome,jedgfcnbkbgiheojcfkbphplgkhgppgf,ethereum-allinone-eth-tic,Ethereum AllInOne: ETH Ticker / Wallet viewer,4.5,37,Zed's Dev,2017-12-06 00:00:00
-chrome,nbdanhiimhghdlhjnjeplpplojecnjmh,eth-price-ethereum,ETH price (Ethereum),3.875,838,Raúl Marcos,2017-08-28 00:00:00
-chrome,mhhgjpidhclpobhkdnlopdfhfamalnia,stormx-shop-earn-crypto,StormX: Shop & Earn Crypto,5.0,"3,000",StormX Singapore PTE. LTD.,2020-11-23 00:00:00
-chrome,lbggcmmelaomcbgmeccjfejpamehbhin,yezcoin-ethereum-scam-add,Yezcoin Ethereum Scam Address Detector,5.0,23,Yezcoin Pte.Ltd.,2018-07-16 00:00:00
-chrome,ofcifgpkhdehcpkbnicmjnceebpcilno,coinmark-cryptocurrency-m,Coinmark - Cryptocurrency Market Prices,4.25,"1,000",Coinmark,2019-08-29 00:00:00
-chrome,fhbohimaelbohpjbbldcngcnapndodjp,binance-chain-wallet,Binance Chain Wallet,3.9047619047619047,"20,000",Binance Chain,2020-12-01 00:00:00
-chrome,eogchmcoaekeffdonnikgkflbpaambip,eth-ethereum-ticker-for-p,ETH / Ethereum Ticker for Poloniex,5.0,65,Kaakati,2017-03-21 00:00:00
-chrome,lfpfdkldcgcmdioidcldjcmlfacnkild,ethereum-price,Ethereum price,5.0,31,ar2r,2018-01-17 00:00:00
-chrome,mblpipfoicjgcokcnnmbebnlooldfdjc,ethereum-tracker-euro-pri,Ethereum Tracker - Euro Price (ETHEUR),5.0,22,HamsterApps,2017-05-04 00:00:00
-chrome,dlnalaneihafdkdcekejdekiclgdghka,breadcrumbs-blockchain-in,Breadcrumbs Blockchain Investigate,5.0,19,Breadcrumbs,2020-08-22 00:00:00
-chrome,nkddgncdjgjfcddamfgcmfnlhccnimig,saturn-wallet,Saturn Wallet,4.647058823529412,"2,000",Saturn Network,2020-01-29 00:00:00
-chrome,blnieiiffboillknjnepogjhkgnoapac,equal-wallet,EQUAL Wallet,4.754098360655738,"1,000",equalnetwork,2020-08-21 00:00:00
-chrome,dconegbmnkoeccohdkifggkgdhoaedgc,ethereum-ethusd-price-tic,Ethereum (ETH/USD) Price Ticker,5.0,73,Taha,2020-03-20 00:00:00
-chrome,oiflppoidedbicdboldgadjhffejbiok,eth-ticker-ethereum-ticke,ETH ticker | Ethereum ticker,5.0,21,peter.aupry,2018-04-01 00:00:00
-chrome,mlliaggckjdoolejehkgkkcmfjlhmfak,ethereum-avatar,Ethereum Avatar,0.0,13,360disrupt,2018-02-13 00:00:00
-chrome,ibobolecjikcjgllkgfjmhilmhkidblp,bdtex-wallet,BDTEx Wallet,5.0,42,JustLiquidity,2019-11-03 00:00:00
-chrome,eifglbbbdbmfcjoeeokmpdmhkhcilfil,ethereum,Ethereum,5.0,11,lexansoft,2016-02-18 00:00:00
-chrome,egjiglhnofaenmabafhplabgimbcmlgf,ethereum-toolkit,Ethereum toolkit,5.0,8,hylsceptic,2018-08-13 00:00:00
-chrome,fhaehblnmlecgnedafkabonmkbogpkng,cointelegraph-—-bitcoin-e,Cointelegraph — Bitcoin & Ethereum News,5.0,165,Cointelegraph,2019-01-24 00:00:00
-chrome,japgcbmdokcibjdencjalgfjeglgbcgc,tx-ray-beta-protect-your,TX-ray (Beta): Protect Your Wallets,5.0,25,TX-ray,2020-03-19 00:00:00
-chrome,gffnngoochofmgpkbchpdbdjoijaohog,cryptocurrency-exchange-r,Cryptocurrency exchange rates & calculator,4.0843373493975905,"6,000",Cryptonator,2016-11-18 00:00:00
-chrome,caddnmdigajdehmjbnlkpmnckkcneckf,ethereum-price-in-usd,Ethereum price in USD,5.0,5,crypto prices,2020-10-06 00:00:00
-chrome,aehoaajegaoakamklmcbgefibhnilbip,veswallet-ethereum-wallet,VESwallet: Ethereum Wallet with VES Backup,0.0,7,VESvault,2018-03-11 00:00:00
-chrome,fbbckponafgkennhnmgfoikfmbkiplgp,coinstats-crypto-portfoli,CoinStats - Crypto Portfolio Tracker,4.733333333333333,"3,000",Coin Stats Inc,2020-10-09 00:00:00
-chrome,ofmoicejmilkphppeoekfhbpkleppdlb,coingecko-bitcoin-cryptoc,CoinGecko: Bitcoin & Cryptocurrency Market,4.857142857142857,"1,000",CoinGecko,2019-01-23 00:00:00
-chrome,eachlnokbkckmbhglohpcmhllebcdbme,ethereum-price-ticker-ale,Ethereum Price Ticker & Alert,0.0,3,happy elephant web development,2020-09-08 00:00:00
-chrome,fekkpefadofgnlkageinocamiapffnak,cryptokitties-finder,CryptoKitties Finder,0.0,60,Francesco Megna,2018-04-05 00:00:00
-chrome,loifgkdfkjcajhlifgaclocngoinaeem,bitcoin-one,BitCoin ONE,3.6666666666666665,34,BitCoin ONE,2019-03-08 00:00:00
-chrome,gmmnjkphjfnanlojihefoeidjmbakfde,ethereum-price-in-eur,Ethereum price in EUR,5.0,3,crypto prices,2020-10-06 00:00:00
-chrome,ainmgbleakflfgjjoolgmgfepddnpeln,ethereum-monitor,Ethereum monitor,0.0,2,Awork,2020-07-15 00:00:00
-chrome,cpgjdheihpmldnkbbonjjlebkacaeecg,cryptojunkie-latest-crypt,CryptoJunkie: latest crypto news & prices,4.52,421,cryptojunkieapp,2017-12-02 00:00:00
-chrome,bbmdccojdbpcpmoadenplnoncfcijgkn,onewallet-kratos-mainnet,OneWallet Kratos Mainnet,5.0,298,OneLedger Technologies Inc.,2020-09-01 00:00:00
-chrome,pnjaenlogfahpkkmmhbenkendmhcaebo,cryptocurrency-portfolio,Cryptocurrency Portfolio,4.7272727272727275,283,Bookman,2017-09-30 00:00:00
-chrome,ipkcagngbjpjlmajjcklpknniojdhppe,pumapay,PumaPay,5.0,228,Decentralized Vision,2019-07-17 00:00:00
-chrome,dmbgoabeajhaepagmjnilmpmfhjljdba,ethereum-preço-hoje,Ethereum Preço Hoje,0.0,3,landuartoficial,2019-10-29 00:00:00
-chrome,gdocmelgnjeejhlphdnoocikeafdpaep,gitcoin,Gitcoin,5.0,228,ksowocki,2019-04-29 00:00:00
-chrome,jkmhmenlookbolbbmcdmadnbmpjlmacg,coinbase-trading,Coinbase Trading,4.5,16,pedro,2017-12-15 00:00:00
-chrome,lnmfhbodeknlllljjmhpgieflmioddie,the-bitcoin-code,The Bitcoin Code,5.0,14,Bitcoin Trader,2018-04-10 00:00:00
-chrome,cmbagcoinhmacpcgmbiniijboejgiahi,justliquidity-wallet,JustLiquidity Wallet,5.0,85,JustLiquidity,2020-10-13 00:00:00
-chrome,jlbkpppjbkmkjjemjcofmccodofkknmc,cryptocurrency-prices-cha,Cryptocurrency Prices & Charts - BitDuck,5.0,107,CrisValls,2020-11-16 00:00:00
-chrome,mnlfoooikhmcaomegmfopecjngldnmmn,ethermine-watcher,Ethermine Watcher,0.0,87,DW Crypto,2020-05-19 00:00:00
-chrome,ibfpieieeldafeeejhpknkjkigoembae,bitcoin-today,Bitcoin Today,4.75,50,BitcoinToday,2018-02-24 00:00:00
-chrome,achbehnmipmphllfekbgjjdmhehbgoce,ether-sneak-peek,Ether Sneak Peek,3.0,62,steven2358,2017-07-25 00:00:00
-chrome,gbjepgaebckfidagpfeioimheabiohmg,zeon-wallet,ZEON Wallet,5.0,53,ZEON Network,2020-05-27 00:00:00
-chrome,kkilomkmpmkbdnfelcpgckmpcaemjcdh,celo-desktop-wallet,Celo-desktop-wallet,0.0,44,jiyun.kim,2020-09-17 00:00:00
-chrome,heohpoipgmadpdmafmddijgdckhnhaml,cointicker,CoinTicker,4.0,35,quoid,2018-03-16 00:00:00
-chrome,pbfbaeobcojdjfgplolbofdjlahhclkc,cryptodex,Cryptodex,4.0,27,Keith Ingram,2018-04-20 00:00:00
-chrome,gfchpofllbnjfhgmjbgmhljdpolcjing,mraddon-blockchain-viewer,MrAddon BlockChain Viewer for Chrome,0.0,29,MrAddon ®,2020-11-24 00:00:00
-chrome,idoockghidhkajjcomifcbcneopnbkph,bitlocom,Bitlo.com,5.0,18,Bitlo.com,2019-03-22 00:00:00
-chrome,ffkicalblogbdapjfckabempifkaieia,cryptocurrency-rates,Cryptocurrency Rates,4.0,12,Psych,2020-02-01 00:00:00
-chrome,mghpciinbniokkdoilbellebeegggkde,bitcoin-trader,Bitcoin Trader,5.0,14,Bitcoin Trader,2018-04-10 00:00:00
-chrome,pdpahdgmbnpeepflkedmdcieohpcpchh,cryptocurrency-price-tick,Cryptocurrency Price Ticker,5.0,14,Ethan Chiasson,2020-02-01 00:00:00
-chrome,llpbjcejemjfaicajiephoejjnogfbed,bitcoin-tab,Bitcoin Tab,0.0,9,Bitcoin Tab,2020-11-29 00:00:00
-chrome,fceaohfigonmbbdecpbjjhkafciaiomf,bitcoin-ticker,BitCoin Ticker,4.0,8,dana11235,2017-09-25 00:00:00
-chrome,njiogihgdaoaapjabcdekoohcnjladni,cryptocurrency-instant-ex,Cryptocurrency instant exchange swap,5.0,"30,000",Extpose,2019-10-10 00:00:00
-chrome,gjhklkpapfjiknhmfdjkkfblhblfpedj,ether-notify,Ether Notify,5.0,7,Vitwit,2019-04-30 00:00:00
-chrome,hjbmikofmhjfpocpkcolfldpnhcngedg,cryptocurrency-portfolio,Cryptocurrency portfolio value,0.0,8,Torisbel,2018-02-01 00:00:00
-chrome,egfgfjgkhcmocpjflngjkbbgelledkbg,coinbought,CoinBought,0.0,6,CoinBought,2019-03-08 00:00:00
-chrome,akfogaiaahkdhpgihkcdncbhmkjjfban,crypto-ticker,Crypto Ticker,1.0,7,CodeTheBay,2019-01-02 00:00:00
-chrome,bgddejjmhilkdllbakkgddjodommlimc,bitcoin-price-ticker,Bitcoin price ticker,4.2,"4,000",Extpose,2020-10-13 00:00:00
-chrome,olpfnfcoflgpbbfhedielmmdacikbfhk,bitcoin-hoje,Bitcoin Hoje,4.424242424242424,"9,000",Pedro Menezes,2018-05-21 00:00:00
-chrome,afhfbdbjojkmnjhlcefomefflbkbhpcc,bitcoin-extension,Bitcoin Extension,4.671232876712328,"5,000",BTC-Extension,2019-09-06 00:00:00
-chrome,amdginnpaflghjbbdkfenpekaeifnpee,purse-shop-with-bitcoin-b,Purse: Shop with Bitcoin (Beta),4.0,"6,000",purse-chrome-extension,2019-11-04 00:00:00
-chrome,kffgfjkkdfkbgldblbeilgllplgeiknk,get-used-to-bitcoin,Get Used to Bitcoin,4.428571428571429,221,Get Used to Bitcoin,2019-10-30 00:00:00
-chrome,onebfemgnhgpkdcmijbpjakhhidonjfl,coincorner-earn-bitcoin,CoinCorner - Earn Bitcoin,5.0,271,CoinCorner,2020-10-08 00:00:00
-chrome,ijpmihhlfkkfeimocndobeghgdggkail,adsbitcoinio-get-bitcoins,adsbitcoin.io - Get Bitcoins in a second.,4.0,"10,000",adsbitcoin.io,2020-12-02 00:00:00
-chrome,bkanicejfbhlidgjkpenmddnacjengld,bitcoin-microformats,Bitcoin Microformats,4.5,130,Jonathan Waller,2013-03-16 00:00:00
-chrome,kjjlmgehohdbclcmfmphmifnppmcmeio,bitcoin-price,Bitcoin Price,4.166666666666667,532,shaomxing,2020-02-05 00:00:00
-chrome,ckpaelocniggkheibcacecnmmlmeodfa,cryptobit-bitcoin-wallet,CryptoBit: Bitcoin Wallet,5.0,411,Eduard Karpa,2018-12-05 00:00:00
-chrome,ifandnfeadkfgcnefgpobhmpapnfjlee,who-accepts-bitcoin,Who Accepts bitcoin,5.0,235,erikbrodch,2018-02-19 00:00:00
-chrome,oknggkioalbldgcfhcolnaimjodljfli,bitcoin-cash-hoje,Bitcoin Cash Hoje,4.2,508,Pedro Menezes,2018-05-21 00:00:00
-chrome,pjpaehngacdnemhiokleffbaohinhioi,altcoin-fantasy-crypto-fa,Altcoin Fantasy - Crypto Fantasy Trading Game,5.0,371,ACF,2018-03-04 00:00:00
-chrome,bgplngjbambbciomdflipmdhbkgbofoj,free-bitcoin,FREE BITCOIN,4.866666666666666,"1,000",HNS,2019-11-14 00:00:00
-chrome,inpkhjhgpbkjdaomkiacfamklnocegdj,bitcoin-price-at-bitstamp,Bitcoin price at Bitstamp,4.0,537,Bernardo Boncompagni,2019-06-03 00:00:00
-chrome,cojpifopaaneikgfobjnekpfmpkiekff,1-click-amazon-bitcoin-ch,1-click Amazon Bitcoin checkout,4.0,264,bitcoinsberlin,2014-05-23 00:00:00
-chrome,pkjoeljgmgkmelkaiodnmplblajeciic,mercado-bitcoin-ticker,Mercado Bitcoin Ticker,4.833333333333333,354,Uilian Souza,2017-12-12 00:00:00
-chrome,pmlblkdmadbidammhjiponepngbfcpge,bitcoin-address-lookup,Bitcoin Address Lookup,4.833333333333333,222,Jon Lund Steffensen,2013-03-06 00:00:00
-chrome,mogdapldllopbflceaceonkalaebghbe,bitcoin-crypto-news,Bitcoin Crypto News,0.0,120,oinkandstuff,2020-07-14 00:00:00
-chrome,gidpkdpdnngpfohekcfkfjbkieeihekj,btc-ticker-bitcoin-ticker,BTC Ticker | Bitcoin Ticker,4.846153846153846,"2,000",Betonimig,2020-11-06 00:00:00
-chrome,ofmoicejmilkphppeoekfhbpkleppdlb,coingecko-bitcoin-cryptoc,CoinGecko: Bitcoin & Cryptocurrency Market,4.857142857142857,"1,000",CoinGecko,2019-01-23 00:00:00
-chrome,gihnmkplbiedplobapnkhgblipfgjoci,bitcoin-live,Bitcoin Live,4.333333333333333,279,yoni jah,2013-11-28 00:00:00
-chrome,cepgjidobniobmoomapojghihlfplhak,bitcoin-currency-converte,Bitcoin Currency Converter,4.166666666666667,82,eric,2013-05-22 00:00:00
-chrome,mpgcknekacnhbblnciapinliegimlplk,bitcoin-tab-streaming-pri,Bitcoin Tab - Streaming price & market info.,5.0,221,Blockmodo,2019-01-24 00:00:00
-chrome,pabhjciopipeohjdecdjomphkejmkkhi,bitcoin-cash-tab-markets,Bitcoin Cash Tab - Markets on every new tab!,5.0,70,Blockmodo,2019-01-06 00:00:00
-chrome,fbbckponafgkennhnmgfoikfmbkiplgp,coinstats-crypto-portfoli,CoinStats - Crypto Portfolio Tracker,4.733333333333333,"3,000",Coin Stats Inc,2020-10-09 00:00:00
-chrome,ofcifgpkhdehcpkbnicmjnceebpcilno,coinmark-cryptocurrency-m,Coinmark - Cryptocurrency Market Prices,4.25,"1,000",Coinmark,2019-08-29 00:00:00
-chrome,ibfpieieeldafeeejhpknkjkigoembae,bitcoin-today,Bitcoin Today,4.75,50,BitcoinToday,2018-02-24 00:00:00
-chrome,aicnoeecmjdphleddljcegeojbabfhnk,coinview-of-bitcoin-altco,CoinView of Bitcoin Altcoin & cryptocurrency,5.0,873,COINJINJA K.K.,2018-05-25 00:00:00
-chrome,oijajbhmelbcoclnkdmembiacmeghbae,bitoke-bitcoin-faucet,Bitoke - Bitcoin Faucet,3.0,315,addonpub,2019-07-31 00:00:00
-chrome,nofccoknfcageikhnhfhkpcdciapdaja,do-they-accept-bitcoin,Do They Accept Bitcoin?,3.8333333333333335,53,Vitalik,2013-05-10 00:00:00
-chrome,boeoabmkdhmjbbdhhocnopfkikcpdffd,no-bitcoin-miners,No Bitcoin miners,4.7,"1,000",Alamdar,2017-09-29 00:00:00
-chrome,jjcbgfhjneiblaifakgnnkdakebpebaf,bitcoin-auto-converter,Bitcoin Auto-Converter,4.0344827586206895,"1,000",Concept211,2020-05-23 00:00:00
-chrome,ehfhdfiepmimglpijcgmgclaejecmmmi,cryptocurrency-price-aler,Cryptocurrency Price Alert,4.615384615384615,762,IgTechSolution,2018-02-06 00:00:00
-chrome,kmocgjpcbdnngajkppcemacfebaaeiid,trafficlyio-get-bitcoins,trafficly.io - Get Bitcoins in a second.,4.2153846153846155,"10,000",trafficly.io,2020-06-08 00:00:00
-chrome,ndclmokbpeggeoahfjjkjfifhpjnbkho,bitcoin-assistant,Bitcoin assistant,4.25,147,Miracreate,2014-02-01 00:00:00
-chrome,nmoioahfkdpfpjngcljhcphglbdppdmj,bitcoin-sneak-peek,Bitcoin Sneak Peek,4.5,228,steven2358,2017-12-14 00:00:00
-chrome,inhcffcgimhaejpgaoibcmipcofdcaho,portal-do-bitcoin,Portal do Bitcoin,5.0,100,Portal do Bitcoin Apps,2018-11-29 00:00:00
-chrome,lnmfhbodeknlllljjmhpgieflmioddie,the-bitcoin-code,The Bitcoin Code,5.0,14,Bitcoin Trader,2018-04-10 00:00:00
-chrome,digkhhkhakkpankejbcpgghphidokljl,yet-another-bitcoin-price,Yet Another Bitcoin Price Ticker,5.0,133,RockyTV,2018-09-10 00:00:00
-chrome,lgkaalnoklbfbhcdpmamlnkonfiaiemi,bitcoin-altcoin-ticker,Bitcoin Altcoin Ticker,4.2105263157894735,513,sergey.munich,2018-01-25 00:00:00
-chrome,ckledhmnlchffimlnbgiaojhfnnkahpo,historical-bitcoin-price,Historical Bitcoin Price Calculator,0.0,52,bitcoinhouse,2019-03-08 00:00:00
-chrome,loifgkdfkjcajhlifgaclocngoinaeem,bitcoin-one,BitCoin ONE,3.6666666666666665,34,BitCoin ONE,2019-03-08 00:00:00
-chrome,fbfkbojhhpboogndladhdemkbpmfmeie,bitcoin-price-for-virwox,Bitcoin Price for Virwox,3.6,66,Fernando D. Tiberti,2015-02-26 00:00:00
-chrome,bbcjcfnehaiaclhfhllbcbbpoemehphk,bitcoin-gold-hoje,Bitcoin Gold Hoje,0.0,60,Pedro Menezes,2018-05-21 00:00:00
-chrome,ofllonaghfejikjnbdijjfocfefhhmnh,bittab-bitcoin-new-tab-pa,BitTab: Bitcoin New Tab Page,4.833333333333333,58,"Mark Thomas Miller, Mayvale LLC",2017-12-08 00:00:00
-chrome,nfngeikdmbkbnamaljeijjfebmjmhmlp,bitcoin-calculator,Bitcoin calculator,5.0,162,Alexandre PENOMBRE,2018-10-22 00:00:00
-chrome,lejbmdncefpdeonhafpepgibimbngdkg,bitcoin-peek+,Bitcoin Peek+,4.555555555555555,60,Daniel Eithan,2014-03-07 00:00:00
-chrome,caopgikafahfcgbfaagibfelkoaehjjp,tps-bitcoin-balance,TP's Bitcoin Balance,4.285714285714286,116,tpidev,2013-06-01 00:00:00
-chrome,bmeebmkenliikgjcpmcjejpmlklcmnjf,bitcoin-btc-to-satoshi-co,Bitcoin (BTC) to Satoshi Converter,5.0,59,peter.aupry,2018-03-28 00:00:00
-chrome,jadobjbcgibiopkifknkfnohlelpocll,badger-wallet,Badger Wallet,4.862068965517241,"6,000",badgerwallet,2020-04-01 00:00:00
-chrome,gkailbncmmcjceaokcplammkcnhoihjm,bitcoin-ticker,Bitcoin Ticker,5.0,58,hodlercoasterguy,2018-03-08 00:00:00
-chrome,knjjpbimamlmjebkfoehmgebfdagbfnc,bitcoin-gold-price,Bitcoin Gold Price,0.0,42,BITVoxy Network,2017-10-31 00:00:00
-chrome,bklbfdfcmohmmljcjhdofdphpdembfbm,divitopia-bitcoin-convert,Divitopia Bitcoin Convertor,5.0,148,Divi Project,2019-06-26 00:00:00
-chrome,jjdbklmemcpdklojpniabhfhclngpppe,tps-bitcoin-quick-payment,TP's Bitcoin Quick Payments,4.666666666666667,88,tpidev,2013-06-01 00:00:00
-chrome,eoflfhfpgdhgbegbpgckkailbndcgpod,cryptocurrency-price-trac,Cryptocurrency Price Tracker,4.431372549019608,"4,000",Slavko Ilic,2019-09-15 00:00:00
-chrome,jhbgelfndhaccioppbfadmjabloddnkg,simple-bitcoin-ticker,Simple Bitcoin Ticker,3.8,79,ryaneof,2015-10-01 00:00:00
-chrome,mhhgjpidhclpobhkdnlopdfhfamalnia,stormx-shop-earn-crypto,StormX: Shop & Earn Crypto,5.0,"3,000",StormX Singapore PTE. LTD.,2020-11-23 00:00:00
-chrome,fhaehblnmlecgnedafkabonmkbogpkng,cointelegraph-—-bitcoin-e,Cointelegraph — Bitcoin & Ethereum News,5.0,165,Cointelegraph,2019-01-24 00:00:00
-chrome,ehfafjfbmggilnpahinhdieijnedoghc,bitcoin-hoje,Bitcoin Hoje,0.0,48,Neto,2018-03-30 00:00:00
-chrome,mghpciinbniokkdoilbellebeegggkde,bitcoin-trader,Bitcoin Trader,5.0,14,Bitcoin Trader,2018-04-10 00:00:00
-chrome,lllihajjkapokmiogohflioedecpkedc,bitcoin-address-lookup,Bitcoin Address Lookup,5.0,55,Eduard Karpa,2018-11-29 00:00:00
-chrome,caegcjlajimgnjonpdmjkfemnhjpjkli,bitcoin-alert,Bitcoin Alert,0.0,23,vbukhari,2018-01-04 00:00:00
-chrome,klhbbnoigogbencgojdicbkfmnangimg,quanto-custa-1-bitcoin-ho,Quanto Custa 1 Bitcoin Hoje?,3.4,132,FoxBit,2018-02-21 00:00:00
-chrome,hjacdkfgnmaigbmeejkjacecoibojgdn,bitcoin-go,Bitcoin GO,5.0,56,colkito,2014-01-29 00:00:00
-chrome,ojjflicjfoiaeilelbmkbgijmapkdakk,btc-bitcoin-ticker-for-po,BTC / Bitcoin Ticker for Poloniex,4.666666666666667,53,Kaakati,2017-03-21 00:00:00
-chrome,klkhgjdlpbbbbdbifegjcihllcagojjg,price-in-bitcoins,Price in Bitcoins,4.25,30,brendonboshell,2014-01-26 00:00:00
-chrome,mpgialbmpebikleajmfchkgjgjplnfjj,bitcoin-price-tracker,Bitcoin Price Tracker,5.0,32,tohuem,2017-08-28 00:00:00
-chrome,iiandjelpocmkkphjmalkpjpggdmhcik,bitcoin-trading-bot-for-b,Bitcoin Trading Bot for BTC-e exchange,2.0,59,Newman,2016-09-16 00:00:00
-chrome,dloinlbpnlkcldoghjohgcgcffpjcdgd,bitcoinlitecoin-ticker-al,Bitcoin/Litecoin Ticker Alarm,4.0,104,shaohua,2015-07-10 00:00:00
-chrome,mengdaiflgahpehifoiopgcdbjapabpn,bitcoin-price-converter,Bitcoin price converter,4.5,12,coen.baars,2020-02-22 00:00:00
-chrome,hfdeddmpdncodjalbadbanlcombfeoll,electrum-bitcoin-wallet,Electrum Bitcoin Wallet,4.6,308,Andrey Fedorov,2013-01-11 00:00:00
-chrome,mnphabhdkpljeimcfpdpppbamedonofb,bitcoin-price,Bitcoin price,3.0,41,ar2r,2018-01-17 00:00:00
-chrome,dhdenoagjkmmdiacnmainlinoaoacfmb,bitcoin-price-ticker-aler,Bitcoin Price Ticker & Alert,5.0,22,happy elephant web development,2019-11-10 00:00:00
-chrome,jiijoddlomajkmcbcafjfgpfjbmeoldh,bitcoin-price,Bitcoin Price,5.0,89,Edward Bowden,2017-06-15 00:00:00
-chrome,pdkmidhbflcbhddoagiikmafccadidhh,tokenly-pockets,Tokenly Pockets,3.9166666666666665,"1,000",Tokenly.com,2016-05-17 00:00:00
-chrome,doooieacajknakjmppclchjaelhdkbbg,1click-bitcoin-balance,1Click Bitcoin Balance,0.0,37,1CE,2018-07-14 00:00:00
-chrome,okkfnemkpnkmkglokjcjeddemjjhpffa,btcer-bitcoin-exchange-ra,BTCER - Bitcoin Exchange Rates,0.0,36,Revert Develop,2019-05-30 00:00:00
-chrome,jaachmijjgimeageefijcpcaeljhblmd,bitcoin-ticker-brasil,Bitcoin Ticker Brasil,5.0,57,Felipe Zavan,2017-03-08 00:00:00
-chrome,ejpcojkcallnhphinmknkaoojohidegf,miner-blocker-block-coin,Miner Blocker - Block Coin Miners,4.089285714285714,"10,000",freshtools.cmp,2018-01-23 00:00:00
-chrome,plhgbjemkkbmmmanahmlaagdjebhmlcc,bitcoin-address-lookup,Bitcoin Address Lookup,5.0,17,Zack Banack,2014-12-13 00:00:00
-chrome,mmaebdpdmccndjceenijboocobhelkbh,hitbtc-bitcoin-exchange,HitBTC Bitcoin Exchange,4.555555555555555,51,hitbtc official,2018-04-22 00:00:00
-chrome,nhkolgoaflkjhfkamdhiahingnendokj,sparecoins,SpareCoins,4.696969696969697,177,locksley,2013-12-20 00:00:00
-chrome,hmbkmkdhhlgemdgeefnhfaffdpddohpa,crypto-tab,Crypto Tab,4.621212121212121,"6,000",Dev Labs,2018-01-18 00:00:00
-chrome,gmlbdhijejhaiiooifdigoldfmbhgjah,tps-bitcoin-scourer,TP's Bitcoin Scourer,5.0,60,tpidev,2013-06-01 00:00:00
-chrome,hbojnodgdgldmojbedldhdchcjhheeka,bitcoin-price-ticker,Bitcoin Price Ticker,5.0,33,Nick Zelei,2016-03-13 00:00:00
-chrome,ilbcpcfnfljdcpcakcjmlpadomkcopkk,bitcoin-to-gbp-price-tick,Bitcoin to GBP Price Ticker,3.6666666666666665,8,Colin,2017-10-19 00:00:00
-chrome,opdmmmpiahddjnfogimkmmgmmhkbalol,bitcoin-to-buttcoin,Bitcoin To Buttcoin,5.0,14,jamesonjlee,2013-12-11 00:00:00
-chrome,cpcnbnofbhmpimepokdpmoomejafefhb,bitcoin-btc-price-ticker,Bitcoin (BTC) Price Ticker,5.0,117,Taha,2020-03-10 00:00:00
-chrome,bgjmoeebomokfcfmopbappgncbhppmec,cryptoticker-by-coinigy,CryptoTicker by Coinigy,2.6206896551724137,"5,000",Coinigy.com,2017-07-12 00:00:00
-chrome,aihogeigcnkcklfaljfimkefkmbmlomi,tps-brainpay,TP's BrainPay,4.5,61,tpidev,2013-06-01 00:00:00
-chrome,kgjendflbdolpomamijhlbofnmhlnmlm,bitcoin-new-tab-hd-popula,Bitcoin New Tab  HD Popular Currency Theme,0.0,20,Chrome HD Themes,2019-04-14 00:00:00
-chrome,djhphipieecndgbplonaadoiefnjfnia,bitcoin-price-widget,Bitcoin Price Widget,0.0,20,Adam Simon,2018-08-01 00:00:00
-chrome,fdhgfeablllkfnbjenoaofhmnnapipdj,bitcoin-ticker,Bitcoin Ticker,5.0,34,viktor.derk,2019-09-16 00:00:00
-chrome,jadhemmpfahnnnlekbggdpmhmlmoldje,bottle-pay,Bottle Pay,5.0,245,Block Matrix,2019-11-04 00:00:00
-chrome,mnfifefkajgofkcjkemidiaecocnkjeh,tezbox-tezos-wallet,TezBox - Tezos Wallet,3.5625,"7,000",tezboxdev,2019-10-18 00:00:00
-chrome,ookjlbkiijinhpmnjffcofjonbfbgaoc,thanos-wallet,Thanos Wallet,5.0,832,Madfish Solutions,2020-11-24 00:00:00
-chrome,jlbkpppjbkmkjjemjcofmccodofkknmc,cryptocurrency-prices-cha,Cryptocurrency Prices & Charts - BitDuck,5.0,107,CrisValls,2020-11-16 00:00:00
-chrome,ofcifgpkhdehcpkbnicmjnceebpcilno,coinmark-cryptocurrency-m,Coinmark - Cryptocurrency Market Prices,4.25,"1,000",Coinmark,2019-08-29 00:00:00
-chrome,jlbkpppjbkmkjjemjcofmccodofkknmc,cryptocurrency-prices-cha,Cryptocurrency Prices & Charts - BitDuck,5.0,107,CrisValls,2020-11-16 00:00:00
-chrome,mkhdgadimehhojbgpphhkodolihgmmfe,coinmarketcap,Coinmarketcap,5.0,69,conan,2020-05-19 00:00:00
-chrome,mfiddnlhlmehcbpkhgljjchnjmlkanje,bitcoin-price,Bitcoin Price,5.0,2,hubbion.com,2020-11-28 00:00:00
-chrome,kgjhgbkbobjkkhkfddbdmcppkaialoel,bitcoincash-bch-price-tic,BitcoinCash (BCH) Price Ticker,4.333333333333333,260,Taha,2020-03-10 00:00:00
-chrome,oknggkioalbldgcfhcolnaimjodljfli,bitcoin-cash-hoje,Bitcoin Cash Hoje,4.2,508,Pedro Menezes,2018-05-21 00:00:00
-chrome,pabhjciopipeohjdecdjomphkejmkkhi,bitcoin-cash-tab-markets,Bitcoin Cash Tab - Markets on every new tab!,5.0,70,Blockmodo,2019-01-06 00:00:00
+chrome,kgjhgbkbobjkkhkfddbdmcppkaialoel,bitcoincash-bch-price-tic,BitcoinCash (BCH) Price Ticker,4.333333333333333,257,Taha,2020-03-10 00:00:00
+chrome,oknggkioalbldgcfhcolnaimjodljfli,bitcoin-cash-hoje,Bitcoin Cash Hoje,4.2,507,Pedro Menezes,2018-05-21 00:00:00
+chrome,pabhjciopipeohjdecdjomphkejmkkhi,bitcoin-cash-tab-markets,Bitcoin Cash Tab - Markets on every new tab!,5.0,71,Blockmodo,2019-01-06 00:00:00
 chrome,jadobjbcgibiopkifknkfnohlelpocll,badger-wallet,Badger Wallet,4.862068965517241,"6,000",badgerwallet,2020-04-01 00:00:00
 chrome,ofcifgpkhdehcpkbnicmjnceebpcilno,coinmark-cryptocurrency-m,Coinmark - Cryptocurrency Market Prices,4.25,"1,000",Coinmark,2019-08-29 00:00:00
 chrome,amdginnpaflghjbbdkfenpekaeifnpee,purse-shop-with-bitcoin-b,Purse: Shop with Bitcoin (Beta),4.0,"6,000",purse-chrome-extension,2019-11-04 00:00:00
-chrome,fhilaheimglignddkjgofkcbgekhenbh,oxygen-atomic-crypto-wall,Oxygen - Atomic Crypto Wallet,2.3333333333333335,162,Oxygen - Blockchain Solutions,2020-05-26 00:00:00
-chrome,iionfieniabmkcnejkoklkagknfeecpb,its-bitcoin-cash,It's Bitcoin Cash,0.0,5,Kevin Mershon (SCS / Luxent),2017-12-03 00:00:00
-chrome,fgobjcdlkegkpmdogkahgjheknededli,比特币现金bitcoin-cash,比特币现金Bitcoin Cash,5.0,5,sfz,2017-11-09 00:00:00
-chrome,lfalmidbffpgbpbjckichdnemaoenemj,snappy-cash,Snappy Cash,5.0,29,sterlingbeason,2020-03-11 00:00:00
-chrome,idoockghidhkajjcomifcbcneopnbkph,bitlocom,Bitlo.com,5.0,18,Bitlo.com,2019-03-22 00:00:00
+chrome,fhilaheimglignddkjgofkcbgekhenbh,oxygen-atomic-crypto-wall,Oxygen - Atomic Crypto Wallet,2.0,163,Oxygen - Blockchain Solutions,2020-05-26 00:00:00
+chrome,fgobjcdlkegkpmdogkahgjheknededli,比特币现金bitcoin-cash,比特币现金Bitcoin Cash,5.0,6,sfz,2017-11-09 00:00:00
+chrome,iionfieniabmkcnejkoklkagknfeecpb,its-bitcoin-cash,It's Bitcoin Cash,0.0,3,Kevin Mershon (SCS / Luxent),2017-12-03 00:00:00
+chrome,lfalmidbffpgbpbjckichdnemaoenemj,snappy-cash,Snappy Cash,5.0,28,sterlingbeason,2020-03-11 00:00:00
+chrome,idoockghidhkajjcomifcbcneopnbkph,bitlocom,Bitlo.com,5.0,20,Bitlo.com,2019-03-22 00:00:00
 chrome,lnmfhbodeknlllljjmhpgieflmioddie,the-bitcoin-code,The Bitcoin Code,5.0,14,Bitcoin Trader,2018-04-10 00:00:00
-chrome,egfgfjgkhcmocpjflngjkbbgelledkbg,coinbought,CoinBought,0.0,6,CoinBought,2019-03-08 00:00:00
-chrome,ehfhdfiepmimglpijcgmgclaejecmmmi,cryptocurrency-price-aler,Cryptocurrency Price Alert,4.615384615384615,762,IgTechSolution,2018-02-06 00:00:00
-chrome,kjjlmgehohdbclcmfmphmifnppmcmeio,bitcoin-price,Bitcoin Price,4.166666666666667,532,shaomxing,2020-02-05 00:00:00
-chrome,kibjgacnfajbofplhfbfjgmcbkdnblfj,hacking-crypto-latest-cry,Hacking Crypto - Latest Cryptocurrency News,5.0,271,Rockaway Inc,2018-03-10 00:00:00
-chrome,abkhnhidhijmhchhnjoookpbhmnfjgog,magnetic-money,Magnetic Money,5.0,144,Magnetic Money,2018-05-26 00:00:00
-chrome,dfppihkofnbngfelkkmabojlkompihdl,coinbirds-加密货币实时行情,Coinbirds - Cryptographic currency real-time price,5.0,197,CoinBirds,2018-12-30 00:00:00
-chrome,ncfbbfpigofnjhbchikpiomlliklpabo,quick-coinbase-ticker,Quick Coinbase Ticker,4.5,143,Yukihiro Kawauchiya,2018-02-20 00:00:00
-chrome,kpcngaggbajehefdinhniockfhdhacnb,coinbag-track-all-your-co,Coinbag - Track all your coins in one place,5.0,117,CoinBag,2020-05-29 00:00:00
+chrome,egfgfjgkhcmocpjflngjkbbgelledkbg,coinbought,CoinBought,0.0,9,CoinBought,2019-03-08 00:00:00
+chrome,ehfhdfiepmimglpijcgmgclaejecmmmi,cryptocurrency-price-aler,Cryptocurrency Price Alert,4.615384615384615,784,IgTechSolution,2018-02-06 00:00:00
+chrome,kjjlmgehohdbclcmfmphmifnppmcmeio,bitcoin-price,Bitcoin Price,4.166666666666667,508,shaomxing,2020-02-05 00:00:00
+chrome,kibjgacnfajbofplhfbfjgmcbkdnblfj,hacking-crypto-latest-cry,Hacking Crypto - Latest Cryptocurrency News,5.0,260,Rockaway Inc,2018-03-10 00:00:00
+chrome,abkhnhidhijmhchhnjoookpbhmnfjgog,magnetic-money,Magnetic Money,5.0,153,Magnetic Money,2018-05-26 00:00:00
+chrome,dfppihkofnbngfelkkmabojlkompihdl,coinbirds-加密货币实时行情,Coinbirds - Cryptographic currency real-time price,5.0,195,CoinBirds,2018-12-30 00:00:00
+chrome,ncfbbfpigofnjhbchikpiomlliklpabo,quick-coinbase-ticker,Quick Coinbase Ticker,4.5,150,Yukihiro Kawauchiya,2018-02-20 00:00:00
+chrome,kpcngaggbajehefdinhniockfhdhacnb,coinbag-track-all-your-co,Coinbag - Track all your coins in one place,5.0,115,CoinBag,2020-05-29 00:00:00
 chrome,ekgoigfalelgbdohgmolhmblfpljaagf,just-bitcoin-cash-ticker,Just Bitcoin Cash Ticker [PRO],0.0,1,morocco,2020-11-03 00:00:00
-chrome,jlbkpppjbkmkjjemjcofmccodofkknmc,cryptocurrency-prices-cha,Cryptocurrency Prices & Charts - BitDuck,5.0,107,CrisValls,2020-11-16 00:00:00
-chrome,fidmapppafelhanbficlpelfebcdanfh,cryptowire,CryptoWire,3.5,70,sachingoel,2018-04-04 00:00:00
+chrome,jlbkpppjbkmkjjemjcofmccodofkknmc,cryptocurrency-prices-cha,Cryptocurrency Prices & Charts - BitDuck,5.0,120,CrisValls,2020-12-04 00:00:00
 chrome,ibfpieieeldafeeejhpknkjkigoembae,bitcoin-today,Bitcoin Today,4.75,50,BitcoinToday,2018-02-24 00:00:00
 chrome,nphlnghlcailopfndihpccmjinilmckb,cryptocurrency-market-cap,Cryptocurrency Market Capitalizations,5.0,67,Oaker,2018-07-11 00:00:00
-chrome,fbaljaifnljnpoppjfehljmephpghaip,crypto-stats,Crypto Stats,5.0,49,ValueApps,2020-04-14 00:00:00
+chrome,fidmapppafelhanbficlpelfebcdanfh,cryptowire,CryptoWire,3.5,66,sachingoel,2018-04-04 00:00:00
+chrome,fbaljaifnljnpoppjfehljmephpghaip,crypto-stats,Crypto Stats,5.0,47,ValueApps,2020-04-14 00:00:00
 chrome,nbpfcapniahpdkfmejpogoiamnconiik,just-bitcoin-cash-sv-tick,Just Bitcoin Cash Sv Ticker [PRO],0.0,1,morocco,2020-11-04 00:00:00
-chrome,pbfbaeobcojdjfgplolbofdjlahhclkc,cryptodex,Cryptodex,4.0,27,Keith Ingram,2018-04-20 00:00:00
+chrome,pbfbaeobcojdjfgplolbofdjlahhclkc,cryptodex,Cryptodex,4.0,29,Keith Ingram,2018-04-20 00:00:00
+chrome,mghpciinbniokkdoilbellebeegggkde,bitcoin-trader,Bitcoin Trader,5.0,12,Bitcoin Trader,2018-04-10 00:00:00
+chrome,gkpgfnkkpnffhdidnjnainjfbfhoipbb,the-crypto-lab,The Crypto Lab,0.0,8,Louis Mzk,2020-03-20 00:00:00
+chrome,hjbmikofmhjfpocpkcolfldpnhcngedg,cryptocurrency-portfolio,Cryptocurrency portfolio value,0.0,8,Torisbel,2018-02-01 00:00:00
+chrome,cpdoomofobgidgcfaeiffcnakimkgclp,crypto-casino-reviews,Crypto Casino Reviews,0.0,5,crixo.ilgallo,2019-09-11 00:00:00
+chrome,oleogcnfpjebmamnenggcmmphhghdolj,cashweb-bb,CashWeb BB,0.0,4,Kent,2019-11-28 00:00:00
+chrome,aojiilcenododccfjkelhhddnomhlbmn,cryptocurrencies-gdax-pro,Cryptocurrencies GDAX product price,5.0,5,github.gkarthiks,2017-12-23 00:00:00
+chrome,bcnchpdbjajimfokaipiekoanbnhmdij,btcbit,BTCBIT,0.0,2,paulblair931,2020-02-19 00:00:00
+chrome,eaiddpleilmlhafnehahajkojmhgaden,favocrypto-by-coingnu,FavoCrypto (by CoinGnu),0.0,1,coingnu0,2019-08-06 00:00:00
+chrome,ieafcflodgfbcjeggikhlnckkfkhbmln,make-crypto-easier,Make Crypto Easier,0.0,0,Louis Mzk,2020-03-25 00:00:00
 chrome,fhdpipmdoojfcagafemdcbmphlijindg,litecoin-hoje,Litecoin Hoje,4.0,"1,000",Pedro Menezes,2018-05-21 00:00:00
-chrome,ddmojnnanggcjkfpjlaeabeeadejcmde,ltc-ticker-litecoin-ticke,LTC Ticker | Litecoin Ticker,5.0,122,Betonimig,2019-03-10 00:00:00
-chrome,midcoghlhhfhcbjenjohkcocbeijngbf,burninate-for-burnsides-l,Burninate for Burnside's Litecoin Mining Pool,5.0,86,Eric B. Budd,2013-03-27 00:00:00
-chrome,pdijpndilfpgemgnkjjhkgjckibjffbo,litecoin-ticker,Litecoin Ticker,5.0,59,bukowski12,2019-05-31 00:00:00
-chrome,ehfhdfiepmimglpijcgmgclaejecmmmi,cryptocurrency-price-aler,Cryptocurrency Price Alert,4.615384615384615,762,IgTechSolution,2018-02-06 00:00:00
-chrome,dloinlbpnlkcldoghjohgcgcffpjcdgd,bitcoinlitecoin-ticker-al,Bitcoin/Litecoin Ticker Alarm,4.0,104,shaohua,2015-07-10 00:00:00
-chrome,ceciicnhfdjjcagpkijklgkahlogdcma,litecoin-tab-markets-on-e,Litecoin Tab - Markets on every new tab!,0.0,5,Blockmodo,2019-01-04 00:00:00
+chrome,ddmojnnanggcjkfpjlaeabeeadejcmde,ltc-ticker-litecoin-ticke,LTC Ticker | Litecoin Ticker,5.0,119,Betonimig,2019-03-10 00:00:00
+chrome,midcoghlhhfhcbjenjohkcocbeijngbf,burninate-for-burnsides-l,Burninate for Burnside's Litecoin Mining Pool,5.0,89,Eric B. Budd,2013-03-27 00:00:00
+chrome,pdijpndilfpgemgnkjjhkgjckibjffbo,litecoin-ticker,Litecoin Ticker,5.0,60,bukowski12,2019-05-31 00:00:00
+chrome,ehfhdfiepmimglpijcgmgclaejecmmmi,cryptocurrency-price-aler,Cryptocurrency Price Alert,4.615384615384615,784,IgTechSolution,2018-02-06 00:00:00
+chrome,dloinlbpnlkcldoghjohgcgcffpjcdgd,bitcoinlitecoin-ticker-al,Bitcoin/Litecoin Ticker Alarm,4.0,97,shaohua,2015-07-10 00:00:00
 chrome,ofcifgpkhdehcpkbnicmjnceebpcilno,coinmark-cryptocurrency-m,Coinmark - Cryptocurrency Market Prices,4.25,"1,000",Coinmark,2019-08-29 00:00:00
-chrome,kjjlmgehohdbclcmfmphmifnppmcmeio,bitcoin-price,Bitcoin Price,4.166666666666667,532,shaomxing,2020-02-05 00:00:00
+chrome,ceciicnhfdjjcagpkijklgkahlogdcma,litecoin-tab-markets-on-e,Litecoin Tab - Markets on every new tab!,0.0,4,Blockmodo,2019-01-04 00:00:00
+chrome,kjjlmgehohdbclcmfmphmifnppmcmeio,bitcoin-price,Bitcoin Price,4.166666666666667,508,shaomxing,2020-02-05 00:00:00
 chrome,gffnngoochofmgpkbchpdbdjoijaohog,cryptocurrency-exchange-r,Cryptocurrency exchange rates & calculator,4.0843373493975905,"6,000",Cryptonator,2016-11-18 00:00:00
-chrome,pjpaehngacdnemhiokleffbaohinhioi,altcoin-fantasy-crypto-fa,Altcoin Fantasy - Crypto Fantasy Trading Game,5.0,371,ACF,2018-03-04 00:00:00
-chrome,pkjoeljgmgkmelkaiodnmplblajeciic,mercado-bitcoin-ticker,Mercado Bitcoin Ticker,4.833333333333333,354,Uilian Souza,2017-12-12 00:00:00
-chrome,pnjaenlogfahpkkmmhbenkendmhcaebo,cryptocurrency-portfolio,Cryptocurrency Portfolio,4.7272727272727275,283,Bookman,2017-09-30 00:00:00
-chrome,jkmhmenlookbolbbmcdmadnbmpjlmacg,coinbase-trading,Coinbase Trading,4.5,16,pedro,2017-12-15 00:00:00
-chrome,dfppihkofnbngfelkkmabojlkompihdl,coinbirds-加密货币实时行情,Coinbirds - Cryptographic currency real-time price,5.0,197,CoinBirds,2018-12-30 00:00:00
+chrome,pjpaehngacdnemhiokleffbaohinhioi,altcoin-fantasy-crypto-fa,Altcoin Fantasy - Crypto Fantasy Trading Game,5.0,380,ACF,2018-03-04 00:00:00
+chrome,pkjoeljgmgkmelkaiodnmplblajeciic,mercado-bitcoin-ticker,Mercado Bitcoin Ticker,4.833333333333333,358,Uilian Souza,2017-12-12 00:00:00
+chrome,pnjaenlogfahpkkmmhbenkendmhcaebo,cryptocurrency-portfolio,Cryptocurrency Portfolio,4.7272727272727275,281,Bookman,2017-09-30 00:00:00
+chrome,dfppihkofnbngfelkkmabojlkompihdl,coinbirds-加密货币实时行情,Coinbirds - Cryptographic currency real-time price,5.0,195,CoinBirds,2018-12-30 00:00:00
+chrome,jkmhmenlookbolbbmcdmadnbmpjlmacg,coinbase-trading,Coinbase Trading,4.5,13,pedro,2017-12-15 00:00:00
 chrome,ikgmibgphnnfdkfaiekicfegdpggmbih,qr-coin,QR Coin,5.0,92,Claudemir Todo Bom,2016-02-20 00:00:00
-chrome,jlbkpppjbkmkjjemjcofmccodofkknmc,cryptocurrency-prices-cha,Cryptocurrency Prices & Charts - BitDuck,5.0,107,CrisValls,2020-11-16 00:00:00
-chrome,heohpoipgmadpdmafmddijgdckhnhaml,cointicker,CoinTicker,4.0,35,quoid,2018-03-16 00:00:00
-chrome,gfchpofllbnjfhgmjbgmhljdpolcjing,mraddon-blockchain-viewer,MrAddon BlockChain Viewer for Chrome,0.0,29,MrAddon ®,2020-11-24 00:00:00
-chrome,idoockghidhkajjcomifcbcneopnbkph,bitlocom,Bitlo.com,5.0,18,Bitlo.com,2019-03-22 00:00:00
-chrome,pdpahdgmbnpeepflkedmdcieohpcpchh,cryptocurrency-price-tick,Cryptocurrency Price Ticker,5.0,14,Ethan Chiasson,2020-02-01 00:00:00
-chrome,njiogihgdaoaapjabcdekoohcnjladni,cryptocurrency-instant-ex,Cryptocurrency instant exchange swap,5.0,"30,000",Extpose,2019-10-10 00:00:00
-chrome,egfgfjgkhcmocpjflngjkbbgelledkbg,coinbought,CoinBought,0.0,6,CoinBought,2019-03-08 00:00:00
+chrome,jlbkpppjbkmkjjemjcofmccodofkknmc,cryptocurrency-prices-cha,Cryptocurrency Prices & Charts - BitDuck,5.0,120,CrisValls,2020-12-04 00:00:00
+chrome,heohpoipgmadpdmafmddijgdckhnhaml,cointicker,CoinTicker,4.0,36,quoid,2018-03-16 00:00:00
+chrome,gfchpofllbnjfhgmjbgmhljdpolcjing,mraddon-blockchain-viewer,MrAddon BlockChain Viewer for Chrome,0.0,24,MrAddon ®,2020-11-24 00:00:00
+chrome,idoockghidhkajjcomifcbcneopnbkph,bitlocom,Bitlo.com,5.0,20,Bitlo.com,2019-03-22 00:00:00
+chrome,pdpahdgmbnpeepflkedmdcieohpcpchh,cryptocurrency-price-tick,Cryptocurrency Price Ticker,5.0,16,Ethan Chiasson,2020-02-01 00:00:00
+chrome,egfgfjgkhcmocpjflngjkbbgelledkbg,coinbought,CoinBought,0.0,9,CoinBought,2019-03-08 00:00:00
 chrome,eoflfhfpgdhgbegbpgckkailbndcgpod,cryptocurrency-price-trac,Cryptocurrency Price Tracker,4.431372549019608,"4,000",Slavko Ilic,2019-09-15 00:00:00
 chrome,mhhgjpidhclpobhkdnlopdfhfamalnia,stormx-shop-earn-crypto,StormX: Shop & Earn Crypto,5.0,"3,000",StormX Singapore PTE. LTD.,2020-11-23 00:00:00
 chrome,fbbckponafgkennhnmgfoikfmbkiplgp,coinstats-crypto-portfoli,CoinStats - Crypto Portfolio Tracker,4.733333333333333,"3,000",Coin Stats Inc,2020-10-09 00:00:00
 chrome,lbcjaollbgiecemkpbllpkbeffegcllo,cryptotabs,CryptoTabs,4.642857142857143,"1,000",Tyler Wolff,2019-07-16 00:00:00
 chrome,cjbbladbihgdplijjgkakilcofhbhnea,litecoin-preço-hoje,Litecoin Preço Hoje,0.0,1,landuartoficial,2018-08-28 00:00:00
 chrome,mbaihdegekjkhgajmamfgmgephoeppgb,just-litecoin-ticker-pro,Just Litecoin Ticker [PRO],0.0,1,morocco,2020-11-03 00:00:00
-chrome,fpkhlnacfhciopipcjpcjmkpldbogaeo,crypto-price-tracker,Crypto Price Tracker,4.068965517241379,680,apostopher,2020-09-01 00:00:00
-chrome,cpgjdheihpmldnkbbonjjlebkacaeecg,cryptojunkie-latest-crypt,CryptoJunkie: latest crypto news & prices,4.52,421,cryptojunkieapp,2017-12-02 00:00:00
-chrome,aopdfjgkaphbpmhemeadmlcbfeddfeme,cryptocurrency-faucets,Cryptocurrency Faucets,5.0,558,gofaucet,2019-07-26 00:00:00
-chrome,kibjgacnfajbofplhfbfjgmcbkdnblfj,hacking-crypto-latest-cry,Hacking Crypto - Latest Cryptocurrency News,5.0,271,Rockaway Inc,2018-03-10 00:00:00
-chrome,abkhnhidhijmhchhnjoookpbhmnfjgog,magnetic-money,Magnetic Money,5.0,144,Magnetic Money,2018-05-26 00:00:00
+chrome,fpkhlnacfhciopipcjpcjmkpldbogaeo,crypto-price-tracker,Crypto Price Tracker,4.068965517241379,684,apostopher,2020-09-01 00:00:00
+chrome,cpgjdheihpmldnkbbonjjlebkacaeecg,cryptojunkie-latest-crypt,CryptoJunkie: latest crypto news & prices,4.52,403,cryptojunkieapp,2017-12-02 00:00:00
+chrome,aopdfjgkaphbpmhemeadmlcbfeddfeme,cryptocurrency-faucets,Cryptocurrency Faucets,5.0,606,gofaucet,2019-07-26 00:00:00
+chrome,kibjgacnfajbofplhfbfjgmcbkdnblfj,hacking-crypto-latest-cry,Hacking Crypto - Latest Cryptocurrency News,5.0,260,Rockaway Inc,2018-03-10 00:00:00
+chrome,abkhnhidhijmhchhnjoookpbhmnfjgog,magnetic-money,Magnetic Money,5.0,153,Magnetic Money,2018-05-26 00:00:00
 chrome,oheacmjjkbcbpgmdljkbcaopcmpjfloj,tps-brainwallet,TP's Brainwallet,5.0,129,tpidev,2013-06-01 00:00:00
-chrome,ncfbbfpigofnjhbchikpiomlliklpabo,quick-coinbase-ticker,Quick Coinbase Ticker,4.5,143,Yukihiro Kawauchiya,2018-02-20 00:00:00
-chrome,nfngeikdmbkbnamaljeijjfebmjmhmlp,bitcoin-calculator,Bitcoin calculator,5.0,162,Alexandre PENOMBRE,2018-10-22 00:00:00
-chrome,kpcngaggbajehefdinhniockfhdhacnb,coinbag-track-all-your-co,Coinbag - Track all your coins in one place,5.0,117,CoinBag,2020-05-29 00:00:00
-chrome,fhilaheimglignddkjgofkcbgekhenbh,oxygen-atomic-crypto-wall,Oxygen - Atomic Crypto Wallet,2.3333333333333335,162,Oxygen - Blockchain Solutions,2020-05-26 00:00:00
-chrome,mkekmkkaginnjcoicjcoieodjmbbnfcb,coinvaluegatherer,CoinValueGatherer,4.8,96,alexvales111,2017-12-21 00:00:00
-chrome,ojopeinoooepnfnmifmmjebccpnjamea,vechain-price-checker,VeChain Price Checker,4.6,96,A Byte Ahead,2020-10-14 00:00:00
-chrome,mogdapldllopbflceaceonkalaebghbe,bitcoin-crypto-news,Bitcoin Crypto News,0.0,120,oinkandstuff,2020-07-14 00:00:00
-chrome,bjjjblldnfkojnblnibaghkiejclpldp,magnetic-money-int,Magnetic Money Int,5.0,89,Magnetic Money,2018-07-28 00:00:00
-chrome,oiahkmilgmildjpmjiobepbmglonoogd,crypto-market-info,Crypto Market Info,4.666666666666667,86,Illutex,2019-10-09 00:00:00
-chrome,fidmapppafelhanbficlpelfebcdanfh,cryptowire,CryptoWire,3.5,70,sachingoel,2018-04-04 00:00:00
+chrome,ncfbbfpigofnjhbchikpiomlliklpabo,quick-coinbase-ticker,Quick Coinbase Ticker,4.5,150,Yukihiro Kawauchiya,2018-02-20 00:00:00
+chrome,kpcngaggbajehefdinhniockfhdhacnb,coinbag-track-all-your-co,Coinbag - Track all your coins in one place,5.0,115,CoinBag,2020-05-29 00:00:00
+chrome,fhilaheimglignddkjgofkcbgekhenbh,oxygen-atomic-crypto-wall,Oxygen - Atomic Crypto Wallet,2.0,163,Oxygen - Blockchain Solutions,2020-05-26 00:00:00
+chrome,nfngeikdmbkbnamaljeijjfebmjmhmlp,bitcoin-calculator,Bitcoin calculator,5.0,163,Alexandre PENOMBRE,2018-10-22 00:00:00
+chrome,mkekmkkaginnjcoicjcoieodjmbbnfcb,coinvaluegatherer,CoinValueGatherer,4.8,108,alexvales111,2017-12-21 00:00:00
+chrome,ojopeinoooepnfnmifmmjebccpnjamea,vechain-price-checker,VeChain Price Checker,4.6,98,A Byte Ahead,2020-10-14 00:00:00
+chrome,mogdapldllopbflceaceonkalaebghbe,bitcoin-crypto-news,Bitcoin Crypto News,0.0,115,oinkandstuff,2020-07-14 00:00:00
+chrome,bjjjblldnfkojnblnibaghkiejclpldp,magnetic-money-int,Magnetic Money Int,5.0,97,Magnetic Money,2018-07-28 00:00:00
+chrome,oiahkmilgmildjpmjiobepbmglonoogd,crypto-market-info,Crypto Market Info,4.666666666666667,83,Illutex,2019-10-09 00:00:00
 chrome,ibfpieieeldafeeejhpknkjkigoembae,bitcoin-today,Bitcoin Today,4.75,50,BitcoinToday,2018-02-24 00:00:00
-chrome,nppgknjeeojeghmaegambagdckglfcgf,chainlink-linkusd-price-t,ChainLink (LINK/USD) Price Ticker,4.5,101,Taha,2020-03-11 00:00:00
-chrome,ccagdbjcbhmcdcbbknfebhhdbolnfimo,coin-hive-blocker,Coin-Hive Blocker,4.315985130111524,"10,000",Andreas Molle,2019-07-16 00:00:00
-chrome,fpkhlnacfhciopipcjpcjmkpldbogaeo,crypto-price-tracker,Crypto Price Tracker,4.068965517241379,680,apostopher,2020-09-01 00:00:00
-chrome,mogdapldllopbflceaceonkalaebghbe,bitcoin-crypto-news,Bitcoin Crypto News,0.0,120,oinkandstuff,2020-07-14 00:00:00
-chrome,hjbmikofmhjfpocpkcolfldpnhcngedg,cryptocurrency-portfolio,Cryptocurrency portfolio value,0.0,8,Torisbel,2018-02-01 00:00:00
-chrome,ejpcojkcallnhphinmknkaoojohidegf,miner-blocker-block-coin,Miner Blocker - Block Coin Miners,4.089285714285714,"10,000",freshtools.cmp,2018-01-23 00:00:00
-chrome,egfgfjgkhcmocpjflngjkbbgelledkbg,coinbought,CoinBought,0.0,6,CoinBought,2019-03-08 00:00:00
-chrome,ofcifgpkhdehcpkbnicmjnceebpcilno,coinmark-cryptocurrency-m,Coinmark - Cryptocurrency Market Prices,4.25,"1,000",Coinmark,2019-08-29 00:00:00
-chrome,ehfhdfiepmimglpijcgmgclaejecmmmi,cryptocurrency-price-aler,Cryptocurrency Price Alert,4.615384615384615,762,IgTechSolution,2018-02-06 00:00:00
-chrome,kjjlmgehohdbclcmfmphmifnppmcmeio,bitcoin-price,Bitcoin Price,4.166666666666667,532,shaomxing,2020-02-05 00:00:00
-chrome,egnfmleidkolminhjlkaomjefheafbbb,dfp-cryptocurrency-miner,DFP Cryptocurrency Miner,4.2,466,CryptoLottery,2018-02-01 00:00:00
-chrome,pjpaehngacdnemhiokleffbaohinhioi,altcoin-fantasy-crypto-fa,Altcoin Fantasy - Crypto Fantasy Trading Game,5.0,371,ACF,2018-03-04 00:00:00
-chrome,pnjaenlogfahpkkmmhbenkendmhcaebo,cryptocurrency-portfolio,Cryptocurrency Portfolio,4.7272727272727275,283,Bookman,2017-09-30 00:00:00
-chrome,abkhnhidhijmhchhnjoookpbhmnfjgog,magnetic-money,Magnetic Money,5.0,144,Magnetic Money,2018-05-26 00:00:00
-chrome,bjjjblldnfkojnblnibaghkiejclpldp,magnetic-money-int,Magnetic Money Int,5.0,89,Magnetic Money,2018-07-28 00:00:00
-chrome,mmaebdpdmccndjceenijboocobhelkbh,hitbtc-bitcoin-exchange,HitBTC Bitcoin Exchange,4.555555555555555,51,hitbtc official,2018-04-22 00:00:00
-chrome,ibfpieieeldafeeejhpknkjkigoembae,bitcoin-today,Bitcoin Today,4.75,50,BitcoinToday,2018-02-24 00:00:00
-chrome,fbaljaifnljnpoppjfehljmephpghaip,crypto-stats,Crypto Stats,5.0,49,ValueApps,2020-04-14 00:00:00
-chrome,mcppmdjlghmadabjofodajpppiloembp,blockchain-gateway,Blockchain Gateway,5.0,48,XCUBICLE,2018-10-01 00:00:00
-chrome,mnphabhdkpljeimcfpdpppbamedonofb,bitcoin-price,Bitcoin price,3.0,41,ar2r,2018-01-17 00:00:00
+chrome,ldifofhjjihonamocbjmboeeaolkflag,cryptosaur,Cryptosaur,3.95,48,jeff88,2014-03-23 00:00:00
+chrome,fidmapppafelhanbficlpelfebcdanfh,cryptowire,CryptoWire,3.5,66,sachingoel,2018-04-04 00:00:00
+chrome,gmlbdhijejhaiiooifdigoldfmbhgjah,tps-bitcoin-scourer,TP's Bitcoin Scourer,5.0,62,tpidev,2013-06-01 00:00:00
+chrome,mnphabhdkpljeimcfpdpppbamedonofb,bitcoin-price,Bitcoin price,3.0,44,ar2r,2018-01-17 00:00:00
 chrome,blbeijgoeafhgalclmhlbpmkmnlkajap,dogecoin-price,Dogecoin price,0.0,36,ar2r,2018-01-17 00:00:00
-chrome,lfpfdkldcgcmdioidcldjcmlfacnkild,ethereum-price,Ethereum price,5.0,31,ar2r,2018-01-17 00:00:00
-chrome,pbfbaeobcojdjfgplolbofdjlahhclkc,cryptodex,Cryptodex,4.0,27,Keith Ingram,2018-04-20 00:00:00
-chrome,mghpciinbniokkdoilbellebeegggkde,bitcoin-trader,Bitcoin Trader,5.0,14,Bitcoin Trader,2018-04-10 00:00:00
-chrome,cpdoomofobgidgcfaeiffcnakimkgclp,crypto-casino-reviews,Crypto Casino Reviews,0.0,4,crixo.ilgallo,2019-09-11 00:00:00
+chrome,lfpfdkldcgcmdioidcldjcmlfacnkild,ethereum-price,Ethereum price,5.0,32,ar2r,2018-01-17 00:00:00
+chrome,nogdkjfnegdjdgegekcclglocakclegl,bitcoin-ticker-for-wex-ex,Bitcoin Ticker for WEX exchange,4.833333333333333,21,Maksym Tymchyk,2020-08-27 00:00:00
+chrome,pbfbaeobcojdjfgplolbofdjlahhclkc,cryptodex,Cryptodex,4.0,29,Keith Ingram,2018-04-20 00:00:00
+chrome,opdmmmpiahddjnfogimkmmgmmhkbalol,bitcoin-to-buttcoin,Bitcoin To Buttcoin,5.0,15,jamesonjlee,2013-12-11 00:00:00
+chrome,ffkicalblogbdapjfckabempifkaieia,cryptocurrency-rates,Cryptocurrency Rates,4.0,15,Psych,2020-02-01 00:00:00
+chrome,efmkodhojilpinbapdnoeikgabdclhfg,cointrack,Cointrack,5.0,15,Abiodun Adetona,2017-11-04 00:00:00
+chrome,lnmfhbodeknlllljjmhpgieflmioddie,the-bitcoin-code,The Bitcoin Code,5.0,14,Bitcoin Trader,2018-04-10 00:00:00
+chrome,omlcemhghhleeoaoodlipigplhccodbp,cryptocurrency-price-moni,Cryptocurrency Price monitoring,5.0,13,Rakesh Narvaneni,2017-12-31 00:00:00
+chrome,mghpciinbniokkdoilbellebeegggkde,bitcoin-trader,Bitcoin Trader,5.0,12,Bitcoin Trader,2018-04-10 00:00:00
+chrome,nobcanbppjbdddoilcpahbkdmjjihnem,bittrend,BitTrend,0.0,10,Media3,2014-09-04 00:00:00
+chrome,caknhbobbhcehjebdcpgfodgfbpklblm,cryptonow,CryptoNow,5.0,7,jessica.greben1,2017-05-15 00:00:00
+chrome,gkpgfnkkpnffhdidnjnainjfbfhoipbb,the-crypto-lab,The Crypto Lab,0.0,8,Louis Mzk,2020-03-20 00:00:00
+chrome,giehkbmaeanabblbpagkonkbjdjhnlgl,citify-instant-exchange,Citify Instant Exchange,0.0,10,Citify,2019-09-10 00:00:00
+chrome,hjbmikofmhjfpocpkcolfldpnhcngedg,cryptocurrency-portfolio,Cryptocurrency portfolio value,0.0,8,Torisbel,2018-02-01 00:00:00
+chrome,cpdoomofobgidgcfaeiffcnakimkgclp,crypto-casino-reviews,Crypto Casino Reviews,0.0,5,crixo.ilgallo,2019-09-11 00:00:00
+chrome,aojiilcenododccfjkelhhddnomhlbmn,cryptocurrencies-gdax-pro,Cryptocurrencies GDAX product price,5.0,5,github.gkarthiks,2017-12-23 00:00:00
+chrome,eeejeggpdpjgkfocdkbepdbkpcpjlncd,bit-trackers,Bit Trackers,5.0,4,satyamdev123,2017-07-13 00:00:00
+chrome,bifgdgokenggepijpgmljalgbdaifnco,buycoins-price-checker,BuyCoins - Price Checker,5.0,3,Balogun Wahab,2020-08-18 00:00:00
+chrome,glaoldjgoiaajcjcbgpfmnfddioaolop,cryptocoins-live-rates,CryptoCoins - Live Rates,5.0,3,ganeshpartheeban,2019-02-13 00:00:00
+chrome,ggmhobkfampgidphcgdmjlkeohlaofdo,cryptonow,CryptoNow,5.0,2,trm313,2017-11-06 00:00:00
+chrome,bcnchpdbjajimfokaipiekoanbnhmdij,btcbit,BTCBIT,0.0,2,paulblair931,2020-02-19 00:00:00
+chrome,mfiddnlhlmehcbpkhgljjchnjmlkanje,bitcoin-price,Bitcoin Price,5.0,2,hubbion.com,2020-11-28 00:00:00
+chrome,bocoifjepokgacaalfjalndiabndgbph,crypto-info-coin,Crypto Info Coin,5.0,2,morellitecinfo,2019-03-05 00:00:00
+chrome,mmaebdpdmccndjceenijboocobhelkbh,hitbtc-bitcoin-exchange,HitBTC Bitcoin Exchange,4.555555555555555,53,hitbtc official,2018-04-22 00:00:00
+chrome,njiogihgdaoaapjabcdekoohcnjladni,cryptocurrency-instant-ex,Cryptocurrency instant exchange swap,5.0,"30,000",Extpose,2019-10-10 00:00:00
+chrome,eaiddpleilmlhafnehahajkojmhgaden,favocrypto-by-coingnu,FavoCrypto (by CoinGnu),0.0,1,coingnu0,2019-08-06 00:00:00
+chrome,kfkmakbpfgmgeiajohdbdddbeikdkhkm,ethereum-hoje,Ethereum Hoje,4.75,"1,000",Pedro Menezes,2018-05-21 00:00:00
+chrome,ldbikceofpgkjbmoijglmnaphdcfmklp,ethereum-gethdesk,Ethereum GethDesk,4.333333333333333,684,Eduard Karpa,2019-01-05 00:00:00
+chrome,ahboebefkdoiomfpehlgjehokjjlndmj,eth-ticker-ethereum-ticke,ETH Ticker | Ethereum Ticker | Token Ticker,4.25,"2,000",Betonimig,2019-01-14 00:00:00
+chrome,jbdaocneiiinmjbjlgalhcelgbejmnid,nifty-wallet,Nifty Wallet,4.7727272727272725,"3,000",POA Network,2020-12-04 00:00:00
+chrome,njbclohenpagagafbmdipcdoogfpnfhp,ethereum-gas-prices,Ethereum Gas Prices,5.0,203,Philippe Masset,2020-09-18 00:00:00
+chrome,pjpaehngacdnemhiokleffbaohinhioi,altcoin-fantasy-crypto-fa,Altcoin Fantasy - Crypto Fantasy Trading Game,5.0,380,ACF,2018-03-04 00:00:00
+chrome,mbfcnfgpimdeehokhmhdhmpmkphdeamd,ethereum-price-ticker-eth,Ethereum Price Ticker | ETH Price Ticker,5.0,321,"Root Consulting, Inc",2020-08-08 00:00:00
+chrome,jkaiofboahfpipgijdgdmbdldlgcipgo,ens-gateway-eth-domain-br,ENS Gateway: .Eth Domain Browser for Ethereum,4.857142857142857,280,Soule Labs,2017-12-03 00:00:00
+chrome,pdknmigbbbhmllnmgdfalmedcmcefdfn,etheraddresslookup,EtherAddressLookup,4.555555555555555,"60,000",Harry,2020-09-04 00:00:00
+chrome,innfmlnnhfcebjcnfopadflecemoddnp,ethereum-gas-price-extens,Ethereum Gas Price Extension,4.9,"3,000",nieldlr,2020-11-04 00:00:00
+chrome,llcijkdpphgkpofnfkhkdidoblbiibpk,ethereum-tab-streaming-pr,Ethereum Tab - Streaming price & market info.,0.0,33,Blockmodo,2019-01-07 00:00:00
+chrome,emkijikhgigaoocojcfkcgkldfhokemo,ethereum-classic-hoje,Ethereum Classic Hoje,0.0,66,Pedro Menezes,2018-05-21 00:00:00
+chrome,hhbaknedgnnamobhnfdomcmdabhhbkbk,ethereum-and-etherum-clas,Ethereum and Etherum Classic price ticker,3.75,67,johnerfx,2017-03-17 00:00:00
+chrome,jedgfcnbkbgiheojcfkbphplgkhgppgf,ethereum-allinone-eth-tic,Ethereum AllInOne: ETH Ticker / Wallet viewer,4.5,39,Zed's Dev,2017-12-06 00:00:00
+chrome,nbdanhiimhghdlhjnjeplpplojecnjmh,eth-price-ethereum,ETH price (Ethereum),3.875,843,Raúl Marcos,2017-08-28 00:00:00
+chrome,mhhgjpidhclpobhkdnlopdfhfamalnia,stormx-shop-earn-crypto,StormX: Shop & Earn Crypto,5.0,"3,000",StormX Singapore PTE. LTD.,2020-11-23 00:00:00
+chrome,lbggcmmelaomcbgmeccjfejpamehbhin,yezcoin-ethereum-scam-add,Yezcoin Ethereum Scam Address Detector,5.0,23,Yezcoin Pte.Ltd.,2018-07-16 00:00:00
+chrome,ofcifgpkhdehcpkbnicmjnceebpcilno,coinmark-cryptocurrency-m,Coinmark - Cryptocurrency Market Prices,4.25,"1,000",Coinmark,2019-08-29 00:00:00
+chrome,fhbohimaelbohpjbbldcngcnapndodjp,binance-chain-wallet,Binance Chain Wallet,3.9047619047619047,"20,000",Binance Chain,2020-12-01 00:00:00
+chrome,eogchmcoaekeffdonnikgkflbpaambip,eth-ethereum-ticker-for-p,ETH / Ethereum Ticker for Poloniex,5.0,67,Kaakati,2017-03-21 00:00:00
+chrome,lfpfdkldcgcmdioidcldjcmlfacnkild,ethereum-price,Ethereum price,5.0,32,ar2r,2018-01-17 00:00:00
+chrome,dlnalaneihafdkdcekejdekiclgdghka,breadcrumbs-blockchain-in,Breadcrumbs Blockchain Investigate,5.0,21,Breadcrumbs,2020-08-22 00:00:00
+chrome,mblpipfoicjgcokcnnmbebnlooldfdjc,ethereum-tracker-euro-pri,Ethereum Tracker - Euro Price (ETHEUR),5.0,17,HamsterApps,2017-05-04 00:00:00
+chrome,blnieiiffboillknjnepogjhkgnoapac,equal-wallet,EQUAL Wallet,4.754098360655738,"1,000",equalnetwork,2020-08-21 00:00:00
+chrome,nkddgncdjgjfcddamfgcmfnlhccnimig,saturn-wallet,Saturn Wallet,4.647058823529412,"2,000",Saturn Network,2020-01-29 00:00:00
+chrome,dconegbmnkoeccohdkifggkgdhoaedgc,ethereum-ethusd-price-tic,Ethereum (ETH/USD) Price Ticker,5.0,70,Taha,2020-03-20 00:00:00
+chrome,oiflppoidedbicdboldgadjhffejbiok,eth-ticker-ethereum-ticke,ETH ticker | Ethereum ticker,5.0,21,peter.aupry,2018-04-01 00:00:00
+chrome,mlliaggckjdoolejehkgkkcmfjlhmfak,ethereum-avatar,Ethereum Avatar,0.0,14,360disrupt,2018-02-13 00:00:00
+chrome,ibobolecjikcjgllkgfjmhilmhkidblp,bdtex-wallet,BDTEx Wallet,5.0,41,JustLiquidity,2019-11-03 00:00:00
+chrome,eifglbbbdbmfcjoeeokmpdmhkhcilfil,ethereum,Ethereum,5.0,10,lexansoft,2016-02-18 00:00:00
+chrome,fhaehblnmlecgnedafkabonmkbogpkng,cointelegraph-—-bitcoin-e,Cointelegraph — Bitcoin & Ethereum News,5.0,161,Cointelegraph,2019-01-24 00:00:00
+chrome,caddnmdigajdehmjbnlkpmnckkcneckf,ethereum-price-in-usd,Ethereum price in USD,5.0,6,crypto prices,2020-10-06 00:00:00
+chrome,egjiglhnofaenmabafhplabgimbcmlgf,ethereum-toolkit,Ethereum toolkit,5.0,6,hylsceptic,2018-08-13 00:00:00
+chrome,japgcbmdokcibjdencjalgfjeglgbcgc,tx-ray-beta-protect-your,TX-ray (Beta): Protect Your Wallets,5.0,25,TX-ray,2020-03-19 00:00:00
+chrome,gffnngoochofmgpkbchpdbdjoijaohog,cryptocurrency-exchange-r,Cryptocurrency exchange rates & calculator,4.0843373493975905,"6,000",Cryptonator,2016-11-18 00:00:00
+chrome,ainmgbleakflfgjjoolgmgfepddnpeln,ethereum-monitor,Ethereum monitor,0.0,3,Awork,2020-07-15 00:00:00
+chrome,fbbckponafgkennhnmgfoikfmbkiplgp,coinstats-crypto-portfoli,CoinStats - Crypto Portfolio Tracker,4.733333333333333,"3,000",Coin Stats Inc,2020-10-09 00:00:00
+chrome,aehoaajegaoakamklmcbgefibhnilbip,veswallet-ethereum-wallet,VESwallet: Ethereum Wallet with VES Backup,0.0,6,VESvault,2018-03-11 00:00:00
+chrome,gmmnjkphjfnanlojihefoeidjmbakfde,ethereum-price-in-eur,Ethereum price in EUR,5.0,4,crypto prices,2020-10-06 00:00:00
+chrome,ofmoicejmilkphppeoekfhbpkleppdlb,coingecko-bitcoin-cryptoc,CoinGecko: Bitcoin & Cryptocurrency Market,4.857142857142857,"1,000",CoinGecko,2019-01-23 00:00:00
+chrome,eachlnokbkckmbhglohpcmhllebcdbme,ethereum-price-ticker-ale,Ethereum Price Ticker & Alert,0.0,3,happy elephant web development,2020-09-08 00:00:00
+chrome,fekkpefadofgnlkageinocamiapffnak,cryptokitties-finder,CryptoKitties Finder,0.0,60,Francesco Megna,2018-04-05 00:00:00
+chrome,loifgkdfkjcajhlifgaclocngoinaeem,bitcoin-one,BitCoin ONE,3.6666666666666665,34,BitCoin ONE,2019-03-08 00:00:00
+chrome,cpgjdheihpmldnkbbonjjlebkacaeecg,cryptojunkie-latest-crypt,CryptoJunkie: latest crypto news & prices,4.52,403,cryptojunkieapp,2017-12-02 00:00:00
+chrome,bbmdccojdbpcpmoadenplnoncfcijgkn,onewallet-kratos-mainnet,OneWallet Kratos Mainnet,5.0,297,OneLedger Technologies Inc.,2020-09-01 00:00:00
+chrome,pnjaenlogfahpkkmmhbenkendmhcaebo,cryptocurrency-portfolio,Cryptocurrency Portfolio,4.7272727272727275,281,Bookman,2017-09-30 00:00:00
+chrome,ipkcagngbjpjlmajjcklpknniojdhppe,pumapay,PumaPay,5.0,224,Decentralized Vision,2019-07-17 00:00:00
+chrome,gdocmelgnjeejhlphdnoocikeafdpaep,gitcoin,Gitcoin,5.0,216,ksowocki,2019-04-29 00:00:00
+chrome,lnmfhbodeknlllljjmhpgieflmioddie,the-bitcoin-code,The Bitcoin Code,5.0,14,Bitcoin Trader,2018-04-10 00:00:00
+chrome,jkmhmenlookbolbbmcdmadnbmpjlmacg,coinbase-trading,Coinbase Trading,4.5,13,pedro,2017-12-15 00:00:00
+chrome,jlbkpppjbkmkjjemjcofmccodofkknmc,cryptocurrency-prices-cha,Cryptocurrency Prices & Charts - BitDuck,5.0,120,CrisValls,2020-12-04 00:00:00
+chrome,cmbagcoinhmacpcgmbiniijboejgiahi,justliquidity-wallet,JustLiquidity Wallet,5.0,81,JustLiquidity,2020-10-13 00:00:00
+chrome,mnlfoooikhmcaomegmfopecjngldnmmn,ethermine-watcher,Ethermine Watcher,0.0,85,DW Crypto,2020-05-19 00:00:00
+chrome,ibfpieieeldafeeejhpknkjkigoembae,bitcoin-today,Bitcoin Today,4.75,50,BitcoinToday,2018-02-24 00:00:00
+chrome,achbehnmipmphllfekbgjjdmhehbgoce,ether-sneak-peek,Ether Sneak Peek,3.0,61,steven2358,2017-07-25 00:00:00
+chrome,dmbgoabeajhaepagmjnilmpmfhjljdba,ethereum-preço-hoje,Ethereum Preço Hoje,0.0,2,landuartoficial,2019-10-29 00:00:00
+chrome,gbjepgaebckfidagpfeioimheabiohmg,zeon-wallet,ZEON Wallet,5.0,55,ZEON Network,2020-05-27 00:00:00
+chrome,kkilomkmpmkbdnfelcpgckmpcaemjcdh,celo-desktop-wallet,Celo-desktop-wallet,0.0,41,jiyun.kim,2020-09-17 00:00:00
+chrome,heohpoipgmadpdmafmddijgdckhnhaml,cointicker,CoinTicker,4.0,36,quoid,2018-03-16 00:00:00
+chrome,pbfbaeobcojdjfgplolbofdjlahhclkc,cryptodex,Cryptodex,4.0,29,Keith Ingram,2018-04-20 00:00:00
+chrome,gfchpofllbnjfhgmjbgmhljdpolcjing,mraddon-blockchain-viewer,MrAddon BlockChain Viewer for Chrome,0.0,24,MrAddon ®,2020-11-24 00:00:00
+chrome,idoockghidhkajjcomifcbcneopnbkph,bitlocom,Bitlo.com,5.0,20,Bitlo.com,2019-03-22 00:00:00
+chrome,ffkicalblogbdapjfckabempifkaieia,cryptocurrency-rates,Cryptocurrency Rates,4.0,15,Psych,2020-02-01 00:00:00
+chrome,pdpahdgmbnpeepflkedmdcieohpcpchh,cryptocurrency-price-tick,Cryptocurrency Price Ticker,5.0,16,Ethan Chiasson,2020-02-01 00:00:00
+chrome,mghpciinbniokkdoilbellebeegggkde,bitcoin-trader,Bitcoin Trader,5.0,12,Bitcoin Trader,2018-04-10 00:00:00
+chrome,fceaohfigonmbbdecpbjjhkafciaiomf,bitcoin-ticker,BitCoin Ticker,4.0,9,dana11235,2017-09-25 00:00:00
+chrome,egfgfjgkhcmocpjflngjkbbgelledkbg,coinbought,CoinBought,0.0,9,CoinBought,2019-03-08 00:00:00
+chrome,llpbjcejemjfaicajiephoejjnogfbed,bitcoin-tab,Bitcoin Tab,0.0,8,Bitcoin Tab,2020-11-29 00:00:00
+chrome,gjhklkpapfjiknhmfdjkkfblhblfpedj,ether-notify,Ether Notify,5.0,6,Vitwit,2019-04-30 00:00:00
+chrome,hjbmikofmhjfpocpkcolfldpnhcngedg,cryptocurrency-portfolio,Cryptocurrency portfolio value,0.0,8,Torisbel,2018-02-01 00:00:00
+chrome,akfogaiaahkdhpgihkcdncbhmkjjfban,crypto-ticker,Crypto Ticker,1.0,4,CodeTheBay,2019-01-02 00:00:00
+chrome,bgddejjmhilkdllbakkgddjodommlimc,bitcoin-price-ticker,Bitcoin price ticker,4.2,"4,000",Extpose,2020-10-13 00:00:00
+chrome,olpfnfcoflgpbbfhedielmmdacikbfhk,bitcoin-hoje,Bitcoin Hoje,4.424242424242424,"9,000",Pedro Menezes,2018-05-21 00:00:00
+chrome,afhfbdbjojkmnjhlcefomefflbkbhpcc,bitcoin-extension,Bitcoin Extension,4.671232876712328,"5,000",BTC-Extension,2019-09-06 00:00:00
+chrome,amdginnpaflghjbbdkfenpekaeifnpee,purse-shop-with-bitcoin-b,Purse: Shop with Bitcoin (Beta),4.0,"6,000",purse-chrome-extension,2019-11-04 00:00:00
+chrome,kffgfjkkdfkbgldblbeilgllplgeiknk,get-used-to-bitcoin,Get Used to Bitcoin,4.428571428571429,211,Get Used to Bitcoin,2019-10-30 00:00:00
+chrome,onebfemgnhgpkdcmijbpjakhhidonjfl,coincorner-earn-bitcoin,CoinCorner - Earn Bitcoin,5.0,285,CoinCorner,2020-10-08 00:00:00
+chrome,bkanicejfbhlidgjkpenmddnacjengld,bitcoin-microformats,Bitcoin Microformats,4.5,135,Jonathan Waller,2013-03-16 00:00:00
+chrome,ijpmihhlfkkfeimocndobeghgdggkail,adsbitcoinio-get-bitcoins,adsbitcoin.io - Get Bitcoins in a second.,3.8214285714285716,"10,000",adsbitcoin.io,2020-12-02 00:00:00
+chrome,ckpaelocniggkheibcacecnmmlmeodfa,cryptobit-bitcoin-wallet,CryptoBit: Bitcoin Wallet,5.0,426,Eduard Karpa,2018-12-05 00:00:00
+chrome,kjjlmgehohdbclcmfmphmifnppmcmeio,bitcoin-price,Bitcoin Price,4.166666666666667,508,shaomxing,2020-02-05 00:00:00
+chrome,ifandnfeadkfgcnefgpobhmpapnfjlee,who-accepts-bitcoin,Who Accepts bitcoin,5.0,242,erikbrodch,2018-02-19 00:00:00
+chrome,pjpaehngacdnemhiokleffbaohinhioi,altcoin-fantasy-crypto-fa,Altcoin Fantasy - Crypto Fantasy Trading Game,5.0,380,ACF,2018-03-04 00:00:00
+chrome,oknggkioalbldgcfhcolnaimjodljfli,bitcoin-cash-hoje,Bitcoin Cash Hoje,4.2,507,Pedro Menezes,2018-05-21 00:00:00
+chrome,bgplngjbambbciomdflipmdhbkgbofoj,free-bitcoin,FREE BITCOIN,4.866666666666666,"1,000",HNS,2019-11-14 00:00:00
+chrome,inpkhjhgpbkjdaomkiacfamklnocegdj,bitcoin-price-at-bitstamp,Bitcoin price at Bitstamp,4.0,542,Bernardo Boncompagni,2019-06-03 00:00:00
+chrome,cojpifopaaneikgfobjnekpfmpkiekff,1-click-amazon-bitcoin-ch,1-click Amazon Bitcoin checkout,4.0,274,bitcoinsberlin,2014-05-23 00:00:00
+chrome,pkjoeljgmgkmelkaiodnmplblajeciic,mercado-bitcoin-ticker,Mercado Bitcoin Ticker,4.833333333333333,358,Uilian Souza,2017-12-12 00:00:00
+chrome,pmlblkdmadbidammhjiponepngbfcpge,bitcoin-address-lookup,Bitcoin Address Lookup,4.833333333333333,221,Jon Lund Steffensen,2013-03-06 00:00:00
+chrome,mogdapldllopbflceaceonkalaebghbe,bitcoin-crypto-news,Bitcoin Crypto News,0.0,115,oinkandstuff,2020-07-14 00:00:00
+chrome,gidpkdpdnngpfohekcfkfjbkieeihekj,btc-ticker-bitcoin-ticker,BTC Ticker | Bitcoin Ticker,4.857142857142857,"2,000",Betonimig,2020-11-06 00:00:00
+chrome,ofmoicejmilkphppeoekfhbpkleppdlb,coingecko-bitcoin-cryptoc,CoinGecko: Bitcoin & Cryptocurrency Market,4.857142857142857,"1,000",CoinGecko,2019-01-23 00:00:00
+chrome,gihnmkplbiedplobapnkhgblipfgjoci,bitcoin-live,Bitcoin Live,4.333333333333333,261,yoni jah,2013-11-28 00:00:00
+chrome,cepgjidobniobmoomapojghihlfplhak,bitcoin-currency-converte,Bitcoin Currency Converter,4.166666666666667,74,eric,2013-05-22 00:00:00
+chrome,mpgcknekacnhbblnciapinliegimlplk,bitcoin-tab-streaming-pri,Bitcoin Tab - Streaming price & market info.,5.0,214,Blockmodo,2019-01-24 00:00:00
+chrome,fbbckponafgkennhnmgfoikfmbkiplgp,coinstats-crypto-portfoli,CoinStats - Crypto Portfolio Tracker,4.733333333333333,"3,000",Coin Stats Inc,2020-10-09 00:00:00
+chrome,ofcifgpkhdehcpkbnicmjnceebpcilno,coinmark-cryptocurrency-m,Coinmark - Cryptocurrency Market Prices,4.25,"1,000",Coinmark,2019-08-29 00:00:00
+chrome,pabhjciopipeohjdecdjomphkejmkkhi,bitcoin-cash-tab-markets,Bitcoin Cash Tab - Markets on every new tab!,5.0,71,Blockmodo,2019-01-06 00:00:00
+chrome,ibfpieieeldafeeejhpknkjkigoembae,bitcoin-today,Bitcoin Today,4.75,50,BitcoinToday,2018-02-24 00:00:00
+chrome,aicnoeecmjdphleddljcegeojbabfhnk,coinview-of-bitcoin-altco,CoinView of Bitcoin Altcoin & cryptocurrency,5.0,876,COINJINJA K.K.,2018-05-25 00:00:00
+chrome,oijajbhmelbcoclnkdmembiacmeghbae,bitoke-bitcoin-faucet,Bitoke - Bitcoin Faucet,3.0,330,addonpub,2019-07-31 00:00:00
+chrome,boeoabmkdhmjbbdhhocnopfkikcpdffd,no-bitcoin-miners,No Bitcoin miners,4.7,"1,000",Alamdar,2017-09-29 00:00:00
+chrome,nofccoknfcageikhnhfhkpcdciapdaja,do-they-accept-bitcoin,Do They Accept Bitcoin?,3.8333333333333335,50,Vitalik,2013-05-10 00:00:00
+chrome,jjcbgfhjneiblaifakgnnkdakebpebaf,bitcoin-auto-converter,Bitcoin Auto-Converter,4.0344827586206895,"1,000",Concept211,2020-05-23 00:00:00
+chrome,ehfhdfiepmimglpijcgmgclaejecmmmi,cryptocurrency-price-aler,Cryptocurrency Price Alert,4.615384615384615,784,IgTechSolution,2018-02-06 00:00:00
+chrome,kmocgjpcbdnngajkppcemacfebaaeiid,trafficlyio-get-bitcoins,trafficly.io - Get Bitcoins in a second.,4.196969696969697,"10,000",trafficly.io,2020-06-08 00:00:00
+chrome,ndclmokbpeggeoahfjjkjfifhpjnbkho,bitcoin-assistant,Bitcoin assistant,4.25,150,Miracreate,2014-02-01 00:00:00
+chrome,nmoioahfkdpfpjngcljhcphglbdppdmj,bitcoin-sneak-peek,Bitcoin Sneak Peek,4.5,237,steven2358,2017-12-14 00:00:00
+chrome,inhcffcgimhaejpgaoibcmipcofdcaho,portal-do-bitcoin,Portal do Bitcoin,5.0,97,Portal do Bitcoin Apps,2018-11-29 00:00:00
+chrome,lnmfhbodeknlllljjmhpgieflmioddie,the-bitcoin-code,The Bitcoin Code,5.0,14,Bitcoin Trader,2018-04-10 00:00:00
+chrome,lgkaalnoklbfbhcdpmamlnkonfiaiemi,bitcoin-altcoin-ticker,Bitcoin Altcoin Ticker,4.2105263157894735,519,sergey.munich,2018-01-25 00:00:00
+chrome,digkhhkhakkpankejbcpgghphidokljl,yet-another-bitcoin-price,Yet Another Bitcoin Price Ticker,5.0,133,RockyTV,2018-09-10 00:00:00
+chrome,ckledhmnlchffimlnbgiaojhfnnkahpo,historical-bitcoin-price,Historical Bitcoin Price Calculator,0.0,52,bitcoinhouse,2019-03-08 00:00:00
+chrome,fbfkbojhhpboogndladhdemkbpmfmeie,bitcoin-price-for-virwox,Bitcoin Price for Virwox,3.6,69,Fernando D. Tiberti,2015-02-26 00:00:00
+chrome,loifgkdfkjcajhlifgaclocngoinaeem,bitcoin-one,BitCoin ONE,3.6666666666666665,34,BitCoin ONE,2019-03-08 00:00:00
+chrome,bbcjcfnehaiaclhfhllbcbbpoemehphk,bitcoin-gold-hoje,Bitcoin Gold Hoje,0.0,61,Pedro Menezes,2018-05-21 00:00:00
+chrome,ofllonaghfejikjnbdijjfocfefhhmnh,bittab-bitcoin-new-tab-pa,BitTab: Bitcoin New Tab Page,4.833333333333333,59,"Mark Thomas Miller, Mayvale LLC",2017-12-08 00:00:00
+chrome,lejbmdncefpdeonhafpepgibimbngdkg,bitcoin-peek+,Bitcoin Peek+,4.555555555555555,59,Daniel Eithan,2014-03-07 00:00:00
+chrome,nfngeikdmbkbnamaljeijjfebmjmhmlp,bitcoin-calculator,Bitcoin calculator,5.0,163,Alexandre PENOMBRE,2018-10-22 00:00:00
+chrome,caopgikafahfcgbfaagibfelkoaehjjp,tps-bitcoin-balance,TP's Bitcoin Balance,4.285714285714286,115,tpidev,2013-06-01 00:00:00
+chrome,jadobjbcgibiopkifknkfnohlelpocll,badger-wallet,Badger Wallet,4.862068965517241,"6,000",badgerwallet,2020-04-01 00:00:00
+chrome,jjdbklmemcpdklojpniabhfhclngpppe,tps-bitcoin-quick-payment,TP's Bitcoin Quick Payments,4.666666666666667,93,tpidev,2013-06-01 00:00:00
+chrome,gkailbncmmcjceaokcplammkcnhoihjm,bitcoin-ticker,Bitcoin Ticker,5.0,59,hodlercoasterguy,2018-03-08 00:00:00
+chrome,bmeebmkenliikgjcpmcjejpmlklcmnjf,bitcoin-btc-to-satoshi-co,Bitcoin (BTC) to Satoshi Converter,5.0,51,peter.aupry,2018-03-28 00:00:00
+chrome,lllihajjkapokmiogohflioedecpkedc,bitcoin-address-lookup,Bitcoin Address Lookup,5.0,60,Eduard Karpa,2018-11-29 00:00:00
+chrome,bklbfdfcmohmmljcjhdofdphpdembfbm,divitopia-bitcoin-convert,Divitopia Bitcoin Convertor,5.0,152,Divi Project,2019-06-26 00:00:00
+chrome,knjjpbimamlmjebkfoehmgebfdagbfnc,bitcoin-gold-price,Bitcoin Gold Price,0.0,39,BITVoxy Network,2017-10-31 00:00:00
+chrome,eoflfhfpgdhgbegbpgckkailbndcgpod,cryptocurrency-price-trac,Cryptocurrency Price Tracker,4.431372549019608,"4,000",Slavko Ilic,2019-09-15 00:00:00
+chrome,jhbgelfndhaccioppbfadmjabloddnkg,simple-bitcoin-ticker,Simple Bitcoin Ticker,3.8,78,ryaneof,2015-10-01 00:00:00
+chrome,mhhgjpidhclpobhkdnlopdfhfamalnia,stormx-shop-earn-crypto,StormX: Shop & Earn Crypto,5.0,"3,000",StormX Singapore PTE. LTD.,2020-11-23 00:00:00
+chrome,fhaehblnmlecgnedafkabonmkbogpkng,cointelegraph-—-bitcoin-e,Cointelegraph — Bitcoin & Ethereum News,5.0,161,Cointelegraph,2019-01-24 00:00:00
+chrome,caegcjlajimgnjonpdmjkfemnhjpjkli,bitcoin-alert,Bitcoin Alert,0.0,25,vbukhari,2018-01-04 00:00:00
+chrome,ehfafjfbmggilnpahinhdieijnedoghc,bitcoin-hoje,Bitcoin Hoje,0.0,46,Neto,2018-03-30 00:00:00
+chrome,ojjflicjfoiaeilelbmkbgijmapkdakk,btc-bitcoin-ticker-for-po,BTC / Bitcoin Ticker for Poloniex,4.666666666666667,60,Kaakati,2017-03-21 00:00:00
+chrome,hjacdkfgnmaigbmeejkjacecoibojgdn,bitcoin-go,Bitcoin GO,5.0,54,colkito,2014-01-29 00:00:00
+chrome,klhbbnoigogbencgojdicbkfmnangimg,quanto-custa-1-bitcoin-ho,Quanto Custa 1 Bitcoin Hoje?,3.4,131,FoxBit,2018-02-21 00:00:00
+chrome,mpgialbmpebikleajmfchkgjgjplnfjj,bitcoin-price-tracker,Bitcoin Price Tracker,5.0,35,tohuem,2017-08-28 00:00:00
+chrome,mghpciinbniokkdoilbellebeegggkde,bitcoin-trader,Bitcoin Trader,5.0,12,Bitcoin Trader,2018-04-10 00:00:00
+chrome,klkhgjdlpbbbbdbifegjcihllcagojjg,price-in-bitcoins,Price in Bitcoins,4.25,34,brendonboshell,2014-01-26 00:00:00
+chrome,plhgbjemkkbmmmanahmlaagdjebhmlcc,bitcoin-address-lookup,Bitcoin Address Lookup,5.0,24,Zack Banack,2014-12-13 00:00:00
+chrome,iiandjelpocmkkphjmalkpjpggdmhcik,bitcoin-trading-bot-for-b,Bitcoin Trading Bot for BTC-e exchange,2.0,55,Newman,2016-09-16 00:00:00
+chrome,mengdaiflgahpehifoiopgcdbjapabpn,bitcoin-price-converter,Bitcoin price converter,4.5,13,coen.baars,2020-02-22 00:00:00
+chrome,dloinlbpnlkcldoghjohgcgcffpjcdgd,bitcoinlitecoin-ticker-al,Bitcoin/Litecoin Ticker Alarm,4.0,97,shaohua,2015-07-10 00:00:00
+chrome,mnphabhdkpljeimcfpdpppbamedonofb,bitcoin-price,Bitcoin price,3.0,44,ar2r,2018-01-17 00:00:00
+chrome,hfdeddmpdncodjalbadbanlcombfeoll,electrum-bitcoin-wallet,Electrum Bitcoin Wallet,4.6,286,Andrey Fedorov,2013-01-11 00:00:00
+chrome,jiijoddlomajkmcbcafjfgpfjbmeoldh,bitcoin-price,Bitcoin Price,5.0,92,Edward Bowden,2017-06-15 00:00:00
+chrome,pdkmidhbflcbhddoagiikmafccadidhh,tokenly-pockets,Tokenly Pockets,3.9166666666666665,"1,000",Tokenly.com,2016-05-17 00:00:00
+chrome,dhdenoagjkmmdiacnmainlinoaoacfmb,bitcoin-price-ticker-aler,Bitcoin Price Ticker & Alert,5.0,24,happy elephant web development,2019-11-10 00:00:00
+chrome,okkfnemkpnkmkglokjcjeddemjjhpffa,btcer-bitcoin-exchange-ra,BTCER - Bitcoin Exchange Rates,0.0,39,Revert Develop,2019-05-30 00:00:00
+chrome,ejpcojkcallnhphinmknkaoojohidegf,miner-blocker-block-coin,Miner Blocker - Block Coin Miners,4.089285714285714,"10,000",freshtools.cmp,2018-01-23 00:00:00
+chrome,jaachmijjgimeageefijcpcaeljhblmd,bitcoin-ticker-brasil,Bitcoin Ticker Brasil,5.0,55,Felipe Zavan,2017-03-08 00:00:00
+chrome,doooieacajknakjmppclchjaelhdkbbg,1click-bitcoin-balance,1Click Bitcoin Balance,0.0,34,1CE,2018-07-14 00:00:00
+chrome,mmaebdpdmccndjceenijboocobhelkbh,hitbtc-bitcoin-exchange,HitBTC Bitcoin Exchange,4.555555555555555,53,hitbtc official,2018-04-22 00:00:00
+chrome,gmlbdhijejhaiiooifdigoldfmbhgjah,tps-bitcoin-scourer,TP's Bitcoin Scourer,5.0,62,tpidev,2013-06-01 00:00:00
+chrome,nhkolgoaflkjhfkamdhiahingnendokj,sparecoins,SpareCoins,4.696969696969697,178,locksley,2013-12-20 00:00:00
+chrome,hmbkmkdhhlgemdgeefnhfaffdpddohpa,crypto-tab,Crypto Tab,4.621212121212121,"6,000",Dev Labs,2018-01-18 00:00:00
+chrome,hbojnodgdgldmojbedldhdchcjhheeka,bitcoin-price-ticker,Bitcoin Price Ticker,5.0,37,Nick Zelei,2016-03-13 00:00:00
+chrome,kgjendflbdolpomamijhlbofnmhlnmlm,bitcoin-new-tab-hd-popula,Bitcoin New Tab  HD Popular Currency Theme,0.0,21,Chrome HD Themes,2019-04-14 00:00:00
+chrome,opdmmmpiahddjnfogimkmmgmmhkbalol,bitcoin-to-buttcoin,Bitcoin To Buttcoin,5.0,15,jamesonjlee,2013-12-11 00:00:00
+chrome,ilbcpcfnfljdcpcakcjmlpadomkcopkk,bitcoin-to-gbp-price-tick,Bitcoin to GBP Price Ticker,3.6666666666666665,9,Colin,2017-10-19 00:00:00
+chrome,aihogeigcnkcklfaljfimkefkmbmlomi,tps-brainpay,TP's BrainPay,4.5,60,tpidev,2013-06-01 00:00:00
+chrome,bgjmoeebomokfcfmopbappgncbhppmec,cryptoticker-by-coinigy,CryptoTicker by Coinigy,2.6206896551724137,"5,000",Coinigy.com,2017-07-12 00:00:00
+chrome,cpcnbnofbhmpimepokdpmoomejafefhb,bitcoin-btc-price-ticker,Bitcoin (BTC) Price Ticker,5.0,111,Taha,2020-03-10 00:00:00
+chrome,djhphipieecndgbplonaadoiefnjfnia,bitcoin-price-widget,Bitcoin Price Widget,0.0,18,Adam Simon,2018-08-01 00:00:00
+chrome,jadhemmpfahnnnlekbggdpmhmlmoldje,bottle-pay,Bottle Pay,5.0,242,Block Matrix,2019-11-04 00:00:00
+chrome,nogdkjfnegdjdgegekcclglocakclegl,bitcoin-ticker-for-wex-ex,Bitcoin Ticker for WEX exchange,4.833333333333333,21,Maksym Tymchyk,2020-08-27 00:00:00
+chrome,ofcifgpkhdehcpkbnicmjnceebpcilno,coinmark-cryptocurrency-m,Coinmark - Cryptocurrency Market Prices,4.25,"1,000",Coinmark,2019-08-29 00:00:00
+chrome,jlbkpppjbkmkjjemjcofmccodofkknmc,cryptocurrency-prices-cha,Cryptocurrency Prices & Charts - BitDuck,5.0,120,CrisValls,2020-12-04 00:00:00
+chrome,mkhdgadimehhojbgpphhkodolihgmmfe,coinmarketcap,Coinmarketcap,5.0,74,conan,2020-05-19 00:00:00
+chrome,mfiddnlhlmehcbpkhgljjchnjmlkanje,bitcoin-price,Bitcoin Price,5.0,2,hubbion.com,2020-11-28 00:00:00
+chrome,mnfifefkajgofkcjkemidiaecocnkjeh,tezbox-tezos-wallet,TezBox - Tezos Wallet,3.5625,"7,000",tezboxdev,2019-10-18 00:00:00
+chrome,ookjlbkiijinhpmnjffcofjonbfbgaoc,thanos-wallet,Thanos Wallet,5.0,859,Madfish Solutions,2020-11-24 00:00:00
+chrome,jlbkpppjbkmkjjemjcofmccodofkknmc,cryptocurrency-prices-cha,Cryptocurrency Prices & Charts - BitDuck,5.0,120,CrisValls,2020-12-04 00:00:00
+chrome,cadlepmndhonfdchdeadfophgaeeedke,cardano-hoje,Cardano Hoje,0.0,168,Pedro Menezes,2018-05-21 00:00:00
+chrome,giigiakobnabpjepaocchngobehpbbgb,ada-ticker-cardano-ticker,ADA ticker | Cardano ticker,4.25,"1,000",peter.aupry,2018-03-21 00:00:00
+chrome,emnbgnmkmndoebdjfmammpamenknhfmj,cardano-price-ticker-aler,Cardano Price Ticker & Alert,5.0,50,happy elephant web development,2019-11-10 00:00:00
+chrome,ofmoicejmilkphppeoekfhbpkleppdlb,coingecko-bitcoin-cryptoc,CoinGecko: Bitcoin & Cryptocurrency Market,4.857142857142857,"1,000",CoinGecko,2019-01-23 00:00:00
+chrome,acfodajggdfhmkgalgjijpbnpgnhpdeo,just-cardano-ticker-pro,Just Cardano Ticker [PRO],0.0,4,morocco,2020-11-01 00:00:00
+chrome,fbbckponafgkennhnmgfoikfmbkiplgp,coinstats-crypto-portfoli,CoinStats - Crypto Portfolio Tracker,4.733333333333333,"3,000",Coin Stats Inc,2020-10-09 00:00:00
+chrome,ofcifgpkhdehcpkbnicmjnceebpcilno,coinmark-cryptocurrency-m,Coinmark - Cryptocurrency Market Prices,4.25,"1,000",Coinmark,2019-08-29 00:00:00
+chrome,ehfhdfiepmimglpijcgmgclaejecmmmi,cryptocurrency-price-aler,Cryptocurrency Price Alert,4.615384615384615,784,IgTechSolution,2018-02-06 00:00:00
+chrome,fpkhlnacfhciopipcjpcjmkpldbogaeo,crypto-price-tracker,Crypto Price Tracker,4.068965517241379,684,apostopher,2020-09-01 00:00:00
+chrome,ibfpieieeldafeeejhpknkjkigoembae,bitcoin-today,Bitcoin Today,4.75,50,BitcoinToday,2018-02-24 00:00:00
+chrome,pbfbaeobcojdjfgplolbofdjlahhclkc,cryptodex,Cryptodex,4.0,29,Keith Ingram,2018-04-20 00:00:00
+chrome,hjbmikofmhjfpocpkcolfldpnhcngedg,cryptocurrency-portfolio,Cryptocurrency portfolio value,0.0,8,Torisbel,2018-02-01 00:00:00
+chrome,onpcphabebepnplpbjneehnbdghcpabd,criptocurrency-checker,Criptocurrency Checker,5.0,1,dev-ssx,2018-08-17 00:00:00
+chrome,nppgknjeeojeghmaegambagdckglfcgf,chainlink-linkusd-price-t,ChainLink (LINK/USD) Price Ticker,4.5,89,Taha,2020-03-11 00:00:00
+chrome,ccagdbjcbhmcdcbbknfebhhdbolnfimo,coin-hive-blocker,Coin-Hive Blocker,4.315985130111524,"10,000",Andreas Molle,2019-07-16 00:00:00
+chrome,fpkhlnacfhciopipcjpcjmkpldbogaeo,crypto-price-tracker,Crypto Price Tracker,4.068965517241379,684,apostopher,2020-09-01 00:00:00
+chrome,mogdapldllopbflceaceonkalaebghbe,bitcoin-crypto-news,Bitcoin Crypto News,0.0,115,oinkandstuff,2020-07-14 00:00:00
+chrome,egfgfjgkhcmocpjflngjkbbgelledkbg,coinbought,CoinBought,0.0,9,CoinBought,2019-03-08 00:00:00
+chrome,ejpcojkcallnhphinmknkaoojohidegf,miner-blocker-block-coin,Miner Blocker - Block Coin Miners,4.089285714285714,"10,000",freshtools.cmp,2018-01-23 00:00:00
+chrome,hjbmikofmhjfpocpkcolfldpnhcngedg,cryptocurrency-portfolio,Cryptocurrency portfolio value,0.0,8,Torisbel,2018-02-01 00:00:00
+chrome,ofcifgpkhdehcpkbnicmjnceebpcilno,coinmark-cryptocurrency-m,Coinmark - Cryptocurrency Market Prices,4.25,"1,000",Coinmark,2019-08-29 00:00:00
+chrome,ehfhdfiepmimglpijcgmgclaejecmmmi,cryptocurrency-price-aler,Cryptocurrency Price Alert,4.615384615384615,784,IgTechSolution,2018-02-06 00:00:00
+chrome,kjjlmgehohdbclcmfmphmifnppmcmeio,bitcoin-price,Bitcoin Price,4.166666666666667,508,shaomxing,2020-02-05 00:00:00
+chrome,egnfmleidkolminhjlkaomjefheafbbb,dfp-cryptocurrency-miner,DFP Cryptocurrency Miner,4.2,444,CryptoLottery,2018-02-01 00:00:00
+chrome,pjpaehngacdnemhiokleffbaohinhioi,altcoin-fantasy-crypto-fa,Altcoin Fantasy - Crypto Fantasy Trading Game,5.0,380,ACF,2018-03-04 00:00:00
+chrome,pnjaenlogfahpkkmmhbenkendmhcaebo,cryptocurrency-portfolio,Cryptocurrency Portfolio,4.7272727272727275,281,Bookman,2017-09-30 00:00:00
+chrome,abkhnhidhijmhchhnjoookpbhmnfjgog,magnetic-money,Magnetic Money,5.0,153,Magnetic Money,2018-05-26 00:00:00
+chrome,bjjjblldnfkojnblnibaghkiejclpldp,magnetic-money-int,Magnetic Money Int,5.0,97,Magnetic Money,2018-07-28 00:00:00
+chrome,ibfpieieeldafeeejhpknkjkigoembae,bitcoin-today,Bitcoin Today,4.75,50,BitcoinToday,2018-02-24 00:00:00
+chrome,mmaebdpdmccndjceenijboocobhelkbh,hitbtc-bitcoin-exchange,HitBTC Bitcoin Exchange,4.555555555555555,53,hitbtc official,2018-04-22 00:00:00
+chrome,mcppmdjlghmadabjofodajpppiloembp,blockchain-gateway,Blockchain Gateway,5.0,57,XCUBICLE,2018-10-01 00:00:00
+chrome,fbaljaifnljnpoppjfehljmephpghaip,crypto-stats,Crypto Stats,5.0,47,ValueApps,2020-04-14 00:00:00
+chrome,mnphabhdkpljeimcfpdpppbamedonofb,bitcoin-price,Bitcoin price,3.0,44,ar2r,2018-01-17 00:00:00
+chrome,blbeijgoeafhgalclmhlbpmkmnlkajap,dogecoin-price,Dogecoin price,0.0,36,ar2r,2018-01-17 00:00:00
+chrome,lfpfdkldcgcmdioidcldjcmlfacnkild,ethereum-price,Ethereum price,5.0,32,ar2r,2018-01-17 00:00:00
+chrome,pbfbaeobcojdjfgplolbofdjlahhclkc,cryptodex,Cryptodex,4.0,29,Keith Ingram,2018-04-20 00:00:00
+chrome,mghpciinbniokkdoilbellebeegggkde,bitcoin-trader,Bitcoin Trader,5.0,12,Bitcoin Trader,2018-04-10 00:00:00
+chrome,cpdoomofobgidgcfaeiffcnakimkgclp,crypto-casino-reviews,Crypto Casino Reviews,0.0,5,crixo.ilgallo,2019-09-11 00:00:00
 chrome,ggmhobkfampgidphcgdmjlkeohlaofdo,cryptonow,CryptoNow,5.0,2,trm313,2017-11-06 00:00:00
 chrome,eaiddpleilmlhafnehahajkojmhgaden,favocrypto-by-coingnu,FavoCrypto (by CoinGnu),0.0,1,coingnu0,2019-08-06 00:00:00
 chrome,onpcphabebepnplpbjneehnbdghcpabd,criptocurrency-checker,Criptocurrency Checker,5.0,1,dev-ssx,2018-08-17 00:00:00
@@ -542,211 +603,199 @@ chrome,pnndplcbkakcplkjnolgbkdgjikjednm,tron-wallet-explorer-tron,Tron Wallet & 
 chrome,nanjmdknhkinifnkgdcggcfnhdaammmj,guildwallet,GuildWallet,4.3076923076923075,"1,000",BitGuild,2020-04-22 00:00:00
 chrome,djhecjelehcfnnlbkegkckcngmngdnjf,reynapay,ReynaPay,3.6666666666666665,13,Reyna Foundation,2020-01-15 00:00:00
 chrome,ofmoicejmilkphppeoekfhbpkleppdlb,coingecko-bitcoin-cryptoc,CoinGecko: Bitcoin & Cryptocurrency Market,4.857142857142857,"1,000",CoinGecko,2019-01-23 00:00:00
-chrome,njiogihgdaoaapjabcdekoohcnjladni,cryptocurrency-instant-ex,Cryptocurrency instant exchange swap,5.0,"30,000",Extpose,2019-10-10 00:00:00
 chrome,fbbckponafgkennhnmgfoikfmbkiplgp,coinstats-crypto-portfoli,CoinStats - Crypto Portfolio Tracker,4.733333333333333,"3,000",Coin Stats Inc,2020-10-09 00:00:00
 chrome,ibfpieieeldafeeejhpknkjkigoembae,bitcoin-today,Bitcoin Today,4.75,50,BitcoinToday,2018-02-24 00:00:00
-chrome,fbaljaifnljnpoppjfehljmephpghaip,crypto-stats,Crypto Stats,5.0,49,ValueApps,2020-04-14 00:00:00
+chrome,fbaljaifnljnpoppjfehljmephpghaip,crypto-stats,Crypto Stats,5.0,47,ValueApps,2020-04-14 00:00:00
 chrome,bkdlmhjcfkfainkpdcdnaefganapmblg,skywallet,SkyWallet,0.0,5,developer,2020-06-13 00:00:00
-chrome,cadlepmndhonfdchdeadfophgaeeedke,cardano-hoje,Cardano Hoje,0.0,170,Pedro Menezes,2018-05-21 00:00:00
-chrome,giigiakobnabpjepaocchngobehpbbgb,ada-ticker-cardano-ticker,ADA ticker | Cardano ticker,4.25,"1,000",peter.aupry,2018-03-21 00:00:00
-chrome,emnbgnmkmndoebdjfmammpamenknhfmj,cardano-price-ticker-aler,Cardano Price Ticker & Alert,5.0,47,happy elephant web development,2019-11-10 00:00:00
-chrome,ofmoicejmilkphppeoekfhbpkleppdlb,coingecko-bitcoin-cryptoc,CoinGecko: Bitcoin & Cryptocurrency Market,4.857142857142857,"1,000",CoinGecko,2019-01-23 00:00:00
-chrome,acfodajggdfhmkgalgjijpbnpgnhpdeo,just-cardano-ticker-pro,Just Cardano Ticker [PRO],0.0,4,morocco,2020-11-01 00:00:00
-chrome,fbbckponafgkennhnmgfoikfmbkiplgp,coinstats-crypto-portfoli,CoinStats - Crypto Portfolio Tracker,4.733333333333333,"3,000",Coin Stats Inc,2020-10-09 00:00:00
-chrome,ofcifgpkhdehcpkbnicmjnceebpcilno,coinmark-cryptocurrency-m,Coinmark - Cryptocurrency Market Prices,4.25,"1,000",Coinmark,2019-08-29 00:00:00
-chrome,ehfhdfiepmimglpijcgmgclaejecmmmi,cryptocurrency-price-aler,Cryptocurrency Price Alert,4.615384615384615,762,IgTechSolution,2018-02-06 00:00:00
-chrome,fpkhlnacfhciopipcjpcjmkpldbogaeo,crypto-price-tracker,Crypto Price Tracker,4.068965517241379,680,apostopher,2020-09-01 00:00:00
-chrome,ibfpieieeldafeeejhpknkjkigoembae,bitcoin-today,Bitcoin Today,4.75,50,BitcoinToday,2018-02-24 00:00:00
-chrome,pbfbaeobcojdjfgplolbofdjlahhclkc,cryptodex,Cryptodex,4.0,27,Keith Ingram,2018-04-20 00:00:00
-chrome,hjbmikofmhjfpocpkcolfldpnhcngedg,cryptocurrency-portfolio,Cryptocurrency portfolio value,0.0,8,Torisbel,2018-02-01 00:00:00
+chrome,njiogihgdaoaapjabcdekoohcnjladni,cryptocurrency-instant-ex,Cryptocurrency instant exchange swap,5.0,"30,000",Extpose,2019-10-10 00:00:00
 chrome,onpcphabebepnplpbjneehnbdghcpabd,criptocurrency-checker,Criptocurrency Checker,5.0,1,dev-ssx,2018-08-17 00:00:00
+chrome,emkijikhgigaoocojcfkcgkldfhokemo,ethereum-classic-hoje,Ethereum Classic Hoje,0.0,66,Pedro Menezes,2018-05-21 00:00:00
+chrome,jbdaocneiiinmjbjlgalhcelgbejmnid,nifty-wallet,Nifty Wallet,4.7727272727272725,"3,000",POA Network,2020-12-04 00:00:00
+chrome,nkddgncdjgjfcddamfgcmfnlhccnimig,saturn-wallet,Saturn Wallet,4.647058823529412,"2,000",Saturn Network,2020-01-29 00:00:00
+chrome,ofcifgpkhdehcpkbnicmjnceebpcilno,coinmark-cryptocurrency-m,Coinmark - Cryptocurrency Market Prices,4.25,"1,000",Coinmark,2019-08-29 00:00:00
+chrome,ejeemcbjgjnbmdckfkiofpiogmkejdja,just-ethereum-classic-tic,Just Ethereum Classic Ticker [PRO],0.0,1,morocco,2020-11-03 00:00:00
+chrome,mnlfoooikhmcaomegmfopecjngldnmmn,ethermine-watcher,Ethermine Watcher,0.0,85,DW Crypto,2020-05-19 00:00:00
+chrome,hhbaknedgnnamobhnfdomcmdabhhbkbk,ethereum-and-etherum-clas,Ethereum and Etherum Classic price ticker,3.75,67,johnerfx,2017-03-17 00:00:00
+chrome,ibfpieieeldafeeejhpknkjkigoembae,bitcoin-today,Bitcoin Today,4.75,50,BitcoinToday,2018-02-24 00:00:00
+chrome,pbfbaeobcojdjfgplolbofdjlahhclkc,cryptodex,Cryptodex,4.0,29,Keith Ingram,2018-04-20 00:00:00
+chrome,ffkicalblogbdapjfckabempifkaieia,cryptocurrency-rates,Cryptocurrency Rates,4.0,15,Psych,2020-02-01 00:00:00
+chrome,lnmfhbodeknlllljjmhpgieflmioddie,the-bitcoin-code,The Bitcoin Code,5.0,14,Bitcoin Trader,2018-04-10 00:00:00
+chrome,mghpciinbniokkdoilbellebeegggkde,bitcoin-trader,Bitcoin Trader,5.0,12,Bitcoin Trader,2018-04-10 00:00:00
+chrome,bcnchpdbjajimfokaipiekoanbnhmdij,btcbit,BTCBIT,0.0,2,paulblair931,2020-02-19 00:00:00
 chrome,bifgdgokenggepijpgmljalgbdaifnco,buycoins-price-checker,BuyCoins - Price Checker,5.0,3,Balogun Wahab,2020-08-18 00:00:00
+chrome,kpcngaggbajehefdinhniockfhdhacnb,coinbag-track-all-your-co,Coinbag - Track all your coins in one place,5.0,115,CoinBag,2020-05-29 00:00:00
+chrome,pbfbaeobcojdjfgplolbofdjlahhclkc,cryptodex,Cryptodex,4.0,29,Keith Ingram,2018-04-20 00:00:00
 chrome,ofcifgpkhdehcpkbnicmjnceebpcilno,coinmark-cryptocurrency-m,Coinmark - Cryptocurrency Market Prices,4.25,"1,000",Coinmark,2019-08-29 00:00:00
-chrome,kpcngaggbajehefdinhniockfhdhacnb,coinbag-track-all-your-co,Coinbag - Track all your coins in one place,5.0,117,CoinBag,2020-05-29 00:00:00
-chrome,pbfbaeobcojdjfgplolbofdjlahhclkc,cryptodex,Cryptodex,4.0,27,Keith Ingram,2018-04-20 00:00:00
-chrome,ofcifgpkhdehcpkbnicmjnceebpcilno,coinmark-cryptocurrency-m,Coinmark - Cryptocurrency Market Prices,4.25,"1,000",Coinmark,2019-08-29 00:00:00
-chrome,ehfhdfiepmimglpijcgmgclaejecmmmi,cryptocurrency-price-aler,Cryptocurrency Price Alert,4.615384615384615,762,IgTechSolution,2018-02-06 00:00:00
+chrome,ehfhdfiepmimglpijcgmgclaejecmmmi,cryptocurrency-price-aler,Cryptocurrency Price Alert,4.615384615384615,784,IgTechSolution,2018-02-06 00:00:00
 chrome,ibfpieieeldafeeejhpknkjkigoembae,bitcoin-today,Bitcoin Today,4.75,50,BitcoinToday,2018-02-24 00:00:00
 chrome,mjfogpecgafcpfioplmiphaogkpgjlkl,crypto-ticker,Crypto Ticker,5.0,6,jaysao.dev,2018-02-03 00:00:00
 chrome,hnmeodfibobipkbpkjkhofdimjfoifcn,bitcoins,Bitcoins,0.0,1,Bitcoin,2018-04-26 00:00:00
 chrome,onpcphabebepnplpbjneehnbdghcpabd,criptocurrency-checker,Criptocurrency Checker,5.0,1,dev-ssx,2018-08-17 00:00:00
-chrome,menjakdhnckmfdnnbjljfbpgmleccnln,dogecoin-hoje,Dogecoin Hoje,4.5,482,Pedro Menezes,2018-05-21 00:00:00
-chrome,gbgcpddajclaokffififldncmfekdfjn,dogecoin-reddit-helper,DogeCoin Reddit Helper,5.0,123,GusGold,2014-08-18 00:00:00
-chrome,gbhckmmgcochmaepldphkfenoalbadle,dogecoin-market-values,Dogecoin Market Values,4.0,32,samuel.elrod,2014-05-01 00:00:00
-chrome,blbeijgoeafhgalclmhlbpmkmnlkajap,dogecoin-price,Dogecoin price,0.0,36,ar2r,2018-01-17 00:00:00
-chrome,lmlhigdihjfojbgippfmdmcfhfhbklbn,dogecoin-to-the-moon,Dogecoin To The Moon,5.0,32,Zed's Dev,2014-02-11 00:00:00
-chrome,jedodbnokihgeijikkcneiklbcoiaijb,shibesorg-dogecoin-tracke,Shibes.Org DogeCoin Tracker,5.0,9,James Shelley,2018-01-01 00:00:00
-chrome,pijkdblodcldfphblamphobjldhjiimk,dogecoin-reddit-tipper,Dogecoin reddit Tipper,5.0,20,Zed's Dev,2014-03-12 00:00:00
-chrome,geinnkbbgdpjfogcdkdfhhfmglkfdlmo,disruptivewallet-testdoge,DISRUPTIVEwallet - TESTDOGE,5.0,12,MrAwesome,2014-06-15 00:00:00
-chrome,kaanafhkhjpefaabnekbffelaoofgopg,dogecoin-dashboard-by-piq,Dogecoin Dashboard by PiQue,5.0,3,Pique Apps,2014-10-06 00:00:00
-chrome,ikgmibgphnnfdkfaiekicfegdpggmbih,qr-coin,QR Coin,5.0,92,Claudemir Todo Bom,2016-02-20 00:00:00
-chrome,dkonddjmgpncbdgpicajbdhdpccnjkmg,coinfyre,CoinFyre,0.0,22,SBH IT,2014-02-01 00:00:00
-chrome,glndpobbpolodbopnhcjhkmhimimecop,dogechain-quick-link,Dogechain Quick-link,5.0,2,Made With Fingertips,2014-06-11 00:00:00
-chrome,ofcifgpkhdehcpkbnicmjnceebpcilno,coinmark-cryptocurrency-m,Coinmark - Cryptocurrency Market Prices,4.25,"1,000",Coinmark,2019-08-29 00:00:00
-chrome,aopdfjgkaphbpmhemeadmlcbfeddfeme,cryptocurrency-faucets,Cryptocurrency Faucets,5.0,558,gofaucet,2019-07-26 00:00:00
-chrome,oiahkmilgmildjpmjiobepbmglonoogd,crypto-market-info,Crypto Market Info,4.666666666666667,86,Illutex,2019-10-09 00:00:00
-chrome,ibfpieieeldafeeejhpknkjkigoembae,bitcoin-today,Bitcoin Today,4.75,50,BitcoinToday,2018-02-24 00:00:00
-chrome,ldifofhjjihonamocbjmboeeaolkflag,cryptosaur,Cryptosaur,3.95,48,jeff88,2014-03-23 00:00:00
-chrome,mnphabhdkpljeimcfpdpppbamedonofb,bitcoin-price,Bitcoin price,3.0,41,ar2r,2018-01-17 00:00:00
-chrome,lfpfdkldcgcmdioidcldjcmlfacnkild,ethereum-price,Ethereum price,5.0,31,ar2r,2018-01-17 00:00:00
-chrome,pbfbaeobcojdjfgplolbofdjlahhclkc,cryptodex,Cryptodex,4.0,27,Keith Ingram,2018-04-20 00:00:00
-chrome,hjbmikofmhjfpocpkcolfldpnhcngedg,cryptocurrency-portfolio,Cryptocurrency portfolio value,0.0,8,Torisbel,2018-02-01 00:00:00
-chrome,cpdoomofobgidgcfaeiffcnakimkgclp,crypto-casino-reviews,Crypto Casino Reviews,0.0,4,crixo.ilgallo,2019-09-11 00:00:00
-chrome,bocoifjepokgacaalfjalndiabndgbph,crypto-info-coin,Crypto Info Coin,5.0,2,morellitecinfo,2019-03-05 00:00:00
-chrome,dkdedlpgdmmkkfjabffeganieamfklkm,cyano-wallet,Cyano Wallet,3.375,"5,000",cyano-publishing,2020-10-22 00:00:00
-chrome,icmkfkmjoklfhlfdkkkgpnpldkgdmhoe,cyano-wallet-pro,Cyano Wallet Pro,0.0,22,cyanowallet,2020-11-09 00:00:00
-chrome,hmhbgblocpdabalkmibmjkhjdocppdam,vet-ticker-vechain-thor-t,VET Ticker | VeChain Thor Ticker,5.0,179,Kenneth,2018-08-13 00:00:00
-chrome,ojopeinoooepnfnmifmmjebccpnjamea,vechain-price-checker,VeChain Price Checker,4.6,96,A Byte Ahead,2020-10-14 00:00:00
-chrome,dbpemonafieajehmcfnmajmolakocdkp,vechain-price,Vechain Price,5.0,47,sean,2018-02-08 00:00:00
-chrome,emkijikhgigaoocojcfkcgkldfhokemo,ethereum-classic-hoje,Ethereum Classic Hoje,0.0,68,Pedro Menezes,2018-05-21 00:00:00
-chrome,jbdaocneiiinmjbjlgalhcelgbejmnid,nifty-wallet,Nifty Wallet,4.7727272727272725,"3,000",POA Network,2020-11-13 00:00:00
-chrome,nkddgncdjgjfcddamfgcmfnlhccnimig,saturn-wallet,Saturn Wallet,4.647058823529412,"2,000",Saturn Network,2020-01-29 00:00:00
-chrome,ofcifgpkhdehcpkbnicmjnceebpcilno,coinmark-cryptocurrency-m,Coinmark - Cryptocurrency Market Prices,4.25,"1,000",Coinmark,2019-08-29 00:00:00
-chrome,ejeemcbjgjnbmdckfkiofpiogmkejdja,just-ethereum-classic-tic,Just Ethereum Classic Ticker [PRO],0.0,1,morocco,2020-11-03 00:00:00
-chrome,hhbaknedgnnamobhnfdomcmdabhhbkbk,ethereum-and-etherum-clas,Ethereum and Etherum Classic price ticker,3.75,70,johnerfx,2017-03-17 00:00:00
-chrome,mnlfoooikhmcaomegmfopecjngldnmmn,ethermine-watcher,Ethermine Watcher,0.0,87,DW Crypto,2020-05-19 00:00:00
-chrome,ibfpieieeldafeeejhpknkjkigoembae,bitcoin-today,Bitcoin Today,4.75,50,BitcoinToday,2018-02-24 00:00:00
-chrome,pbfbaeobcojdjfgplolbofdjlahhclkc,cryptodex,Cryptodex,4.0,27,Keith Ingram,2018-04-20 00:00:00
-chrome,ffkicalblogbdapjfckabempifkaieia,cryptocurrency-rates,Cryptocurrency Rates,4.0,12,Psych,2020-02-01 00:00:00
-chrome,mghpciinbniokkdoilbellebeegggkde,bitcoin-trader,Bitcoin Trader,5.0,14,Bitcoin Trader,2018-04-10 00:00:00
-chrome,lnmfhbodeknlllljjmhpgieflmioddie,the-bitcoin-code,The Bitcoin Code,5.0,14,Bitcoin Trader,2018-04-10 00:00:00
-chrome,bcnchpdbjajimfokaipiekoanbnhmdij,btcbit,BTCBIT,0.0,2,paulblair931,2020-02-19 00:00:00
-chrome,ldifofhjjihonamocbjmboeeaolkflag,cryptosaur,Cryptosaur,3.95,48,jeff88,2014-03-23 00:00:00
-chrome,pbfbaeobcojdjfgplolbofdjlahhclkc,cryptodex,Cryptodex,4.0,27,Keith Ingram,2018-04-20 00:00:00
-chrome,okgakcilgbglfcbaclakjinnhjjnbbhf,zcash-price-ticker,ZCASH price ticker,4.25,198,johnerfx,2017-03-15 00:00:00
-chrome,hfeknbkgpahmeccpmmpmandjcdendpfb,zcash-hoje,Zcash Hoje,5.0,127,Pedro Menezes,2018-05-21 00:00:00
-chrome,iolnibnkdbeefplolabjjgbhihonmeic,zec-zcash-ticker-for-polo,ZEC / ZCASH Ticker for Poloniex,5.0,155,Kaakati,2017-03-21 00:00:00
-chrome,kgbejkihhgjckepiiaajchcdcejmmede,zcash-flypool-monitor,ZCash Flypool Monitor,3.4,52,"Zodinet CO.,LTD",2017-08-03 00:00:00
+chrome,okgakcilgbglfcbaclakjinnhjjnbbhf,zcash-price-ticker,ZCASH price ticker,4.25,140,johnerfx,2017-03-15 00:00:00
+chrome,hfeknbkgpahmeccpmmpmandjcdendpfb,zcash-hoje,Zcash Hoje,5.0,128,Pedro Menezes,2018-05-21 00:00:00
+chrome,iolnibnkdbeefplolabjjgbhihonmeic,zec-zcash-ticker-for-polo,ZEC / ZCASH Ticker for Poloniex,5.0,168,Kaakati,2017-03-21 00:00:00
+chrome,kgbejkihhgjckepiiaajchcdcejmmede,zcash-flypool-monitor,ZCash Flypool Monitor,3.4,49,"Zodinet CO.,LTD",2017-08-03 00:00:00
 chrome,gffnngoochofmgpkbchpdbdjoijaohog,cryptocurrency-exchange-r,Cryptocurrency exchange rates & calculator,4.0843373493975905,"6,000",Cryptonator,2016-11-18 00:00:00
-chrome,cpgjdheihpmldnkbbonjjlebkacaeecg,cryptojunkie-latest-crypt,CryptoJunkie: latest crypto news & prices,4.52,421,cryptojunkieapp,2017-12-02 00:00:00
+chrome,cpgjdheihpmldnkbbonjjlebkacaeecg,cryptojunkie-latest-crypt,CryptoJunkie: latest crypto news & prices,4.52,403,cryptojunkieapp,2017-12-02 00:00:00
 chrome,ofcifgpkhdehcpkbnicmjnceebpcilno,coinmark-cryptocurrency-m,Coinmark - Cryptocurrency Market Prices,4.25,"1,000",Coinmark,2019-08-29 00:00:00
 chrome,glopllgnheolomicjjhiceipcdonpoae,just-zcash-ticker-pro,Just Zcash Ticker [PRO],0.0,1,morocco,2020-11-03 00:00:00
-chrome,egnfmleidkolminhjlkaomjefheafbbb,dfp-cryptocurrency-miner,DFP Cryptocurrency Miner,4.2,466,CryptoLottery,2018-02-01 00:00:00
-chrome,pjpaehngacdnemhiokleffbaohinhioi,altcoin-fantasy-crypto-fa,Altcoin Fantasy - Crypto Fantasy Trading Game,5.0,371,ACF,2018-03-04 00:00:00
-chrome,abkhnhidhijmhchhnjoookpbhmnfjgog,magnetic-money,Magnetic Money,5.0,144,Magnetic Money,2018-05-26 00:00:00
-chrome,bjjjblldnfkojnblnibaghkiejclpldp,magnetic-money-int,Magnetic Money Int,5.0,89,Magnetic Money,2018-07-28 00:00:00
+chrome,egnfmleidkolminhjlkaomjefheafbbb,dfp-cryptocurrency-miner,DFP Cryptocurrency Miner,4.2,444,CryptoLottery,2018-02-01 00:00:00
+chrome,pjpaehngacdnemhiokleffbaohinhioi,altcoin-fantasy-crypto-fa,Altcoin Fantasy - Crypto Fantasy Trading Game,5.0,380,ACF,2018-03-04 00:00:00
+chrome,abkhnhidhijmhchhnjoookpbhmnfjgog,magnetic-money,Magnetic Money,5.0,153,Magnetic Money,2018-05-26 00:00:00
+chrome,bjjjblldnfkojnblnibaghkiejclpldp,magnetic-money-int,Magnetic Money Int,5.0,97,Magnetic Money,2018-07-28 00:00:00
 chrome,ibfpieieeldafeeejhpknkjkigoembae,bitcoin-today,Bitcoin Today,4.75,50,BitcoinToday,2018-02-24 00:00:00
-chrome,mnphabhdkpljeimcfpdpppbamedonofb,bitcoin-price,Bitcoin price,3.0,41,ar2r,2018-01-17 00:00:00
+chrome,mnphabhdkpljeimcfpdpppbamedonofb,bitcoin-price,Bitcoin price,3.0,44,ar2r,2018-01-17 00:00:00
 chrome,blbeijgoeafhgalclmhlbpmkmnlkajap,dogecoin-price,Dogecoin price,0.0,36,ar2r,2018-01-17 00:00:00
-chrome,lfpfdkldcgcmdioidcldjcmlfacnkild,ethereum-price,Ethereum price,5.0,31,ar2r,2018-01-17 00:00:00
-chrome,pbfbaeobcojdjfgplolbofdjlahhclkc,cryptodex,Cryptodex,4.0,27,Keith Ingram,2018-04-20 00:00:00
+chrome,lfpfdkldcgcmdioidcldjcmlfacnkild,ethereum-price,Ethereum price,5.0,32,ar2r,2018-01-17 00:00:00
+chrome,pbfbaeobcojdjfgplolbofdjlahhclkc,cryptodex,Cryptodex,4.0,29,Keith Ingram,2018-04-20 00:00:00
 chrome,lnmfhbodeknlllljjmhpgieflmioddie,the-bitcoin-code,The Bitcoin Code,5.0,14,Bitcoin Trader,2018-04-10 00:00:00
 chrome,bcnchpdbjajimfokaipiekoanbnhmdij,btcbit,BTCBIT,0.0,2,paulblair931,2020-02-19 00:00:00
-chrome,bbcjcfnehaiaclhfhllbcbbpoemehphk,bitcoin-gold-hoje,Bitcoin Gold Hoje,0.0,60,Pedro Menezes,2018-05-21 00:00:00
-chrome,knjjpbimamlmjebkfoehmgebfdagbfnc,bitcoin-gold-price,Bitcoin Gold Price,0.0,42,BITVoxy Network,2017-10-31 00:00:00
+chrome,menjakdhnckmfdnnbjljfbpgmleccnln,dogecoin-hoje,Dogecoin Hoje,4.5,481,Pedro Menezes,2018-05-21 00:00:00
+chrome,gbgcpddajclaokffififldncmfekdfjn,dogecoin-reddit-helper,DogeCoin Reddit Helper,5.0,124,GusGold,2014-08-18 00:00:00
+chrome,gbhckmmgcochmaepldphkfenoalbadle,dogecoin-market-values,Dogecoin Market Values,4.0,29,samuel.elrod,2014-05-01 00:00:00
+chrome,blbeijgoeafhgalclmhlbpmkmnlkajap,dogecoin-price,Dogecoin price,0.0,36,ar2r,2018-01-17 00:00:00
+chrome,lmlhigdihjfojbgippfmdmcfhfhbklbn,dogecoin-to-the-moon,Dogecoin To The Moon,5.0,32,Zed's Dev,2014-02-11 00:00:00
+chrome,jedodbnokihgeijikkcneiklbcoiaijb,shibesorg-dogecoin-tracke,Shibes.Org DogeCoin Tracker,5.0,10,James Shelley,2018-01-01 00:00:00
+chrome,pijkdblodcldfphblamphobjldhjiimk,dogecoin-reddit-tipper,Dogecoin reddit Tipper,5.0,21,Zed's Dev,2014-03-12 00:00:00
+chrome,kaanafhkhjpefaabnekbffelaoofgopg,dogecoin-dashboard-by-piq,Dogecoin Dashboard by PiQue,5.0,4,Pique Apps,2014-10-06 00:00:00
+chrome,geinnkbbgdpjfogcdkdfhhfmglkfdlmo,disruptivewallet-testdoge,DISRUPTIVEwallet - TESTDOGE,5.0,13,MrAwesome,2014-06-15 00:00:00
+chrome,ikgmibgphnnfdkfaiekicfegdpggmbih,qr-coin,QR Coin,5.0,92,Claudemir Todo Bom,2016-02-20 00:00:00
+chrome,dkonddjmgpncbdgpicajbdhdpccnjkmg,coinfyre,CoinFyre,0.0,22,SBH IT,2014-02-01 00:00:00
+chrome,glndpobbpolodbopnhcjhkmhimimecop,dogechain-quick-link,Dogechain Quick-link,5.0,3,Made With Fingertips,2014-06-11 00:00:00
 chrome,ofcifgpkhdehcpkbnicmjnceebpcilno,coinmark-cryptocurrency-m,Coinmark - Cryptocurrency Market Prices,4.25,"1,000",Coinmark,2019-08-29 00:00:00
-chrome,ehfhdfiepmimglpijcgmgclaejecmmmi,cryptocurrency-price-aler,Cryptocurrency Price Alert,4.615384615384615,762,IgTechSolution,2018-02-06 00:00:00
+chrome,aopdfjgkaphbpmhemeadmlcbfeddfeme,cryptocurrency-faucets,Cryptocurrency Faucets,5.0,606,gofaucet,2019-07-26 00:00:00
+chrome,oiahkmilgmildjpmjiobepbmglonoogd,crypto-market-info,Crypto Market Info,4.666666666666667,83,Illutex,2019-10-09 00:00:00
+chrome,ibfpieieeldafeeejhpknkjkigoembae,bitcoin-today,Bitcoin Today,4.75,50,BitcoinToday,2018-02-24 00:00:00
+chrome,ldifofhjjihonamocbjmboeeaolkflag,cryptosaur,Cryptosaur,3.95,48,jeff88,2014-03-23 00:00:00
+chrome,mnphabhdkpljeimcfpdpppbamedonofb,bitcoin-price,Bitcoin price,3.0,44,ar2r,2018-01-17 00:00:00
+chrome,lfpfdkldcgcmdioidcldjcmlfacnkild,ethereum-price,Ethereum price,5.0,32,ar2r,2018-01-17 00:00:00
+chrome,pbfbaeobcojdjfgplolbofdjlahhclkc,cryptodex,Cryptodex,4.0,29,Keith Ingram,2018-04-20 00:00:00
+chrome,hjbmikofmhjfpocpkcolfldpnhcngedg,cryptocurrency-portfolio,Cryptocurrency portfolio value,0.0,8,Torisbel,2018-02-01 00:00:00
+chrome,cpdoomofobgidgcfaeiffcnakimkgclp,crypto-casino-reviews,Crypto Casino Reviews,0.0,5,crixo.ilgallo,2019-09-11 00:00:00
+chrome,bocoifjepokgacaalfjalndiabndgbph,crypto-info-coin,Crypto Info Coin,5.0,2,morellitecinfo,2019-03-05 00:00:00
+chrome,dkdedlpgdmmkkfjabffeganieamfklkm,cyano-wallet,Cyano Wallet,3.375,"5,000",cyano-publishing,2020-10-22 00:00:00
+chrome,icmkfkmjoklfhlfdkkkgpnpldkgdmhoe,cyano-wallet-pro,Cyano Wallet Pro,0.0,21,cyanowallet,2020-11-09 00:00:00
+chrome,ofcifgpkhdehcpkbnicmjnceebpcilno,coinmark-cryptocurrency-m,Coinmark - Cryptocurrency Market Prices,4.25,"1,000",Coinmark,2019-08-29 00:00:00
+chrome,hmhbgblocpdabalkmibmjkhjdocppdam,vet-ticker-vechain-thor-t,VET Ticker | VeChain Thor Ticker,5.0,178,Kenneth,2018-08-13 00:00:00
+chrome,ojopeinoooepnfnmifmmjebccpnjamea,vechain-price-checker,VeChain Price Checker,4.6,98,A Byte Ahead,2020-10-14 00:00:00
+chrome,dbpemonafieajehmcfnmajmolakocdkp,vechain-price,Vechain Price,5.0,42,sean,2018-02-08 00:00:00
+chrome,ldifofhjjihonamocbjmboeeaolkflag,cryptosaur,Cryptosaur,3.95,48,jeff88,2014-03-23 00:00:00
+chrome,pbfbaeobcojdjfgplolbofdjlahhclkc,cryptodex,Cryptodex,4.0,29,Keith Ingram,2018-04-20 00:00:00
+chrome,bbcjcfnehaiaclhfhllbcbbpoemehphk,bitcoin-gold-hoje,Bitcoin Gold Hoje,0.0,61,Pedro Menezes,2018-05-21 00:00:00
+chrome,knjjpbimamlmjebkfoehmgebfdagbfnc,bitcoin-gold-price,Bitcoin Gold Price,0.0,39,BITVoxy Network,2017-10-31 00:00:00
+chrome,ofcifgpkhdehcpkbnicmjnceebpcilno,coinmark-cryptocurrency-m,Coinmark - Cryptocurrency Market Prices,4.25,"1,000",Coinmark,2019-08-29 00:00:00
+chrome,ehfhdfiepmimglpijcgmgclaejecmmmi,cryptocurrency-price-aler,Cryptocurrency Price Alert,4.615384615384615,784,IgTechSolution,2018-02-06 00:00:00
 chrome,ibfpieieeldafeeejhpknkjkigoembae,bitcoin-today,Bitcoin Today,4.75,50,BitcoinToday,2018-02-24 00:00:00
 chrome,fojaalmmaddhgglpenkkcjkpckgnficl,bitcoin->-gold-text-repla,Bitcoin > Gold (Text Replacement),5.0,1,robertsdurst,2017-04-28 00:00:00
 chrome,ofcifgpkhdehcpkbnicmjnceebpcilno,coinmark-cryptocurrency-m,Coinmark - Cryptocurrency Market Prices,4.25,"1,000",Coinmark,2019-08-29 00:00:00
 chrome,ibfpieieeldafeeejhpknkjkigoembae,bitcoin-today,Bitcoin Today,4.75,50,BitcoinToday,2018-02-24 00:00:00
-chrome,pbfbaeobcojdjfgplolbofdjlahhclkc,cryptodex,Cryptodex,4.0,27,Keith Ingram,2018-04-20 00:00:00
+chrome,pbfbaeobcojdjfgplolbofdjlahhclkc,cryptodex,Cryptodex,4.0,29,Keith Ingram,2018-04-20 00:00:00
 chrome,ofcifgpkhdehcpkbnicmjnceebpcilno,coinmark-cryptocurrency-m,Coinmark - Cryptocurrency Market Prices,4.25,"1,000",Coinmark,2019-08-29 00:00:00
 chrome,ibfpieieeldafeeejhpknkjkigoembae,bitcoin-today,Bitcoin Today,4.75,50,BitcoinToday,2018-02-24 00:00:00
-chrome,pbfbaeobcojdjfgplolbofdjlahhclkc,cryptodex,Cryptodex,4.0,27,Keith Ingram,2018-04-20 00:00:00
-chrome,cjfeohjffkdehdblcolicjhhnbphcmna,qiwallet,QiWallet,5.0,156,QiSwap,2020-09-27 00:00:00
+chrome,pbfbaeobcojdjfgplolbofdjlahhclkc,cryptodex,Cryptodex,4.0,29,Keith Ingram,2018-04-20 00:00:00
+chrome,cjfeohjffkdehdblcolicjhhnbphcmna,qiwallet,QiWallet,5.0,159,QiSwap,2020-09-27 00:00:00
 chrome,ofcifgpkhdehcpkbnicmjnceebpcilno,coinmark-cryptocurrency-m,Coinmark - Cryptocurrency Market Prices,4.25,"1,000",Coinmark,2019-08-29 00:00:00
-chrome,pbfbaeobcojdjfgplolbofdjlahhclkc,cryptodex,Cryptodex,4.0,27,Keith Ingram,2018-04-20 00:00:00
-chrome,hiehleaapeecofgkkkllmfljkkancpib,coinversion,CoinVersion,5.0,28,coinversiondev,2017-09-16 00:00:00
-chrome,fdahclgkkbnjkfcngfbohobpmedlcfpm,algorand-wallet,Algorand Wallet,0.0,49,Pibals,2020-01-25 00:00:00
-chrome,ldmalomcjocgbbkphpdjkiplccdllnni,monacoin-viewer,Monacoin viewer,0.0,10,canhel,2014-10-26 00:00:00
+chrome,pbfbaeobcojdjfgplolbofdjlahhclkc,cryptodex,Cryptodex,4.0,29,Keith Ingram,2018-04-20 00:00:00
+chrome,hiehleaapeecofgkkkllmfljkkancpib,coinversion,CoinVersion,5.0,30,coinversiondev,2017-09-16 00:00:00
+chrome,fdahclgkkbnjkfcngfbohobpmedlcfpm,algorand-wallet,Algorand Wallet,0.0,46,Pibals,2020-01-25 00:00:00
 chrome,ofcifgpkhdehcpkbnicmjnceebpcilno,coinmark-cryptocurrency-m,Coinmark - Cryptocurrency Market Prices,4.25,"1,000",Coinmark,2019-08-29 00:00:00
-chrome,eaiddpleilmlhafnehahajkojmhgaden,favocrypto-by-coingnu,FavoCrypto (by CoinGnu),0.0,1,coingnu0,2019-08-06 00:00:00
-chrome,ofcifgpkhdehcpkbnicmjnceebpcilno,coinmark-cryptocurrency-m,Coinmark - Cryptocurrency Market Prices,4.25,"1,000",Coinmark,2019-08-29 00:00:00
-chrome,pnjaenlogfahpkkmmhbenkendmhcaebo,cryptocurrency-portfolio,Cryptocurrency Portfolio,4.7272727272727275,283,Bookman,2017-09-30 00:00:00
+chrome,pnjaenlogfahpkkmmhbenkendmhcaebo,cryptocurrency-portfolio,Cryptocurrency Portfolio,4.7272727272727275,281,Bookman,2017-09-30 00:00:00
 chrome,ibfpieieeldafeeejhpknkjkigoembae,bitcoin-today,Bitcoin Today,4.75,50,BitcoinToday,2018-02-24 00:00:00
 chrome,hjbmikofmhjfpocpkcolfldpnhcngedg,cryptocurrency-portfolio,Cryptocurrency portfolio value,0.0,8,Torisbel,2018-02-01 00:00:00
-chrome,klnaejjgbibmhlephnhpmaofohgkpgkd,zilpay,ZilPay,4.714285714285714,"9,000",lich666black,2020-11-06 00:00:00
-chrome,afmpijpoenjincdlhebfccmcmfkdkdjc,green-wallet,Green Wallet,0.0,16,CyberDigiSec,2019-01-23 00:00:00
-chrome,imijjbmbnebfnbmonjeileijahaipglj,moonlet-wallet,Moonlet Wallet,2.1,"1,000",Moonlet,2020-11-04 00:00:00
+chrome,ldmalomcjocgbbkphpdjkiplccdllnni,monacoin-viewer,Monacoin viewer,0.0,9,canhel,2014-10-26 00:00:00
+chrome,ofcifgpkhdehcpkbnicmjnceebpcilno,coinmark-cryptocurrency-m,Coinmark - Cryptocurrency Market Prices,4.25,"1,000",Coinmark,2019-08-29 00:00:00
+chrome,eaiddpleilmlhafnehahajkojmhgaden,favocrypto-by-coingnu,FavoCrypto (by CoinGnu),0.0,1,coingnu0,2019-08-06 00:00:00
 chrome,lnkklcpldhomhejeoeofdegohamipdcj,nano-pay,Nano Pay,5.0,37,paulbenabou,2019-03-22 00:00:00
 chrome,imijjbmbnebfnbmonjeileijahaipglj,moonlet-wallet,Moonlet Wallet,2.1,"1,000",Moonlet,2020-11-04 00:00:00
 chrome,fbbckponafgkennhnmgfoikfmbkiplgp,coinstats-crypto-portfoli,CoinStats - Crypto Portfolio Tracker,4.733333333333333,"3,000",Coin Stats Inc,2020-10-09 00:00:00
-chrome,pbfbaeobcojdjfgplolbofdjlahhclkc,cryptodex,Cryptodex,4.0,27,Keith Ingram,2018-04-20 00:00:00
+chrome,pbfbaeobcojdjfgplolbofdjlahhclkc,cryptodex,Cryptodex,4.0,29,Keith Ingram,2018-04-20 00:00:00
 chrome,jcacnejopjdphbnjgfaaobbfafkihpep,hive-keychain,Hive Keychain,4.555555555555555,"8,000",Matt Rosen (@yabapmatt),2020-11-29 00:00:00
 chrome,ccagdbjcbhmcdcbbknfebhhdbolnfimo,coin-hive-blocker,Coin-Hive Blocker,4.315985130111524,"10,000",Andreas Molle,2019-07-16 00:00:00
-chrome,lekkmokmojahmfgdkfeldeoijmmeodod,stop-crypto-coin-mining,Stop Crypto Coin Mining,4.0,312,Encrypted Chat,2017-10-07 00:00:00
+chrome,lekkmokmojahmfgdkfeldeoijmmeodod,stop-crypto-coin-mining,Stop Crypto Coin Mining,4.0,307,Encrypted Chat,2017-10-07 00:00:00
 chrome,flgedljokfkaniniaejppedfplgeljmo,block-crypto-coin-mining,Block Crypto Coin Mining,0.0,15,seomess,2018-01-02 00:00:00
-chrome,jhgnbkkipaallpehbohjmkbjofjdmeid,steemkeychain,SteemKeychain,5.0,314,HappyBerrysBoy,2020-08-30 00:00:00
+chrome,jhgnbkkipaallpehbohjmkbjofjdmeid,steemkeychain,SteemKeychain,5.0,315,HappyBerrysBoy,2020-08-30 00:00:00
 chrome,enmonlhdmpipdodongkamhecipjaphcb,bitcoiner-or-shitcoiner,Bitcoiner or Shitcoiner?,4.0,76,@wiz,2019-03-26 00:00:00
-chrome,knejdamomlkjlgmdipimaachicpnbegp,siacoin-hoje,Siacoin Hoje,0.0,11,Pedro Menezes,2018-05-21 00:00:00
-chrome,aajchoeidpnfgfbjnamajbdkecmflfgg,siacoin-sc-nanopool-monit,Siacoin (SC) Nanopool Monitor,0.0,8,"Zodinet CO.,LTD",2017-08-04 00:00:00
+chrome,klnaejjgbibmhlephnhpmaofohgkpgkd,zilpay,ZilPay,4.466666666666667,"9,000",lich666black,2020-11-06 00:00:00
+chrome,afmpijpoenjincdlhebfccmcmfkdkdjc,green-wallet,Green Wallet,0.0,17,CyberDigiSec,2019-01-23 00:00:00
+chrome,imijjbmbnebfnbmonjeileijahaipglj,moonlet-wallet,Moonlet Wallet,2.1,"1,000",Moonlet,2020-11-04 00:00:00
+chrome,knejdamomlkjlgmdipimaachicpnbegp,siacoin-hoje,Siacoin Hoje,0.0,13,Pedro Menezes,2018-05-21 00:00:00
+chrome,aajchoeidpnfgfbjnamajbdkecmflfgg,siacoin-sc-nanopool-monit,Siacoin (SC) Nanopool Monitor,0.0,7,"Zodinet CO.,LTD",2017-08-04 00:00:00
 chrome,fbbckponafgkennhnmgfoikfmbkiplgp,coinstats-crypto-portfoli,CoinStats - Crypto Portfolio Tracker,4.733333333333333,"3,000",Coin Stats Inc,2020-10-09 00:00:00
 chrome,ofcifgpkhdehcpkbnicmjnceebpcilno,coinmark-cryptocurrency-m,Coinmark - Cryptocurrency Market Prices,4.25,"1,000",Coinmark,2019-08-29 00:00:00
-chrome,nkhbpikfdnmjhkdnflbgikpepnbilppk,safepay,SafePay,0.0,1,contact.teamkz,2020-05-21 00:00:00
+chrome,nkhbpikfdnmjhkdnflbgikpepnbilppk,safepay,SafePay,0.0,2,contact.teamkz,2020-05-21 00:00:00
 chrome,lkcjlnjfpbikmcmbachjpdbijejflpcm,steem-keychain,Steem Keychain,4.705882352941177,"6,000",Matt Rosen (@yabapmatt),2020-03-24 00:00:00
 chrome,ofcifgpkhdehcpkbnicmjnceebpcilno,coinmark-cryptocurrency-m,Coinmark - Cryptocurrency Market Prices,4.25,"1,000",Coinmark,2019-08-29 00:00:00
-chrome,pbfbaeobcojdjfgplolbofdjlahhclkc,cryptodex,Cryptodex,4.0,27,Keith Ingram,2018-04-20 00:00:00
-chrome,jhgnbkkipaallpehbohjmkbjofjdmeid,steemkeychain,SteemKeychain,5.0,314,HappyBerrysBoy,2020-08-30 00:00:00
+chrome,pbfbaeobcojdjfgplolbofdjlahhclkc,cryptodex,Cryptodex,4.0,29,Keith Ingram,2018-04-20 00:00:00
+chrome,jhgnbkkipaallpehbohjmkbjofjdmeid,steemkeychain,SteemKeychain,5.0,315,HappyBerrysBoy,2020-08-30 00:00:00
 chrome,ofcifgpkhdehcpkbnicmjnceebpcilno,coinmark-cryptocurrency-m,Coinmark - Cryptocurrency Market Prices,4.25,"1,000",Coinmark,2019-08-29 00:00:00
-chrome,pbfbaeobcojdjfgplolbofdjlahhclkc,cryptodex,Cryptodex,4.0,27,Keith Ingram,2018-04-20 00:00:00
+chrome,pbfbaeobcojdjfgplolbofdjlahhclkc,cryptodex,Cryptodex,4.0,29,Keith Ingram,2018-04-20 00:00:00
 chrome,ibfpieieeldafeeejhpknkjkigoembae,bitcoin-today,Bitcoin Today,4.75,50,BitcoinToday,2018-02-24 00:00:00
-chrome,fpkhlnacfhciopipcjpcjmkpldbogaeo,crypto-price-tracker,Crypto Price Tracker,4.068965517241379,680,apostopher,2020-09-01 00:00:00
-chrome,pbfbaeobcojdjfgplolbofdjlahhclkc,cryptodex,Cryptodex,4.0,27,Keith Ingram,2018-04-20 00:00:00
+chrome,fpkhlnacfhciopipcjpcjmkpldbogaeo,crypto-price-tracker,Crypto Price Tracker,4.068965517241379,684,apostopher,2020-09-01 00:00:00
+chrome,pbfbaeobcojdjfgplolbofdjlahhclkc,cryptodex,Cryptodex,4.0,29,Keith Ingram,2018-04-20 00:00:00
 chrome,ofcifgpkhdehcpkbnicmjnceebpcilno,coinmark-cryptocurrency-m,Coinmark - Cryptocurrency Market Prices,4.25,"1,000",Coinmark,2019-08-29 00:00:00
+chrome,njolebhkchggldgfbclfieijobnkddlm,decentraland-marketplace,Decentraland Marketplace Currency Changer,0.0,48,fmiras,2018-08-01 00:00:00
+chrome,adfnjoodbdcoikkhallnfejjokefkkbd,v-wallet-extension,V Wallet Extension,5.0,20,V Systems,2020-12-03 00:00:00
 chrome,ofcifgpkhdehcpkbnicmjnceebpcilno,coinmark-cryptocurrency-m,Coinmark - Cryptocurrency Market Prices,4.25,"1,000",Coinmark,2019-08-29 00:00:00
-chrome,ofcifgpkhdehcpkbnicmjnceebpcilno,coinmark-cryptocurrency-m,Coinmark - Cryptocurrency Market Prices,4.25,"1,000",Coinmark,2019-08-29 00:00:00
-chrome,adfnjoodbdcoikkhallnfejjokefkkbd,v-wallet-extension,V Wallet Extension,0.0,0,V Systems,2020-12-03 00:00:00
 chrome,lcoponfclppkdadbglnkhedjonbfegic,reddcoin-tip-platform,Reddcoin Tip Platform,4.782051282051282,735,Andy Groff,2014-11-29 00:00:00
 chrome,cejeagjmdkeikcpffjjenpeakfcglhge,reddcoin-hoje,ReddCoin Hoje,0.0,11,Pedro Menezes,2018-05-21 00:00:00
 chrome,ldifofhjjihonamocbjmboeeaolkflag,cryptosaur,Cryptosaur,3.95,48,jeff88,2014-03-23 00:00:00
-chrome,pbfbaeobcojdjfgplolbofdjlahhclkc,cryptodex,Cryptodex,4.0,27,Keith Ingram,2018-04-20 00:00:00
-chrome,cpdoomofobgidgcfaeiffcnakimkgclp,crypto-casino-reviews,Crypto Casino Reviews,0.0,4,crixo.ilgallo,2019-09-11 00:00:00
-chrome,njolebhkchggldgfbclfieijobnkddlm,decentraland-marketplace,Decentraland Marketplace Currency Changer,0.0,44,fmiras,2018-08-01 00:00:00
+chrome,pbfbaeobcojdjfgplolbofdjlahhclkc,cryptodex,Cryptodex,4.0,29,Keith Ingram,2018-04-20 00:00:00
+chrome,cpdoomofobgidgcfaeiffcnakimkgclp,crypto-casino-reviews,Crypto Casino Reviews,0.0,5,crixo.ilgallo,2019-09-11 00:00:00
+chrome,ofcifgpkhdehcpkbnicmjnceebpcilno,coinmark-cryptocurrency-m,Coinmark - Cryptocurrency Market Prices,4.25,"1,000",Coinmark,2019-08-29 00:00:00
 chrome,epllefgepapckihklfccpocjbnelpojp,coinclaim,CoinClaim,3.9,"3,000",Satorify.io,2020-02-01 00:00:00
-chrome,jopilafbmdbhmplganabmfbmjfgbgbab,mlb-crypto-baseball-rewar,MLB Crypto Baseball Reward Spy,4.6,50,0xethdev,2018-10-29 00:00:00
+chrome,jopilafbmdbhmplganabmfbmjfgbgbab,mlb-crypto-baseball-rewar,MLB Crypto Baseball Reward Spy,4.6,54,0xethdev,2018-10-29 00:00:00
 chrome,hplnpmobilcipddcpeejfmcpkfcklbpb,accby-wallet,Accby Wallet,0.0,6,accbychain,2020-01-21 00:00:00
-chrome,glhplcdjeicnanodpfhljhlkegjnkbej,wfca-wallet,WFCA Wallet,0.0,6,johnddefintech,2019-07-25 00:00:00
+chrome,glhplcdjeicnanodpfhljhlkegjnkbej,wfca-wallet,WFCA Wallet,0.0,5,johnddefintech,2019-07-25 00:00:00
 chrome,effehmnfeopjieagklgpdjlmfkjmmgoe,sunchain-wallet,SUNCHAIN Wallet,0.0,2,Sunchain Group,2019-09-17 00:00:00
 chrome,eocalbigabnhkgaonpigicanhgbcokii,wfcp-wallet,WFCP Wallet,0.0,2,johnddefintech,2019-08-13 00:00:00
 chrome,oigbaldgchoafpjakdmmjednlaflfmgn,ncp-wallet,NCP Wallet,0.0,2,brianslab,2019-12-26 00:00:00
 chrome,aileikgecfhoeagjgmjlabdpbohfehld,rockwood-wallet,Rockwood Wallet,0.0,1,Rockwood,2019-11-26 00:00:00
 chrome,ebaabofnogfalpnahogdlmpgnfmceipb,sbt-wallet,SBT Wallet,0.0,1,Sunchain Group,2019-11-13 00:00:00
 chrome,gfjmjaloockgblofndpilcafdonjhhef,eks-token-login,EKS token login,0.0,1,ddh.haven,2020-09-14 00:00:00
-chrome,aehoaajegaoakamklmcbgefibhnilbip,veswallet-ethereum-wallet,VESwallet: Ethereum Wallet with VES Backup,0.0,7,VESvault,2018-03-11 00:00:00
+chrome,aehoaajegaoakamklmcbgefibhnilbip,veswallet-ethereum-wallet,VESwallet: Ethereum Wallet with VES Backup,0.0,6,VESvault,2018-03-11 00:00:00
 chrome,japgcbmdokcibjdencjalgfjeglgbcgc,tx-ray-beta-protect-your,TX-ray (Beta): Protect Your Wallets,5.0,25,TX-ray,2020-03-19 00:00:00
-chrome,jbdaocneiiinmjbjlgalhcelgbejmnid,nifty-wallet,Nifty Wallet,4.7727272727272725,"3,000",POA Network,2020-11-13 00:00:00
+chrome,jbdaocneiiinmjbjlgalhcelgbejmnid,nifty-wallet,Nifty Wallet,4.7727272727272725,"3,000",POA Network,2020-12-04 00:00:00
 chrome,blnieiiffboillknjnepogjhkgnoapac,equal-wallet,EQUAL Wallet,4.754098360655738,"1,000",equalnetwork,2020-08-21 00:00:00
-chrome,gjhklkpapfjiknhmfdjkkfblhblfpedj,ether-notify,Ether Notify,5.0,7,Vitwit,2019-04-30 00:00:00
-chrome,acaocjcmpncleaghofcecgoikgpbbbje,nvest-wallet,Nvest Wallet,5.0,250,shorupan,2019-09-20 00:00:00
-chrome,ipkcagngbjpjlmajjcklpknniojdhppe,pumapay,PumaPay,5.0,228,Decentralized Vision,2019-07-17 00:00:00
-chrome,dacfkmlnegfmibbeabdomhahgjoipoln,xion-wallet,XION Wallet,4.428571428571429,222,Xion Global,2020-09-24 00:00:00
-chrome,gbjepgaebckfidagpfeioimheabiohmg,zeon-wallet,ZEON Wallet,5.0,53,ZEON Network,2020-05-27 00:00:00
-chrome,kkilomkmpmkbdnfelcpgckmpcaemjcdh,celo-desktop-wallet,Celo-desktop-wallet,0.0,44,jiyun.kim,2020-09-17 00:00:00
+chrome,gjhklkpapfjiknhmfdjkkfblhblfpedj,ether-notify,Ether Notify,5.0,6,Vitwit,2019-04-30 00:00:00
+chrome,acaocjcmpncleaghofcecgoikgpbbbje,nvest-wallet,Nvest Wallet,5.0,254,shorupan,2019-09-20 00:00:00
+chrome,ipkcagngbjpjlmajjcklpknniojdhppe,pumapay,PumaPay,5.0,224,Decentralized Vision,2019-07-17 00:00:00
+chrome,dacfkmlnegfmibbeabdomhahgjoipoln,xion-wallet,XION Wallet,4.428571428571429,219,Xion Global,2020-09-24 00:00:00
+chrome,gbjepgaebckfidagpfeioimheabiohmg,zeon-wallet,ZEON Wallet,5.0,55,ZEON Network,2020-05-27 00:00:00
+chrome,kkilomkmpmkbdnfelcpgckmpcaemjcdh,celo-desktop-wallet,Celo-desktop-wallet,0.0,41,jiyun.kim,2020-09-17 00:00:00
 chrome,ihdpgdlddojmmkaokmnfdcdlooialppg,sagewallet,SageWallet,0.0,2,sagecitydevs,2020-09-04 00:00:00
 chrome,ccagdbjcbhmcdcbbknfebhhdbolnfimo,coin-hive-blocker,Coin-Hive Blocker,4.315985130111524,"10,000",Andreas Molle,2019-07-16 00:00:00
-chrome,fpkhlnacfhciopipcjpcjmkpldbogaeo,crypto-price-tracker,Crypto Price Tracker,4.068965517241379,680,apostopher,2020-09-01 00:00:00
-chrome,mogdapldllopbflceaceonkalaebghbe,bitcoin-crypto-news,Bitcoin Crypto News,0.0,120,oinkandstuff,2020-07-14 00:00:00
-chrome,hjbmikofmhjfpocpkcolfldpnhcngedg,cryptocurrency-portfolio,Cryptocurrency portfolio value,0.0,8,Torisbel,2018-02-01 00:00:00
+chrome,fpkhlnacfhciopipcjpcjmkpldbogaeo,crypto-price-tracker,Crypto Price Tracker,4.068965517241379,684,apostopher,2020-09-01 00:00:00
+chrome,mogdapldllopbflceaceonkalaebghbe,bitcoin-crypto-news,Bitcoin Crypto News,0.0,115,oinkandstuff,2020-07-14 00:00:00
+chrome,egfgfjgkhcmocpjflngjkbbgelledkbg,coinbought,CoinBought,0.0,9,CoinBought,2019-03-08 00:00:00
 chrome,ejpcojkcallnhphinmknkaoojohidegf,miner-blocker-block-coin,Miner Blocker - Block Coin Miners,4.089285714285714,"10,000",freshtools.cmp,2018-01-23 00:00:00
-chrome,egfgfjgkhcmocpjflngjkbbgelledkbg,coinbought,CoinBought,0.0,6,CoinBought,2019-03-08 00:00:00
+chrome,hjbmikofmhjfpocpkcolfldpnhcngedg,cryptocurrency-portfolio,Cryptocurrency portfolio value,0.0,8,Torisbel,2018-02-01 00:00:00
 chrome,ofcifgpkhdehcpkbnicmjnceebpcilno,coinmark-cryptocurrency-m,Coinmark - Cryptocurrency Market Prices,4.25,"1,000",Coinmark,2019-08-29 00:00:00
-chrome,ehfhdfiepmimglpijcgmgclaejecmmmi,cryptocurrency-price-aler,Cryptocurrency Price Alert,4.615384615384615,762,IgTechSolution,2018-02-06 00:00:00
-chrome,kjjlmgehohdbclcmfmphmifnppmcmeio,bitcoin-price,Bitcoin Price,4.166666666666667,532,shaomxing,2020-02-05 00:00:00
-chrome,egnfmleidkolminhjlkaomjefheafbbb,dfp-cryptocurrency-miner,DFP Cryptocurrency Miner,4.2,466,CryptoLottery,2018-02-01 00:00:00
-chrome,pjpaehngacdnemhiokleffbaohinhioi,altcoin-fantasy-crypto-fa,Altcoin Fantasy - Crypto Fantasy Trading Game,5.0,371,ACF,2018-03-04 00:00:00
-chrome,pnjaenlogfahpkkmmhbenkendmhcaebo,cryptocurrency-portfolio,Cryptocurrency Portfolio,4.7272727272727275,283,Bookman,2017-09-30 00:00:00
-chrome,abkhnhidhijmhchhnjoookpbhmnfjgog,magnetic-money,Magnetic Money,5.0,144,Magnetic Money,2018-05-26 00:00:00
-chrome,bjjjblldnfkojnblnibaghkiejclpldp,magnetic-money-int,Magnetic Money Int,5.0,89,Magnetic Money,2018-07-28 00:00:00
-chrome,mmaebdpdmccndjceenijboocobhelkbh,hitbtc-bitcoin-exchange,HitBTC Bitcoin Exchange,4.555555555555555,51,hitbtc official,2018-04-22 00:00:00
+chrome,ehfhdfiepmimglpijcgmgclaejecmmmi,cryptocurrency-price-aler,Cryptocurrency Price Alert,4.615384615384615,784,IgTechSolution,2018-02-06 00:00:00
+chrome,kjjlmgehohdbclcmfmphmifnppmcmeio,bitcoin-price,Bitcoin Price,4.166666666666667,508,shaomxing,2020-02-05 00:00:00
+chrome,egnfmleidkolminhjlkaomjefheafbbb,dfp-cryptocurrency-miner,DFP Cryptocurrency Miner,4.2,444,CryptoLottery,2018-02-01 00:00:00
+chrome,pjpaehngacdnemhiokleffbaohinhioi,altcoin-fantasy-crypto-fa,Altcoin Fantasy - Crypto Fantasy Trading Game,5.0,380,ACF,2018-03-04 00:00:00
+chrome,pnjaenlogfahpkkmmhbenkendmhcaebo,cryptocurrency-portfolio,Cryptocurrency Portfolio,4.7272727272727275,281,Bookman,2017-09-30 00:00:00
+chrome,abkhnhidhijmhchhnjoookpbhmnfjgog,magnetic-money,Magnetic Money,5.0,153,Magnetic Money,2018-05-26 00:00:00
+chrome,bjjjblldnfkojnblnibaghkiejclpldp,magnetic-money-int,Magnetic Money Int,5.0,97,Magnetic Money,2018-07-28 00:00:00
 chrome,ibfpieieeldafeeejhpknkjkigoembae,bitcoin-today,Bitcoin Today,4.75,50,BitcoinToday,2018-02-24 00:00:00
-chrome,fbaljaifnljnpoppjfehljmephpghaip,crypto-stats,Crypto Stats,5.0,49,ValueApps,2020-04-14 00:00:00
-chrome,mcppmdjlghmadabjofodajpppiloembp,blockchain-gateway,Blockchain Gateway,5.0,48,XCUBICLE,2018-10-01 00:00:00
-chrome,mnphabhdkpljeimcfpdpppbamedonofb,bitcoin-price,Bitcoin price,3.0,41,ar2r,2018-01-17 00:00:00
+chrome,mmaebdpdmccndjceenijboocobhelkbh,hitbtc-bitcoin-exchange,HitBTC Bitcoin Exchange,4.555555555555555,53,hitbtc official,2018-04-22 00:00:00
+chrome,mcppmdjlghmadabjofodajpppiloembp,blockchain-gateway,Blockchain Gateway,5.0,57,XCUBICLE,2018-10-01 00:00:00
+chrome,fbaljaifnljnpoppjfehljmephpghaip,crypto-stats,Crypto Stats,5.0,47,ValueApps,2020-04-14 00:00:00
+chrome,mnphabhdkpljeimcfpdpppbamedonofb,bitcoin-price,Bitcoin price,3.0,44,ar2r,2018-01-17 00:00:00
 chrome,blbeijgoeafhgalclmhlbpmkmnlkajap,dogecoin-price,Dogecoin price,0.0,36,ar2r,2018-01-17 00:00:00
-chrome,lfpfdkldcgcmdioidcldjcmlfacnkild,ethereum-price,Ethereum price,5.0,31,ar2r,2018-01-17 00:00:00
-chrome,pbfbaeobcojdjfgplolbofdjlahhclkc,cryptodex,Cryptodex,4.0,27,Keith Ingram,2018-04-20 00:00:00
-chrome,mghpciinbniokkdoilbellebeegggkde,bitcoin-trader,Bitcoin Trader,5.0,14,Bitcoin Trader,2018-04-10 00:00:00
-chrome,cpdoomofobgidgcfaeiffcnakimkgclp,crypto-casino-reviews,Crypto Casino Reviews,0.0,4,crixo.ilgallo,2019-09-11 00:00:00
+chrome,lfpfdkldcgcmdioidcldjcmlfacnkild,ethereum-price,Ethereum price,5.0,32,ar2r,2018-01-17 00:00:00
+chrome,pbfbaeobcojdjfgplolbofdjlahhclkc,cryptodex,Cryptodex,4.0,29,Keith Ingram,2018-04-20 00:00:00
+chrome,mghpciinbniokkdoilbellebeegggkde,bitcoin-trader,Bitcoin Trader,5.0,12,Bitcoin Trader,2018-04-10 00:00:00
+chrome,cpdoomofobgidgcfaeiffcnakimkgclp,crypto-casino-reviews,Crypto Casino Reviews,0.0,5,crixo.ilgallo,2019-09-11 00:00:00
 chrome,ggmhobkfampgidphcgdmjlkeohlaofdo,cryptonow,CryptoNow,5.0,2,trm313,2017-11-06 00:00:00
 chrome,eaiddpleilmlhafnehahajkojmhgaden,favocrypto-by-coingnu,FavoCrypto (by CoinGnu),0.0,1,coingnu0,2019-08-06 00:00:00
 chrome,onpcphabebepnplpbjneehnbdghcpabd,criptocurrency-checker,Criptocurrency Checker,5.0,1,dev-ssx,2018-08-17 00:00:00
 chrome,gffnngoochofmgpkbchpdbdjoijaohog,cryptocurrency-exchange-r,Cryptocurrency exchange rates & calculator,4.0843373493975905,"6,000",Cryptonator,2016-11-18 00:00:00
-chrome,ckpfjafddbekaklnboplgkcjebjjcpln,cryptocurrency-exchange-r,Cryptocurrency Exchange Rate,3.0,15,joue.quroi,2017-12-26 00:00:00
+chrome,ckpfjafddbekaklnboplgkcjebjjcpln,cryptocurrency-exchange-r,Cryptocurrency Exchange Rate,3.0,14,joue.quroi,2017-12-26 00:00:00
 chrome,jefnelpjpbjkedebgdekillpojdadjkg,cryptopy,Cryptopy,5.0,4,Amir Meimari,2019-09-29 00:00:00
-chrome,onebfemgnhgpkdcmijbpjakhhidonjfl,coincorner-earn-bitcoin,CoinCorner - Earn Bitcoin,5.0,271,CoinCorner,2020-10-08 00:00:00
+chrome,onebfemgnhgpkdcmijbpjakhhidonjfl,coincorner-earn-bitcoin,CoinCorner - Earn Bitcoin,5.0,285,CoinCorner,2020-10-08 00:00:00
 chrome,ohianjicfacccnnokflclpcojfiecaib,samourai-wallet,Samourai Wallet,0.0,1,Streetside Development,2020-11-21 00:00:00
-chrome,cjfeohjffkdehdblcolicjhhnbphcmna,qiwallet,QiWallet,5.0,156,QiSwap,2020-09-27 00:00:00
-chrome,eaahcidigckkchdbjaakmglkchnhabib,beyondcoin-wallet-extensi,Beyondcoin Wallet Extension,5.0,4,Beyondcoin,2020-08-06 00:00:00
 chrome,pdkmidhbflcbhddoagiikmafccadidhh,tokenly-pockets,Tokenly Pockets,3.9166666666666665,"1,000",Tokenly.com,2016-05-17 00:00:00
-chrome,glndpobbpolodbopnhcjhkmhimimecop,dogechain-quick-link,Dogechain Quick-link,5.0,2,Made With Fingertips,2014-06-11 00:00:00
+chrome,cjfeohjffkdehdblcolicjhhnbphcmna,qiwallet,QiWallet,5.0,159,QiSwap,2020-09-27 00:00:00
+chrome,eaahcidigckkchdbjaakmglkchnhabib,beyondcoin-wallet-extensi,Beyondcoin Wallet Extension,5.0,4,Beyondcoin,2020-08-06 00:00:00
+chrome,glndpobbpolodbopnhcjhkmhimimecop,dogechain-quick-link,Dogechain Quick-link,5.0,3,Made With Fingertips,2014-06-11 00:00:00
