@@ -209,7 +209,7 @@ while True:
     get_code_find_missed.missed_all_app(name_exported_file_after_running_bot_csv,completed_count)
 
     print("Scanning new added source code...", file=open("firefox_log.txt", "a"))
-
+    scan_ext_file.startScan(completed_count)
     # increase the count to name the output file
     completed_count = completed_count + 1
 

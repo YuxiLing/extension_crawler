@@ -136,6 +136,7 @@ def handleOriginResult(id, res_json, result_file_csv, src_folder, malicious_fold
         print("no error in extension: ", id)
     else:
         # copy the file to malicious folder
+
         srcPath = src_folder+id+'.xpi'
         dstPath = malicious_folder+id+'.xpi'
         shutil.copy(srcPath, dstPath)
@@ -183,19 +184,19 @@ def getResultID(output_file):
     return result_id_list
 
 
-def startScan():
+def startScan(count):
     src_folder = './malicious_ext_crawler/data/scan/'
     dst_folder = './malicious_ext_crawler/data/current/'
-    malicious_folder = './malicious_ext_crwaler/data/malicious/'
-    output_file = './malicious_ext_crawler/data/scan_result/scan_result_id.json'
-    origin_result_path = './malicious_ext_crawler/data/scan_result/analysis_result_origin.json'
-    result_file_csv = './malicious_ext_crawler/data/scan_result/analysis_result.csv'
-    result_file = './malicious_ext_crawler/data/scan_result/analysis_result.json'
+    malicious_folder = './malicious_ext_crawler/data/malicious/'
+    output_file = './malicious_ext_crawler/data/scan_result/scan_result_id_[%s].json' % count
+    origin_result_path = './malicious_ext_crawler/data/scan_result/analysis_result_origin_[%s].json' % count
+    result_file_csv = './malicious_ext_crawler/data/scan_result/analysis_result_[%s].csv' % count
+    result_file = './malicious_ext_crawler/data/scan_result/analysis_result_[%s].json' % count
     # move = 0 not move
     # move = 1 move
     move = 0
-    scanByDir(dst_folder, dst_folder, output_file, move)
-    # scanByDir(src_folder, dst_folder, output_file, move)
+    # scanByDir(dst_folder, dst_folder, output_file, move)
+    scanByDir(src_folder, dst_folder, output_file, move)
     result_id_list = getResultID(output_file)
     getAnalysisResult(result_id_list, origin_result_path)
 
@@ -224,10 +225,8 @@ def startScan():
     with open(result_file, 'w') as f:
         json.dump(handled_result, f)
 
-
-# read the result from the origin file
 if __name__ == "__main__":
-    startScan()
+    startScan(1)
 
 # res_str=res_str.replace('null','')
 # scan_res=json.loads(res_str)
