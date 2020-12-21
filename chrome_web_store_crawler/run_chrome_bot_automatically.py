@@ -165,14 +165,14 @@ def filter_keywords(input_file, output_file):
 
    
     #### EXPORT CSV if need, uncomment
-    csv_columns = ['platform', 'id', 'key','name', 'rating', 'user_numbers', 'creator', 'last_updated']
-    csv_file = "chrome_cleaned_data.csv"
+    # csv_columns = ['platform', 'id', 'key','name', 'rating', 'user_numbers', 'creator', 'last_updated']
+    # csv_file = "chrome_cleaned_data.csv"
 
-    with open(csv_file, 'w') as csvfile:
-        writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
-        writer.writeheader()
-        for data in cleaned_data:
-            writer.writerow(data)
+    # with open(csv_file, 'w') as csvfile:
+    #     writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
+    #     writer.writeheader()
+    #     for data in cleaned_data:
+    #         writer.writerow(data)
 
 
 
@@ -213,7 +213,7 @@ while True:
     # run scrapy through command line
     # print to std out the result for debugging comment this if you want.
     
-    #result = subprocess.run(['scrapy', 'crawl', 'chrome_extensions', '-a','ExportFile='+name_exported_file ], stdout=subprocess.PIPE)
+    result = subprocess.run(['scrapy', 'crawl', 'chrome_extensions', '-a','ExportFile='+name_exported_file ], stdout=subprocess.PIPE)
     
     # os.system('scrapy crawl chrome_extensions \'%s\'' % name_exported_file)
     
@@ -256,11 +256,12 @@ while True:
 
     print("Finished the WHOLE process at", datetime.datetime.now(), file=open("log.txt", "a"))
     #print("Started to wait 8 hours at", datetime.datetime.now(), file=open("log.txt", "a"))
-    time.sleep(28800) #sleep for 8 hour then repeat
+    for i in range(8):
+        time.sleep(3600)
+        print("Slept one hour, now is ",datetime.datetime.now(),file=open("log.txt","a"))
+    #time.sleep(28800) #sleep for 8 hour then repeat
     
     # print a newline between each time after running bot.
     print("+++++++++++++++++++++++++++++++++++++++++++++++++\n", file=open("log.txt", "a"))
 
-    # if completed_count ==1:
-    #     break
 

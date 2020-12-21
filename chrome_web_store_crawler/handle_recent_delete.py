@@ -10,6 +10,7 @@ import shutil
 import urllib.request
 import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
+import batch_analysis
 
 # find missed App
 # exists in old_file, not in new_file
@@ -164,7 +165,6 @@ def update_recent_list(recent_list, recent_release_file):
 
 # download new file to the folder '/recent'
 
-
 def update_recent_file(recent_list, recent_dir):
     empty_file_path = './chrome_web_store_crawler/chrome_data_analysis/tmpdata/empty_file.json'
     old_file_list = os.listdir(recent_dir)
@@ -185,6 +185,11 @@ def update_recent_file(recent_list, recent_dir):
                 tmp_list.append(i)
                 with open(empty_file_path, "w") as json_file:
                     json.dump(tmp_list, json_file)
+            else:
+                # download success
+                # scan it by virustotal
+                scan_file_path=os.path.join(recent_dir, '%s.crx' % id)
+                tmp_result=batch_analysis.scanByFilePath(scan_file_path,id)
 
 
 def missed_potential_app(new_file, count):
@@ -214,27 +219,20 @@ def missed_potential_app(new_file, count):
     update_recent_list(recent_list, recent_release_file)
     update_recent_file(recent_list, recent_dir)
 
-# new_file: 'chrome_web_store_crawler/chrome_data_analysis/tmpdata/chrome_ext_data_[%s]FILTER_KEYWORDS.json'
 
 
 def missed_all_app(new_file, count):
-    try:
-        os.mkdir('./chrome_web_store_crawler/chrome_data_analysis/data/current')
-    except Exception as e:
-        print("the current directory has existed ", e)
-    try:
-        os.mkdir('./chrome_web_store_crawler/chrome_data_analysis/data/missed')
-    except Exception as e:
-        print("the missed directory has existed ", e)
 
     missed_file = './chrome_web_store_crawler/chrome_data_analysis/data/missed.json'
     missed_dir = './chrome_web_store_crawler/chrome_data_analysis/data/missed'
     current_dir = './chrome_web_store_crawler/chrome_data_analysis/data/current'
+    scan_dir='./chrome_web_store_crawler/chrome_data_analysis/data/scan'
 
     # last_file = './chrome_web_store_crawler/chrome_data_analysis/data/last.json'
     last_file=''
     if(count != 0):
-        last_file = './chrome_web_store_crawler/chrome_data_analysis/tmpdata/chrome_ext_data_[%s]FILTER_KEYWORDS.json' % count-1
+        num=count-1
+        last_file = './chrome_web_store_crawler/chrome_data_analysis/tmpdata/chrome_ext_data_[%s]FILTER_KEYWORDS.json' % num
         [missed_item, missed_id] = find_missed(new_file, last_file)
         handle_missed_list(missed_item, missed_file)
         handle_missed_file(missed_id, missed_dir, current_dir)
@@ -242,4 +240,4 @@ def missed_all_app(new_file, count):
         [new_add_item, new_add_id] = find_new_add(new_file, last_file)
     else:
         new_add_item = recent_all_release(new_file)
-    download_new_add_ext(new_add_item, current_dir)
+    download_new_add_ext(new_add_item, scan_dir)
