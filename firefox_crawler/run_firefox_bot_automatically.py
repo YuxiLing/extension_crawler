@@ -148,7 +148,7 @@ def filter_keywords(input_file, output_file):
 
 # schedule.every().day.at("15:35").do(job,'It is 01:00')
 # count how many time have the bot completed 
-completed_count = 4
+completed_count = 6
 
 while True:
     # schedule.run_pending()
@@ -168,7 +168,7 @@ while True:
 
     # name_exported_file = '-time_is[%s]' % datetime.datetime.now().strftime('%Y_%m_%d_%H:%M')
     # name after chrome_ext_data.........
-    name_exported_file = './malicious_ext_crawler/data/firefox_ext_data_[%s].json' % completed_count
+    name_exported_file = './malicious_ext_crawler/data/full_list/firefox_ext_data_[%s].json' % completed_count
     ######RUN-BOT
     # run scrapy through command liness
     # print to std out the result for debugging comment this if you want.
@@ -186,7 +186,7 @@ while True:
 
     print("Run FILTER using keywords....", file=open("firefox_log.txt", "a"))
     # this variable includes url and name of the corresponding exported file from the bot each time
-    name_exported_file_after_running_bot = './malicious_ext_crawler/data/firefox_ext_data' + name_exported_file_1
+    name_exported_file_after_running_bot = './malicious_ext_crawler/data/full_list/firefox_ext_data' + name_exported_file_1
     filter_keywords(name_exported_file_after_running_bot, name_exported_file_after_running_bot)
     
     
@@ -210,6 +210,7 @@ while True:
 
     print("Scanning new added source code...", file=open("firefox_log.txt", "a"))
     scan_ext_file.startScan(completed_count)
+    
     # increase the count to name the output file
     completed_count = completed_count + 1
 

@@ -49,17 +49,17 @@ def find_missed(new_file, old_file):
 def handle_missed_list(missed_item, missed_file):
     current_time=datetime.datetime.now()
     missed_list = []
+
+    for item in missed_item:
+        item["missed_date"]=current_time.strftime("%Y-%m-%d %H:%M:%S")
+
     if 0 != os.path.getsize(missed_file):
         with open(missed_file,'r') as json_file:
             missed_list = json.load(json_file)
         for i in missed_item:
             missed_list.append(i)
-
     else:
         missed_list = missed_item
-
-    for item in missed_list:
-        item["missed_date"]=current_time.strftime("%Y-%m-%d %H:%M:%S")
 
     with open(missed_file, "w") as json_file:
         json.dump(missed_list, json_file)
@@ -206,7 +206,7 @@ def missed_all_app(new_file, count):
     last_file=''
     if(count != 0):
         num=count-1
-        last_file = './malicious_ext_crawler/data/firefox_ext_data_[%s]FILTER_KEYWORDS.json' % num
+        last_file = './malicious_ext_crawler/data/full_list/firefox_ext_data_[%s]FILTER_KEYWORDS.json' % num
         [missed_item, missed_id] = find_missed(new_file, last_file)
         handle_missed_list(missed_item, missed_file)
         handle_missed_file(missed_id, missed_dir, current_dir)
@@ -216,4 +216,5 @@ def missed_all_app(new_file, count):
         new_add_item = recent_all_release(new_file)
     download_new_add_ext(new_add_item, scan_dir)
 
-# missed_all_app('./malicious_ext_crawler/data/firefox_ext_data_[3]FILTER_KEYWORDS.json',3)
+if __name__ == "__main__":
+    missed_all_app('./malicious_ext_crawler/data/firefox_ext_data_[3]FILTER_KEYWORDS.json',3)

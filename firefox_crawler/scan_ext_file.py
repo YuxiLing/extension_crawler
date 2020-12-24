@@ -54,7 +54,7 @@ def scanByDir(src_folder, dst_folder, output_file, move):
         output_list = json.load(f)
 
     for i in file_list:
-        if i == '.DS_Store':
+        if (i == '.DS_Store')|(i=='log.txt'):
             continue
         file_path = src_folder+i
 
@@ -101,9 +101,34 @@ def storeOriginResult(id, res, origin_result_path):
     with open(origin_result_path, "w") as json_file:
         json.dump(tmp_list, json_file)
 
+def updateMaliciousList(id,malicious_folder,count):
+    malicious_list_path=malicious_folder+'malicious.json'
+    malicious_list=[]
 
-def handleOriginResult(id, res_json, result_file_csv, src_folder, malicious_folder):
+    if 0 != os.path.getsize(malicious_list_path):
+        with open(malicious_list_path,'r') as json_file:
+            mal_tmp = json.load(json_file)
+        for i in mal_tmp:
+            malicious_list.append(i)
+
+    # find meta data by id and store in malicious json file
+    raw_path='./malicious_ext_crawler/data/full_list/firefox_ext_data_[%s]FILTER_KEYWORDS.json' % count
+    with open(raw_path,'r') as f:
+        tmp=json.load(f)
+    for item in tmp:
+        if item['id']==id:
+            malicious_list.append(item)
+
+    with open(malicious_list_path,'w') as f:
+        json.dump(malicious_list,f)
+
+
+
+
+
+def handleOriginResult(id, res_json, result_file_csv, src_folder, malicious_folder,count):
     engine_res = res_json["data"]["attributes"]["results"]
+    stats_res=res_json['data']['attributes']['stats']
     vul_count = 0
     # store the engine info where the result is not null
     res_list_csv = [id]
@@ -112,7 +137,7 @@ def handleOriginResult(id, res_json, result_file_csv, src_folder, malicious_fold
         try:
             res = engine_res[engine]["result"]
         except:
-            res_list_csv.append('null')
+            res_list_csv.append(' ')
             continue
         if res != None:
             # the result is not null
@@ -124,22 +149,27 @@ def handleOriginResult(id, res_json, result_file_csv, src_folder, malicious_fold
             print("in extension:", id, "find bug in:", engine, "output:", res)
 
         else:
-            res_list_csv.append('null')
+            res_list_csv.append(' ')
     tmp_json = {
         'id': id,
         'result': mid_list_json
     }
-    with open(result_file_csv, 'a') as f:
-        writer = csv.writer(f)
-        writer.writerow(res_list_csv)
-    if vul_count == 0:
+
+    if ((vul_count == 0) & (stats_res['suspicious']==0) & (stats_res['malicious']==0)):
         print("no error in extension: ", id)
     else:
+        # store the scan result in file
+        with open(result_file_csv, 'a') as f:
+            writer = csv.writer(f)
+            writer.writerow(res_list_csv)
         # copy the file to malicious folder
-
-        srcPath = src_folder+id+'.xpi'
-        dstPath = malicious_folder+id+'.xpi'
-        shutil.copy(srcPath, dstPath)
+        try:
+            srcPath = src_folder+id+'.xpi'
+            dstPath = malicious_folder+id+'.xpi'
+            shutil.copy(srcPath, dstPath)
+            updateMaliciousList(id,malicious_folder,count)
+        except:
+            print('some errors occurs while copying file')
 
     return tmp_json
 
@@ -165,7 +195,7 @@ def getAnalysisResult(result_id_list, origin_result_path):
         res_json = json.loads(res_str)
 
         # store the origin result
-        print("store the analysis result...")
+        print("store the analysis result...",theID)
         storeOriginResult(theID, res_json, origin_result_path)
 
         # break
@@ -183,19 +213,29 @@ def getResultID(output_file):
         result_id_list.append(item['id'])
     return result_id_list
 
+def getExtIDbyScanID(scan_result_id_file,scan_id):
+    with open(scan_result_id_file,'r') as f:
+        tmp=json.load(f)
+    for item in tmp:
+        if item['id']==scan_id:
+            #find the extension id and return
+            return item['name']
+    return 'null'
 
 def startScan(count):
     src_folder = './malicious_ext_crawler/data/scan/'
     dst_folder = './malicious_ext_crawler/data/current/'
     malicious_folder = './malicious_ext_crawler/data/malicious/'
-    output_file = './malicious_ext_crawler/data/scan_result/scan_result_id_[%s].json' % count
-    origin_result_path = './malicious_ext_crawler/data/scan_result/analysis_result_origin_[%s].json' % count
-    result_file_csv = './malicious_ext_crawler/data/scan_result/analysis_result_[%s].csv' % count
-    result_file = './malicious_ext_crawler/data/scan_result/analysis_result_[%s].json' % count
+    
+    output_file = './malicious_ext_crawler/data/scan_result/scan_result_id.json'
+    origin_result_path = './malicious_ext_crawler/data/scan_result/analysis_result_origin.json'
+    result_file_csv = './malicious_ext_crawler/data/scan_result/analysis_result[%s].csv' % count
+    result_file = './malicious_ext_crawler/data/scan_result/analysis_result.json'
     # move = 0 not move
     # move = 1 move
-    move = 0
+    move = 1
     # scanByDir(dst_folder, dst_folder, output_file, move)
+
     scanByDir(src_folder, dst_folder, output_file, move)
     result_id_list = getResultID(output_file)
     getAnalysisResult(result_id_list, origin_result_path)
@@ -212,14 +252,9 @@ def startScan(count):
     handled_result = []
     for item in origin_list:
         item_json = item
-        try:
-            thePath = item_json["meta"]['file_info']['name']
-            [thedir, thename] = os.path.split(thePath)
-            [theID, theext] = os.path.splitext(thename)
-        except:
-            theID = '**'
+        theID=getExtIDbyScanID(output_file,item_json['data']['id'])
         tmp_json = handleOriginResult(
-            theID, item_json, result_file_csv, dst_folder, malicious_folder)
+            theID, item_json, result_file_csv, dst_folder, malicious_folder,count)
         handled_result.append(tmp_json)
 
     with open(result_file, 'w') as f:

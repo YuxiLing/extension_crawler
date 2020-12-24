@@ -233,3 +233,4 @@ Scanning new added source code...
 Finished the WHOLE process at 2020-12-21 09:11:01.834824
 Started to wait 8 hours at 2020-12-21 09:11:01.835059
 updated scan_result_id.json
+updated scan_result_id.json
