@@ -1,0 +1,26 @@
+[
+    {
+        "platform": "opera",
+        "download_link": "https://addons.opera.com/extensions/download/bitcoin-monero-miner/",
+        "key": "bitcoin-monero-miner",
+        "name": "Bitcoin Monero Miner",
+        "rating": "4.1",
+        "download_numbers": "8540",
+        "creator": "oinkandstuff",
+        "last_updated": "2018-1-9",
+        "reviews": [],
+        "scanned_time": "2020-12-27 13:29:22"
+    },
+    {
+        "platform": "opera",
+        "download_link": "https://addons.opera.com/extensions/download/strona-cashback-bumerangcash/",
+        "key": "strona-cashback-bumerangcash",
+        "name": "Strona cashback BumerangCash",
+        "rating": "4.2",
+        "download_numbers": "800",
+        "creator": "bumerangcash",
+        "last_updated": "2020-9-14",
+        "reviews": [],
+        "scanned_time": "2020-12-27 13:29:22"
+    }
+]

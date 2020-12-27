@@ -1,0 +1,240 @@
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-18 18:05:50.671841
+And completed_count= 0
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-18 18:27:24.787379
+And completed_count= 0
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-18 18:37:35.050403
+And completed_count= 0
+*Bot is working....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-18 18:39:36.320035
+And completed_count= 0
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Finished the WHOLE process at 2020-12-18 18:47:05.143971
+Started to wait 8 hours at 2020-12-18 18:47:05.144109
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-18 19:13:41.822591
+And completed_count= 1
+*Bot is working....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-18 19:24:07.207056
+And completed_count= 1
+*Bot is working....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-18 20:58:24.372164
+And completed_count= 1
+*Bot is working....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-18 21:00:52.657951
+And completed_count= 1
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-18 21:14:45.248758
+And completed_count= 1
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-18 21:15:12.631177
+And completed_count= 1
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Finished the WHOLE process at 2020-12-18 21:15:12.920693
+Started to wait 8 hours at 2020-12-18 21:15:12.920781
+download successful total number: 399
+Empty file total number:  0
++++++++++++++++++++++++++++++++++++++++++++++++++
+Slept one hour, now is  2020-12-19 01:10:37.581957
+Slept one hour, now is  2020-12-19 02:10:39.121577
+Slept one hour, now is  2020-12-19 03:10:40.055017
+Slept one hour, now is  2020-12-19 04:10:40.987130
+Slept one hour, now is  2020-12-19 05:10:41.916571
+Slept one hour, now is  2020-12-19 06:10:42.847416
+Slept one hour, now is  2020-12-19 07:10:43.774771
+Slept one hour, now is  2020-12-19 08:10:44.704156
+Started program at 2020-12-19 08:10:44.706802
+And completed_count= 2
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+download successful total number: 12
+Empty file total number:  0
+download successful total number: 12
+Empty file total number:  0
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-20 10:53:16.558822
+And completed_count= 2
+*Bot is working....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-20 10:55:44.716392
+And completed_count= 3
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+download successful total number: 32
+Empty file total number:  0
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-20 23:54:03.764121
+And completed_count= 4
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+handle_missed_file: success move: 3693485
+handle_missed_file: success move: 783362
+handle_missed_file: success move: 1284309
+handle_missed_file: no file  3496482
+handle_missed_file: success move: 658628
+handle_missed_file: success move: 968706
+handle_missed_file: success move: 3663435
+handle_missed_file: success move: 3665195
+handle_missed_file: success move: 3635444
+handle_missed_file: success move: 3033040
+handle_missed_file: success move: 1702307
+handle_missed_file: success move: 2958844
+handle_missed_file: success move: 3420313
+handle_missed_file: no file  3669388
+handle_missed_file: success move: 1182850
+handle_missed_file: success move: 3001640
+handle_missed_file: success move: 3361306
+handle_missed_file: success move: 672565
+handle_missed_file: success move: 3611055
+handle_missed_file: success move: 3661140
+handle_missed_file: success move: 3515067
+handle_missed_file: success move: 905376
+handle_missed_file: no file  3669253
+handle_missed_file: success move: 3680386
+handle_missed_file: success move: 3657562
+handle_missed_file: success move: 3645951
+handle_missed_file: success move: 1731666
+handle_missed_file: success move: 720447
+handle_missed_file: success move: 1078816
+download successful total number: 32
+Empty file total number:  0
+Scanning new added source code...
+Finished the WHOLE process at 2020-12-21 00:02:43.618602
+Started to wait 8 hours at 2020-12-21 00:02:43.618847
+Slept one hour, now is  2020-12-21 02:02:35.589807
+Slept one hour, now is  2020-12-21 03:02:36.353048
+Slept one hour, now is  2020-12-21 04:02:37.297752
+Slept one hour, now is  2020-12-21 05:02:38.240920
+Slept one hour, now is  2020-12-21 06:02:39.181503
+Slept one hour, now is  2020-12-21 07:02:40.119545
+Slept one hour, now is  2020-12-21 08:02:41.060767
+Slept one hour, now is  2020-12-21 09:02:41.993005
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-21 09:02:41.996360
+And completed_count= 5
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+handle_missed_file: success move: 3689990
+handle_missed_file: success move: 547010
+handle_missed_file: success move: 1673211
+handle_missed_file: success move: 1214419
+handle_missed_file: success move: 3586224
+handle_missed_file: success move: 719542
+handle_missed_file: success move: 875631
+handle_missed_file: success move: 1182403
+handle_missed_file: success move: 1046616
+handle_missed_file: success move: 1689665
+handle_missed_file: success move: 1689659
+handle_missed_file: success move: 3562118
+handle_missed_file: success move: 3494802
+handle_missed_file: success move: 3689248
+handle_missed_file: success move: 3600962
+handle_missed_file: success move: 3534857
+handle_missed_file: success move: 3030667
+handle_missed_file: success move: 1106350
+handle_missed_file: success move: 3449265
+handle_missed_file: success move: 3653739
+handle_missed_file: success move: 3645301
+handle_missed_file: success move: 980721
+handle_missed_file: success move: 3528288
+handle_missed_file: success move: 3694873
+handle_missed_file: success move: 3535775
+handle_missed_file: success move: 1156175
+handle_missed_file: success move: 3442411
+download successful total number: 20
+Empty file total number:  0
+Scanning new added source code...
+Finished the WHOLE process at 2020-12-21 09:11:01.834824
+Started to wait 8 hours at 2020-12-21 09:11:01.835059
+updated scan_result_id.json
+updated scan_result_id.json
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-24 18:20:54.224853
+And completed_count= 6
+*Bot is working....

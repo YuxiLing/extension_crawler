@@ -1,0 +1,373 @@
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-24 18:06:04.375007
+And completed_count= 6
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-24 18:16:19.551960
+And completed_count= 0
+*Bot is working....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-24 18:17:44.513752
+And completed_count= 0
+*Bot is working....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-24 18:19:34.087407
+And completed_count= 0
+*Bot is working....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-24 18:28:55.339093
+And completed_count= 0
+*Bot is working....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-24 18:31:13.852736
+And completed_count= 0
+*Bot is working....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-24 18:32:39.696629
+And completed_count= 0
+*Bot is working....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-24 18:40:37.851877
+And completed_count= 0
+*Bot is working....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-24 18:42:26.013218
+And completed_count= 0
+*Bot is working....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-24 18:43:06.027060
+And completed_count= 0
+*Bot is working....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-24 18:45:16.295201
+And completed_count= 0
+*Bot is working....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-24 18:50:59.805527
+And completed_count= 0
+*Bot is working....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-24 19:00:29.303070
+And completed_count= 0
+*Bot is working....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-24 19:03:29.724518
+And completed_count= 0
+*Bot is working....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-24 19:05:16.318368
+And completed_count= 0
+*Bot is working....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-24 19:06:34.222554
+And completed_count= 0
+*Bot is working....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-24 19:10:26.027896
+And completed_count= 0
+*Bot is working....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-24 19:12:43.182122
+And completed_count= 0
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-24 19:21:19.581379
+And completed_count= 0
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-24 19:21:42.975654
+And completed_count= 0
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Getting source code and finding missed extensions....
+Scanning new added source code...
+Finished the WHOLE process at 2020-12-24 19:21:43.018421
+Started to wait 8 hours at 2020-12-24 19:21:43.018576
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-24 23:00:33.095987
+And completed_count= 1
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-24 23:01:22.658521
+And completed_count= 1
+*Bot is working....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-24 23:06:27.016221
+And completed_count= 1
+*Bot is working....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-25 09:31:49.130975
+And completed_count= 1
+*Bot is working....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-25 09:33:42.749635
+And completed_count= 1
+*Bot is working....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-25 09:39:33.214263
+And completed_count= 1
+*Bot is working....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-25 09:40:34.185553
+And completed_count= 1
+*Bot is working....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-25 09:42:41.296680
+And completed_count= 1
+*Bot is working....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-25 09:45:11.363039
+And completed_count= 1
+*Bot is working....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-25 09:47:21.588648
+And completed_count= 1
+*Bot is working....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-25 09:49:52.363918
+And completed_count= 1
+*Bot is working....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-25 09:50:45.820477
+And completed_count= 1
+*Bot is working....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-25 17:22:52.969771
+And completed_count= 1
+*Bot is working....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-25 17:29:34.739719
+And completed_count= 1
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Getting source code and finding missed extensions....
+Scanning new added source code...
+Finished the WHOLE process at 2020-12-25 17:33:31.812883
+Started to wait 8 hours at 2020-12-25 17:33:31.813003
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-25 17:44:39.665473
+And completed_count= 1
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-25 17:45:14.920484
+And completed_count= 1
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-25 17:49:03.710775
+And completed_count= 1
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id.json
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-25 17:51:17.810230
+And completed_count= 1
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+Finished the WHOLE process at 2020-12-25 17:51:17.865108
+Started to wait 8 hours at 2020-12-25 17:51:17.865211
+download failed: link-o-mat
+download failed: cryptonite-by-metacert
+download failed: github-hovercard
+download failed: backchain
+download failed: bitcoin-ticker
+download failed: bitcoin-monero-miner
+download failed: no-coin
+download failed: peername-surf-blockchain-based-domains
+download failed: money-converter
+download failed: direct-currency-converter
+download failed: dcurrency
+download failed: quick-currency-converter
+download failed: finance-toolbar
+download failed: finance-district
+download failed: auto-tab-discard
+download failed: bitref
+download failed: just-bitcoin-ticker-pro
+download failed: just-ethereum-ticker-pro
+download failed: just-cardano-ticker-pro
+download failed: igraal-cashback-codes-promo
+download failed: cashback-it-bestshopping
+download failed: alibonus-vozvrashchai-10-s-aliexpress
+download failed: oplata-cashback
+download failed: strona-cashback-bumerangcash
+download failed: shoopde-cashback-assistent
+download failed: cashberries-keshbek-cashback
+download failed: wtyczka-cashgobackpl-2
+download failed: pay-with-bitpay
+download failed: bitmar
+download failed: cryptowall
+download failed: bitwarden-free-password-manager
+download failed: duolingo-word-bank-dnd
+download failed: bank-calculator-kalkuliator
+download failed: cryptopro-extension-for-cades-browser-plug-in
+download failed: workspacecrypto
+download failed: cryptostop
+download failed: webmoney-advisor-next
+download failed: rabbit-url-opener
+download failed: blur-protect-your-passwords-payments-privacy
+download failed: stackexchange-notifications
+download failed: payback-magaziny-platiat
+download failed: paypanther
+download successful total number: 0
+Empty file total number:  0
+download failed: link-o-mat
+download failed: cryptonite-by-metacert
+download failed: github-hovercard
+download failed: backchain
+download failed: bitcoin-ticker
+download failed: bitcoin-monero-miner
+download failed: no-coin
+download failed: peername-surf-blockchain-based-domains
+download failed: money-converter
+download failed: direct-currency-converter
+download failed: dcurrency
+download failed: quick-currency-converter
+download failed: finance-toolbar
+download failed: finance-district
+download failed: auto-tab-discard
+download failed: bitref
+download failed: just-bitcoin-ticker-pro
+download failed: just-ethereum-ticker-pro
+download failed: just-cardano-ticker-pro
+download failed: igraal-cashback-codes-promo
+download failed: cashback-it-bestshopping
+download failed: alibonus-vozvrashchai-10-s-aliexpress
+download failed: oplata-cashback
+download failed: strona-cashback-bumerangcash
+download failed: shoopde-cashback-assistent
+download failed: cashberries-keshbek-cashback
+download failed: wtyczka-cashgobackpl-2
+download failed: pay-with-bitpay
+download failed: bitmar
+download failed: cryptowall
+download failed: bitwarden-free-password-manager
+download failed: duolingo-word-bank-dnd
+download failed: bank-calculator-kalkuliator
+download failed: cryptopro-extension-for-cades-browser-plug-in
+download failed: workspacecrypto
+download failed: cryptostop
+download failed: webmoney-advisor-next
+download failed: rabbit-url-opener
+download failed: blur-protect-your-passwords-payments-privacy
+download failed: stackexchange-notifications
+download failed: payback-magaziny-platiat
+download failed: paypanther
+download successful total number: 0
+Empty file total number:  0
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-27 11:23:55.699399
+And completed_count= 0
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-27 11:24:53.956419
+And completed_count= 0
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-27 11:25:30.207887
+And completed_count= 0
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-27 11:26:00.175748
+And completed_count= 0
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 42
+Empty file total number:  0
+Scanning new added source code...
+Finished the WHOLE process at 2020-12-27 11:31:30.069023
+Started to wait 8 hours at 2020-12-27 11:31:30.069318
+updated scan_result_id.json
+in extension: bitcoin-monero-miner find bug in: Microsoft output: Trojan:HTML/Brocoiner.N!lib
+in extension: bitcoin-monero-miner find bug in: Microsoft output: Trojan:HTML/Brocoiner.N!lib
+in extension: bitcoin-monero-miner find bug in: Microsoft output: Trojan:HTML/Brocoiner.N!lib
+in extension: strona-cashback-bumerangcash find bug in: Kaspersky output: HEUR:Trojan.Script.Generic
+in extension: strona-cashback-bumerangcash find bug in: ZoneAlarm output: HEUR:Trojan.Script.Generic
