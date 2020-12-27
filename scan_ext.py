@@ -39,7 +39,7 @@ def scanByFilePath(file_path, file_id):
     return tmp
 
 
-def scanByDir(src_folder, dst_folder, output_file, move):
+def scanByDir(src_folder, output_file):
     apikey = '787cef5ac6d5f3fdeacd068c97180caa26c89ff69aee1c2b012a2ace62e993b9'
     myheaders = {
         'x-apikey': apikey
@@ -50,9 +50,6 @@ def scanByDir(src_folder, dst_folder, output_file, move):
 
     # store the analysis id
     output_list = []
-
-    # with open(output_file, 'r') as f:
-    #     output_list = json.load(f)
 
     for i in file_list:
         if (i == '.DS_Store')|(i=='log.txt'):
@@ -76,21 +73,15 @@ def scanByDir(src_folder, dst_folder, output_file, move):
             }
             output_list.append(tmp)
             print(tmp["id"])
-            # move scanned file to current file
-            if move == 1:
-                srcPath = file_path
-                dstPath = dst_folder+i
-                shutil.move(srcPath, dstPath)
             # print("start to wait...")
             time.sleep(15)
         except:
-            print("error occurs while scanning, stop early",
-                  file=open('firefox_log.txt', 'a'))
+            print("error occurs while scanning, stop early")
             break
 
     with open(output_file, 'w') as f:
         json.dump(output_list, f)
-    print("updated scan_result_id.json", file=open('firefox_log.txt', 'a'))
+    print("updated scan_result_id file")
 
 
 def storeOriginResult(id, res, origin_result_path):
@@ -102,34 +93,8 @@ def storeOriginResult(id, res, origin_result_path):
     with open(origin_result_path, "w") as json_file:
         json.dump(tmp_list, json_file)
 
-def updateMaliciousList(id,malicious_folder,count):
-    malicious_list_path=malicious_folder+'malicious.json'
-    malicious_list=[]
 
-    if os.path.exists(malicious_list_path):
-        with open(malicious_list_path,'r') as json_file:
-            mal_tmp = json.load(json_file)
-        for i in mal_tmp:
-            malicious_list.append(i)
-
-    # find meta data by id and store in malicious json file
-    raw_path='./malicious_ext_crawler/data/full_list/firefox_ext_data_[%s]FILTER_KEYWORDS.json' % count
-    with open(raw_path,'r') as f:
-        tmp=json.load(f)
-    for item in tmp:
-        if item['id']==id:
-            current=datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-            item['scanned_time']=current
-            malicious_list.append(item)
-
-    with open(malicious_list_path,'w') as f:
-        json.dump(malicious_list,f)
-
-
-
-
-
-def handleOriginResult(id, res_json, result_file_csv, src_folder, malicious_folder,count):
+def handleOriginResult(id, res_json, malicious_folder):
     engine_res = res_json["data"]["attributes"]["results"]
     stats_res=res_json['data']['attributes']['stats']
     vul_count = 0
@@ -148,11 +113,8 @@ def handleOriginResult(id, res_json, result_file_csv, src_folder, malicious_fold
             vul_count = vul_count+1
             engine_res[engine]["name"] = engine
             mid_list_json.append(engine_res[engine])
-            res_list_csv.append(res)
             print("in extension:", id, "find bug in:", engine, "output:", res)
-            print("in extension:", id, "find bug in:", engine, "output:", res,file=open('firefox_log.txt','a'))
-        else:
-            res_list_csv.append(' ')
+
     tmp_json = {
         'id': id,
         'result': mid_list_json
@@ -161,19 +123,14 @@ def handleOriginResult(id, res_json, result_file_csv, src_folder, malicious_fold
     if ((vul_count == 0) & (stats_res['suspicious']==0) & (stats_res['malicious']==0)):
         print("no error in extension: ", id)
     else:
-        # store the scan result in file
-        # with open(result_file_csv, 'a') as f:
-        #     writer = csv.writer(f)
-        #     writer.writerow(res_list_csv)
         # copy the file to malicious folder
         try:
-            srcPath = src_folder+id+'.xpi'
-            dstPath = malicious_folder+id+'.xpi'
-            shutil.copy(srcPath, dstPath)
-            
+            srcPath = src_folder+id+'.crx'
+            dstPath = malicious_folder+id+'.crx'
+            shutil.copyfile(srcPath, dstPath)
         except:
             print('some errors occurs while copying file')
-        updateMaliciousList(id,malicious_folder,count)
+        
 
     return tmp_json
 
@@ -220,25 +177,16 @@ def getExtIDbyScanID(scan_result_id_file,scan_id):
             return item['name']
     return 'null'
 
-def startScan(count):
-    src_folder = './malicious_ext_crawler/data/scan/'
-    dst_folder = './malicious_ext_crawler/data/current/'
-    malicious_folder = './malicious_ext_crawler/data/malicious/'
+def startScan(src_folder):
+    # src_folder = './chrome_web_store_crawler/chrome_data_analysis/data/scan/'
+    malicious_folder = '/Users/a057/Desktop/malicious/'
     
-    # output_file = './malicious_ext_crawler/data/scan_result/scan_result_id.json'
-    # origin_result_path = './malicious_ext_crawler/data/scan_result/analysis_result_origin.json'
-    result_file_csv = './malicious_ext_crawler/data/scan_result/analysis_result[%s].csv' % count
-    # result_file = './malicious_ext_crawler/data/scan_result/analysis_result.json'
+    output_file = '/Users/a057/Desktop/scan_result_id.json' 
+    origin_result_path = '/Users/a057/Desktop/analysis_result_origin.json'
+    result_file = '/Users/a057/Desktop/analysis_result.json' 
     
-    output_file = './malicious_ext_crawler/data/scan_result/scan_result_id[%s].json' % count
-    origin_result_path = './malicious_ext_crawler/data/scan_result/analysis_result_origin[%s].json' % count
-    result_file = './malicious_ext_crawler/data/scan_result/analysis_result[%s].json' % count
+    scanByDir(src_folder, output_file)
 
-    # move = 0 not move
-    # move = 1 move
-    move = 1
-    scanByDir(src_folder, dst_folder, output_file, move)
-    
     result_id_list = getResultID(output_file)
     getAnalysisResult(result_id_list, origin_result_path)
 
@@ -247,12 +195,7 @@ def startScan(count):
         with open(origin_result_path, 'r') as f:
             origin_list = json.load(f)
     else:
-        print("no file needs to be scanned in this round",file=open('firefox_log.txt','a'))
-
-    # csv_header = ["name"]+engine_list
-    # with open(result_file_csv, 'w') as f:
-    #     writer = csv.writer(f)
-    #     writer.writerow(csv_header)
+        print("no file needs to be scanned in this round")
 
     # the file stores handled analysis result
     handled_result = []
@@ -260,17 +203,16 @@ def startScan(count):
         item_json = item
         theID=getExtIDbyScanID(output_file,item_json['data']['id'])
         tmp_json = handleOriginResult(
-            theID, item_json, result_file_csv, dst_folder, malicious_folder,count)
+            theID, item_json, malicious_folder)
         handled_result.append(tmp_json)
 
     with open(result_file, 'w') as f:
         json.dump(handled_result, f)
 
 if __name__ == "__main__":
-    startScan(6)
+    src_folder='/Users/a057/Desktop/current(need to scan)/'
+    startScan(src_folder)
 
-# res_str=res_str.replace('null','')
-# scan_res=json.loads(res_str)
 # null=''
 # scan_res={
 #     "data": {

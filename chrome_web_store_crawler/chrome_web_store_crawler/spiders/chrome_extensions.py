@@ -103,7 +103,7 @@ class ChromeExtensions(scrapy.Spider):
             list_crawled_ext.append(ext)
 
             # Export all
-        name_exported_file = 'chrome_web_store_crawler/chrome_data_analysis/tmpdata/chrome_ext_data%s.json' % self.theFileName
+        name_exported_file = 'chrome_web_store_crawler/data/full_list/chrome_ext_data%s.json' % self.theFileName
         with open(name_exported_file, 'w') as jsonfile:
                 json.dump(list_crawled_ext, jsonfile, indent=2)
 

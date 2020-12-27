@@ -148,7 +148,7 @@ def filter_keywords(input_file, output_file):
 
 # schedule.every().day.at("15:35").do(job,'It is 01:00')
 # count how many time have the bot completed 
-completed_count = 1
+completed_count = 2
 
 while True:
     # schedule.run_pending()

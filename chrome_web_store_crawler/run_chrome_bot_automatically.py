@@ -14,6 +14,7 @@ import re
 import csv
 
 import handle_recent_delete
+import scan_ext_file
 
 ######## Remove duplicates
 # remove duplicates def
@@ -68,33 +69,6 @@ def processing_latest_months(input_file):
             # 2020
             if (date_type.year == 2020):
                 data.append(p)
-                # # Jan
-                # if (date_type.month == 1):
-                #     last_8_months[0] = last_8_months[0] + 1
-                # # Feb
-                # elif (date_type.month == 2):
-                #     last_8_months[1] = last_8_months[1] + 1
-                # # Mar
-                # elif (date_type.month == 3):
-                #     last_8_months[2] = last_8_months[2] + 1
-                # # April
-                # elif (date_type.month == 4):
-                #     last_8_months[3] = last_8_months[3] + 1
-                # # May
-                # elif (date_type.month == 5):
-                #     last_8_months[4] = last_8_months[4] + 1
-                # # June
-                # elif (date_type.month == 6):
-                #     last_8_months[5] = last_8_months[5] + 1
-                # # July
-                # elif (date_type.month == 7):
-                #     last_8_months[6] = last_8_months[6] + 1
-                # # August
-                # elif (date_type.month == 8):
-                #     last_8_months[7] = last_8_months[7] + 1
-                    
-    # for total in last_seven_months:
-    #     print(total)
 
     y_units = last_8_months
 
@@ -176,8 +150,6 @@ def filter_keywords(input_file, output_file):
 
 
 
-
-
 ############################### RUN BOT
 # import string
 # def job(t):
@@ -186,7 +158,7 @@ def filter_keywords(input_file, output_file):
 
 # schedule.every().day.at("15:35").do(job,'It is 01:00')
 # count how many time have the bot completed 
-completed_count = 18
+completed_count = 19
 
 dirpath = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(dirpath)
@@ -197,10 +169,10 @@ while True:
     print("I'm working...",datetime.datetime.now())
     # time.sleep(1) # wait one minute
     # printing time and bot to log file
-    print("+++++++++++++++++++++++++++++++++++++++++++++++++", file=open("log.txt", "a"))
+    print("+++++++++++++++++++++++++++++++++++++++++++++++++", file=open("chrome_log.txt", "a"))
 
-    print("Started program at", datetime.datetime.now(), file=open("log.txt", "a"))
-    print("And completed_count=", completed_count, file=open("log.txt", "a"))
+    print("Started program at", datetime.datetime.now(), file=open("chrome_log.txt", "a"))
+    print("And completed_count=", completed_count, file=open("chrome_log.txt", "a"))
 
     print("*Bot is working....", file=open("log.txt", "a"))
     # a = '-time' + 'aaaa'
@@ -213,52 +185,55 @@ while True:
     # run scrapy through command line
     # print to std out the result for debugging comment this if you want.
     
-    result = subprocess.run(['scrapy', 'crawl', 'chrome_extensions', '-a','ExportFile='+name_exported_file ], stdout=subprocess.PIPE)
+    # result = subprocess.run(['scrapy', 'crawl', 'chrome_extensions', '-a','ExportFile='+name_exported_file ], stdout=subprocess.PIPE)
     
     # after run bot run filter using keyword
-    print("*Bot finished....", file=open("log.txt", "a"))
+    print("*Bot finished....", file=open("chrome_log.txt", "a"))
 
 
     ######POST-PROCESSING
     
-    # print("Run FILTER using keywords....", file=open("log.txt", "a"))
+    # print("Run FILTER using keywords....", file=open("chrome_log.txt", "a"))
     # this variable includes url and name of the corresponding exported file from the bot each time
-    name_exported_file_after_running_bot = 'chrome_web_store_crawler/chrome_data_analysis/tmpdata/chrome_ext_data' + name_exported_file
+    name_exported_file_after_running_bot = 'chrome_web_store_crawler/data/full_list/chrome_ext_data' + name_exported_file
     
     filter_keywords(name_exported_file_after_running_bot, name_exported_file_after_running_bot)
-    print("FILTER using keywords finished", file=open("log.txt", "a"))
+    print("FILTER using keywords finished", file=open("chrome_log.txt", "a"))
 
-    print("Run 8 latest months filter", file=open("log.txt", "a"))
+    print("Run 8 latest months filter", file=open("chrome_log.txt", "a"))
     #print("Running latest months filter....", file=open("log.txt", "a"))
     # name of the result after filtering using keywords
     name_exported_file_after_running_bot_csv = name_exported_file_after_running_bot + 'FILTER_KEYWORDS' + '.json'
     y_1 = processing_latest_months(name_exported_file_after_running_bot_csv)
-    print("Finished latest months filter", file=open("log.txt", "a"))
+    print("Finished latest months filter", file=open("chrome_log.txt", "a"))
 
-    print("Exporting csvvvvvv....", file=open("log.txt", "a"))
+    print("Exporting csvvvvvv....", file=open("chrome_log.txt", "a"))
     export_csv(y_1[1],name_exported_file_after_running_bot + "FILTER_DATE" + '.csv')
-    print("Exporting csvvvvvv is finished....", file=open("log.txt", "a"))
+    print("Exporting csvvvvvv is finished....", file=open("chrome_log.txt", "a"))
 
     # find missed app
-    print("Finding missed app....", file=open("log.txt", "a"))
+    print("Finding missed app....", file=open("chrome_log.txt", "a"))
     handle_recent_delete.missed_all_app(name_exported_file_after_running_bot_csv,completed_count)
-    print("Updated missed.json and recent.json", file=open("log.txt", "a"))
-    print("Updated /missed", file=open("log.txt", "a"))
+    print("Updated missed.json and recent.json", file=open("chrome_log.txt", "a"))
+    print("Updated /missed", file=open("chrome_log.txt", "a"))
 
     # scan new added apps
-    print("Scanning new app....", file=open("log.txt", "a"))
+    print("Scanning new app....", file=open("chrome_log.txt", "a"))
+    scan_ext_file.startScan(completed_count)
+    print("Finished scanning", file=open("chrome_log.txt", "a"))
 
-    print("Increased completed_count", file=open("log.txt", "a"))
+    # increase completed_count
+    print("Increased completed_count", file=open("chrome_log.txt", "a"))
     completed_count = completed_count + 1
 
-    print("Finished the WHOLE process at", datetime.datetime.now(), file=open("log.txt", "a"))
-    #print("Started to wait 8 hours at", datetime.datetime.now(), file=open("log.txt", "a"))
+    print("Finished the WHOLE process at", datetime.datetime.now(), file=open("chrome_log.txt", "a"))
+    #print("Started to wait 8 hours at", datetime.datetime.now(), file=open("chrome_log.txt", "a"))
     for i in range(8):
         time.sleep(3600)
-        print("Slept one hour, now is ",datetime.datetime.now(),file=open("log.txt","a"))
+        print("Slept one hour, now is ",datetime.datetime.now(),file=open("chrome_log.txt","a"))
     #time.sleep(28800) #sleep for 8 hour then repeat
     
     # print a newline between each time after running bot.
-    print("+++++++++++++++++++++++++++++++++++++++++++++++++\n", file=open("log.txt", "a"))
+    print("+++++++++++++++++++++++++++++++++++++++++++++++++\n", file=open("chrome_log.txt", "a"))
 
 

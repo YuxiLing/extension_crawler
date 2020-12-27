@@ -101,6 +101,7 @@ def storeOriginResult(id, res, origin_result_path):
     tmp_list.append(res)
     with open(origin_result_path, "w") as json_file:
         json.dump(tmp_list, json_file)
+    print('store one result in origin result file')
 
 def updateMaliciousList(id,malicious_folder,count):
     malicious_list_path=malicious_folder+'malicious.json'
@@ -224,15 +225,17 @@ def startScan(count):
     # move = 0 not move
     # move = 1 move
     move = 1
-    scanByDir(src_folder, dst_folder, output_file, move)
+    # scanByDir(src_folder, dst_folder, output_file, move)
 
     result_id_list = getResultID(output_file)
     getAnalysisResult(result_id_list, origin_result_path)
 
     origin_list = []
-    with open(origin_result_path, 'r') as f:
-        origin_list = json.load(f)
-
+    if os.path.exists(origin_result_path):
+        with open(origin_result_path, 'r') as f:
+            origin_list = json.load(f)
+    else:
+        print("no file needs to be scanned in this round",file=open('opera_log.txt','a'))
     # the file stores handled analysis result
     handled_result = []
     for item in origin_list:
@@ -246,7 +249,7 @@ def startScan(count):
         json.dump(handled_result, f)
 
 if __name__ == "__main__":
-    startScan(0)
+    startScan(1)
 
 # null=''
 # scan_res={

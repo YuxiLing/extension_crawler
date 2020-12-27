@@ -283,3 +283,4 @@ handle_missed_file: success move: 3617069
 download successful total number: 83
 Empty file total number:  0
 Scanning new added source code...
+updated scan_result_id.json

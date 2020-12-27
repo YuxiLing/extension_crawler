@@ -1,0 +1,73 @@
+*Bot finished....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-27 22:11:07.257824
+And completed_count= 18
+*Bot finished....
+FILTER using keywords finished
+Run 8 latest months filter
+Finished latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Finding missed app....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-27 22:11:56.354272
+And completed_count= 18
+*Bot finished....
+FILTER using keywords finished
+Run 8 latest months filter
+Finished latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Finding missed app....
+handle_missed_file: success move: kgjendflbdolpomamijhlbofnmhlnmlm
+handle_missed_file: success move: nkhbpikfdnmjhkdnflbgikpepnbilppk
+handle_missed_file: success move: lkcjlnjfpbikmcmbachjpdbijejflpcm
+handle_missed_file: success move: njolebhkchggldgfbclfieijobnkddlm
+handle_missed_file: success move: lcoponfclppkdadbglnkhedjonbfegic
+handle_missed_file: success move: cejeagjmdkeikcpffjjenpeakfcglhge
+handle_missed_file: success move: epllefgepapckihklfccpocjbnelpojp
+handle_missed_file: success move: jopilafbmdbhmplganabmfbmjfgbgbab
+handle_missed_file: success move: hplnpmobilcipddcpeejfmcpkfcklbpb
+handle_missed_file: success move: glhplcdjeicnanodpfhljhlkegjnkbej
+handle_missed_file: success move: effehmnfeopjieagklgpdjlmfkjmmgoe
+handle_missed_file: success move: ebaabofnogfalpnahogdlmpgnfmceipb
+handle_missed_file: success move: eocalbigabnhkgaonpigicanhgbcokii
+handle_missed_file: success move: oigbaldgchoafpjakdmmjednlaflfmgn
+handle_missed_file: success move: aileikgecfhoeagjgmjlabdpbohfehld
+handle_missed_file: success move: acaocjcmpncleaghofcecgoikgpbbbje
+handle_missed_file: success move: ckpfjafddbekaklnboplgkcjebjjcpln
+handle_missed_file: success move: jefnelpjpbjkedebgdekillpojdadjkg
+download failed:  obldfcmebhllhjlhjbnghaipekcppeag
+download failed:  cnogbbmciffpibmkphohpebghmomaemi
+download failed:  nbpfcapniahpdkfmejpogoiamnconiik
+download failed:  bkekahlamloiehinhehocilnepdlhfeh
+download failed:  hefcolnfiajabgmmbhcnokalagfpaphk
+download successful total number: 10
+Empty file total number:  5
+Updated missed.json and recent.json
+Updated /missed
+Scanning new app....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-27 22:13:40.509887
+And completed_count= 18
+*Bot finished....
+FILTER using keywords finished
+Run 8 latest months filter
+Finished latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Finding missed app....
+download failed:  obldfcmebhllhjlhjbnghaipekcppeag
+download failed:  cnogbbmciffpibmkphohpebghmomaemi
+download failed:  nbpfcapniahpdkfmejpogoiamnconiik
+download failed:  bkekahlamloiehinhehocilnepdlhfeh
+download failed:  hefcolnfiajabgmmbhcnokalagfpaphk
+download successful total number: 10
+Empty file total number:  5
+Updated missed.json and recent.json
+Updated /missed
+Scanning new app....
+updated scan_result_id file
+Finished scanning
+Increased completed_count
+Finished the WHOLE process at 2020-12-27 22:16:48.429711

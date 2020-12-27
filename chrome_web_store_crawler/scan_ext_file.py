@@ -85,12 +85,12 @@ def scanByDir(src_folder, dst_folder, output_file, move):
             time.sleep(15)
         except:
             print("error occurs while scanning, stop early",
-                  file=open('log.txt', 'a'))
+                  file=open('chrome_log.txt', 'a'))
             break
 
     with open(output_file, 'w') as f:
         json.dump(output_list, f)
-    print("updated scan_result_id file", file=open('log.txt', 'a'))
+    print("updated scan_result_id file", file=open('chrome_log.txt', 'a'))
 
 
 def storeOriginResult(id, res, origin_result_path):
@@ -149,7 +149,7 @@ def handleOriginResult(id, res_json, src_folder, malicious_folder,count):
             engine_res[engine]["name"] = engine
             mid_list_json.append(engine_res[engine])
             print("in extension:", id, "find bug in:", engine, "output:", res)
-            print("in extension:", id, "find bug in:", engine, "output:", res,file=open('./log.txt','a'))
+            print("in extension:", id, "find bug in:", engine, "output:", res,file=open('./chrome_log.txt','a'))
 
     tmp_json = {
         'id': id,
@@ -214,13 +214,13 @@ def getExtIDbyScanID(scan_result_id_file,scan_id):
     return 'null'
 
 def startScan(count):
-    src_folder = './chrome_web_store_crawler/chrome_data_analysis/data/scan/'
-    dst_folder = './chrome_web_store_crawler/chrome_data_analysis/data/current/'
-    malicious_folder = './chrome_web_store_crawler/chrome_data_analysis/data/malicious/'
+    src_folder = './chrome_web_store_crawler/data/scan/'
+    dst_folder = './chrome_web_store_crawler/data/current/'
+    malicious_folder = './chrome_web_store_crawler/data/malicious/'
     
-    output_file = './chrome_web_store_crawler/chrome_data_analysis/data/scan_result/scan_result_id[%s].json' % count
-    origin_result_path = './chrome_web_store_crawler/chrome_data_analysis/data/scan_result/analysis_result_origin[%s].json' % count
-    result_file = './chrome_web_store_crawler/chrome_data_analysis/data/scan_result/analysis_result[%s].json' % count
+    output_file = './chrome_web_store_crawler/data/scan_result/scan_result_id[%s].json' % count
+    origin_result_path = './chrome_web_store_crawler/data/scan_result/analysis_result_origin[%s].json' % count
+    result_file = './chrome_web_store_crawler/data/scan_result/analysis_result[%s].json' % count
     # move = 0 not move
     # move = 1 move
     move = 1
@@ -230,8 +230,11 @@ def startScan(count):
     getAnalysisResult(result_id_list, origin_result_path)
 
     origin_list = []
-    with open(origin_result_path, 'r') as f:
-        origin_list = json.load(f)
+    if os.path.exists(origin_result_path):
+        with open(origin_result_path, 'r') as f:
+            origin_list = json.load(f)
+    else:
+        print("no file needs to be scanned in this round",file=open('chrome_log.txt','a'))
 
     # the file stores handled analysis result
     handled_result = []
