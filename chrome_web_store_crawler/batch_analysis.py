@@ -191,8 +191,6 @@ for item in origin_list:
 with open(result_file,'w') as f:
     json.dump(handled_result,f)
 
-# res_str=res_str.replace('null','')
-# scan_res=json.loads(res_str)
 # null=''
 # scan_res={
 #     "data": {
