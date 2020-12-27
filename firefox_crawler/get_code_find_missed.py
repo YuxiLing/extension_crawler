@@ -167,35 +167,6 @@ def recent_all_release(new_file):
 
 # update recent_release.json
 
-'''
-def write_list_to_file(recent_list, recent_release_file):
-    with open(recent_release_file, "w") as json_file:
-        json.dump(recent_list, json_file)
-
-# download new file to the folder '/recent'
-
-def download_file_from_list(recent_list, recent_dir):
-    empty_file_path = './malicious_ext_crawler/data/empty_file.json'
-    old_file_list = os.listdir(recent_dir)
-    recent_filename_list = []
-    for i in recent_list:
-        id = i["id"]
-        download_link=i['download_link']
-        filename = id+'.xpi'
-        recent_filename_list.append(filename)
-        if filename not in old_file_list:
-            result = _DownloadCrxFromCws(id, download_link,recent_dir)
-            if result == False:
-                # download fail, add the extension to empty.json
-                tmp_list = []
-                if 0 != os.path.getsize(empty_file_path):
-                    with open(empty_file_path, "r") as json_file:
-                        tmp_list = json.load(json_file)
-                tmp_list.append(i)
-                with open(empty_file_path, "w") as json_file:
-                    json.dump(tmp_list, json_file)
-
-'''
 def missed_all_app(new_file, count):
 
     missed_file = './malicious_ext_crawler/data/missed.json'
@@ -217,4 +188,4 @@ def missed_all_app(new_file, count):
     download_new_add_ext(new_add_item, scan_dir)
 
 if __name__ == "__main__":
-    missed_all_app('./malicious_ext_crawler/data/firefox_ext_data_[3]FILTER_KEYWORDS.json',3)
+    missed_all_app('./malicious_ext_crawler/data/full_list/firefox_ext_data_[3]FILTER_KEYWORDS.json',3)
