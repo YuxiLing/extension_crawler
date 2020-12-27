@@ -225,7 +225,7 @@ def startScan(count):
     # move = 0 not move
     # move = 1 move
     move = 1
-    # scanByDir(src_folder, dst_folder, output_file, move)
+    scanByDir(src_folder, dst_folder, output_file, move)
 
     result_id_list = getResultID(output_file)
     getAnalysisResult(result_id_list, origin_result_path)
