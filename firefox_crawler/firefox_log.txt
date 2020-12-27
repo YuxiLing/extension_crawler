@@ -238,3 +238,48 @@ updated scan_result_id.json
 Started program at 2020-12-24 18:20:54.224853
 And completed_count= 6
 *Bot is working....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-27 06:08:03.362645
+And completed_count= 6
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+handle_missed_file: success move: 3686737
+handle_missed_file: success move: 3695186
+handle_missed_file: success move: 3696994
+handle_missed_file: success move: 3696914
+handle_missed_file: success move: 3685347
+handle_missed_file: no file  3694594
+handle_missed_file: success move: 3695292
+handle_missed_file: success move: 3600813
+handle_missed_file: success move: 3690206
+handle_missed_file: success move: 3660301
+handle_missed_file: success move: 3696508
+handle_missed_file: success move: 3678631
+handle_missed_file: success move: 909359
+handle_missed_file: no file  3696656
+handle_missed_file: no file  3647870
+handle_missed_file: success move: 3693811
+handle_missed_file: success move: 3690248
+handle_missed_file: success move: 3678285
+handle_missed_file: success move: 3615246
+handle_missed_file: success move: 3596835
+handle_missed_file: success move: 3545851
+handle_missed_file: success move: 785032
+handle_missed_file: success move: 3597412
+handle_missed_file: success move: 3498080
+handle_missed_file: success move: 3491157
+handle_missed_file: success move: 844720
+handle_missed_file: success move: 822489
+handle_missed_file: success move: 3617069
+download successful total number: 83
+Empty file total number:  0
+Scanning new added source code...
