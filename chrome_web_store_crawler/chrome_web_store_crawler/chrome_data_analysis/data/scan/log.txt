@@ -1,0 +1,1 @@
+this folder stores the extension waiting to be scanned
