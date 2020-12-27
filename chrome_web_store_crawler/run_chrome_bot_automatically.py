@@ -185,7 +185,7 @@ while True:
     # run scrapy through command line
     # print to std out the result for debugging comment this if you want.
     
-    # result = subprocess.run(['scrapy', 'crawl', 'chrome_extensions', '-a','ExportFile='+name_exported_file ], stdout=subprocess.PIPE)
+    result = subprocess.run(['scrapy', 'crawl', 'chrome_extensions', '-a','ExportFile='+name_exported_file ], stdout=subprocess.PIPE)
     
     # after run bot run filter using keyword
     print("*Bot finished....", file=open("chrome_log.txt", "a"))
