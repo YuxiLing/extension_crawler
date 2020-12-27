@@ -186,15 +186,16 @@ def filter_keywords(input_file, output_file):
 
 # schedule.every().day.at("15:35").do(job,'It is 01:00')
 # count how many time have the bot completed 
-completed_count = 0
+completed_count = 3
 
 dirpath = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(dirpath)
 os.chdir(dirpath)
 
 while True:
+    print("+++++++++++++++++++++++++++++++++++++++++++++++++", file=open("log.txt", "a"))
     # schedule.run_pending()
-    print("I'm working...",datetime.datetime.now())
+    print("I'm working...", datetime.datetime.now(), file=open("log.txt", "a"))
     # time.sleep(1) # wait one minute
     # printing time and bot to log file
     print("+++++++++++++++++++++++++++++++++++++++++++++++++", file=open("log.txt", "a"))
@@ -213,7 +214,7 @@ while True:
     # run scrapy through command line
     # print to std out the result for debugging comment this if you want.
     
-    #result = subprocess.run(['scrapy', 'crawl', 'chrome_extensions', '-a','ExportFile='+name_exported_file ], stdout=subprocess.PIPE)
+    result = subprocess.run(['scrapy', 'crawl', 'chrome_extensions', '-a','ExportFile='+name_exported_file ], stdout=subprocess.PIPE)
     
     # os.system('scrapy crawl chrome_extensions \'%s\'' % name_exported_file)
     
@@ -255,8 +256,11 @@ while True:
     completed_count = completed_count + 1
 
     print("Finished the WHOLE process at", datetime.datetime.now(), file=open("log.txt", "a"))
-    #print("Started to wait 8 hours at", datetime.datetime.now(), file=open("log.txt", "a"))
-    time.sleep(28800) #sleep for 8 hour then repeat
+    print("Started to wait 8 hours at", datetime.datetime.now(), file=open("log.txt", "a"))
+    for i in range(8):
+        time.sleep(3600)
+        print("Slept one hour, now is",datetime.datetime.now(), file=open("log.txt","a"))
+    #time.sleep(28800) #sleep for 8 hour then repeat
     
     # print a newline between each time after running bot.
     print("+++++++++++++++++++++++++++++++++++++++++++++++++\n", file=open("log.txt", "a"))

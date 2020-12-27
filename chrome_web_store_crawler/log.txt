@@ -1,1 +1,704 @@
 +++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-10 15:50:44.060225
+And completed_count= 0
+*Bot is working....
+*Bot finished....
+FILTER using keywords finished
+Run 8 latest months filter
+Finished latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Finding missed app....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-10 15:52:37.827396
+And completed_count= 0
+*Bot is working....
+*Bot finished....
+FILTER using keywords finished
+Run 8 latest months filter
+Finished latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Finding missed app....
+download failed:  nngceckbapebfimnlniiiahkandclblb
+download failed:  jbdaocneiiinmjbjlgalhcelgbejmnid
+download failed:  dkdedlpgdmmkkfjabffeganieamfklkm
+download failed:  cmbagcoinhmacpcgmbiniijboejgiahi
+download failed:  icmkfkmjoklfhlfdkkkgpnpldkgdmhoe
+download failed:  ondajjlhahcmbfdmkpcmdmbbjkdimlob
+download failed:  nfgkjnippgahnedamcjhoankdmfegbhc
+download failed:  dkdedlpgdmmkkfjabffeganieamfklkm
+download failed:  icmkfkmjoklfhlfdkkkgpnpldkgdmhoe
+download failed:  klnaejjgbibmhlephnhpmaofohgkpgkd
+download failed:  jbdaocneiiinmjbjlgalhcelgbejmnid
+download failed:  fbbckponafgkennhnmgfoikfmbkiplgp
+download failed:  imijjbmbnebfnbmonjeileijahaipglj
+download failed:  gkhhaokpfelnkknjbpampjiboffiogji
+download failed:  cmbagcoinhmacpcgmbiniijboejgiahi
+download failed:  jbdaocneiiinmjbjlgalhcelgbejmnid
+download failed:  dacfkmlnegfmibbeabdomhahgjoipoln
+download failed:  kkilomkmpmkbdnfelcpgckmpcaemjcdh
+download failed:  afbcbjpbpfadlkmhmclhkeeodmamcflc
+download failed:  kpfopkelmapcoipemfendmdcghnegimn
+download failed:  oggbildghlaglfmmpekjgejajohilbmm
+download failed:  chohglfmmlfhnkloampcdmnnhnhegbfg
+download failed:  ojopeinoooepnfnmifmmjebccpnjamea
+download failed:  fbbckponafgkennhnmgfoikfmbkiplgp
+download failed:  fhbohimaelbohpjbbldcngcnapndodjp
+download failed:  ehmhocjlcagmfeokjhmgmednhbdhpgep
+download failed:  afommmnmohdebmgabmbglefkbholcobb
+download failed:  jdbkfmneiiiihofbccenainnlipalonj
+download failed:  blnieiiffboillknjnepogjhkgnoapac
+download failed:  chohglfmmlfhnkloampcdmnnhnhegbfg
+download failed:  nbojhgkmkpakgfljijgnfofliafnbbfk
+download failed:  fbbckponafgkennhnmgfoikfmbkiplgp
+download failed:  cmbagcoinhmacpcgmbiniijboejgiahi
+download failed:  jbdaocneiiinmjbjlgalhcelgbejmnid
+download failed:  bgddejjmhilkdllbakkgddjodommlimc
+download failed:  gidpkdpdnngpfohekcfkfjbkieeihekj
+download failed:  ojopeinoooepnfnmifmmjebccpnjamea
+download failed:  jlbkpppjbkmkjjemjcofmccodofkknmc
+download failed:  mfiddnlhlmehcbpkhgljjchnjmlkanje
+download failed: lpnaceaaomiabfjolekalhncnfckelcb
+download failed:  fbbckponafgkennhnmgfoikfmbkiplgp
+download failed:  gidpkdpdnngpfohekcfkfjbkieeihekj
+download failed:  fbbckponafgkennhnmgfoikfmbkiplgp
+download failed:  dhgedagabpahigmghcghlhklpkhnmmjn
+download failed:  bgddejjmhilkdllbakkgddjodommlimc
+download failed:  gidpkdpdnngpfohekcfkfjbkieeihekj
+download failed:  fpkhlnacfhciopipcjpcjmkpldbogaeo
+download failed:  iloecoadcnbkhepoaacjnegdmhapiiek
+download failed:  fbbckponafgkennhnmgfoikfmbkiplgp
+download failed:  dhgedagabpahigmghcghlhklpkhnmmjn
+download failed:  bgddejjmhilkdllbakkgddjodommlimc
+download failed:  bgddejjmhilkdllbakkgddjodommlimc
+download failed:  fbbckponafgkennhnmgfoikfmbkiplgp
+download failed:  gidpkdpdnngpfohekcfkfjbkieeihekj
+download failed:  chohglfmmlfhnkloampcdmnnhnhegbfg
+download failed:  fbbckponafgkennhnmgfoikfmbkiplgp
+download failed:  ljjeeiafelmogjhklanhkbkodcmgdchn
+download failed:  fbbckponafgkennhnmgfoikfmbkiplgp
+download failed:  gidpkdpdnngpfohekcfkfjbkieeihekj
+download failed:  mbfcnfgpimdeehokhmhdhmpmkphdeamd
+download failed:  fbbckponafgkennhnmgfoikfmbkiplgp
+download failed:  cnogbbmciffpibmkphohpebghmomaemi
+download failed:  gidpkdpdnngpfohekcfkfjbkieeihekj
+download failed:  lleoahfonbeenjhjlkpmilmeengknlnp
+download failed:  fbbckponafgkennhnmgfoikfmbkiplgp
+download failed:  ojopeinoooepnfnmifmmjebccpnjamea
+download failed:  bgddejjmhilkdllbakkgddjodommlimc
+download failed:  bgddejjmhilkdllbakkgddjodommlimc
+download failed:  bgddejjmhilkdllbakkgddjodommlimc
+download failed:  onebfemgnhgpkdcmijbpjakhhidonjfl
+download failed:  ijpmihhlfkkfeimocndobeghgdggkail
+download failed:  mogdapldllopbflceaceonkalaebghbe
+download failed:  gidpkdpdnngpfohekcfkfjbkieeihekj
+download failed:  fbbckponafgkennhnmgfoikfmbkiplgp
+download failed:  kmocgjpcbdnngajkppcemacfebaaeiid
+download failed:  mhhgjpidhclpobhkdnlopdfhfamalnia
+download failed:  jbdaocneiiinmjbjlgalhcelgbejmnid
+download failed:  njbclohenpagagafbmdipcdoogfpnfhp
+download failed:  mbfcnfgpimdeehokhmhdhmpmkphdeamd
+download failed:  pdknmigbbbhmllnmgdfalmedcmcefdfn
+download failed:  innfmlnnhfcebjcnfopadflecemoddnp
+download failed:  mhhgjpidhclpobhkdnlopdfhfamalnia
+download failed:  fhbohimaelbohpjbbldcngcnapndodjp
+download failed:  dlnalaneihafdkdcekejdekiclgdghka
+download failed:  blnieiiffboillknjnepogjhkgnoapac
+download failed:  caddnmdigajdehmjbnlkpmnckkcneckf
+download failed:  ainmgbleakflfgjjoolgmgfepddnpeln
+download failed:  fbbckponafgkennhnmgfoikfmbkiplgp
+download failed:  gmmnjkphjfnanlojihefoeidjmbakfde
+download failed:  eachlnokbkckmbhglohpcmhllebcdbme
+download failed:  bbmdccojdbpcpmoadenplnoncfcijgkn
+download failed:  jlbkpppjbkmkjjemjcofmccodofkknmc
+download failed:  cmbagcoinhmacpcgmbiniijboejgiahi
+download failed:  gbjepgaebckfidagpfeioimheabiohmg
+download failed:  kkilomkmpmkbdnfelcpgckmpcaemjcdh
+download failed:  llpbjcejemjfaicajiephoejjnogfbed
+download failed:  jlbkpppjbkmkjjemjcofmccodofkknmc
+download failed: onpcphabebepnplpbjneehnbdghcpabd
+download failed: ofcifgpkhdehcpkbnicmjnceebpcilno
+download failed:  fhilaheimglignddkjgofkcbgekhenbh
+download failed:  kpcngaggbajehefdinhniockfhdhacnb
+download failed:  ekgoigfalelgbdohgmolhmblfpljaagf
+download failed:  jlbkpppjbkmkjjemjcofmccodofkknmc
+download failed:  nbpfcapniahpdkfmejpogoiamnconiik
+download failed:  jlbkpppjbkmkjjemjcofmccodofkknmc
+download failed:  mhhgjpidhclpobhkdnlopdfhfamalnia
+download failed:  fbbckponafgkennhnmgfoikfmbkiplgp
+download failed:  mbaihdegekjkhgajmamfgmgephoeppgb
+download failed:  fpkhlnacfhciopipcjpcjmkpldbogaeo
+download failed:  kpcngaggbajehefdinhniockfhdhacnb
+download failed:  fhilaheimglignddkjgofkcbgekhenbh
+download failed:  ojopeinoooepnfnmifmmjebccpnjamea
+download failed:  mogdapldllopbflceaceonkalaebghbe
+download failed:  bifgdgokenggepijpgmljalgbdaifnco
+download failed:  mfiddnlhlmehcbpkhgljjchnjmlkanje
+download failed:  jlbkpppjbkmkjjemjcofmccodofkknmc
+download failed:  mfiddnlhlmehcbpkhgljjchnjmlkanje
+download failed:  ookjlbkiijinhpmnjffcofjonbfbgaoc
+download failed:  jlbkpppjbkmkjjemjcofmccodofkknmc
+download failed:  acfodajggdfhmkgalgjijpbnpgnhpdeo
+download failed:  fbbckponafgkennhnmgfoikfmbkiplgp
+download failed:  fpkhlnacfhciopipcjpcjmkpldbogaeo
+download failed: onpcphabebepnplpbjneehnbdghcpabd
+download failed:  bifgdgokenggepijpgmljalgbdaifnco
+download failed:  jbdaocneiiinmjbjlgalhcelgbejmnid
+download failed:  ejeemcbjgjnbmdckfkiofpiogmkejdja
+download failed:  fbbckponafgkennhnmgfoikfmbkiplgp
+download failed:  bkdlmhjcfkfainkpdcdnaefganapmblg
+download failed: onpcphabebepnplpbjneehnbdghcpabd
+download failed:  glopllgnheolomicjjhiceipcdonpoae
+download failed:  dkdedlpgdmmkkfjabffeganieamfklkm
+download failed:  icmkfkmjoklfhlfdkkkgpnpldkgdmhoe
+download failed:  kpcngaggbajehefdinhniockfhdhacnb
+download failed: onpcphabebepnplpbjneehnbdghcpabd
+download failed:  fpkhlnacfhciopipcjpcjmkpldbogaeo
+download failed:  mogdapldllopbflceaceonkalaebghbe
+download failed: onpcphabebepnplpbjneehnbdghcpabd
+download failed:  ojopeinoooepnfnmifmmjebccpnjamea
+download failed:  cjfeohjffkdehdblcolicjhhnbphcmna
+download failed:  imijjbmbnebfnbmonjeileijahaipglj
+download failed:  fbbckponafgkennhnmgfoikfmbkiplgp
+download failed:  jcacnejopjdphbnjgfaaobbfafkihpep
+download failed:  jhgnbkkipaallpehbohjmkbjofjdmeid
+download failed:  klnaejjgbibmhlephnhpmaofohgkpgkd
+download failed:  imijjbmbnebfnbmonjeileijahaipglj
+download failed:  fbbckponafgkennhnmgfoikfmbkiplgp
+download failed:  jhgnbkkipaallpehbohjmkbjofjdmeid
+download failed:  fpkhlnacfhciopipcjpcjmkpldbogaeo
+download failed:  adfnjoodbdcoikkhallnfejjokefkkbd
+download failed:  gfjmjaloockgblofndpilcafdonjhhef
+download failed:  jbdaocneiiinmjbjlgalhcelgbejmnid
+download failed:  blnieiiffboillknjnepogjhkgnoapac
+download failed:  dacfkmlnegfmibbeabdomhahgjoipoln
+download failed:  gbjepgaebckfidagpfeioimheabiohmg
+download failed:  kkilomkmpmkbdnfelcpgckmpcaemjcdh
+download failed:  ihdpgdlddojmmkaokmnfdcdlooialppg
+download failed:  fpkhlnacfhciopipcjpcjmkpldbogaeo
+download failed:  mogdapldllopbflceaceonkalaebghbe
+download failed: onpcphabebepnplpbjneehnbdghcpabd
+download failed:  onebfemgnhgpkdcmijbpjakhhidonjfl
+download failed:  ohianjicfacccnnokflclpcojfiecaib
+download failed:  cjfeohjffkdehdblcolicjhhnbphcmna
+download failed:  eaahcidigckkchdbjaakmglkchnhabib
+download successful total number: 634
+Updated missed.json and recent.json
+Updated /missed
+Increased completed_count
+Finished the WHOLE process at 2020-12-10 16:23:32.665523
+.
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-11 01:15:12.445737
+And completed_count= 1
+*Bot is working....
+*Bot finished....
+FILTER using keywords finished
+Run 8 latest months filter
+Finished latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Finding missed app....
+download failed:  odphdhgmjiegkdkkfgnhkeinmknnpaki
+download successful total number: 0
+download failed:  odphdhgmjiegkdkkfgnhkeinmknnpaki
+download successful total number: 0
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+Slept one hour, now is 2020-12-11 03:01:35.581287
+Slept one hour, now is 2020-12-11 04:01:35.681769
+Slept one hour, now is 2020-12-11 05:01:35.761705
++++++++++++++++++++++++++++++++++++++++++++++++++
+I'm working... 2020-12-12 07:40:34.347707
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-12 07:40:34.347789
+And completed_count= 2
+*Bot is working....
+*Bot finished....
+FILTER using keywords finished
+Run 8 latest months filter
+Finished latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Finding missed app....
+download failed:  bkdlmhjcfkfainkpdcdnaefganapmblg
+download successful total number: 6
+Updated missed.json and recent.json
+Updated /missed
+Increased completed_count
+Finished the WHOLE process at 2020-12-12 07:59:11.582264
+Started to wait 8 hours at 2020-12-12 07:59:11.582307
+Slept one hour, now is 2020-12-12 08:59:11.633730
++++++++++++++++++++++++++++++++++++++++++++++++++
+I'm working... 2020-12-13 04:57:27.331893
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-13 04:57:27.331974
+And completed_count= 3
+*Bot is working....
++++++++++++++++++++++++++++++++++++++++++++++++++
+I'm working... 2020-12-13 05:02:25.167779
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-13 05:02:25.167859
+And completed_count= 3
+*Bot is working....
++++++++++++++++++++++++++++++++++++++++++++++++++
+I'm working... 2020-12-13 05:08:52.816015
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-13 05:08:52.816099
+And completed_count= 3
+*Bot is working....
+*Bot finished....
+FILTER using keywords finished
+Run 8 latest months filter
+Finished latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Finding missed app....
+*Bot finished....
+FILTER using keywords finished
+Run 8 latest months filter
+Finished latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Finding missed app....
+download successful total number: 0
+Updated missed.json and recent.json
+Updated /missed
+Increased completed_count
+Finished the WHOLE process at 2020-12-13 05:28:30.420547
+Started to wait 8 hours at 2020-12-13 05:28:30.420591
+Slept one hour, now is 2020-12-13 06:28:30.505709
+Slept one hour, now is 2020-12-13 07:28:30.536534
+Slept one hour, now is 2020-12-13 08:28:30.594940
+Slept one hour, now is 2020-12-13 09:28:30.645692
+Slept one hour, now is 2020-12-13 10:28:30.726135
+Slept one hour, now is 2020-12-13 11:28:30.826652
+Slept one hour, now is 2020-12-13 12:28:30.853692
+Slept one hour, now is 2020-12-13 13:28:30.932262
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+I'm working... 2020-12-13 13:28:30.932738
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-13 13:28:30.932805
+And completed_count= 4
+*Bot is working....
+*Bot finished....
+FILTER using keywords finished
+Run 8 latest months filter
+Finished latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Finding missed app....
+download failed:  kpfopkelmapcoipemfendmdcghnegimn
+download successful total number: 4
+Updated missed.json and recent.json
+Updated /missed
+Increased completed_count
+Finished the WHOLE process at 2020-12-13 13:48:20.363703
+Started to wait 8 hours at 2020-12-13 13:48:20.363753
+Slept one hour, now is 2020-12-13 14:48:20.413915
+Slept one hour, now is 2020-12-13 15:48:20.497717
+Slept one hour, now is 2020-12-13 16:48:20.553714
+Slept one hour, now is 2020-12-13 17:48:20.616471
+Slept one hour, now is 2020-12-13 18:48:20.701698
+Slept one hour, now is 2020-12-13 19:48:20.729833
+Slept one hour, now is 2020-12-13 20:48:20.817675
+Slept one hour, now is 2020-12-13 21:48:20.913670
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+I'm working... 2020-12-13 21:48:20.914052
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-13 21:48:20.914103
+And completed_count= 5
+*Bot is working....
+*Bot finished....
+FILTER using keywords finished
+Run 8 latest months filter
+Finished latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Finding missed app....
+download successful total number: 0
+Updated missed.json and recent.json
+Updated /missed
+Increased completed_count
+Finished the WHOLE process at 2020-12-13 22:15:30.192051
+Started to wait 8 hours at 2020-12-13 22:15:30.192093
+Slept one hour, now is 2020-12-13 23:15:30.277489
+Slept one hour, now is 2020-12-14 00:15:30.303735
+Slept one hour, now is 2020-12-14 01:15:30.397745
+Slept one hour, now is 2020-12-14 02:15:30.481704
+Slept one hour, now is 2020-12-14 03:15:30.538349
+Slept one hour, now is 2020-12-14 04:15:30.573672
+Slept one hour, now is 2020-12-14 05:15:30.658300
+Slept one hour, now is 2020-12-14 06:15:30.753723
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+I'm working... 2020-12-14 06:15:30.754125
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-14 06:15:30.754186
+And completed_count= 6
+*Bot is working....
+*Bot finished....
+FILTER using keywords finished
+Run 8 latest months filter
+Finished latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Finding missed app....
+download successful total number: 0
+Updated missed.json and recent.json
+Updated /missed
+Increased completed_count
+Finished the WHOLE process at 2020-12-14 06:33:32.716849
+Started to wait 8 hours at 2020-12-14 06:33:32.716899
+Slept one hour, now is 2020-12-14 07:33:32.769721
+Slept one hour, now is 2020-12-14 08:33:32.870326
+Slept one hour, now is 2020-12-14 09:33:32.949647
+Slept one hour, now is 2020-12-14 10:33:32.999092
+Slept one hour, now is 2020-12-14 11:33:33.095114
+Slept one hour, now is 2020-12-14 12:33:33.186453
+Slept one hour, now is 2020-12-14 13:33:33.285821
+Slept one hour, now is 2020-12-14 14:33:33.357705
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+I'm working... 2020-12-14 14:33:33.358072
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-14 14:33:33.358112
+And completed_count= 7
+*Bot is working....
+*Bot finished....
+FILTER using keywords finished
+Run 8 latest months filter
+Finished latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Finding missed app....
+download successful total number: 1
+Updated missed.json and recent.json
+Updated /missed
+Increased completed_count
+Finished the WHOLE process at 2020-12-14 14:52:51.385797
+Started to wait 8 hours at 2020-12-14 14:52:51.385853
+Slept one hour, now is 2020-12-14 15:52:51.429791
+Slept one hour, now is 2020-12-14 16:52:51.490778
+Slept one hour, now is 2020-12-14 17:52:51.581736
+Slept one hour, now is 2020-12-14 18:52:51.668542
+Slept one hour, now is 2020-12-14 19:52:51.751625
+Slept one hour, now is 2020-12-14 20:52:51.825689
+Slept one hour, now is 2020-12-14 21:52:51.871790
+Slept one hour, now is 2020-12-14 22:52:51.968120
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+I'm working... 2020-12-14 22:52:51.968502
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-14 22:52:51.968564
+And completed_count= 8
+*Bot is working....
+*Bot finished....
+FILTER using keywords finished
+Run 8 latest months filter
+Finished latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Finding missed app....
+download successful total number: 0
+Updated missed.json and recent.json
+Updated /missed
+Increased completed_count
+Finished the WHOLE process at 2020-12-14 23:18:43.729062
+Started to wait 8 hours at 2020-12-14 23:18:43.729107
+Slept one hour, now is 2020-12-15 00:18:43.765702
+Slept one hour, now is 2020-12-15 01:18:43.856514
+Slept one hour, now is 2020-12-15 02:18:43.896676
+Slept one hour, now is 2020-12-15 03:18:43.953729
+Slept one hour, now is 2020-12-15 04:18:43.999073
+Slept one hour, now is 2020-12-15 05:18:44.046898
+Slept one hour, now is 2020-12-15 06:18:44.129681
+Slept one hour, now is 2020-12-15 07:18:44.218975
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+I'm working... 2020-12-15 07:18:44.219470
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-15 07:18:44.219525
+And completed_count= 9
+*Bot is working....
+*Bot finished....
+FILTER using keywords finished
+Run 8 latest months filter
+Finished latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Finding missed app....
+download failed:  nhihhdonhclkdpikmfojehimefnhccfk
+download successful total number: 8
+Updated missed.json and recent.json
+Updated /missed
+Increased completed_count
+Finished the WHOLE process at 2020-12-15 07:37:50.091370
+Started to wait 8 hours at 2020-12-15 07:37:50.091442
+Slept one hour, now is 2020-12-15 08:37:50.181793
+Slept one hour, now is 2020-12-15 09:37:50.213696
+Slept one hour, now is 2020-12-15 10:37:50.300640
+Slept one hour, now is 2020-12-15 11:37:50.353751
+Slept one hour, now is 2020-12-15 12:37:50.449713
+Slept one hour, now is 2020-12-15 13:37:50.549661
+Slept one hour, now is 2020-12-15 14:37:50.592842
+Slept one hour, now is 2020-12-15 15:37:50.634069
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+I'm working... 2020-12-15 15:37:50.634594
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-15 15:37:50.634658
+And completed_count= 10
+*Bot is working....
+*Bot finished....
+FILTER using keywords finished
+Run 8 latest months filter
+Finished latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Finding missed app....
+download failed:  dlnalaneihafdkdcekejdekiclgdghka
+download failed:  eachlnokbkckmbhglohpcmhllebcdbme
+download failed:  caddnmdigajdehmjbnlkpmnckkcneckf
+download failed:  gmmnjkphjfnanlojihefoeidjmbakfde
+download failed:  ainmgbleakflfgjjoolgmgfepddnpeln
+download failed:  bbmdccojdbpcpmoadenplnoncfcijgkn
+download successful total number: 14
+Updated missed.json and recent.json
+Updated /missed
+Increased completed_count
+Finished the WHOLE process at 2020-12-15 15:58:32.036503
+Started to wait 8 hours at 2020-12-15 15:58:32.036565
+Slept one hour, now is 2020-12-15 16:58:32.136774
+Slept one hour, now is 2020-12-15 17:58:32.210799
+Slept one hour, now is 2020-12-15 18:58:32.281686
+Slept one hour, now is 2020-12-15 19:58:32.305668
+Slept one hour, now is 2020-12-15 20:58:32.362349
+Slept one hour, now is 2020-12-15 21:58:32.449726
+Slept one hour, now is 2020-12-15 22:58:32.532295
+Slept one hour, now is 2020-12-15 23:58:32.627265
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+I'm working... 2020-12-15 23:58:32.627938
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-15 23:58:32.628013
+And completed_count= 11
+*Bot is working....
+*Bot finished....
+FILTER using keywords finished
+Run 8 latest months filter
+Finished latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Finding missed app....
+download successful total number: 1
+Updated missed.json and recent.json
+Updated /missed
+Increased completed_count
+Finished the WHOLE process at 2020-12-16 00:22:31.445313
+Started to wait 8 hours at 2020-12-16 00:22:31.445362
+Slept one hour, now is 2020-12-16 01:22:31.453710
+Slept one hour, now is 2020-12-16 02:22:31.539425
+Slept one hour, now is 2020-12-16 03:22:31.617691
+Slept one hour, now is 2020-12-16 04:22:31.638773
+Slept one hour, now is 2020-12-16 05:22:31.732865
+Slept one hour, now is 2020-12-16 06:22:31.757731
+Slept one hour, now is 2020-12-16 07:22:31.831060
+Slept one hour, now is 2020-12-16 08:22:31.922773
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+I'm working... 2020-12-16 08:22:31.923315
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-16 08:22:31.923378
+And completed_count= 12
+*Bot is working....
+*Bot finished....
+FILTER using keywords finished
+Run 8 latest months filter
+Finished latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Finding missed app....
+download successful total number: 0
+Updated missed.json and recent.json
+Updated /missed
+Increased completed_count
+Finished the WHOLE process at 2020-12-16 08:40:25.510948
+Started to wait 8 hours at 2020-12-16 08:40:25.510998
+Slept one hour, now is 2020-12-16 09:40:25.601702
+Slept one hour, now is 2020-12-16 10:40:25.670423
+Slept one hour, now is 2020-12-16 11:40:25.734703
+Slept one hour, now is 2020-12-16 12:40:25.835279
+Slept one hour, now is 2020-12-16 13:40:25.923816
+Slept one hour, now is 2020-12-16 14:40:26.024304
+Slept one hour, now is 2020-12-16 15:40:26.068807
+Slept one hour, now is 2020-12-16 16:40:26.141673
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+I'm working... 2020-12-16 16:40:26.142078
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-16 16:40:26.142130
+And completed_count= 13
+*Bot is working....
+*Bot finished....
+FILTER using keywords finished
+Run 8 latest months filter
+Finished latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Finding missed app....
+download failed:  llpbjcejemjfaicajiephoejjnogfbed
+download failed:  mbaihdegekjkhgajmamfgmgephoeppgb
+download successful total number: 8
+Updated missed.json and recent.json
+Updated /missed
+Increased completed_count
+Finished the WHOLE process at 2020-12-16 17:01:51.162822
+Started to wait 8 hours at 2020-12-16 17:01:51.162876
+Slept one hour, now is 2020-12-16 18:01:51.241801
+Slept one hour, now is 2020-12-16 19:01:51.329713
+Slept one hour, now is 2020-12-16 20:01:51.373113
+Slept one hour, now is 2020-12-16 21:01:51.473719
+Slept one hour, now is 2020-12-16 22:01:51.525686
+Slept one hour, now is 2020-12-16 23:01:51.601804
+Slept one hour, now is 2020-12-17 00:01:51.664486
+Slept one hour, now is 2020-12-17 01:01:51.764311
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+I'm working... 2020-12-17 01:01:51.764747
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-17 01:01:51.764808
+And completed_count= 14
+*Bot is working....
+*Bot finished....
+FILTER using keywords finished
+Run 8 latest months filter
+Finished latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Finding missed app....
+download successful total number: 8
+Updated missed.json and recent.json
+Updated /missed
+Increased completed_count
+Finished the WHOLE process at 2020-12-17 01:25:33.360814
+Started to wait 8 hours at 2020-12-17 01:25:33.360867
+Slept one hour, now is 2020-12-17 02:25:33.405738
+Slept one hour, now is 2020-12-17 03:25:33.459693
+Slept one hour, now is 2020-12-17 04:25:33.560248
+Slept one hour, now is 2020-12-17 05:25:33.659665
+Slept one hour, now is 2020-12-17 06:25:33.760503
+Slept one hour, now is 2020-12-17 07:25:33.841647
+Slept one hour, now is 2020-12-17 08:25:33.929723
+Slept one hour, now is 2020-12-17 09:25:34.015188
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+I'm working... 2020-12-17 09:25:34.015599
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-17 09:25:34.015661
+And completed_count= 15
+*Bot is working....
+*Bot finished....
+FILTER using keywords finished
+Run 8 latest months filter
+Finished latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Finding missed app....
+download successful total number: 0
+Updated missed.json and recent.json
+Updated /missed
+Increased completed_count
+Finished the WHOLE process at 2020-12-17 09:46:11.175955
+Started to wait 8 hours at 2020-12-17 09:46:11.176003
+Slept one hour, now is 2020-12-17 10:46:11.276213
+Slept one hour, now is 2020-12-17 11:46:11.361777
+Slept one hour, now is 2020-12-17 12:46:11.462491
+Slept one hour, now is 2020-12-17 13:46:11.553748
+Slept one hour, now is 2020-12-17 14:46:11.625575
+Slept one hour, now is 2020-12-17 15:46:11.648633
+Slept one hour, now is 2020-12-17 16:46:11.727020
+Slept one hour, now is 2020-12-17 17:46:11.825753
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+I'm working... 2020-12-17 17:46:11.826296
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-17 17:46:11.826359
+And completed_count= 16
+*Bot is working....
+*Bot finished....
+FILTER using keywords finished
+Run 8 latest months filter
+Finished latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Finding missed app....
+download successful total number: 0
+Updated missed.json and recent.json
+Updated /missed
+Increased completed_count
+Finished the WHOLE process at 2020-12-17 18:08:47.110262
+Started to wait 8 hours at 2020-12-17 18:08:47.110303
+Slept one hour, now is 2020-12-17 19:08:47.132577
+Slept one hour, now is 2020-12-17 20:08:47.157941
+Slept one hour, now is 2020-12-17 21:08:47.246927
+Slept one hour, now is 2020-12-17 22:08:47.346996
+Slept one hour, now is 2020-12-17 23:08:47.353680
+Slept one hour, now is 2020-12-18 00:08:47.425387
+Slept one hour, now is 2020-12-18 01:08:47.481690
+Slept one hour, now is 2020-12-18 02:08:47.491718
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+I'm working... 2020-12-18 02:08:47.492327
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-18 02:08:47.492392
+And completed_count= 17
+*Bot is working....
+*Bot finished....
+FILTER using keywords finished
+Run 8 latest months filter
+Finished latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Finding missed app....
+download successful total number: 0
+Updated missed.json and recent.json
+Updated /missed
+Increased completed_count
+Finished the WHOLE process at 2020-12-18 02:30:19.502494
+Started to wait 8 hours at 2020-12-18 02:30:19.502543
+Slept one hour, now is 2020-12-18 03:30:19.601759
+Slept one hour, now is 2020-12-18 04:30:19.632642
+Slept one hour, now is 2020-12-18 05:30:19.697799
+Slept one hour, now is 2020-12-18 06:30:19.773745
+Slept one hour, now is 2020-12-18 07:30:19.825784
+Slept one hour, now is 2020-12-18 08:30:19.921845
+Slept one hour, now is 2020-12-18 09:30:19.999144
+Slept one hour, now is 2020-12-18 10:30:20.013065
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+I'm working... 2020-12-18 10:30:20.013667
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-18 10:30:20.013723
+And completed_count= 18
+*Bot is working....
+*Bot finished....

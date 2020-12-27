@@ -234,7 +234,8 @@ def missed_all_app(new_file, count):
     # last_file = './chrome_web_store_crawler/chrome_data_analysis/data/last.json'
     last_file=''
     if(count != 0):
-        last_file = './chrome_web_store_crawler/chrome_data_analysis/tmpdata/chrome_ext_data_[%s]FILTER_KEYWORDS.json' % count-1
+        num = count-1
+        last_file = './chrome_web_store_crawler/chrome_data_analysis/tmpdata/chrome_ext_data_[%s]FILTER_KEYWORDS.json' % num
         [missed_item, missed_id] = find_missed(new_file, last_file)
         handle_missed_list(missed_item, missed_file)
         handle_missed_file(missed_id, missed_dir, current_dir)
@@ -243,3 +244,5 @@ def missed_all_app(new_file, count):
     else:
         new_add_item = recent_all_release(new_file)
     download_new_add_ext(new_add_item, current_dir)
+
+#missed_all_app('./chrome_web_store_crawler/chrome_data_analysis/tmpdata/chrome_ext_data_[1]FILTER_KEYWORDS.json',1)
