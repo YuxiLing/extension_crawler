@@ -71,3 +71,212 @@ updated scan_result_id file
 Finished scanning
 Increased completed_count
 Finished the WHOLE process at 2020-12-27 22:16:48.429711
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-27 14:32:53.862140
+And completed_count= 19
+*Bot finished....
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-27 14:34:17.155270
+And completed_count= 19
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-27 14:42:44.653794
+And completed_count= 19
+*Bot finished....
+FILTER using keywords finished
+Run 8 latest months filter
+Finished latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Finding missed app....
+handle_missed_file: success move: mjfogpecgafcpfioplmiphaogkpgjlkl
+handle_missed_file: success move: hnmeodfibobipkbpkjkhofdimjfoifcn
+handle_missed_file: success move: okgakcilgbglfcbaclakjinnhjjnbbhf
+handle_missed_file: success move: hfeknbkgpahmeccpmmpmandjcdendpfb
+handle_missed_file: success move: kgbejkihhgjckepiiaajchcdcejmmede
+handle_missed_file: success move: menjakdhnckmfdnnbjljfbpgmleccnln
+handle_missed_file: success move: gbgcpddajclaokffififldncmfekdfjn
+handle_missed_file: success move: gbhckmmgcochmaepldphkfenoalbadle
+handle_missed_file: success move: lmlhigdihjfojbgippfmdmcfhfhbklbn
+handle_missed_file: success move: jedodbnokihgeijikkcneiklbcoiaijb
+handle_missed_file: success move: pijkdblodcldfphblamphobjldhjiimk
+handle_missed_file: success move: kaanafhkhjpefaabnekbffelaoofgopg
+handle_missed_file: success move: geinnkbbgdpjfogcdkdfhhfmglkfdlmo
+handle_missed_file: success move: dkonddjmgpncbdgpicajbdhdpccnjkmg
+handle_missed_file: success move: glndpobbpolodbopnhcjhkmhimimecop
+handle_missed_file: success move: dbpemonafieajehmcfnmajmolakocdkp
+handle_missed_file: success move: fojaalmmaddhgglpenkkcjkpckgnficl
+handle_missed_file: success move: hiehleaapeecofgkkkllmfljkkancpib
+handle_missed_file: success move: fdahclgkkbnjkfcngfbohobpmedlcfpm
+handle_missed_file: success move: ldmalomcjocgbbkphpdjkiplccdllnni
+handle_missed_file: success move: lnkklcpldhomhejeoeofdegohamipdcj
+handle_missed_file: success move: lekkmokmojahmfgdkfeldeoijmmeodod
+handle_missed_file: success move: flgedljokfkaniniaejppedfplgeljmo
+handle_missed_file: success move: enmonlhdmpipdodongkamhecipjaphcb
+handle_missed_file: success move: afmpijpoenjincdlhebfccmcmfkdkdjc
+handle_missed_file: success move: knejdamomlkjlgmdipimaachicpnbegp
+handle_missed_file: success move: aajchoeidpnfgfbjnamajbdkecmflfgg
+download successful total number: 0
+Empty file total number:  0
+Updated missed.json and recent.json
+Updated /missed
+Scanning new app....
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished scanning
+Increased completed_count
+Finished the WHOLE process at 2020-12-27 14:55:40.710867
+*Bot finished....
+FILTER using keywords finished
+Run 8 latest months filter
+Finished latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Finding missed app....
+download failed:  adfnjoodbdcoikkhallnfejjokefkkbd
+download failed:  ihdpgdlddojmmkaokmnfdcdlooialppg
+download failed:  gfjmjaloockgblofndpilcafdonjhhef
+download failed:  ohianjicfacccnnokflclpcojfiecaib
+download failed:  eaahcidigckkchdbjaakmglkchnhabib
+download successful total number: 17
+Empty file total number:  5
+Updated missed.json and recent.json
+Updated /missed
+Scanning new app....
+updated scan_result_id file
+Finished scanning
+Increased completed_count
+Finished the WHOLE process at 2020-12-27 15:11:23.422881
+Slept one hour, now is  2020-12-27 16:11:23.514120
+Slept one hour, now is  2020-12-27 17:11:23.569742
+Slept one hour, now is  2020-12-27 18:11:23.593502
+Slept one hour, now is  2020-12-27 19:11:23.665918
+Slept one hour, now is  2020-12-27 20:11:23.746840
+Slept one hour, now is  2020-12-27 21:11:23.825774
+Slept one hour, now is  2020-12-27 22:11:23.895257
+Slept one hour, now is  2020-12-27 23:11:23.933926
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-27 23:11:23.934538
+And completed_count= 20
+*Bot finished....
+FILTER using keywords finished
+Run 8 latest months filter
+Finished latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Finding missed app....
+download failed:  ejnhnjnlkkchdogfnjjdnpkjggpiodnh
+download failed:  ofhcjgfhkkcjadjabioiohpkelppokhm
+download failed:  njkoakaanifjmpdggjclbmabhmfghico
+download failed:  hcdhpianckhnoppbgmfjaibklhfmfaje
+download failed:  mmonglphahfjlfcadefimipajbgnffco
+download failed:  encbagjjcfifhakoenggcgldeigmhmim
+download failed:  ceepigemlmlbphjhffddplfecgedhoeb
+download failed:  ebmbejaobanpfjbppkfpdeejnlfajjel
+download failed:  ilhaljfiglknggcoegeknjghdgampffk
+download failed:  cbomnldpfbpmaonfclcbmhhcphgaljhe
+download failed:  pnleehdloehdndokdiemokopkalbbgen
+download failed:  ohogiblfajaopadicjfdkaagbajjhklp
+download failed:  jmilgfebahjgmcnhiiemhbebehfmljld
+download failed: dhdamipamdknicnbjhmfdnhejopejopm
+download failed:  llcndhdbiiocjfhggkagdbinbpoebbmh
+download failed:  ajgaihokdfdjgephfaibpdjbogepckgd
+download failed:  mhbcpbdapglmecjmjbdfpelifeoonbpd
+download failed:  hdmcdliioboefopakahlahelojhiobdf
+download failed: dhdamipamdknicnbjhmfdnhejopejopm
+download failed:  ihjipagjdhdjjdplhlmabhnfioolhann
+download failed:  jkjgekcefbkpogohigkgooodolhdgcda
+download failed:  pnleehdloehdndokdiemokopkalbbgen
+download failed:  jmilgfebahjgmcnhiiemhbebehfmljld
+download failed:  cbomnldpfbpmaonfclcbmhhcphgaljhe
+download failed:  aahnibhpidkdaeaplfdogejgoajkjgob
+download failed:  lnnhmhaclmemijcbnnfmcfllcgmjehei
+download failed:  jjhcmghlbfddklhfedkahgkncchakedj
+download failed:  dffjlgnecfafjfmkknpipapcbgajflge
+download failed:  mkjdcoeddifgnbbafjppfcabiggcfhmo
+download failed:  ffbhaeoepdfapfjhcihbbhlaigejfack
+download failed:  jlcaefilcommembbekhjjkibeieffchd
+download failed:  jjandokkgclchaiipibaligpnceifmif
+download failed:  hdmcdliioboefopakahlahelojhiobdf
+download failed:  jfnangjojcioomickmmnfmiadkfhcdmd
+download failed:  cbomnldpfbpmaonfclcbmhhcphgaljhe
+download failed:  eoagnafocoghmnpapgfidjhgimemhihj
+download failed:  pnleehdloehdndokdiemokopkalbbgen
+download failed:  fmglcggbdcbkpkfapngjobfeakehpcgj
+download failed:  ceepigemlmlbphjhffddplfecgedhoeb
+download failed:  pilcnokghppinkjdehogbimdidogefhb
+download failed:  ghfkhmjodifeadjngapnjfijggbhifen
+download failed:  eondnglmkmoebhbhihbilkkkjfianlcm
+download failed:  epngggilgnflanfabeldfpbgponcgpgl
+download failed:  ehdcnknapbpfnbacjkdcfjnaadicclml
+download failed:  cbomnldpfbpmaonfclcbmhhcphgaljhe
+download failed:  hdmcdliioboefopakahlahelojhiobdf
+download failed:  epngggilgnflanfabeldfpbgponcgpgl
+download failed:  amkmjjmmflddogmhpjloimipbofnfjih
+download failed:  cihmoadaighcejopammfbmddcmdekcje
+download failed: dhdamipamdknicnbjhmfdnhejopejopm
+download failed:  fkamanigbhmdpinnikifipiaaaodjhpc
+download failed:  bnpalipgomknhgbmgelaplknnmckljaf
+download failed:  fnnegphlobjdpkhecapkijjdkgcjhkib
+download failed: dhdamipamdknicnbjhmfdnhejopejopm
+download failed:  fkamanigbhmdpinnikifipiaaaodjhpc
+download failed:  kncchdigobghenbbaddojjnnaogfppfj
+download failed:  pnleehdloehdndokdiemokopkalbbgen
+download failed:  hhfmbddbehghealdbjgahpoinkdbglid
+download failed:  pagabgmomnicmcbfmkellnfbacnghilg
+download failed:  eoagnafocoghmnpapgfidjhgimemhihj
+download failed:  kekcilgkmclepefpknjmonlkoopholaf
+download failed:  ofdpcccdenalkclfgbnjpoohmdnamcka
+download failed:  doehlkonfoegpdopnmpkgkmjfkkebhbg
+download failed: dgbgakhipdpafpehopccgodenilkaijn
+download failed:  gbajhanpiiglanbdfanfkabgfnpdeafc
+download failed:  kjiollcjmlopefpofmkgokkholfgnncd
+download failed:  eenhmcnaaeelacngaaomaimnimpclocl
+download failed:  acpiodlfenhddlhbdignnkmdknjfpmop
+download failed:  bmnfikjlonhkoojjfddnlbinkkapmldg
+download failed:  bmnfikjlonhkoojjfddnlbinkkapmldg
+download failed:  bkklifkecemccedpkhcebagjpehhabfb
+download failed:  kkagambidfkjokpcplknnffejlppkijb
+download failed:  gehjkhmhclgnkkhpfamakecfgakkfkco
+download failed:  bnbmlmjhaohpobnjfifeghjmamjfolnb
+download failed:  hdmcdliioboefopakahlahelojhiobdf
+download failed:  bgjogpoidejdemgoochpnkmdjpocgkha
+download failed:  ejnhnjnlkkchdogfnjjdnpkjggpiodnh
+download failed:  epphicpagbghnafnaehaecanjogjbbkk
+download failed:  jojhfeoedkpkglbfimdfabpdfjaoolaf
+download failed:  mkjdcoeddifgnbbafjppfcabiggcfhmo
+download failed:  mmoahbbnojgkclgceahhakhnccimnplk
+download failed:  afppminkfnfngihdocacbgeajbbdklkf
+download failed:  hlagecmhpppmpfdifmigdglnhcpnohib
+download failed:  dbfipcjecamggjfabeaclacjoohfjhhn
+download failed:  doahjhcfgmfpebgljcnhjajkpbkjbndf
+download failed:  fkamanigbhmdpinnikifipiaaaodjhpc
+download failed:  cedkkpjolghccafognlkficihjmfedhc
+download failed:  mcolhhemfacpoaghjidhliecpianpnjn
+download failed:  bnoofoejokbhomedmcepbgbphabnboif
+download failed:  dbfipcjecamggjfabeaclacjoohfjhhn
+download failed: hegbhhpocfhlnjmemkibgibljklhlfco
+download failed:  cbomnldpfbpmaonfclcbmhhcphgaljhe
+download failed:  apackbelmolgjpdfegmnkpajpdnchkgp
+download failed:  lchdninaaaephipekicpgbbckihhapmj
+download failed:  ckelpdlfgochnkdgikcgbimdcfgpkhgk
+download failed:  bmnfikjlonhkoojjfddnlbinkkapmldg
+download failed:  anfhjfflodcjcfmgcgfenjlkkehphhal
+download failed:  amkmjjmmflddogmhpjloimipbofnfjih
+download failed: iiincggmaakdkckjflafbndnhbpmfaek
+download failed:  ageolneeodbndbmmlpiepadjjbegbpdj
+download failed:  cbomnldpfbpmaonfclcbmhhcphgaljhe
+download failed:  bnpalipgomknhgbmgelaplknnmckljaf
+download failed:  epngggilgnflanfabeldfpbgponcgpgl
+download failed:  cihmoadaighcejopammfbmddcmdekcje
+download failed:  hdmcdliioboefopakahlahelojhiobdf
+download failed:  ghigcfhmoaokccllienfhdhdndkfhmop
+download successful total number: 162
+Empty file total number:  99
+Updated missed.json and recent.json
+Updated /missed
+Scanning new app....
+error occurs while scanning, stop early
+updated scan_result_id file
+in extension: pndjkchajelbmilfgmhnbbbobgccaijd find bug in: TrendMicro output: HEUR_JS.O.ELBP
