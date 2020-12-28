@@ -284,3 +284,156 @@ download successful total number: 83
 Empty file total number:  0
 Scanning new added source code...
 updated scan_result_id.json
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-27 14:34:45.786058
+And completed_count= 7
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+handle_missed_file: success move: 1742402
+handle_missed_file: success move: 3442501
+handle_missed_file: success move: 3295905
+handle_missed_file: success move: 3699240
+handle_missed_file: success move: 3663435
+handle_missed_file: success move: 3618285
+handle_missed_file: success move: 483192
+handle_missed_file: success move: 3678909
+handle_missed_file: success move: 1158412
+handle_missed_file: success move: 3552342
+handle_missed_file: success move: 915678
+handle_missed_file: success move: 3699648
+handle_missed_file: success move: 3427897
+handle_missed_file: success move: 3665883
+handle_missed_file: success move: 3635444
+handle_missed_file: success move: 3669253
+handle_missed_file: success move: 3490843
+handle_missed_file: success move: 3589443
+handle_missed_file: success move: 3404878
+handle_missed_file: success move: 3698985
+handle_missed_file: success move: 1702307
+handle_missed_file: success move: 616509
+handle_missed_file: success move: 3488425
+handle_missed_file: success move: 3390462
+handle_missed_file: success move: 1190154
+handle_missed_file: success move: 945230
+handle_missed_file: success move: 3696064
+handle_missed_file: success move: 1086241
+handle_missed_file: success move: 702738
+handle_missed_file: success move: 3665195
+handle_missed_file: success move: 1161516
+handle_missed_file: success move: 3416709
+handle_missed_file: success move: 1731666
+handle_missed_file: success move: 3497619
+handle_missed_file: success move: 3652738
+handle_missed_file: success move: 3557435
+handle_missed_file: success move: 1006572
+handle_missed_file: success move: 3689424
+handle_missed_file: success move: 658628
+handle_missed_file: success move: 3611055
+handle_missed_file: success move: 3033040
+handle_missed_file: success move: 3515067
+handle_missed_file: success move: 905376
+handle_missed_file: success move: 3661140
+handle_missed_file: success move: 3625863
+handle_missed_file: success move: 3692762
+handle_missed_file: success move: 3420313
+handle_missed_file: success move: 3001640
+handle_missed_file: success move: 1182850
+handle_missed_file: success move: 2958844
+handle_missed_file: success move: 3361306
+handle_missed_file: success move: 672565
+handle_missed_file: success move: 783362
+handle_missed_file: success move: 968706
+handle_missed_file: success move: 1284309
+handle_missed_file: success move: 3600899
+handle_missed_file: success move: 3616027
+handle_missed_file: success move: 3667840
+handle_missed_file: success move: 3513603
+handle_missed_file: success move: 3623573
+handle_missed_file: success move: 3691705
+handle_missed_file: success move: 3695799
+handle_missed_file: success move: 3648396
+handle_missed_file: success move: 3615156
+handle_missed_file: success move: 3697798
+handle_missed_file: success move: 759341
+download successful total number: 6
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id.json
+Finished the WHOLE process at 2020-12-27 14:47:43.161394
+Started to wait 8 hours at 2020-12-27 14:47:43.161473
+Slept one hour, now is  2020-12-27 15:47:43.249685
+Slept one hour, now is  2020-12-27 16:47:43.329149
+Slept one hour, now is  2020-12-27 17:47:43.421899
+Slept one hour, now is  2020-12-27 18:47:43.519410
+Slept one hour, now is  2020-12-27 19:47:43.612662
+Slept one hour, now is  2020-12-27 20:47:43.697641
+Slept one hour, now is  2020-12-27 21:47:43.793770
+Slept one hour, now is  2020-12-27 22:47:43.874022
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-27 22:47:43.874639
+And completed_count= 8
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+handle_missed_file: success move: 3697297
+handle_missed_file: success move: 582658
+handle_missed_file: success move: 547010
+handle_missed_file: success move: 1214419
+handle_missed_file: success move: 1673211
+handle_missed_file: success move: 2991728
+handle_missed_file: success move: 875631
+handle_missed_file: success move: 3432798
+handle_missed_file: success move: 1194860
+handle_missed_file: success move: 1685567
+handle_missed_file: success move: 1005296
+handle_missed_file: success move: 1004889
+handle_missed_file: success move: 1670851
+handle_missed_file: success move: 3587155
+handle_missed_file: success move: 1182403
+handle_missed_file: success move: 3645951
+handle_missed_file: success move: 3574438
+handle_missed_file: success move: 846090
+handle_missed_file: success move: 3467175
+handle_missed_file: success move: 3658936
+handle_missed_file: success move: 3693852
+handle_missed_file: success move: 720447
+handle_missed_file: success move: 930380
+handle_missed_file: success move: 1689665
+handle_missed_file: success move: 1689659
+handle_missed_file: success move: 3562118
+handle_missed_file: success move: 1046616
+handle_missed_file: success move: 3525595
+download successful total number: 45
+Empty file total number:  0
+Scanning new added source code...
+error occurs while scanning, stop early
+updated scan_result_id.json
+no file needs to be scanned in this round
+Finished the WHOLE process at 2020-12-27 22:55:19.990768
+Started to wait 8 hours at 2020-12-27 22:55:19.990839
+Slept one hour, now is  2020-12-27 23:55:20.081754
+Slept one hour, now is  2020-12-28 00:55:20.141714
+Slept one hour, now is  2020-12-28 01:55:20.213686
+Slept one hour, now is  2020-12-28 02:55:20.293789
+Slept one hour, now is  2020-12-28 03:55:20.383111
+Slept one hour, now is  2020-12-28 04:55:20.481913
+Slept one hour, now is  2020-12-28 05:55:20.509664
