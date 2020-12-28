@@ -125,8 +125,8 @@ def handleOriginResult(id, res_json, malicious_folder):
     else:
         # copy the file to malicious folder
         try:
-            srcPath = src_folder+id+'.crx'
-            dstPath = malicious_folder+id+'.crx'
+            srcPath = src_folder+id+'.xpi'
+            dstPath = malicious_folder+id+'.xpi'
             shutil.copyfile(srcPath, dstPath)
         except:
             print('some errors occurs while copying file')
@@ -178,7 +178,6 @@ def getExtIDbyScanID(scan_result_id_file,scan_id):
     return 'null'
 
 def startScan(src_folder):
-    # src_folder = './chrome_web_store_crawler/chrome_data_analysis/data/scan/'
     malicious_folder = '/Users/a057/Desktop/malicious/'
     
     output_file = '/Users/a057/Desktop/scan_result_id.json' 
@@ -201,16 +200,21 @@ def startScan(src_folder):
     handled_result = []
     for item in origin_list:
         item_json = item
-        theID=getExtIDbyScanID(output_file,item_json['data']['id'])
-        tmp_json = handleOriginResult(
+        try:
+            theID=getExtIDbyScanID(output_file,item_json['data']['id'])
+            tmp_json = handleOriginResult(
             theID, item_json, malicious_folder)
-        handled_result.append(tmp_json)
+            handled_result.append(tmp_json)
+        except:
+            print("out of quato limitation")
+        
+        
 
     with open(result_file, 'w') as f:
         json.dump(handled_result, f)
 
 if __name__ == "__main__":
-    src_folder='/Users/a057/Desktop/current(need to scan)/'
+    src_folder='/Users/a057/Desktop/firefox(need to scan)/'
     startScan(src_folder)
 
 # null=''
@@ -220,7 +224,7 @@ if __name__ == "__main__":
 #             "date": 1607875360,
 #             "results": {
 #                 "ALYac": {
-#                     "category": "undetected",
+#                     "category": "undetected",malicious
 #                     "engine_name": "ALYac",
 #                     "engine_update": "20201213",
 #                     "engine_version": "1.1.1.5",

@@ -280,3 +280,7 @@ Scanning new app....
 error occurs while scanning, stop early
 updated scan_result_id file
 in extension: pndjkchajelbmilfgmhnbbbobgccaijd find bug in: TrendMicro output: HEUR_JS.O.ELBP
+in extension: pndjkchajelbmilfgmhnbbbobgccaijd find bug in: TrendMicro output: HEUR_JS.O.ELBP
+in extension: pndjkchajelbmilfgmhnbbbobgccaijd find bug in: TrendMicro output: HEUR_JS.O.ELBP
+in extension: dhjphghceddgjhboapfeeonimnihpkkn find bug in: Qihoo-360 output: susp.js.exploit.b
+in extension: cecfgjcaojocahnokodcboipkhdcefip find bug in: Qihoo-360 output: susp.js.exploit.b

@@ -158,7 +158,7 @@ def filter_keywords(input_file, output_file):
 
 # schedule.every().day.at("15:35").do(job,'It is 01:00')
 # count how many time have the bot completed 
-completed_count = 19
+completed_count = 21
 
 dirpath = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(dirpath)

@@ -113,7 +113,7 @@ def updateMaliciousList(id,malicious_folder,count):
             malicious_list.append(i)
 
     # find meta data by id and store in malicious json file
-    raw_path='chrome_web_store_crawler/chrome_data_analysis/tmpdata/chrome_ext_data_[%s]FILTER_KEYWORDS.json' % count
+    raw_path='chrome_web_store_crawler/data/full_list/chrome_ext_data_[%s]FILTER_KEYWORDS.json' % count
     with open(raw_path,'r') as f:
         tmp=json.load(f)
     for item in tmp:
@@ -249,7 +249,7 @@ def startScan(count):
         json.dump(handled_result, f)
 
 if __name__ == "__main__":
-    startScan(0)
+    startScan(20)
 
 # null=''
 # scan_res={
