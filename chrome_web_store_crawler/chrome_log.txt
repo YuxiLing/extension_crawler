@@ -284,3 +284,113 @@ in extension: pndjkchajelbmilfgmhnbbbobgccaijd find bug in: TrendMicro output: H
 in extension: pndjkchajelbmilfgmhnbbbobgccaijd find bug in: TrendMicro output: HEUR_JS.O.ELBP
 in extension: dhjphghceddgjhboapfeeonimnihpkkn find bug in: Qihoo-360 output: susp.js.exploit.b
 in extension: cecfgjcaojocahnokodcboipkhdcefip find bug in: Qihoo-360 output: susp.js.exploit.b
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-28 05:41:39.654176
+And completed_count= 21
+*Bot finished....
+FILTER using keywords finished
+Run 8 latest months filter
+Finished latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Finding missed app....
+handle_missed_file: success move: pbpocjhidibalmlfcnbniiknfbdaapnl
+handle_missed_file: success move: edlhfnhkegagbfhppecphocjmloaodbm
+download failed:  iakaldcgeljnjaldddjhbaocgpkhgckc
+download failed:  emaljdgadafgjbdfhejfjlbbnkancpee
+download failed:  fjppjknkbjmapanbefodlkaphlmiemga
+download failed:  mpjglckkbnaicjnpcdjkedcdbhoimdhi
+download failed:  mkdeimpckninacbjgokjhpnapfigebjb
+download failed:  lbpdggmcmkgnkaanpkocdacedlkjpenk
+download successful total number: 1
+Empty file total number:  6
+Updated missed.json and recent.json
+Updated /missed
+Scanning new app....
+error occurs while scanning, stop early
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished scanning
+Increased completed_count
+Finished the WHOLE process at 2020-12-28 07:42:09.493947
+Slept one hour, now is  2020-12-28 08:42:09.545755
+Slept one hour, now is  2020-12-28 09:42:09.569758
+Slept one hour, now is  2020-12-28 10:42:09.617707
+Slept one hour, now is  2020-12-28 11:42:09.638057
+Slept one hour, now is  2020-12-28 12:42:09.713773
+Slept one hour, now is  2020-12-28 13:42:09.776108
+Slept one hour, now is  2020-12-28 14:42:09.847950
+Slept one hour, now is  2020-12-28 15:42:09.945662
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-28 15:42:09.946249
+And completed_count= 22
+*Bot finished....
+FILTER using keywords finished
+Run 8 latest months filter
+Finished latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Finding missed app....
+handle_missed_file: success move: dhjphghceddgjhboapfeeonimnihpkkn
+download successful total number: 2
+Empty file total number:  0
+Updated missed.json and recent.json
+Updated /missed
+Scanning new app....
+error occurs while scanning, stop early
+updated scan_result_id file
+Finished scanning
+Increased completed_count
+Finished the WHOLE process at 2020-12-28 18:00:41.016920
+Slept one hour, now is  2020-12-28 19:00:41.093846
+Slept one hour, now is  2020-12-28 20:00:41.175979
+Slept one hour, now is  2020-12-28 21:00:41.237831
+Slept one hour, now is  2020-12-28 22:00:41.261743
+Slept one hour, now is  2020-12-28 23:00:41.329805
+Slept one hour, now is  2020-12-29 00:00:41.405649
+Slept one hour, now is  2020-12-29 01:00:41.429897
+Slept one hour, now is  2020-12-29 02:00:41.457869
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-29 02:00:41.459012
+And completed_count= 23
+*Bot finished....
+FILTER using keywords finished
+Run 8 latest months filter
+Finished latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Finding missed app....
+handle_missed_file: success move: ganifcppennacfdijkaghghjincbmipc
+handle_missed_file: success move: kdphpmapmfpphjmnmeacbkiebneggnmk
+handle_missed_file: success move: nogdkjfnegdjdgegekcclglocakclegl
+handle_missed_file: success move: efmkodhojilpinbapdnoeikgabdclhfg
+handle_missed_file: success move: omlcemhghhleeoaoodlipigplhccodbp
+handle_missed_file: success move: caknhbobbhcehjebdcpgfodgfbpklblm
+handle_missed_file: success move: eeejeggpdpjgkfocdkbepdbkpcpjlncd
+download successful total number: 1
+Empty file total number:  0
+Updated missed.json and recent.json
+Updated /missed
+Scanning new app....
+error occurs while scanning, stop early
+updated scan_result_id file
+Finished scanning
+Increased completed_count
+Finished the WHOLE process at 2020-12-29 04:13:23.552261
+Slept one hour, now is  2020-12-29 05:13:23.633990
+Slept one hour, now is  2020-12-29 06:13:23.729816
+Slept one hour, now is  2020-12-29 07:13:23.825820
+Slept one hour, now is  2020-12-29 08:13:23.921727
+Slept one hour, now is  2020-12-29 09:13:23.999371
+Slept one hour, now is  2020-12-29 10:13:24.073856
+Slept one hour, now is  2020-12-29 11:13:24.163213
+Slept one hour, now is  2020-12-29 12:13:24.215718
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2020-12-29 12:13:24.216650
+And completed_count= 24
