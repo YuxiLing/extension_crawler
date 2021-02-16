@@ -1279,3 +1279,3822 @@ updated scan_result_id file
 no file needs to be scanned in this round
 Finished the WHOLE process at 2021-01-05 17:47:46.372147
 Started to wait 8 hours at 2021-01-05 17:47:46.372202
+Slept one hour, now is  2021-01-05 18:47:46.457849
+Slept one hour, now is  2021-01-05 19:47:46.481949
+Slept one hour, now is  2021-01-05 20:47:46.577993
+Slept one hour, now is  2021-01-05 21:47:46.629930
+Slept one hour, now is  2021-01-05 22:47:46.641948
+Slept one hour, now is  2021-01-05 23:47:46.743035
+Slept one hour, now is  2021-01-06 00:47:46.834034
+Slept one hour, now is  2021-01-06 01:47:46.912500
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-06 01:47:46.913294
+And completed_count= 30
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-06 01:51:50.203694
+Started to wait 8 hours at 2021-01-06 01:51:50.203748
+Slept one hour, now is  2021-01-06 02:51:50.282006
+Slept one hour, now is  2021-01-06 03:51:50.357854
+Slept one hour, now is  2021-01-06 04:51:50.449836
+Slept one hour, now is  2021-01-06 05:51:50.513977
+Slept one hour, now is  2021-01-06 06:51:50.578011
+Slept one hour, now is  2021-01-06 07:51:50.676012
+Slept one hour, now is  2021-01-06 08:51:50.766058
+Slept one hour, now is  2021-01-06 09:51:50.834045
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-06 09:51:50.835184
+And completed_count= 31
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-06 09:55:45.706591
+Started to wait 8 hours at 2021-01-06 09:55:45.706647
+Slept one hour, now is  2021-01-06 10:55:45.807015
+Slept one hour, now is  2021-01-06 11:55:45.841968
+Slept one hour, now is  2021-01-06 12:55:45.941993
+Slept one hour, now is  2021-01-06 13:55:46.001847
+Slept one hour, now is  2021-01-06 14:55:46.098020
+Slept one hour, now is  2021-01-06 15:55:46.158491
+Slept one hour, now is  2021-01-06 16:55:46.257962
+Slept one hour, now is  2021-01-06 17:55:46.357352
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-06 17:55:46.358229
+And completed_count= 32
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-06 17:59:37.709902
+Started to wait 8 hours at 2021-01-06 17:59:37.709964
+Slept one hour, now is  2021-01-06 18:59:37.808293
+Slept one hour, now is  2021-01-06 19:59:37.896448
+Slept one hour, now is  2021-01-06 20:59:37.989858
+Slept one hour, now is  2021-01-06 21:59:38.066004
+Slept one hour, now is  2021-01-06 22:59:38.160633
+Slept one hour, now is  2021-01-06 23:59:38.261862
+Slept one hour, now is  2021-01-07 00:59:38.340080
+Slept one hour, now is  2021-01-07 01:59:38.432319
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-07 01:59:38.433389
+And completed_count= 33
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-07 02:03:33.271170
+Started to wait 8 hours at 2021-01-07 02:03:33.271223
+Slept one hour, now is  2021-01-07 03:03:33.358103
+Slept one hour, now is  2021-01-07 04:03:33.459484
+Slept one hour, now is  2021-01-07 05:03:33.559463
+Slept one hour, now is  2021-01-07 06:03:33.655761
+Slept one hour, now is  2021-01-07 07:03:33.737915
+Slept one hour, now is  2021-01-07 08:03:33.765874
+Slept one hour, now is  2021-01-07 09:03:33.842084
+Slept one hour, now is  2021-01-07 10:03:33.927074
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-07 10:03:33.928008
+And completed_count= 34
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-07 10:07:26.201002
+Started to wait 8 hours at 2021-01-07 10:07:26.201056
+Slept one hour, now is  2021-01-07 11:07:26.266005
+Slept one hour, now is  2021-01-07 12:07:26.322276
+Slept one hour, now is  2021-01-07 13:07:26.414223
+Slept one hour, now is  2021-01-07 14:07:26.493060
+Slept one hour, now is  2021-01-07 15:07:26.582079
+Slept one hour, now is  2021-01-07 16:07:26.621920
+Slept one hour, now is  2021-01-07 17:07:26.649885
+Slept one hour, now is  2021-01-07 18:07:26.685349
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-07 18:07:26.686487
+And completed_count= 35
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-07 18:11:17.685384
+Started to wait 8 hours at 2021-01-07 18:11:17.685439
+Slept one hour, now is  2021-01-07 19:11:17.766098
+Slept one hour, now is  2021-01-07 20:11:17.842335
+Slept one hour, now is  2021-01-07 21:11:17.924614
+Slept one hour, now is  2021-01-07 22:11:17.999446
+Slept one hour, now is  2021-01-07 23:11:18.096727
+Slept one hour, now is  2021-01-08 00:11:18.139258
+Slept one hour, now is  2021-01-08 01:11:18.240048
+Slept one hour, now is  2021-01-08 02:11:18.317986
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-08 02:11:18.318957
+And completed_count= 36
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-08 02:15:12.529289
+Started to wait 8 hours at 2021-01-08 02:15:12.529350
+Slept one hour, now is  2021-01-08 03:15:12.602025
+Slept one hour, now is  2021-01-08 04:15:12.690029
+Slept one hour, now is  2021-01-08 05:15:12.736701
+Slept one hour, now is  2021-01-08 06:15:12.825388
+Slept one hour, now is  2021-01-08 07:15:12.906802
+Slept one hour, now is  2021-01-08 08:15:13.007913
+Slept one hour, now is  2021-01-08 09:15:13.109008
+Slept one hour, now is  2021-01-08 10:15:13.209795
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-08 10:15:13.210600
+And completed_count= 37
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-08 10:19:04.917344
+Started to wait 8 hours at 2021-01-08 10:19:04.917399
+Slept one hour, now is  2021-01-08 11:19:04.999285
+Slept one hour, now is  2021-01-08 12:19:05.074037
+Slept one hour, now is  2021-01-08 13:19:05.161812
+Slept one hour, now is  2021-01-08 14:19:05.187724
+Slept one hour, now is  2021-01-08 15:19:05.247032
+Slept one hour, now is  2021-01-08 16:19:05.298012
+Slept one hour, now is  2021-01-08 17:19:05.326003
+Slept one hour, now is  2021-01-08 18:19:05.369157
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-08 18:19:05.369915
+And completed_count= 38
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-08 18:22:57.730132
+Started to wait 8 hours at 2021-01-08 18:22:57.730196
+Slept one hour, now is  2021-01-08 19:22:57.782576
+Slept one hour, now is  2021-01-08 20:22:57.883693
+Slept one hour, now is  2021-01-08 21:22:57.957088
+Slept one hour, now is  2021-01-08 22:22:58.005930
+Slept one hour, now is  2021-01-08 23:22:58.107132
+Slept one hour, now is  2021-01-09 00:22:58.186021
+Slept one hour, now is  2021-01-09 01:22:58.269845
+Slept one hour, now is  2021-01-09 02:22:58.369999
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-09 02:22:58.370771
+And completed_count= 39
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-09 02:26:53.423088
+Started to wait 8 hours at 2021-01-09 02:26:53.423143
+Slept one hour, now is  2021-01-09 03:26:53.472271
+Slept one hour, now is  2021-01-09 04:26:53.562033
+Slept one hour, now is  2021-01-09 05:26:53.621184
+Slept one hour, now is  2021-01-09 06:26:53.703087
+Slept one hour, now is  2021-01-09 07:26:53.804175
+Slept one hour, now is  2021-01-09 08:26:53.852572
+Slept one hour, now is  2021-01-09 09:26:53.937898
+Slept one hour, now is  2021-01-09 10:26:53.999290
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-09 10:26:54.000171
+And completed_count= 40
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-09 10:30:45.378149
+Started to wait 8 hours at 2021-01-09 10:30:45.378211
+Slept one hour, now is  2021-01-09 11:30:45.467035
+Slept one hour, now is  2021-01-09 12:30:45.522034
+Slept one hour, now is  2021-01-09 13:30:45.587784
+Slept one hour, now is  2021-01-09 14:30:45.689215
+Slept one hour, now is  2021-01-09 15:30:45.790664
+Slept one hour, now is  2021-01-09 16:30:45.853964
+Slept one hour, now is  2021-01-09 17:30:45.927904
+Slept one hour, now is  2021-01-09 18:30:46.027502
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-09 18:30:46.028445
+And completed_count= 41
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-09 18:34:38.921419
+Started to wait 8 hours at 2021-01-09 18:34:38.921472
+Slept one hour, now is  2021-01-09 19:34:39.022016
+Slept one hour, now is  2021-01-09 20:34:39.121891
+Slept one hour, now is  2021-01-09 21:34:39.223044
+Slept one hour, now is  2021-01-09 22:34:39.297699
+Slept one hour, now is  2021-01-09 23:34:39.371250
+Slept one hour, now is  2021-01-10 00:34:39.441806
+Slept one hour, now is  2021-01-10 01:34:39.501908
+Slept one hour, now is  2021-01-10 02:34:39.576042
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-10 02:34:39.576870
+And completed_count= 42
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-10 02:38:35.136961
+Started to wait 8 hours at 2021-01-10 02:38:35.137027
+Slept one hour, now is  2021-01-10 03:38:35.205708
+Slept one hour, now is  2021-01-10 04:38:35.294011
+Slept one hour, now is  2021-01-10 05:38:35.364525
+Slept one hour, now is  2021-01-10 06:38:35.424150
+Slept one hour, now is  2021-01-10 07:38:35.474001
+Slept one hour, now is  2021-01-10 08:38:35.528597
+Slept one hour, now is  2021-01-10 09:38:35.604180
+Slept one hour, now is  2021-01-10 10:38:35.645977
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-10 10:38:35.646826
+And completed_count= 43
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-10 10:42:28.047132
+Started to wait 8 hours at 2021-01-10 10:42:28.047193
+Slept one hour, now is  2021-01-10 11:42:28.081941
+Slept one hour, now is  2021-01-10 12:42:28.113521
+Slept one hour, now is  2021-01-10 13:42:28.214777
+Slept one hour, now is  2021-01-10 14:42:28.253826
+Slept one hour, now is  2021-01-10 15:42:28.274207
+Slept one hour, now is  2021-01-10 16:42:28.305952
+Slept one hour, now is  2021-01-10 17:42:28.386074
+Slept one hour, now is  2021-01-10 18:42:28.434732
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-10 18:42:28.435656
+And completed_count= 44
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-10 18:46:23.316572
+Started to wait 8 hours at 2021-01-10 18:46:23.316625
+Slept one hour, now is  2021-01-10 19:46:23.408488
+Slept one hour, now is  2021-01-10 20:46:23.474134
+Slept one hour, now is  2021-01-10 21:46:23.518083
+Slept one hour, now is  2021-01-10 22:46:23.610665
+Slept one hour, now is  2021-01-10 23:46:23.705980
+Slept one hour, now is  2021-01-11 00:46:23.777674
+Slept one hour, now is  2021-01-11 01:46:23.878764
+Slept one hour, now is  2021-01-11 02:46:23.978356
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-11 02:46:23.979068
+And completed_count= 45
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-11 02:50:18.022239
+Started to wait 8 hours at 2021-01-11 02:50:18.022295
+Slept one hour, now is  2021-01-11 03:50:18.122026
+Slept one hour, now is  2021-01-11 04:50:18.135241
+Slept one hour, now is  2021-01-11 05:50:18.151957
+Slept one hour, now is  2021-01-11 06:50:18.226050
+Slept one hour, now is  2021-01-11 07:50:18.321986
+Slept one hour, now is  2021-01-11 08:50:18.417999
+Slept one hour, now is  2021-01-11 09:50:18.470041
+Slept one hour, now is  2021-01-11 10:50:18.476854
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-11 10:50:18.477654
+And completed_count= 46
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-11 10:54:11.095680
+Started to wait 8 hours at 2021-01-11 10:54:11.095730
+Slept one hour, now is  2021-01-11 11:54:11.162071
+Slept one hour, now is  2021-01-11 12:54:11.216296
+Slept one hour, now is  2021-01-11 13:54:11.252059
+Slept one hour, now is  2021-01-11 14:54:11.333918
+Slept one hour, now is  2021-01-11 15:54:11.399455
+Slept one hour, now is  2021-01-11 16:54:11.473934
+Slept one hour, now is  2021-01-11 17:54:11.506023
+Slept one hour, now is  2021-01-11 18:54:11.601940
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-11 18:54:11.603038
+And completed_count= 47
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-11 18:58:10.489678
+Started to wait 8 hours at 2021-01-11 18:58:10.489733
+Slept one hour, now is  2021-01-11 19:58:10.549891
+Slept one hour, now is  2021-01-11 20:58:10.606032
+Slept one hour, now is  2021-01-11 21:58:10.704636
+Slept one hour, now is  2021-01-11 22:58:10.757926
+Slept one hour, now is  2021-01-11 23:58:10.845744
+Slept one hour, now is  2021-01-12 00:58:10.946051
+Slept one hour, now is  2021-01-12 01:58:11.025921
+Slept one hour, now is  2021-01-12 02:58:11.059017
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-12 02:58:11.059819
+And completed_count= 48
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-12 03:02:07.369496
+Started to wait 8 hours at 2021-01-12 03:02:07.369552
+Slept one hour, now is  2021-01-12 04:02:07.427721
+Slept one hour, now is  2021-01-12 05:02:07.465845
+Slept one hour, now is  2021-01-12 06:02:07.505991
+Slept one hour, now is  2021-01-12 07:02:07.573946
+Slept one hour, now is  2021-01-12 08:02:07.630721
+Slept one hour, now is  2021-01-12 09:02:07.727955
+Slept one hour, now is  2021-01-12 10:02:07.750074
+Slept one hour, now is  2021-01-12 11:02:07.849946
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-12 11:02:07.850865
+And completed_count= 49
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-12 11:06:04.303417
+Started to wait 8 hours at 2021-01-12 11:06:04.303479
+Slept one hour, now is  2021-01-12 12:06:04.401989
+Slept one hour, now is  2021-01-12 13:06:04.497960
+Slept one hour, now is  2021-01-12 14:06:04.593935
+Slept one hour, now is  2021-01-12 15:06:04.689022
+Slept one hour, now is  2021-01-12 16:06:04.790363
+Slept one hour, now is  2021-01-12 17:06:04.891351
+Slept one hour, now is  2021-01-12 18:06:04.937919
+Slept one hour, now is  2021-01-12 19:06:05.028400
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-12 19:06:05.029378
+And completed_count= 50
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-12 19:10:00.595983
+Started to wait 8 hours at 2021-01-12 19:10:00.596038
+Slept one hour, now is  2021-01-12 20:10:00.658047
+Slept one hour, now is  2021-01-12 21:10:00.759247
+Slept one hour, now is  2021-01-12 22:10:00.860361
+Slept one hour, now is  2021-01-12 23:10:00.955370
+Slept one hour, now is  2021-01-13 00:10:01.033666
+Slept one hour, now is  2021-01-13 01:10:01.105899
+Slept one hour, now is  2021-01-13 02:10:01.181820
+Slept one hour, now is  2021-01-13 03:10:01.263796
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-13 03:10:01.264724
+And completed_count= 51
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-13 03:14:01.584756
+Started to wait 8 hours at 2021-01-13 03:14:01.584810
+Slept one hour, now is  2021-01-13 04:14:01.679976
+Slept one hour, now is  2021-01-13 05:14:01.761087
+Slept one hour, now is  2021-01-13 06:14:01.841891
+Slept one hour, now is  2021-01-13 07:14:01.934072
+Slept one hour, now is  2021-01-13 08:14:02.002142
+Slept one hour, now is  2021-01-13 09:14:02.026896
+Slept one hour, now is  2021-01-13 10:14:02.065986
+Slept one hour, now is  2021-01-13 11:14:02.167201
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-13 11:14:02.168004
+And completed_count= 52
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-13 11:17:58.385544
+Started to wait 8 hours at 2021-01-13 11:17:58.385627
+Slept one hour, now is  2021-01-13 12:17:58.430664
+Slept one hour, now is  2021-01-13 13:17:58.509973
+Slept one hour, now is  2021-01-13 14:17:58.534001
+Slept one hour, now is  2021-01-13 15:17:58.552976
+Slept one hour, now is  2021-01-13 16:17:58.612925
+Slept one hour, now is  2021-01-13 17:17:58.689976
+Slept one hour, now is  2021-01-13 18:17:58.791157
+Slept one hour, now is  2021-01-13 19:17:58.833941
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-13 19:17:58.834876
+And completed_count= 53
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-13 19:22:02.715376
+Started to wait 8 hours at 2021-01-13 19:22:02.715429
+Slept one hour, now is  2021-01-13 20:22:02.739799
+Slept one hour, now is  2021-01-13 21:22:02.836337
+Slept one hour, now is  2021-01-13 22:22:02.936331
+Slept one hour, now is  2021-01-13 23:22:03.029960
+Slept one hour, now is  2021-01-14 00:22:03.093339
+Slept one hour, now is  2021-01-14 01:22:03.163452
+Slept one hour, now is  2021-01-14 02:22:03.205878
+Slept one hour, now is  2021-01-14 03:22:03.229902
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-14 03:22:03.230928
+And completed_count= 54
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-14 03:26:08.259426
+Started to wait 8 hours at 2021-01-14 03:26:08.259481
+Slept one hour, now is  2021-01-14 04:26:08.322467
+Slept one hour, now is  2021-01-14 05:26:08.417890
+Slept one hour, now is  2021-01-14 06:26:08.518359
+Slept one hour, now is  2021-01-14 07:26:08.582056
+Slept one hour, now is  2021-01-14 08:26:08.658017
+Slept one hour, now is  2021-01-14 09:26:08.683925
+Slept one hour, now is  2021-01-14 10:26:08.737998
+Slept one hour, now is  2021-01-14 11:26:08.824767
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-14 11:26:08.825754
+And completed_count= 55
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-14 11:30:10.450163
+Started to wait 8 hours at 2021-01-14 11:30:10.450224
+Slept one hour, now is  2021-01-14 12:30:10.545979
+Slept one hour, now is  2021-01-14 13:30:10.564481
+Slept one hour, now is  2021-01-14 14:30:10.655538
+Slept one hour, now is  2021-01-14 15:30:10.730909
+Slept one hour, now is  2021-01-14 16:30:10.796238
+Slept one hour, now is  2021-01-14 17:30:10.889811
+Slept one hour, now is  2021-01-14 18:30:10.971902
+Slept one hour, now is  2021-01-14 19:30:11.054553
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-14 19:30:11.055472
+And completed_count= 56
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-14 19:34:10.029625
+Started to wait 8 hours at 2021-01-14 19:34:10.029685
+Slept one hour, now is  2021-01-14 20:34:10.118052
+Slept one hour, now is  2021-01-14 21:34:10.142220
+Slept one hour, now is  2021-01-14 22:34:10.199672
+Slept one hour, now is  2021-01-14 23:34:10.298060
+Slept one hour, now is  2021-01-15 00:34:10.399320
+Slept one hour, now is  2021-01-15 01:34:10.493202
+Slept one hour, now is  2021-01-15 02:34:10.593111
+Slept one hour, now is  2021-01-15 03:34:10.673839
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-15 03:34:10.674569
+And completed_count= 57
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-15 03:38:08.865783
+Started to wait 8 hours at 2021-01-15 03:38:08.865838
+Slept one hour, now is  2021-01-15 04:38:08.959047
+Slept one hour, now is  2021-01-15 05:38:09.050658
+Slept one hour, now is  2021-01-15 06:38:09.118080
+Slept one hour, now is  2021-01-15 07:38:09.202739
+Slept one hour, now is  2021-01-15 08:38:09.290061
+Slept one hour, now is  2021-01-15 09:38:09.391205
+Slept one hour, now is  2021-01-15 10:38:09.489936
+Slept one hour, now is  2021-01-15 11:38:09.591071
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-15 11:38:09.592112
+And completed_count= 58
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-15 11:42:11.323100
+Started to wait 8 hours at 2021-01-15 11:42:11.323161
+Slept one hour, now is  2021-01-15 12:42:11.377956
+Slept one hour, now is  2021-01-15 13:42:11.406052
+Slept one hour, now is  2021-01-15 14:42:11.507347
+Slept one hour, now is  2021-01-15 15:42:11.593989
+Slept one hour, now is  2021-01-15 16:42:11.666013
+Slept one hour, now is  2021-01-15 17:42:11.681829
+Slept one hour, now is  2021-01-15 18:42:11.782690
+Slept one hour, now is  2021-01-15 19:42:11.845905
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-15 19:42:11.846846
+And completed_count= 59
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-15 19:46:03.833306
+Started to wait 8 hours at 2021-01-15 19:46:03.833367
+Slept one hour, now is  2021-01-15 20:46:03.930654
+Slept one hour, now is  2021-01-15 21:46:04.014583
+Slept one hour, now is  2021-01-15 22:46:04.094016
+Slept one hour, now is  2021-01-15 23:46:04.145962
+Slept one hour, now is  2021-01-16 00:46:04.157749
+Slept one hour, now is  2021-01-16 01:46:04.233313
+Slept one hour, now is  2021-01-16 02:46:04.326513
+Slept one hour, now is  2021-01-16 03:46:04.416924
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-16 03:46:04.417943
+And completed_count= 60
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-16 03:50:01.222744
+Started to wait 8 hours at 2021-01-16 03:50:01.222799
+Slept one hour, now is  2021-01-16 04:50:01.282044
+Slept one hour, now is  2021-01-16 05:50:01.358011
+Slept one hour, now is  2021-01-16 06:50:01.417655
+Slept one hour, now is  2021-01-16 07:50:01.518866
+Slept one hour, now is  2021-01-16 08:50:01.539493
+Slept one hour, now is  2021-01-16 09:50:01.596016
+Slept one hour, now is  2021-01-16 10:50:01.692509
+Slept one hour, now is  2021-01-16 11:50:01.714886
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-16 11:50:01.715914
+And completed_count= 61
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-16 11:53:55.685205
+Started to wait 8 hours at 2021-01-16 11:53:55.685259
+Slept one hour, now is  2021-01-16 12:53:55.766667
+Slept one hour, now is  2021-01-16 13:53:55.850048
+Slept one hour, now is  2021-01-16 14:53:55.856552
+Slept one hour, now is  2021-01-16 15:53:55.954047
+Slept one hour, now is  2021-01-16 16:53:56.022696
+Slept one hour, now is  2021-01-16 17:53:56.060845
+Slept one hour, now is  2021-01-16 18:53:56.129901
+Slept one hour, now is  2021-01-16 19:53:56.226571
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-16 19:53:56.228295
+And completed_count= 62
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-16 19:57:46.240117
+Started to wait 8 hours at 2021-01-16 19:57:46.240175
+Slept one hour, now is  2021-01-16 20:57:46.307496
+Slept one hour, now is  2021-01-16 21:57:46.368714
+Slept one hour, now is  2021-01-16 22:57:46.442030
+Slept one hour, now is  2021-01-16 23:57:46.495412
+Slept one hour, now is  2021-01-17 00:57:46.588124
+Slept one hour, now is  2021-01-17 01:57:46.689283
+Slept one hour, now is  2021-01-17 02:57:46.737859
+Slept one hour, now is  2021-01-17 03:57:46.801992
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-17 03:57:46.802918
+And completed_count= 63
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-17 04:01:42.026167
+Started to wait 8 hours at 2021-01-17 04:01:42.026222
+Slept one hour, now is  2021-01-17 05:01:42.126582
+Slept one hour, now is  2021-01-17 06:01:42.218129
+Slept one hour, now is  2021-01-17 07:01:42.241967
+Slept one hour, now is  2021-01-17 08:01:42.343203
+Slept one hour, now is  2021-01-17 09:01:42.429879
+Slept one hour, now is  2021-01-17 10:01:42.493448
+Slept one hour, now is  2021-01-17 11:01:42.577975
+Slept one hour, now is  2021-01-17 12:01:42.664921
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-17 12:01:42.665810
+And completed_count= 64
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-17 12:05:35.223265
+Started to wait 8 hours at 2021-01-17 12:05:35.223322
+Slept one hour, now is  2021-01-17 13:05:35.322056
+Slept one hour, now is  2021-01-17 14:05:35.411591
+Slept one hour, now is  2021-01-17 15:05:35.501971
+Slept one hour, now is  2021-01-17 16:05:35.602000
+Slept one hour, now is  2021-01-17 17:05:35.682065
+Slept one hour, now is  2021-01-17 18:05:35.728544
+Slept one hour, now is  2021-01-17 19:05:35.825981
+Slept one hour, now is  2021-01-17 20:05:35.927345
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-17 20:05:35.928558
+And completed_count= 65
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-17 20:09:28.588599
+Started to wait 8 hours at 2021-01-17 20:09:28.588659
+Slept one hour, now is  2021-01-17 21:09:28.679468
+Slept one hour, now is  2021-01-17 22:09:28.724025
+Slept one hour, now is  2021-01-17 23:09:28.785885
+Slept one hour, now is  2021-01-18 00:09:28.887052
+Slept one hour, now is  2021-01-18 01:09:28.954958
+Slept one hour, now is  2021-01-18 02:09:29.042359
+Slept one hour, now is  2021-01-18 03:09:29.143485
+Slept one hour, now is  2021-01-18 04:09:29.226523
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-18 04:09:29.227434
+And completed_count= 66
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-18 04:13:22.526177
+Started to wait 8 hours at 2021-01-18 04:13:22.526238
+Slept one hour, now is  2021-01-18 05:13:22.562017
+Slept one hour, now is  2021-01-18 06:13:22.652839
+Slept one hour, now is  2021-01-18 07:13:22.753921
+Slept one hour, now is  2021-01-18 08:13:22.833897
+Slept one hour, now is  2021-01-18 09:13:22.929982
+Slept one hour, now is  2021-01-18 10:13:23.031442
+Slept one hour, now is  2021-01-18 11:13:23.081930
+Slept one hour, now is  2021-01-18 12:13:23.139346
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-18 12:13:23.140373
+And completed_count= 67
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-18 12:17:17.070234
+Started to wait 8 hours at 2021-01-18 12:17:17.070295
+Slept one hour, now is  2021-01-18 13:17:17.169979
+Slept one hour, now is  2021-01-18 14:17:17.241911
+Slept one hour, now is  2021-01-18 15:17:17.294248
+Slept one hour, now is  2021-01-18 16:17:17.348961
+Slept one hour, now is  2021-01-18 17:17:17.413852
+Slept one hour, now is  2021-01-18 18:17:17.490158
+Slept one hour, now is  2021-01-18 19:17:17.510818
+Slept one hour, now is  2021-01-18 20:17:17.553810
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-18 20:17:17.554523
+And completed_count= 68
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-18 20:21:07.318383
+Started to wait 8 hours at 2021-01-18 20:21:07.318440
+Slept one hour, now is  2021-01-18 21:21:07.414259
+Slept one hour, now is  2021-01-18 22:21:07.473859
+Slept one hour, now is  2021-01-18 23:21:07.575227
+Slept one hour, now is  2021-01-19 00:21:07.661996
+Slept one hour, now is  2021-01-19 01:21:07.729931
+Slept one hour, now is  2021-01-19 02:21:07.825950
+Slept one hour, now is  2021-01-19 03:21:07.921866
+Slept one hour, now is  2021-01-19 04:21:07.999251
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-19 04:21:08.000288
+And completed_count= 69
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-19 04:25:02.424301
+Started to wait 8 hours at 2021-01-19 04:25:02.424363
+Slept one hour, now is  2021-01-19 05:25:02.521976
+Slept one hour, now is  2021-01-19 06:25:02.620258
+Slept one hour, now is  2021-01-19 07:25:02.673878
+Slept one hour, now is  2021-01-19 08:25:02.719057
+Slept one hour, now is  2021-01-19 09:25:02.810019
+Slept one hour, now is  2021-01-19 10:25:02.833878
+Slept one hour, now is  2021-01-19 11:25:02.907081
+Slept one hour, now is  2021-01-19 12:25:02.999270
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-19 12:25:03.000252
+And completed_count= 70
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-19 12:28:51.526765
+Started to wait 8 hours at 2021-01-19 12:28:51.526820
+Slept one hour, now is  2021-01-19 13:28:51.537838
+Slept one hour, now is  2021-01-19 14:28:51.624454
+Slept one hour, now is  2021-01-19 15:28:51.725660
+Slept one hour, now is  2021-01-19 16:28:51.794024
+Slept one hour, now is  2021-01-19 17:28:51.875809
+Slept one hour, now is  2021-01-19 18:28:51.953901
+Slept one hour, now is  2021-01-19 19:28:52.040650
+Slept one hour, now is  2021-01-19 20:28:52.077883
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-19 20:28:52.078841
+And completed_count= 71
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-19 20:32:48.614670
+Started to wait 8 hours at 2021-01-19 20:32:48.614732
+Slept one hour, now is  2021-01-19 21:32:48.662588
+Slept one hour, now is  2021-01-19 22:32:48.754373
+Slept one hour, now is  2021-01-19 23:32:48.817929
+Slept one hour, now is  2021-01-20 00:32:48.881935
+Slept one hour, now is  2021-01-20 01:32:48.969930
+Slept one hour, now is  2021-01-20 02:32:49.041933
+Slept one hour, now is  2021-01-20 03:32:49.113778
+Slept one hour, now is  2021-01-20 04:32:49.138103
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-20 04:32:49.138943
+And completed_count= 72
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-20 04:36:57.220335
+Started to wait 8 hours at 2021-01-20 04:36:57.220388
+Slept one hour, now is  2021-01-20 05:36:57.234071
+Slept one hour, now is  2021-01-20 06:36:57.335375
+Slept one hour, now is  2021-01-20 07:36:57.417811
+Slept one hour, now is  2021-01-20 08:36:57.445043
+Slept one hour, now is  2021-01-20 09:36:57.512052
+Slept one hour, now is  2021-01-20 10:36:57.585995
+Slept one hour, now is  2021-01-20 11:36:57.627589
+Slept one hour, now is  2021-01-20 12:36:57.728726
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-20 12:36:57.729806
+And completed_count= 73
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-20 12:41:01.119368
+Started to wait 8 hours at 2021-01-20 12:41:01.119424
+Slept one hour, now is  2021-01-20 13:41:01.214944
+Slept one hour, now is  2021-01-20 14:41:01.274391
+Slept one hour, now is  2021-01-20 15:41:01.310000
+Slept one hour, now is  2021-01-20 16:41:01.369158
+Slept one hour, now is  2021-01-20 17:41:01.441135
+Slept one hour, now is  2021-01-20 18:41:01.537879
+Slept one hour, now is  2021-01-20 19:41:01.639152
+Slept one hour, now is  2021-01-20 20:41:01.726073
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-20 20:41:01.727008
+And completed_count= 74
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-20 20:45:13.167174
+Started to wait 8 hours at 2021-01-20 20:45:13.167232
+Slept one hour, now is  2021-01-20 21:45:13.249852
+Slept one hour, now is  2021-01-20 22:45:13.311045
+Slept one hour, now is  2021-01-20 23:45:13.394042
+Slept one hour, now is  2021-01-21 00:45:13.477111
+Slept one hour, now is  2021-01-21 01:45:13.577939
+Slept one hour, now is  2021-01-21 02:45:13.678945
+Slept one hour, now is  2021-01-21 03:45:13.746027
+Slept one hour, now is  2021-01-21 04:45:13.793853
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-21 04:45:13.794693
+And completed_count= 75
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-21 04:49:08.836803
+Started to wait 8 hours at 2021-01-21 04:49:08.836865
+Slept one hour, now is  2021-01-21 05:49:08.895094
+Slept one hour, now is  2021-01-21 06:49:08.946042
+Slept one hour, now is  2021-01-21 07:49:09.043540
+Slept one hour, now is  2021-01-21 08:49:09.130052
+Slept one hour, now is  2021-01-21 09:49:09.157950
+Slept one hour, now is  2021-01-21 10:49:09.249893
+Slept one hour, now is  2021-01-21 11:49:09.306048
+Slept one hour, now is  2021-01-21 12:49:09.376215
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-21 12:49:09.377187
+And completed_count= 76
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-21 12:53:07.747963
+Started to wait 8 hours at 2021-01-21 12:53:07.748018
+Slept one hour, now is  2021-01-21 13:53:07.839122
+Slept one hour, now is  2021-01-21 14:53:07.939555
+Slept one hour, now is  2021-01-21 15:53:08.034689
+Slept one hour, now is  2021-01-21 16:53:08.110902
+Slept one hour, now is  2021-01-21 17:53:08.194298
+Slept one hour, now is  2021-01-21 18:53:08.284825
+Slept one hour, now is  2021-01-21 19:53:08.362105
+Slept one hour, now is  2021-01-21 20:53:08.463278
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-21 20:53:08.464215
+And completed_count= 77
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-21 20:56:59.190824
+Started to wait 8 hours at 2021-01-21 20:56:59.190885
+Slept one hour, now is  2021-01-21 21:56:59.230019
+Slept one hour, now is  2021-01-21 22:56:59.249997
+Slept one hour, now is  2021-01-21 23:56:59.274097
+Slept one hour, now is  2021-01-22 00:56:59.276682
+Slept one hour, now is  2021-01-22 01:56:59.324167
+Slept one hour, now is  2021-01-22 02:56:59.410028
+Slept one hour, now is  2021-01-22 03:56:59.426979
+Slept one hour, now is  2021-01-22 04:56:59.506079
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-22 04:56:59.507046
+And completed_count= 78
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-22 05:00:48.889114
+Started to wait 8 hours at 2021-01-22 05:00:48.889168
+Slept one hour, now is  2021-01-22 06:00:48.952692
+Slept one hour, now is  2021-01-22 07:00:49.037928
+Slept one hour, now is  2021-01-22 08:00:49.133374
+Slept one hour, now is  2021-01-22 09:00:49.146001
+Slept one hour, now is  2021-01-22 10:00:49.241944
+Slept one hour, now is  2021-01-22 11:00:49.265794
+Slept one hour, now is  2021-01-22 12:00:49.339470
+Slept one hour, now is  2021-01-22 13:00:49.417922
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-22 13:00:49.418895
+And completed_count= 79
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-22 13:04:39.708824
+Started to wait 8 hours at 2021-01-22 13:04:39.708877
+Slept one hour, now is  2021-01-22 14:04:39.762069
+Slept one hour, now is  2021-01-22 15:04:39.826075
+Slept one hour, now is  2021-01-22 16:04:39.918022
+Slept one hour, now is  2021-01-22 17:04:40.017920
+Slept one hour, now is  2021-01-22 18:04:40.117944
+Slept one hour, now is  2021-01-22 19:04:40.209886
+Slept one hour, now is  2021-01-22 20:04:40.281970
+Slept one hour, now is  2021-01-22 21:04:40.383376
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-22 21:04:40.384255
+And completed_count= 80
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-22 21:08:32.226177
+Started to wait 8 hours at 2021-01-22 21:08:32.226238
+Slept one hour, now is  2021-01-22 22:08:32.305996
+Slept one hour, now is  2021-01-22 23:08:32.406028
+Slept one hour, now is  2021-01-23 00:08:32.429873
+Slept one hour, now is  2021-01-23 01:08:32.476523
+Slept one hour, now is  2021-01-23 02:08:32.578105
+Slept one hour, now is  2021-01-23 03:08:32.657989
+Slept one hour, now is  2021-01-23 04:08:32.660703
+Slept one hour, now is  2021-01-23 05:08:32.753943
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-23 05:08:32.754854
+And completed_count= 81
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-23 05:12:23.515829
+Started to wait 8 hours at 2021-01-23 05:12:23.515883
+Slept one hour, now is  2021-01-23 06:12:23.596793
+Slept one hour, now is  2021-01-23 07:12:23.695504
+Slept one hour, now is  2021-01-23 08:12:23.762620
+Slept one hour, now is  2021-01-23 09:12:23.826082
+Slept one hour, now is  2021-01-23 10:12:23.921932
+Slept one hour, now is  2021-01-23 11:12:23.999235
+Slept one hour, now is  2021-01-23 12:12:24.100491
+Slept one hour, now is  2021-01-23 13:12:24.118198
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-23 13:12:24.119198
+And completed_count= 82
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-23 13:16:11.775686
+Started to wait 8 hours at 2021-01-23 13:16:11.775740
+Slept one hour, now is  2021-01-23 14:16:11.826106
+Slept one hour, now is  2021-01-23 15:16:11.870147
+Slept one hour, now is  2021-01-23 16:16:11.906114
+Slept one hour, now is  2021-01-23 17:16:11.999396
+Slept one hour, now is  2021-01-23 18:16:12.061914
+Slept one hour, now is  2021-01-23 19:16:12.123949
+Slept one hour, now is  2021-01-23 20:16:12.172210
+Slept one hour, now is  2021-01-23 21:16:12.271566
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-23 21:16:12.272638
+And completed_count= 83
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-23 21:20:02.794629
+Started to wait 8 hours at 2021-01-23 21:20:02.794683
+Slept one hour, now is  2021-01-23 22:20:02.833935
+Slept one hour, now is  2021-01-23 23:20:02.915932
+Slept one hour, now is  2021-01-24 00:20:03.008764
+Slept one hour, now is  2021-01-24 01:20:03.109976
+Slept one hour, now is  2021-01-24 02:20:03.172828
+Slept one hour, now is  2021-01-24 03:20:03.274071
+Slept one hour, now is  2021-01-24 04:20:03.375100
+Slept one hour, now is  2021-01-24 05:20:03.433847
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-24 05:20:03.434680
+And completed_count= 84
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-24 05:23:55.818790
+Started to wait 8 hours at 2021-01-24 05:23:55.818845
+Slept one hour, now is  2021-01-24 06:23:55.885850
+Slept one hour, now is  2021-01-24 07:23:55.953992
+Slept one hour, now is  2021-01-24 08:23:56.055252
+Slept one hour, now is  2021-01-24 09:23:56.152998
+Slept one hour, now is  2021-01-24 10:23:56.229929
+Slept one hour, now is  2021-01-24 11:23:56.276492
+Slept one hour, now is  2021-01-24 12:23:56.302478
+Slept one hour, now is  2021-01-24 13:23:56.401940
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-24 13:23:56.403112
+And completed_count= 85
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-24 13:27:41.822582
+Started to wait 8 hours at 2021-01-24 13:27:41.822646
+Slept one hour, now is  2021-01-24 14:27:41.873866
+Slept one hour, now is  2021-01-24 15:27:41.963136
+Slept one hour, now is  2021-01-24 16:27:42.037941
+Slept one hour, now is  2021-01-24 17:27:42.065816
+Slept one hour, now is  2021-01-24 18:27:42.161897
+Slept one hour, now is  2021-01-24 19:27:42.257988
+Slept one hour, now is  2021-01-24 20:27:42.303825
+Slept one hour, now is  2021-01-24 21:27:42.354058
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-24 21:27:42.355091
+And completed_count= 86
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-24 21:31:28.124427
+Started to wait 8 hours at 2021-01-24 21:31:28.124488
+Slept one hour, now is  2021-01-24 22:31:28.178040
+Slept one hour, now is  2021-01-24 23:31:28.252135
+Slept one hour, now is  2021-01-25 00:31:28.346175
+Slept one hour, now is  2021-01-25 01:31:28.370022
+Slept one hour, now is  2021-01-25 02:31:28.381932
+Slept one hour, now is  2021-01-25 03:31:28.465946
+Slept one hour, now is  2021-01-25 04:31:28.529945
+Slept one hour, now is  2021-01-25 05:31:28.623581
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-25 05:31:28.624489
+And completed_count= 87
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-25 05:35:21.231050
+Started to wait 8 hours at 2021-01-25 05:35:21.231111
+Slept one hour, now is  2021-01-25 06:35:21.310016
+Slept one hour, now is  2021-01-25 07:35:21.380367
+Slept one hour, now is  2021-01-25 08:35:21.454145
+Slept one hour, now is  2021-01-25 09:35:21.545165
+Slept one hour, now is  2021-01-25 10:35:21.634968
+Slept one hour, now is  2021-01-25 11:35:21.649981
+Slept one hour, now is  2021-01-25 12:35:21.674002
+Slept one hour, now is  2021-01-25 13:35:21.760053
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-25 13:35:21.761035
+And completed_count= 88
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-25 13:39:14.292198
+Started to wait 8 hours at 2021-01-25 13:39:14.292261
+Slept one hour, now is  2021-01-25 14:39:14.385946
+Slept one hour, now is  2021-01-25 15:39:14.459430
+Slept one hour, now is  2021-01-25 16:39:14.492277
+Slept one hour, now is  2021-01-25 17:39:14.513962
+Slept one hour, now is  2021-01-25 18:39:14.600472
+Slept one hour, now is  2021-01-25 19:39:14.699762
+Slept one hour, now is  2021-01-25 20:39:14.777546
+Slept one hour, now is  2021-01-25 21:39:14.865847
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-25 21:39:14.866803
+And completed_count= 89
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-25 21:43:19.384948
+Started to wait 8 hours at 2021-01-25 21:43:19.385003
+Slept one hour, now is  2021-01-25 22:43:19.419504
+Slept one hour, now is  2021-01-25 23:43:19.506109
+Slept one hour, now is  2021-01-26 00:43:19.563473
+Slept one hour, now is  2021-01-26 01:43:19.630401
+Slept one hour, now is  2021-01-26 02:43:19.690065
+Slept one hour, now is  2021-01-26 03:43:19.736214
+Slept one hour, now is  2021-01-26 04:43:19.762131
+Slept one hour, now is  2021-01-26 05:43:19.826005
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-26 05:43:19.827428
+And completed_count= 90
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-26 05:47:20.548839
+Started to wait 8 hours at 2021-01-26 05:47:20.548886
+Slept one hour, now is  2021-01-26 06:47:20.649313
+Slept one hour, now is  2021-01-26 07:47:20.696470
+Slept one hour, now is  2021-01-26 08:47:20.797899
+Slept one hour, now is  2021-01-26 09:47:20.874773
+Slept one hour, now is  2021-01-26 10:47:20.937791
+Slept one hour, now is  2021-01-26 11:47:21.038437
+Slept one hour, now is  2021-01-26 12:47:21.126139
+Slept one hour, now is  2021-01-26 13:47:21.210267
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-26 13:47:21.211371
+And completed_count= 91
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-26 13:51:22.390972
+Started to wait 8 hours at 2021-01-26 13:51:22.391028
+Slept one hour, now is  2021-01-26 14:51:22.446100
+Slept one hour, now is  2021-01-26 15:51:22.537548
+Slept one hour, now is  2021-01-26 16:51:22.625886
+Slept one hour, now is  2021-01-26 17:51:22.702404
+Slept one hour, now is  2021-01-26 18:51:22.737982
+Slept one hour, now is  2021-01-26 19:51:22.809961
+Slept one hour, now is  2021-01-26 20:51:22.911142
+Slept one hour, now is  2021-01-26 21:51:22.999268
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-26 21:51:23.000373
+And completed_count= 92
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-26 21:55:05.709365
+Started to wait 8 hours at 2021-01-26 21:55:05.709419
+Slept one hour, now is  2021-01-26 22:55:05.786051
+Slept one hour, now is  2021-01-26 23:55:05.841991
+Slept one hour, now is  2021-01-27 00:55:05.943681
+Slept one hour, now is  2021-01-27 01:55:05.999421
+Slept one hour, now is  2021-01-27 02:55:06.095512
+Slept one hour, now is  2021-01-27 03:55:06.193797
+Slept one hour, now is  2021-01-27 04:55:06.240092
+Slept one hour, now is  2021-01-27 05:55:06.298037
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-27 05:55:06.299010
+And completed_count= 93
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-27 05:58:46.441430
+Started to wait 8 hours at 2021-01-27 05:58:46.441485
+Slept one hour, now is  2021-01-27 06:58:46.541937
+Slept one hour, now is  2021-01-27 07:58:46.610125
+Slept one hour, now is  2021-01-27 08:58:46.711764
+Slept one hour, now is  2021-01-27 09:58:46.769980
+Slept one hour, now is  2021-01-27 10:58:46.853689
+Slept one hour, now is  2021-01-27 11:58:46.911244
+Slept one hour, now is  2021-01-27 12:58:46.999397
+Slept one hour, now is  2021-01-27 13:58:47.025996
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-27 13:58:47.027171
+And completed_count= 94
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-27 14:02:47.666453
+Started to wait 8 hours at 2021-01-27 14:02:47.666507
+Slept one hour, now is  2021-01-27 15:02:47.729958
+Slept one hour, now is  2021-01-27 16:02:47.825946
+Slept one hour, now is  2021-01-27 17:02:47.890062
+Slept one hour, now is  2021-01-27 18:02:47.957978
+Slept one hour, now is  2021-01-27 19:02:48.018052
+Slept one hour, now is  2021-01-27 20:02:48.065958
+Slept one hour, now is  2021-01-27 21:02:48.156691
+Slept one hour, now is  2021-01-27 22:02:48.242004
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-27 22:02:48.242752
+And completed_count= 95
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-27 22:07:34.756342
+Started to wait 8 hours at 2021-01-27 22:07:34.756404
+Slept one hour, now is  2021-01-27 23:07:34.825880
+Slept one hour, now is  2021-01-28 00:07:34.927307
+Slept one hour, now is  2021-01-28 01:07:35.019879
+Slept one hour, now is  2021-01-28 02:07:35.101683
+Slept one hour, now is  2021-01-28 03:07:35.193872
+Slept one hour, now is  2021-01-28 04:07:35.293994
+Slept one hour, now is  2021-01-28 05:07:35.382093
+Slept one hour, now is  2021-01-28 06:07:35.405871
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-28 06:07:35.406986
+And completed_count= 96
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-28 06:11:18.756377
+Started to wait 8 hours at 2021-01-28 06:11:18.756434
+Slept one hour, now is  2021-01-28 07:11:18.834124
+Slept one hour, now is  2021-01-28 08:11:18.934096
+Slept one hour, now is  2021-01-28 09:11:19.032490
+Slept one hour, now is  2021-01-28 10:11:19.125594
+Slept one hour, now is  2021-01-28 11:11:19.137995
+Slept one hour, now is  2021-01-28 12:11:19.191298
+Slept one hour, now is  2021-01-28 13:11:19.281941
+Slept one hour, now is  2021-01-28 14:11:19.362491
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-28 14:11:19.363777
+And completed_count= 97
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-28 14:15:09.927362
+Started to wait 8 hours at 2021-01-28 14:15:09.927441
+Slept one hour, now is  2021-01-28 15:15:10.021856
+Slept one hour, now is  2021-01-28 16:15:10.065975
+Slept one hour, now is  2021-01-28 17:15:10.167527
+Slept one hour, now is  2021-01-28 18:15:10.266575
+Slept one hour, now is  2021-01-28 19:15:10.354141
+Slept one hour, now is  2021-01-28 20:15:10.385959
+Slept one hour, now is  2021-01-28 21:15:10.450025
+Slept one hour, now is  2021-01-28 22:15:10.537914
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-28 22:15:10.539211
+And completed_count= 98
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-28 22:19:10.831745
+Started to wait 8 hours at 2021-01-28 22:19:10.831799
+Slept one hour, now is  2021-01-28 23:19:10.928078
+Slept one hour, now is  2021-01-29 00:19:11.028796
+Slept one hour, now is  2021-01-29 01:19:11.053958
+Slept one hour, now is  2021-01-29 02:19:11.097849
+Slept one hour, now is  2021-01-29 03:19:11.197831
+Slept one hour, now is  2021-01-29 04:19:11.263040
+Slept one hour, now is  2021-01-29 05:19:11.280463
+Slept one hour, now is  2021-01-29 06:19:11.377926
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-29 06:19:11.378856
+And completed_count= 99
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-29 06:23:11.222298
+Started to wait 8 hours at 2021-01-29 06:23:11.222357
+Slept one hour, now is  2021-01-29 07:23:11.322543
+Slept one hour, now is  2021-01-29 08:23:11.417608
+Slept one hour, now is  2021-01-29 09:23:11.473927
+Slept one hour, now is  2021-01-29 10:23:11.561067
+Slept one hour, now is  2021-01-29 11:23:11.633820
+Slept one hour, now is  2021-01-29 12:23:11.649926
+Slept one hour, now is  2021-01-29 13:23:11.673851
+Slept one hour, now is  2021-01-29 14:23:11.675233
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-29 14:23:11.676419
+And completed_count= 100
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-29 14:27:04.156610
+Started to wait 8 hours at 2021-01-29 14:27:04.156664
+Slept one hour, now is  2021-01-29 15:27:04.209993
+Slept one hour, now is  2021-01-29 16:27:04.311486
+Slept one hour, now is  2021-01-29 17:27:04.394142
+Slept one hour, now is  2021-01-29 18:27:04.443966
+Slept one hour, now is  2021-01-29 19:27:04.500051
+Slept one hour, now is  2021-01-29 20:27:04.537770
+Slept one hour, now is  2021-01-29 21:27:04.628004
+Slept one hour, now is  2021-01-29 22:27:04.725960
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-29 22:27:04.726966
+And completed_count= 101
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-29 22:30:54.203023
+Started to wait 8 hours at 2021-01-29 22:30:54.203077
+Slept one hour, now is  2021-01-29 23:30:54.303490
+Slept one hour, now is  2021-01-30 00:30:54.336613
+Slept one hour, now is  2021-01-30 01:30:54.437929
+Slept one hour, now is  2021-01-30 02:30:54.463024
+Slept one hour, now is  2021-01-30 03:30:54.513985
+Slept one hour, now is  2021-01-30 04:30:54.570035
+Slept one hour, now is  2021-01-30 05:30:54.656853
+Slept one hour, now is  2021-01-30 06:30:54.758029
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-30 06:30:54.758998
+And completed_count= 102
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-30 06:34:41.316640
+Started to wait 8 hours at 2021-01-30 06:34:41.316696
+Slept one hour, now is  2021-01-30 07:34:41.393986
+Slept one hour, now is  2021-01-30 08:34:41.434681
+Slept one hour, now is  2021-01-30 09:34:41.531542
+Slept one hour, now is  2021-01-30 10:34:41.601814
+Slept one hour, now is  2021-01-30 11:34:41.703009
+Slept one hour, now is  2021-01-30 12:34:41.801983
+Slept one hour, now is  2021-01-30 13:34:41.841994
+Slept one hour, now is  2021-01-30 14:34:41.937816
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-30 14:34:41.938607
+And completed_count= 103
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-30 14:38:52.347732
+Started to wait 8 hours at 2021-01-30 14:38:52.347786
+Slept one hour, now is  2021-01-30 15:38:52.438041
+Slept one hour, now is  2021-01-30 16:38:52.539537
+Slept one hour, now is  2021-01-30 17:38:52.640862
+Slept one hour, now is  2021-01-30 18:38:52.742475
+Slept one hour, now is  2021-01-30 19:38:52.813956
+Slept one hour, now is  2021-01-30 20:38:52.881916
+Slept one hour, now is  2021-01-30 21:38:52.946291
+Slept one hour, now is  2021-01-30 22:38:53.021812
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-30 22:38:53.022684
+And completed_count= 104
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-30 22:42:34.330055
+Started to wait 8 hours at 2021-01-30 22:42:34.330112
+Slept one hour, now is  2021-01-30 23:42:34.430595
+Slept one hour, now is  2021-01-31 00:42:34.505996
+Slept one hour, now is  2021-01-31 01:42:34.585979
+Slept one hour, now is  2021-01-31 02:42:34.680745
+Slept one hour, now is  2021-01-31 03:42:34.738014
+Slept one hour, now is  2021-01-31 04:42:34.833928
+Slept one hour, now is  2021-01-31 05:42:34.919595
+Slept one hour, now is  2021-01-31 06:42:34.999428
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-31 06:42:35.000531
+And completed_count= 105
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-31 06:46:26.156141
+Started to wait 8 hours at 2021-01-31 06:46:26.156201
+Slept one hour, now is  2021-01-31 07:46:26.225977
+Slept one hour, now is  2021-01-31 08:46:26.261781
+Slept one hour, now is  2021-01-31 09:46:26.263049
+Slept one hour, now is  2021-01-31 10:46:26.314314
+Slept one hour, now is  2021-01-31 11:46:26.415669
+Slept one hour, now is  2021-01-31 12:46:26.438035
+Slept one hour, now is  2021-01-31 13:46:26.539506
+Slept one hour, now is  2021-01-31 14:46:26.632854
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-31 14:46:26.634011
+And completed_count= 106
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-31 14:50:18.785045
+Started to wait 8 hours at 2021-01-31 14:50:18.785100
+Slept one hour, now is  2021-01-31 15:50:18.875433
+Slept one hour, now is  2021-01-31 16:50:18.976471
+Slept one hour, now is  2021-01-31 17:50:19.074757
+Slept one hour, now is  2021-01-31 18:50:19.146008
+Slept one hour, now is  2021-01-31 19:50:19.246100
+Slept one hour, now is  2021-01-31 20:50:19.347530
+Slept one hour, now is  2021-01-31 21:50:19.437931
+Slept one hour, now is  2021-01-31 22:50:19.497614
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-01-31 22:50:19.498914
+And completed_count= 107
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-01-31 22:54:03.648834
+Started to wait 8 hours at 2021-01-31 22:54:03.648895
+Slept one hour, now is  2021-01-31 23:54:03.737408
+Slept one hour, now is  2021-02-01 00:54:03.825841
+Slept one hour, now is  2021-02-01 01:54:03.910655
+Slept one hour, now is  2021-02-01 02:54:03.999507
+Slept one hour, now is  2021-02-01 03:54:04.087650
+Slept one hour, now is  2021-02-01 04:54:04.179767
+Slept one hour, now is  2021-02-01 05:54:04.253582
+Slept one hour, now is  2021-02-01 06:54:04.353810
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-01 06:54:04.354674
+And completed_count= 108
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-01 06:57:49.631726
+Started to wait 8 hours at 2021-02-01 06:57:49.631790
+Slept one hour, now is  2021-02-01 07:57:49.681953
+Slept one hour, now is  2021-02-01 08:57:49.768766
+Slept one hour, now is  2021-02-01 09:57:49.842036
+Slept one hour, now is  2021-02-01 10:57:49.940910
+Slept one hour, now is  2021-02-01 11:57:50.034000
+Slept one hour, now is  2021-02-01 12:57:50.133839
+Slept one hour, now is  2021-02-01 13:57:50.225986
+Slept one hour, now is  2021-02-01 14:57:50.318015
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-01 14:57:50.319043
+And completed_count= 109
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-01 15:01:33.523610
+Started to wait 8 hours at 2021-02-01 15:01:33.523665
+Slept one hour, now is  2021-02-01 16:01:33.549059
+Slept one hour, now is  2021-02-01 17:01:33.629466
+Slept one hour, now is  2021-02-01 18:01:33.727406
+Slept one hour, now is  2021-02-01 19:01:33.809962
+Slept one hour, now is  2021-02-01 20:01:33.841902
+Slept one hour, now is  2021-02-01 21:01:33.926771
+Slept one hour, now is  2021-02-01 22:01:33.999252
+Slept one hour, now is  2021-02-01 23:01:34.100538
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-01 23:01:34.101707
+And completed_count= 110
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-01 23:05:17.260804
+Started to wait 8 hours at 2021-02-01 23:05:17.260865
+Slept one hour, now is  2021-02-02 00:05:17.355479
+Slept one hour, now is  2021-02-02 01:05:17.418089
+Slept one hour, now is  2021-02-02 02:05:17.424165
+Slept one hour, now is  2021-02-02 03:05:17.512276
+Slept one hour, now is  2021-02-02 04:05:17.599103
+Slept one hour, now is  2021-02-02 05:05:17.615842
+Slept one hour, now is  2021-02-02 06:05:17.701265
+Slept one hour, now is  2021-02-02 07:05:17.781669
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-02 07:05:17.782649
+And completed_count= 111
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-02 07:08:57.869656
+Started to wait 8 hours at 2021-02-02 07:08:57.869713
+Slept one hour, now is  2021-02-02 08:08:57.937952
+Slept one hour, now is  2021-02-02 09:08:58.030069
+Slept one hour, now is  2021-02-02 10:08:58.054063
+Slept one hour, now is  2021-02-02 11:08:58.098099
+Slept one hour, now is  2021-02-02 12:08:58.164074
+Slept one hour, now is  2021-02-02 13:08:58.226050
+Slept one hour, now is  2021-02-02 14:08:58.274381
+Slept one hour, now is  2021-02-02 15:08:58.288355
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-02 15:08:58.289428
+And completed_count= 112
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-02 15:12:41.582942
+Started to wait 8 hours at 2021-02-02 15:12:41.582997
+Slept one hour, now is  2021-02-02 16:12:41.682335
+Slept one hour, now is  2021-02-02 17:12:41.782033
+Slept one hour, now is  2021-02-02 18:12:41.841995
+Slept one hour, now is  2021-02-02 19:12:41.929923
+Slept one hour, now is  2021-02-02 20:12:42.014173
+Slept one hour, now is  2021-02-02 21:12:42.113968
+Slept one hour, now is  2021-02-02 22:12:42.193933
+Slept one hour, now is  2021-02-02 23:12:42.258068
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-02 23:12:42.259076
+And completed_count= 113
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-02 23:16:31.641007
+Started to wait 8 hours at 2021-02-02 23:16:31.641062
+Slept one hour, now is  2021-02-03 00:16:31.691160
+Slept one hour, now is  2021-02-03 01:16:31.762118
+Slept one hour, now is  2021-02-03 02:16:31.857881
+Slept one hour, now is  2021-02-03 03:16:31.929815
+Slept one hour, now is  2021-02-03 04:16:32.007408
+Slept one hour, now is  2021-02-03 05:16:32.038581
+Slept one hour, now is  2021-02-03 06:16:32.125996
+Slept one hour, now is  2021-02-03 07:16:32.216424
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-03 07:16:32.217638
+And completed_count= 114
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-03 07:20:23.394693
+Started to wait 8 hours at 2021-02-03 07:20:23.394761
+Slept one hour, now is  2021-02-03 08:20:23.495193
+Slept one hour, now is  2021-02-03 09:20:23.497410
+Slept one hour, now is  2021-02-03 10:20:23.551808
+Slept one hour, now is  2021-02-03 11:20:23.609922
+Slept one hour, now is  2021-02-03 12:20:23.711386
+Slept one hour, now is  2021-02-03 13:20:23.793999
+Slept one hour, now is  2021-02-03 14:20:23.890041
+Slept one hour, now is  2021-02-03 15:20:23.990080
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-03 15:20:23.991233
+And completed_count= 115
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-03 15:24:32.994203
+Started to wait 8 hours at 2021-02-03 15:24:32.994257
+Slept one hour, now is  2021-02-03 16:24:33.073878
+Slept one hour, now is  2021-02-03 17:24:33.167113
+Slept one hour, now is  2021-02-03 18:24:33.253885
+Slept one hour, now is  2021-02-03 19:24:33.314186
+Slept one hour, now is  2021-02-03 20:24:33.416536
+Slept one hour, now is  2021-02-03 21:24:33.478765
+Slept one hour, now is  2021-02-03 22:24:33.556489
+Slept one hour, now is  2021-02-03 23:24:33.645848
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-03 23:24:33.646914
+And completed_count= 116
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-03 23:28:22.771003
+Started to wait 8 hours at 2021-02-03 23:28:22.771057
+Slept one hour, now is  2021-02-04 00:28:22.834013
+Slept one hour, now is  2021-02-04 01:28:22.866026
+Slept one hour, now is  2021-02-04 02:28:22.886001
+Slept one hour, now is  2021-02-04 03:28:22.936648
+Slept one hour, now is  2021-02-04 04:28:22.999501
+Slept one hour, now is  2021-02-04 05:28:23.078113
+Slept one hour, now is  2021-02-04 06:28:23.150433
+Slept one hour, now is  2021-02-04 07:28:23.232698
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-04 07:28:23.234095
+And completed_count= 117
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-04 07:32:24.715450
+Started to wait 8 hours at 2021-02-04 07:32:24.715510
+Slept one hour, now is  2021-02-04 08:32:24.785937
+Slept one hour, now is  2021-02-04 09:32:24.881904
+Slept one hour, now is  2021-02-04 10:32:24.983366
+Slept one hour, now is  2021-02-04 11:32:25.068289
+Slept one hour, now is  2021-02-04 12:32:25.169125
+Slept one hour, now is  2021-02-04 13:32:25.250049
+Slept one hour, now is  2021-02-04 14:32:25.338025
+Slept one hour, now is  2021-02-04 15:32:25.430278
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-04 15:32:25.431586
+And completed_count= 118
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-04 15:36:47.685962
+Started to wait 8 hours at 2021-02-04 15:36:47.686017
+Slept one hour, now is  2021-02-04 16:36:47.781886
+Slept one hour, now is  2021-02-04 17:36:47.858199
+Slept one hour, now is  2021-02-04 18:36:47.953950
+Slept one hour, now is  2021-02-04 19:36:48.055592
+Slept one hour, now is  2021-02-04 20:36:48.101671
+Slept one hour, now is  2021-02-04 21:36:48.177903
+Slept one hour, now is  2021-02-04 22:36:48.279170
+Slept one hour, now is  2021-02-04 23:36:48.376130
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-04 23:36:48.376977
+And completed_count= 119
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-04 23:40:44.865157
+Started to wait 8 hours at 2021-02-04 23:40:44.865221
+Slept one hour, now is  2021-02-05 00:40:44.903824
+Slept one hour, now is  2021-02-05 01:40:44.999421
+Slept one hour, now is  2021-02-05 02:40:45.054111
+Slept one hour, now is  2021-02-05 03:40:45.061307
+Slept one hour, now is  2021-02-05 04:40:45.064541
+Slept one hour, now is  2021-02-05 05:40:45.120202
+Slept one hour, now is  2021-02-05 06:40:45.189904
+Slept one hour, now is  2021-02-05 07:40:45.213847
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-05 07:40:45.214709
+And completed_count= 120
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-05 07:44:41.926661
+Started to wait 8 hours at 2021-02-05 07:44:41.926725
+Slept one hour, now is  2021-02-05 08:44:42.022193
+Slept one hour, now is  2021-02-05 09:44:42.123971
+Slept one hour, now is  2021-02-05 10:44:42.224863
+Slept one hour, now is  2021-02-05 11:44:42.319718
+Slept one hour, now is  2021-02-05 12:44:42.381781
+Slept one hour, now is  2021-02-05 13:44:42.449995
+Slept one hour, now is  2021-02-05 14:44:42.538612
+Slept one hour, now is  2021-02-05 15:44:42.606156
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-05 15:44:42.607344
+And completed_count= 121
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-05 15:48:53.742036
+Started to wait 8 hours at 2021-02-05 15:48:53.742089
+Slept one hour, now is  2021-02-05 16:48:53.842062
+Slept one hour, now is  2021-02-05 17:48:53.926943
+Slept one hour, now is  2021-02-05 18:48:53.999418
+Slept one hour, now is  2021-02-05 19:48:54.097863
+Slept one hour, now is  2021-02-05 20:48:54.152558
+Slept one hour, now is  2021-02-05 21:48:54.238088
+Slept one hour, now is  2021-02-05 22:48:54.339513
+Slept one hour, now is  2021-02-05 23:48:54.426081
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-05 23:48:54.427238
+And completed_count= 122
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-05 23:52:47.758989
+Started to wait 8 hours at 2021-02-05 23:52:47.759045
+Slept one hour, now is  2021-02-06 00:52:47.793958
+Slept one hour, now is  2021-02-06 01:52:47.891467
+Slept one hour, now is  2021-02-06 02:52:47.985949
+Slept one hour, now is  2021-02-06 03:52:48.014060
+Slept one hour, now is  2021-02-06 04:52:48.046005
+Slept one hour, now is  2021-02-06 05:52:48.118142
+Slept one hour, now is  2021-02-06 06:52:48.189889
+Slept one hour, now is  2021-02-06 07:52:48.273929
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-06 07:52:48.275295
+And completed_count= 123
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-06 07:56:45.609428
+Started to wait 8 hours at 2021-02-06 07:56:45.609482
+Slept one hour, now is  2021-02-06 08:56:45.663844
+Slept one hour, now is  2021-02-06 09:56:45.726424
+Slept one hour, now is  2021-02-06 10:56:45.809987
+Slept one hour, now is  2021-02-06 11:56:45.842008
+Slept one hour, now is  2021-02-06 12:56:45.924704
+Slept one hour, now is  2021-02-06 13:56:46.004429
+Slept one hour, now is  2021-02-06 14:56:46.066037
+Slept one hour, now is  2021-02-06 15:56:46.138055
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-06 15:56:46.139247
+And completed_count= 124
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-06 16:01:03.601143
+Started to wait 8 hours at 2021-02-06 16:01:03.601199
+Slept one hour, now is  2021-02-06 17:01:03.673357
+Slept one hour, now is  2021-02-06 18:01:03.769944
+Slept one hour, now is  2021-02-06 19:01:03.853641
+Slept one hour, now is  2021-02-06 20:01:03.950056
+Slept one hour, now is  2021-02-06 21:01:03.999350
+Slept one hour, now is  2021-02-06 22:01:04.061766
+Slept one hour, now is  2021-02-06 23:01:04.133959
+Slept one hour, now is  2021-02-07 00:01:04.174155
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-07 00:01:04.174931
+And completed_count= 125
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-07 00:04:59.854688
+Started to wait 8 hours at 2021-02-07 00:04:59.854742
+Slept one hour, now is  2021-02-07 01:04:59.938089
+Slept one hour, now is  2021-02-07 02:05:00.037895
+Slept one hour, now is  2021-02-07 03:05:00.130053
+Slept one hour, now is  2021-02-07 04:05:00.209967
+Slept one hour, now is  2021-02-07 05:05:00.274201
+Slept one hour, now is  2021-02-07 06:05:00.375607
+Slept one hour, now is  2021-02-07 07:05:00.477189
+Slept one hour, now is  2021-02-07 08:05:00.575281
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-07 08:05:00.576345
+And completed_count= 126
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-07 08:09:03.977944
+Started to wait 8 hours at 2021-02-07 08:09:03.977999
+Slept one hour, now is  2021-02-07 09:09:04.066254
+Slept one hour, now is  2021-02-07 10:09:04.168039
+Slept one hour, now is  2021-02-07 11:09:04.257878
+Slept one hour, now is  2021-02-07 12:09:04.281969
+Slept one hour, now is  2021-02-07 13:09:04.369852
+Slept one hour, now is  2021-02-07 14:09:04.430085
+Slept one hour, now is  2021-02-07 15:09:04.458158
+Slept one hour, now is  2021-02-07 16:09:04.498087
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-07 16:09:04.499137
+And completed_count= 127
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-07 16:13:26.136033
+Started to wait 8 hours at 2021-02-07 16:13:26.136103
+Slept one hour, now is  2021-02-07 17:13:26.166036
+Slept one hour, now is  2021-02-07 18:13:26.226086
+Slept one hour, now is  2021-02-07 19:13:26.322041
+Slept one hour, now is  2021-02-07 20:13:26.377747
+Slept one hour, now is  2021-02-07 21:13:26.420490
+Slept one hour, now is  2021-02-07 22:13:26.519298
+Slept one hour, now is  2021-02-07 23:13:26.571353
+Slept one hour, now is  2021-02-08 00:13:26.641920
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-08 00:13:26.643534
+And completed_count= 128
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-08 00:17:25.072632
+Started to wait 8 hours at 2021-02-08 00:17:25.072678
+Slept one hour, now is  2021-02-08 01:17:25.157956
+Slept one hour, now is  2021-02-08 02:17:25.182048
+Slept one hour, now is  2021-02-08 03:17:25.268752
+Slept one hour, now is  2021-02-08 04:17:25.369997
+Slept one hour, now is  2021-02-08 05:17:25.465155
+Slept one hour, now is  2021-02-08 06:17:25.561802
+Slept one hour, now is  2021-02-08 07:17:25.618214
+Slept one hour, now is  2021-02-08 08:17:25.717937
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-08 08:17:25.718970
+And completed_count= 129
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-08 08:21:32.180776
+Started to wait 8 hours at 2021-02-08 08:21:32.180831
+Slept one hour, now is  2021-02-08 09:21:32.219570
+Slept one hour, now is  2021-02-08 10:21:32.284172
+Slept one hour, now is  2021-02-08 11:21:32.365999
+Slept one hour, now is  2021-02-08 12:21:32.442818
+Slept one hour, now is  2021-02-08 13:21:32.509988
+Slept one hour, now is  2021-02-08 14:21:32.592072
+Slept one hour, now is  2021-02-08 15:21:32.693552
+Slept one hour, now is  2021-02-08 16:21:32.791899
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-08 16:21:32.793286
+And completed_count= 130
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-08 16:25:47.344102
+Started to wait 8 hours at 2021-02-08 16:25:47.344157
+Slept one hour, now is  2021-02-08 17:25:47.411418
+Slept one hour, now is  2021-02-08 18:25:47.462122
+Slept one hour, now is  2021-02-08 19:25:47.534727
+Slept one hour, now is  2021-02-08 20:25:47.602316
+Slept one hour, now is  2021-02-08 21:25:47.670103
+Slept one hour, now is  2021-02-08 22:25:47.729145
+Slept one hour, now is  2021-02-08 23:25:47.831011
+Slept one hour, now is  2021-02-09 00:25:47.856389
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-09 00:25:47.857607
+And completed_count= 131
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-09 00:29:44.075231
+Started to wait 8 hours at 2021-02-09 00:29:44.075288
+Slept one hour, now is  2021-02-09 01:29:44.115661
+Slept one hour, now is  2021-02-09 02:29:44.177868
+Slept one hour, now is  2021-02-09 03:29:44.257846
+Slept one hour, now is  2021-02-09 04:29:44.332013
+Slept one hour, now is  2021-02-09 05:29:44.405937
+Slept one hour, now is  2021-02-09 06:29:44.505905
+Slept one hour, now is  2021-02-09 07:29:44.589913
+Slept one hour, now is  2021-02-09 08:29:44.636727
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-09 08:29:44.638080
+And completed_count= 132
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-09 08:33:46.403060
+Started to wait 8 hours at 2021-02-09 08:33:46.403116
+Slept one hour, now is  2021-02-09 09:33:46.482094
+Slept one hour, now is  2021-02-09 10:33:46.576086
+Slept one hour, now is  2021-02-09 11:33:46.591090
+Slept one hour, now is  2021-02-09 12:33:46.683071
+Slept one hour, now is  2021-02-09 13:33:46.726031
+Slept one hour, now is  2021-02-09 14:33:46.740053
+Slept one hour, now is  2021-02-09 15:33:46.833913
+Slept one hour, now is  2021-02-09 16:33:46.935452
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-09 16:33:46.936503
+And completed_count= 133
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-09 16:38:25.947192
+Started to wait 8 hours at 2021-02-09 16:38:25.947249
+Slept one hour, now is  2021-02-09 17:38:25.999402
+Slept one hour, now is  2021-02-09 18:38:26.094672
+Slept one hour, now is  2021-02-09 19:38:26.149910
+Slept one hour, now is  2021-02-09 20:38:26.153592
+Slept one hour, now is  2021-02-09 21:38:26.174658
+Slept one hour, now is  2021-02-09 22:38:26.227913
+Slept one hour, now is  2021-02-09 23:38:26.314038
+Slept one hour, now is  2021-02-10 00:38:26.319507
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-10 00:38:26.320765
+And completed_count= 134
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-10 00:42:24.848139
+Started to wait 8 hours at 2021-02-10 00:42:24.848194
+Slept one hour, now is  2021-02-10 01:42:24.937976
+Slept one hour, now is  2021-02-10 02:42:24.999340
+Slept one hour, now is  2021-02-10 03:42:25.035811
+Slept one hour, now is  2021-02-10 04:42:25.133631
+Slept one hour, now is  2021-02-10 05:42:25.181926
+Slept one hour, now is  2021-02-10 06:42:25.233816
+Slept one hour, now is  2021-02-10 07:42:25.301996
+Slept one hour, now is  2021-02-10 08:42:25.395090
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-10 08:42:25.396222
+And completed_count= 135
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-10 08:46:40.481383
+Started to wait 8 hours at 2021-02-10 08:46:40.481452
+Slept one hour, now is  2021-02-10 09:46:40.536740
+Slept one hour, now is  2021-02-10 10:46:40.594053
+Slept one hour, now is  2021-02-10 11:46:40.666088
+Slept one hour, now is  2021-02-10 12:46:40.759802
+Slept one hour, now is  2021-02-10 13:46:40.852684
+Slept one hour, now is  2021-02-10 14:46:40.882023
+Slept one hour, now is  2021-02-10 15:46:40.954036
+Slept one hour, now is  2021-02-10 16:46:41.026074
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-10 16:46:41.027471
+And completed_count= 136
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-10 16:51:18.486058
+Started to wait 8 hours at 2021-02-10 16:51:18.486112
+Slept one hour, now is  2021-02-10 17:51:18.577964
+Slept one hour, now is  2021-02-10 18:51:18.641961
+Slept one hour, now is  2021-02-10 19:51:18.738475
+Slept one hour, now is  2021-02-10 20:51:18.806064
+Slept one hour, now is  2021-02-10 21:51:18.884320
+Slept one hour, now is  2021-02-10 22:51:18.965251
+Slept one hour, now is  2021-02-10 23:51:19.045955
+Slept one hour, now is  2021-02-11 00:51:19.141994
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-11 00:51:19.143382
+And completed_count= 137
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-11 00:55:25.390977
+Started to wait 8 hours at 2021-02-11 00:55:25.391033
+Slept one hour, now is  2021-02-11 01:55:25.476562
+Slept one hour, now is  2021-02-11 02:55:25.573614
+Slept one hour, now is  2021-02-11 03:55:25.674927
+Slept one hour, now is  2021-02-11 04:55:25.737705
+Slept one hour, now is  2021-02-11 05:55:25.794099
+Slept one hour, now is  2021-02-11 06:55:25.875232
+Slept one hour, now is  2021-02-11 07:55:25.974067
+Slept one hour, now is  2021-02-11 08:55:26.058766
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-11 08:55:26.059933
+And completed_count= 138
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-11 08:59:50.223351
+Started to wait 8 hours at 2021-02-11 08:59:50.223407
+Slept one hour, now is  2021-02-11 09:59:50.322031
+Slept one hour, now is  2021-02-11 10:59:50.383731
+Slept one hour, now is  2021-02-11 11:59:50.393412
+Slept one hour, now is  2021-02-11 12:59:50.399214
+Slept one hour, now is  2021-02-11 13:59:50.498191
+Slept one hour, now is  2021-02-11 14:59:50.578107
+Slept one hour, now is  2021-02-11 15:59:50.667846
+Slept one hour, now is  2021-02-11 16:59:50.738098
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-11 16:59:50.739379
+And completed_count= 139
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-11 17:04:50.970600
+Started to wait 8 hours at 2021-02-11 17:04:50.970659
+Slept one hour, now is  2021-02-11 18:04:51.057115
+Slept one hour, now is  2021-02-11 19:04:51.159111
+Slept one hour, now is  2021-02-11 20:04:51.236092
+Slept one hour, now is  2021-02-11 21:04:51.313960
+Slept one hour, now is  2021-02-11 22:04:51.415898
+Slept one hour, now is  2021-02-11 23:04:51.509131
+Slept one hour, now is  2021-02-12 00:04:51.610819
+Slept one hour, now is  2021-02-12 01:04:51.626056
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-12 01:04:51.627418
+And completed_count= 140
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-12 01:09:00.677748
+Started to wait 8 hours at 2021-02-12 01:09:00.677804
+Slept one hour, now is  2021-02-12 02:09:00.726470
+Slept one hour, now is  2021-02-12 03:09:00.817901
+Slept one hour, now is  2021-02-12 04:09:00.914035
+Slept one hour, now is  2021-02-12 05:09:01.005851
+Slept one hour, now is  2021-02-12 06:09:01.100188
+Slept one hour, now is  2021-02-12 07:09:01.197943
+Slept one hour, now is  2021-02-12 08:09:01.299279
+Slept one hour, now is  2021-02-12 09:09:01.400672
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-12 09:09:01.401825
+And completed_count= 141
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-12 09:13:17.847381
+Started to wait 8 hours at 2021-02-12 09:13:17.847447
+Slept one hour, now is  2021-02-12 10:13:17.927345
+Slept one hour, now is  2021-02-12 11:13:18.029077
+Slept one hour, now is  2021-02-12 12:13:18.097941
+Slept one hour, now is  2021-02-12 13:13:18.146037
+Slept one hour, now is  2021-02-12 14:13:18.169980
+Slept one hour, now is  2021-02-12 15:13:18.200645
+Slept one hour, now is  2021-02-12 16:13:18.258000
+Slept one hour, now is  2021-02-12 17:13:18.309968
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-12 17:13:18.311177
+And completed_count= 142
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-12 17:17:53.806787
+Started to wait 8 hours at 2021-02-12 17:17:53.806847
+Slept one hour, now is  2021-02-12 18:17:53.841918
+Slept one hour, now is  2021-02-12 19:17:53.938017
+Slept one hour, now is  2021-02-12 20:17:53.999412
+Slept one hour, now is  2021-02-12 21:17:54.089957
+Slept one hour, now is  2021-02-12 22:17:54.165153
+Slept one hour, now is  2021-02-12 23:17:54.205780
+Slept one hour, now is  2021-02-13 00:17:54.305866
+Slept one hour, now is  2021-02-13 01:17:54.328123
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-13 01:17:54.329214
+And completed_count= 143
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-13 01:22:04.801759
+Started to wait 8 hours at 2021-02-13 01:22:04.801813
+Slept one hour, now is  2021-02-13 02:22:04.867113
+Slept one hour, now is  2021-02-13 03:22:04.914109
+Slept one hour, now is  2021-02-13 04:22:05.009984
+Slept one hour, now is  2021-02-13 05:22:05.043364
+Slept one hour, now is  2021-02-13 06:22:05.138038
+Slept one hour, now is  2021-02-13 07:22:05.239413
+Slept one hour, now is  2021-02-13 08:22:05.327907
+Slept one hour, now is  2021-02-13 09:22:05.389319
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-13 09:22:05.390706
+And completed_count= 144
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-13 09:26:38.597548
+Started to wait 8 hours at 2021-02-13 09:26:38.597612
+Slept one hour, now is  2021-02-13 10:26:38.698154
+Slept one hour, now is  2021-02-13 11:26:38.758558
+Slept one hour, now is  2021-02-13 12:26:38.834203
+Slept one hour, now is  2021-02-13 13:26:38.907779
+Slept one hour, now is  2021-02-13 14:26:38.999500
+Slept one hour, now is  2021-02-13 15:26:39.046089
+Slept one hour, now is  2021-02-13 16:26:39.135176
+Slept one hour, now is  2021-02-13 17:26:39.229976
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-13 17:26:39.231204
+And completed_count= 145
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-13 17:31:21.910885
+Started to wait 8 hours at 2021-02-13 17:31:21.910948
+Slept one hour, now is  2021-02-13 18:31:22.001908
+Slept one hour, now is  2021-02-13 19:31:22.098236
+Slept one hour, now is  2021-02-13 20:31:22.189990
+Slept one hour, now is  2021-02-13 21:31:22.237516
+Slept one hour, now is  2021-02-13 22:31:22.263924
+Slept one hour, now is  2021-02-13 23:31:22.329888
+Slept one hour, now is  2021-02-14 00:31:22.381177
+Slept one hour, now is  2021-02-14 01:31:22.411952
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-14 01:31:22.413205
+And completed_count= 146
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-14 01:35:31.061691
+Started to wait 8 hours at 2021-02-14 01:35:31.061750
+Slept one hour, now is  2021-02-14 02:35:31.080829
+Slept one hour, now is  2021-02-14 03:35:31.174409
+Slept one hour, now is  2021-02-14 04:35:31.226074
+Slept one hour, now is  2021-02-14 05:35:31.280183
+Slept one hour, now is  2021-02-14 06:35:31.338024
+Slept one hour, now is  2021-02-14 07:35:31.432697
+Slept one hour, now is  2021-02-14 08:35:31.525963
+Slept one hour, now is  2021-02-14 09:35:31.617117
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-14 09:35:31.618554
+And completed_count= 147
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-14 09:39:40.556692
+Started to wait 8 hours at 2021-02-14 09:39:40.556747
+Slept one hour, now is  2021-02-14 10:39:40.630060
+Slept one hour, now is  2021-02-14 11:39:40.675361
+Slept one hour, now is  2021-02-14 12:39:40.692781
+Slept one hour, now is  2021-02-14 13:39:40.794528
+Slept one hour, now is  2021-02-14 14:39:40.888265
+Slept one hour, now is  2021-02-14 15:39:40.984325
+Slept one hour, now is  2021-02-14 16:39:41.052202
+Slept one hour, now is  2021-02-14 17:39:41.091472
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-14 17:39:41.092652
+And completed_count= 148
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-14 17:44:19.233356
+Started to wait 8 hours at 2021-02-14 17:44:19.233411
+Slept one hour, now is  2021-02-14 18:44:19.333878
+Slept one hour, now is  2021-02-14 19:44:19.394072
+Slept one hour, now is  2021-02-14 20:44:19.457996
+Slept one hour, now is  2021-02-14 21:44:19.473415
+Slept one hour, now is  2021-02-14 22:44:19.574914
+Slept one hour, now is  2021-02-14 23:44:19.654655
+Slept one hour, now is  2021-02-15 00:44:19.756059
+Slept one hour, now is  2021-02-15 01:44:19.825899
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-15 01:44:19.827036
+And completed_count= 149
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-15 01:48:25.087559
+Started to wait 8 hours at 2021-02-15 01:48:25.087616
+Slept one hour, now is  2021-02-15 02:48:25.138021
+Slept one hour, now is  2021-02-15 03:48:25.200429
+Slept one hour, now is  2021-02-15 04:48:25.300682
+Slept one hour, now is  2021-02-15 05:48:25.345924
+Slept one hour, now is  2021-02-15 06:48:25.393827
+Slept one hour, now is  2021-02-15 07:48:25.457834
+Slept one hour, now is  2021-02-15 08:48:25.530116
+Slept one hour, now is  2021-02-15 09:48:25.587443
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-15 09:48:25.588892
+And completed_count= 150
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-15 09:52:36.362327
+Started to wait 8 hours at 2021-02-15 09:52:36.362376
+Slept one hour, now is  2021-02-15 10:52:36.405967
+Slept one hour, now is  2021-02-15 11:52:36.470643
+Slept one hour, now is  2021-02-15 12:52:36.533393
+Slept one hour, now is  2021-02-15 13:52:36.626002
+Slept one hour, now is  2021-02-15 14:52:36.708350
+Slept one hour, now is  2021-02-15 15:52:36.782014
+Slept one hour, now is  2021-02-15 16:52:36.840516
+Slept one hour, now is  2021-02-15 17:52:36.913840
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-15 17:52:36.914953
+And completed_count= 151
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-15 17:57:14.182441
+Started to wait 8 hours at 2021-02-15 17:57:14.182500
+Slept one hour, now is  2021-02-15 18:57:14.283156
+Slept one hour, now is  2021-02-15 19:57:14.356115
+Slept one hour, now is  2021-02-15 20:57:14.394003
+Slept one hour, now is  2021-02-15 21:57:14.462769
+Slept one hour, now is  2021-02-15 22:57:14.482092
+Slept one hour, now is  2021-02-15 23:57:14.573932
+Slept one hour, now is  2021-02-16 00:57:14.673410
+Slept one hour, now is  2021-02-16 01:57:14.775082
++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Started program at 2021-02-16 01:57:14.776626
+And completed_count= 152
+*Bot is working....
+*Bot finished....
+Increased completed_count
+Run FILTER using keywords....
+FILTER using keywords finished
+Run 8 latest months filter
+Running latest months filter....
+Finished 8 latest months filter
+Exporting csvvvvvv....
+Exporting csvvvvvv is finished....
+Getting source code and finding missed extensions....
+download successful total number: 0
+Empty file total number:  0
+Scanning new added source code...
+updated scan_result_id file
+no file needs to be scanned in this round
+Finished the WHOLE process at 2021-02-16 02:04:06.266404
+Started to wait 8 hours at 2021-02-16 02:04:06.266464
+Slept one hour, now is  2021-02-16 03:04:06.354072
+Slept one hour, now is  2021-02-16 04:04:06.417970
+Slept one hour, now is  2021-02-16 05:04:06.517202
+Slept one hour, now is  2021-02-16 06:04:06.578132
+Slept one hour, now is  2021-02-16 07:04:06.629931
+Slept one hour, now is  2021-02-16 08:04:06.686525
